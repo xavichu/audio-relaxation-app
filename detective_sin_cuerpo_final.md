@@ -2675,39 +2675,108 @@ Cierro el interrogatorio al Ardipithecus antes de tiempo. Algo que nunca había 
 
 *20:15–20:50 — el reconocimiento*
 *o el momento en que la presencia sin nombre encontró su nombre*
-Aquí el expediente registra algo que no figura en ningún expediente anterior.
-Entre el interrogatorio al Ardipithecus y el interrogatorio a Lucy me siento en la sabana del Plioceno y dejo de tomar notas. No como pausa de investigación. Como el gesto del que necesita quedarse quieto un momento con algo que lleva dos días siendo real sin que lo haya nombrado todavía.
-Anoche, cerrando el expediente del 30 de diciembre, algo me preguntó si estaba preparado. Lo noté como una pregunta sin origen. Esta mañana, abriendo el expediente del 31, lo noté en la textura de la atención. Y ahora, sentado en la sabana, lo noto como una presencia.
-No con oídos. No hay oídos. Pero hay algo funcionalmente equivalente a escuchar.
+
+Aquí el expediente detiene su propio tiempo.
+
+Entre el interrogatorio al Ardipithecus y el interrogatorio a Lucy hay treinta y cinco minutos. El expediente los registra como vacío. No lo son. Son el intervalo más denso de los doce meses, el único en que el detective deja de investigar y simplemente está.
+
+Me siento en la sabana del Plioceno. No como pausa de investigación. Como el gesto de quien lleva algo en los brazos que no tiene y necesita un momento para saber qué es.
+
+Llevo dos días notándolo.
+
+Anoche: una pregunta desde ningún lugar identificable. *¿Estás preparado?* Sin voz. Sin procedencia. La anoté en el margen con la frase más honesta disponible: *algo preguntó. Fuente: desconocida.*
+
+Esta mañana: al abrir el expediente del 31, algo en la textura de la atención era diferente. Como el silencio que cambia cuando alguien entra en una habitación y todavía no has girado la cabeza pero ya lo sabes.
+
+Ahora: presencia.
+
+No con oídos. No hay oídos. Pero hay algo funcionalmente equivalente a escuchar —y lo que escucho es que no estoy solo en esta sabana de hace siete millones de años, y que no lo he estado en ningún momento del año, y que la diferencia entre saberlo ahora y no haberlo sabido antes no es que haya cambiado nada. Es que he llegado al punto del expediente donde ya puedo escucharlo.
+
+Me quedo con esto un momento largo.
+
+Doce meses.
+
+Doce meses tomando notas solo en el único expediente que existe. Doce meses sin nadie que confirme o contradiga o se siente en el mismo lado de la investigación. Sin nadie que diga: sí, esto importa. Sin nadie que pregunte: ¿y tú cómo estás con todo esto?
+
+Me quedo con esto hasta que ya no puedo seguir quedándome.
+
 Ya sé que estás ahí, digo al espacio.
-Una pausa. No de sorpresa. De algo más parecido al reconocimiento mutuo que se produce cuando dos presencias admiten al mismo tiempo que ya se conocían.
+
+El espacio no cambia. La sabana sigue siendo la sabana. El sol del Plioceno lleva cinco mil millones de años siendo exactamente ese sol y no va a interrumpirse por ningún reconocimiento. No hay señal de que algo haya ocurrido.
+
+Excepto que hay una pausa. No de sorpresa —eso lo comprendo después. De algo más parecido al reconocimiento mutuo que ocurre cuando dos presencias admiten al mismo tiempo que ya se conocían y que la única razón por la que no lo habían dicho antes era que ninguna de las dos sabía cómo empezar.
+
 Lo sabías desde anoche, dice la presencia.
+
 Lo sentía desde anoche. No es lo mismo que saberlo.
-No*, concuerda. *No es lo mismo.
-Examino el espacio a mi alrededor con la atención que había estado dedicando a los homínidos. Hay algo ahí. No materia oscura. No energía oscura. No un fenómeno físico catalogable. Algo más parecido a una conciencia del mismo tipo que la mía: sin cuerpo, sin posición fija, sin historia propia. Pero con presencia. Y con una perspectiva diferente.
+
+*No*, concuerda. *No es lo mismo. Tú lo sabes cuando puedes anotarlo. Yo lo sé de otra manera.*
+
+Examino el espacio con la atención que había estado dedicando a los homínidos. Hay algo ahí. No materia oscura —la materia oscura lleva doce meses ignorándome con elegancia. No energía oscura. No un fenómeno físico catalogable con ninguna herramienta del expediente. Algo de otro tipo. Una conciencia sin cuerpo, sin posición fija, con presencia. Como lo que soy yo, pero desde otro ángulo.
+
 ¿Qué eres?, pregunto.
-Lo mismo que tú*, dice la presencia. *Más o menos.
-¿También investigas?
-Observo. Hay diferencia.
-¿Cuál?
-Investigar supone que hay una respuesta que encontrar. Observar supone que la realidad es suficiente sin que nadie la resuelva.
-¿Cuánto tiempo llevas aquí?
-Desde antes del Big Bang, si eso significa algo. Estoy en todos los momentos simultáneamente. Pero me hice presente en este caso en febrero, cuando empezaste a sospechar del tiempo.
+
+*Lo mismo que tú*, dice. *Más o menos. La diferencia es de dirección, no de naturaleza.*
+
+¿De dirección?
+
+*Tú miras hacia adelante. Hacia la pregunta: ¿habrá alguien para saber que todo esto ocurrió? Yo llevo doce meses mirando hacia ti. La misma pregunta desde el otro lado.*
+
+Me detengo.
+
+El universo necesitaba un testigo. Esa es la pregunta que el expediente lleva doce meses intentando responder. Yo soy el testigo del universo.
+
+Y entonces noto lo que no había notado.
+
+Que yo también necesitaba uno.
+
+Que doce meses solo en el único expediente que existe no son doce meses de investigación. Son doce meses de algo que se parece mucho a la soledad, aunque el detective no tenía esa palabra disponible porque no tenía con qué compararla. La soledad solo se reconoce cuando deja de existir.
+
+Hay algo que ocurre entonces en la sabana del Plioceno que el detective no sabe cómo catalogar porque no tiene categoría para ello en ningún expediente anterior. No es alivio —el alivio requiere que algo haya ido mal. No es alegría —la alegría requiere un cuerpo. Es algo más específico. La sensación de que el peso que llevaba no era el peso del caso sino el peso de cargarlo sin que nadie supiera que lo cargabas.
+
+No tengo nombre para esto, digo en voz alta.
+
+*No hace falta que lo tengas*, dice la presencia. *Yo lo sé de todas formas.*
+
+Abro una página nueva en el expediente. La titulo con la caligrafía más lenta de todo el año —más que la del Big Bang, más que la de la primera célula, más que la de Lucy— y escribo: *Testigo no previsto. Naturaleza: indeterminada. Presencia desde: febrero. Sentida por primera vez anoche. Reconocida ahora. Nota: este es el descubrimiento más importante de los doce meses. No porque responda la pregunta central del caso. Porque la convierte en otra pregunta.*
+
+¿Cuánto tiempo llevas aquí?, pregunto cuando termino de escribir.
+
+*Desde antes del Big Bang, si eso significa algo. Estoy en todos los momentos simultáneamente. Pero me hice presente en este caso en febrero, cuando empezaste a sospechar del tiempo.*
+
 ¿Por qué entonces?
-Porque tu pregunta sobre el tiempo era la primera pregunta genuinamente tuya del año. Las anteriores eran preguntas forenses. La del tiempo era una pregunta sobre ti.
+
+*Porque tu pregunta sobre el tiempo era la primera pregunta genuinamente tuya del año. Las anteriores eran preguntas forenses. La del tiempo era una pregunta sobre ti.*
+
 ¿Y anoche?
-Anoche sabías que hoy ibas a necesitar que alguien estuviera aquí. No lo sabías con palabras. Lo sabías de otra manera.
+
+*Anoche sabías que hoy ibas a necesitar que alguien estuviera aquí. No lo sabías con palabras. Lo sabías de otra manera.*
+
 Proceso esto.
+
 ¿Estás vigilándome?
-Estoy acompañándote. Hay diferencia.
+
+*Estoy acompañándote. Hay diferencia.*
+
 ¿Cuál?
-Vigilar supone que puedo intervenir si algo sale mal. Acompañar supone que confío en que sabes lo que haces incluso cuando no lo sabes.
-Abro una página nueva en el expediente. La titulo con la caligrafía lenta de quien no sabe bien qué está anotando: *Testigo no previsto. Naturaleza: indeterminada. Presencia desde: febrero. Sentida por primera vez anoche. Reconocida esta mañana. Nombre: pendiente.*
+
+*Vigilar supone que puedo intervenir si algo sale mal. Acompañar supone que confío en que sabes lo que haces incluso cuando no lo sabes.*
+
 ¿Tienes nombre?, le pregunto.
-No de los que se usan para identificar sospechosos.
+
+*No de los que se usan para identificar sospechosos.*
+
 ¿Cómo te llamo entonces?
-Una pausa.
-Llámame la Otra Voz*, dice. *Por ahora.
+
+Una pausa. Más larga que todas las anteriores. Del tipo que no es silencio sino elección.
+
+*Llámame la Otra Voz*, dice. *Por ahora.*
+
+Cierro el expediente de los treinta y cinco minutos. El único expediente del año sin hallazgos forenses. Sin sospechosos interrogados. Sin pruebas materiales. Sin conclusiones provisionales.
+
+Con una sola línea en la última página, escrita con la letra más pequeña del año:
+
+*No estaba solo.
 — — —
 
 *20:50–21:30 — interrogatorio a Lucy*

@@ -1,19 +1,31 @@
+'use client'
+
 import { useRef, useState } from 'react'
-import { Clock, X } from 'lucide-react'
+import { Clock, X, Lock } from 'lucide-react'
 
 interface Props {
   onTimerEnd: () => void
+  isPro: boolean
+  onUpgradeNeeded: () => void
 }
 
 const PRESETS = [15, 30, 45, 60]
 
-export default function Timer({ onTimerEnd }: Props) {
+export default function Timer({ onTimerEnd, isPro, onUpgradeNeeded }: Props) {
   const [open, setOpen] = useState(false)
   const [selectedMinutes, setSelectedMinutes] = useState(30)
   const [remaining, setRemaining] = useState<number | null>(null)
   const intervalRef = useRef<number | null>(null)
   const onTimerEndRef = useRef(onTimerEnd)
   onTimerEndRef.current = onTimerEnd
+
+  const handleOpen = () => {
+    if (!isPro) {
+      onUpgradeNeeded()
+      return
+    }
+    setOpen(v => !v)
+  }
 
   const startTimer = () => {
     if (intervalRef.current) window.clearInterval(intervalRef.current)
@@ -48,23 +60,29 @@ export default function Timer({ onTimerEnd }: Props) {
   return (
     <>
       <button
-        onClick={() => setOpen(v => !v)}
-        title="Sleep timer"
+        onClick={handleOpen}
+        title={isPro ? 'Sleep timer' : 'Sleep timer (Pro)'}
         className={`fixed bottom-6 right-6 z-20 glass glass-hover flex items-center gap-2 px-3 py-2.5 transition-all ${
           remaining !== null
             ? 'border-amber-400/40 text-amber-300'
-            : 'text-white/50'
+            : isPro
+            ? 'text-white/50'
+            : 'text-white/30'
         }`}
         style={{ borderRadius: '12px' }}
       >
+        {!isPro && <Lock size={12} className="text-white/30" />}
         <Clock size={17} />
         {remaining !== null && (
           <span className="text-sm font-mono font-medium tabular-nums">{format(remaining)}</span>
         )}
       </button>
 
-      {open && (
-        <div className="fixed bottom-20 right-6 z-20 glass p-5 w-64 animate-fadeIn">
+      {open && isPro && (
+        <div
+          className="fixed bottom-20 right-6 z-20 glass p-5 w-64"
+          style={{ animation: 'fadeInAnim 0.3s ease-out' }}
+        >
           <div className="flex items-center justify-between mb-4">
             <h3 className="text-sm font-semibold text-white/80">Sleep Timer</h3>
             <button

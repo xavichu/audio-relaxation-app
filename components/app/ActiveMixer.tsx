@@ -1,5 +1,7 @@
+'use client'
+
 import { X, Square } from 'lucide-react'
-import type { ActiveSound, Sound } from '../types'
+import type { ActiveSound, Sound } from '../../types/index'
 
 interface ActiveSoundDetail extends ActiveSound {
   sound: Sound
@@ -14,10 +16,16 @@ interface Props {
 
 export default function ActiveMixer({ activeSounds, onVolumeChange, onStop, onRemove }: Props) {
   return (
-    <div className="glass p-5 animate-fadeIn">
+    <div className="glass p-5" style={{ animation: 'fadeInAnim 0.3s ease-out' }}>
       <div className="flex items-center justify-between mb-4">
         <h3 className="text-sm font-semibold text-white/80 flex items-center gap-2">
-          <span className="w-2 h-2 rounded-full bg-violet-400 inline-block" style={{ boxShadow: '0 0 6px rgba(167,139,250,0.8)', animation: 'pulse 2s ease-in-out infinite' }} />
+          <span
+            className="w-2 h-2 rounded-full bg-violet-400 inline-block"
+            style={{
+              boxShadow: '0 0 6px rgba(167,139,250,0.8)',
+              animation: 'pulse 2s ease-in-out infinite',
+            }}
+          />
           Now Playing
           <span className="text-white/30 font-normal">({activeSounds.length})</span>
         </h3>

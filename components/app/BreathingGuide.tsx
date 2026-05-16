@@ -1,6 +1,7 @@
+'use client'
+
 import { useEffect, useRef, useState } from 'react'
 
-// 4-4-6-2 box breathing cycle (16 seconds total)
 const PHASES = [
   { label: 'Inhale', duration: 4 },
   { label: 'Hold', duration: 4 },
@@ -38,15 +39,16 @@ export default function BreathingGuide() {
     intervalRef.current = window.setInterval(() => {
       setTicks(t => (t + 1) % TOTAL_TICKS)
     }, 100)
-    return () => { if (intervalRef.current) window.clearInterval(intervalRef.current) }
+    return () => {
+      if (intervalRef.current) window.clearInterval(intervalRef.current)
+    }
   }, [running])
 
   const { label, secondsLeft, scale } = getPhaseInfo(ticks)
-
   const phaseIndex = label === 'Inhale' ? 0 : ticks / 10 < 8 ? 1 : ticks / 10 < 14 ? 2 : 3
 
   return (
-    <div className="glass p-6 animate-fadeIn">
+    <div className="glass p-6" style={{ animation: 'fadeInAnim 0.3s ease-out' }}>
       <div className="flex items-center justify-between mb-5">
         <div>
           <h3 className="text-sm font-semibold text-white/80">Breathing Guide</h3>
@@ -61,7 +63,6 @@ export default function BreathingGuide() {
       </div>
 
       <div className="flex flex-col items-center">
-        {/* Animated circle */}
         <div className="relative flex items-center justify-center w-36 h-36 mb-5">
           {[0, 1, 2].map(i => (
             <div
@@ -90,7 +91,6 @@ export default function BreathingGuide() {
           {secondsLeft}
         </p>
 
-        {/* Phase indicators */}
         <div className="flex items-center gap-5">
           {PHASES.map((p, i) => (
             <div key={p.label + i} className="flex flex-col items-center gap-1.5">

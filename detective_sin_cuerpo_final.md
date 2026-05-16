@@ -4119,35 +4119,17 @@ La pregunta es esta:
 ¿Qué vas a dejar en la pared?
 — — —
 
-No hay respuesta en el expediente.
-La respuesta es el lector.
-La respuesta es lo que el lector hace cuando cierra el libro y vuelve al mundo que el libro documentó. Si mira el cielo de otra manera. Si trata a alguien con más cuidado. Si recuerda que el oxígeno que respira lo fabricaron bacterias hace dos mil quinientos millones de años y que eso, en lugar de hacerlo sentir pequeño, lo hace sentir parte de algo que tardó trece mil ochocientos millones de años en llegar hasta él.
-Si recuerda que el Gran Filtro no es un evento astronómico. Es la suma de las elecciones pequeñas. Es lo que hace hoy. Y mañana. Y el día después.
-Si recuerda que es el último eslabón de una cadena que empezó en el Big Bang y que lo que haga con ese lugar en la cadena es la única pregunta que el universo no puede responder por él.
-— — —
-
-El año cósmico termina.
-No con una explosión. No con un clic satisfactorio de caso cerrado. Con el silencio específico de algo que se entrega: el detective que pone el expediente en las manos del lector y da un paso atrás y confía en que el lector sabe qué hacer con él.
-Porque el lector sabe.
-Trece mil ochocientos millones de años lo prepararon para esto.
-— — —
-
 Miro el universo por última vez desde el lugar sin posición fija donde los detectives sin cuerpo observan las escenas.
 Las galaxias siguen expandiéndose. Las estrellas siguen encendiéndose en los brazos espirales de galaxias que nunca tendrán nombre. En algún rincón ordinario de un brazo espiral ordinario de una galaxia ordinaria, un planeta azul donde algo extraordinario lleva trescientos mil años haciéndose preguntas.
 Y en ese planeta, en este momento, el lector.
 Que es la respuesta a todas las preguntas del caso.
 Que no lo sabe todavía.
 Que está a punto de saberlo.
-La Otra Voz se queda.
-Yo también.
-El caso sigue abierto.
-Como debe ser.
 — — —
 
 — Archivos del Detective sin Cuerpo
 Expediente Nº 22: 23:59:59.999–24:00:00 · Estado: ENTREGADO
-Última anotación: el expediente llegó donde siempre iba. Al lector que preguntará qué hace ahora. Esa pregunta no tiene respuesta en estas páginas. Tiene respuesta en lo que el lector hace cuando las cierra. Lo cual es, compruebo al final de doce meses de universo, lo que el caso buscaba desde el principio.
-El caso no se cierra.
+Última anotación: el expediente llegó donde siempre iba. Al lector que preguntará qué hace ahora. Esa pregunta no tiene respuesta en estas páginas. Tiene respuesta en lo que el lector hace cuando las cierra. El caso no se cierra.
 Se continúa.
 — El Detective sin Cuerpo
 31 de diciembre, 24:00:00

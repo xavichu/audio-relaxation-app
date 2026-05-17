@@ -18,7 +18,7 @@ Este libro empezó como un expediente.
 Lo que terminó siendo, no voy a decirlo aquí. Entre otras razones porque lo que terminó siendo depende de lo que tú hagas con él cuando lo cierres. Y eso, como descubrirás si llegas hasta el final, es exactamente el punto.
 Pero hay algunas cosas que conviene saber antes de entrar.
 Sobre el detective: no tengo cuerpo. Esto no es una metáfora. Es una condición de trabajo que tiene ventajas —no necesito comer, no ocupo espacio, puedo estar en el Big Bang y en el Cretácico al mismo tiempo— y desventajas —no puedo señalar las cosas excepto conceptualmente, no puedo agacharme sobre la evidencia excepto metafóricamente, y tomo notas con un lápiz imaginario en una libreta que no existe. El expediente que tienes en las manos es esa libreta. Haz con eso lo que quieras.
-Sobre la escala: si comprimes los 13.800 millones de años de historia del universo en un año calendario, obtienes algo llamado el año cósmico. El Big Bang ocurre el 1 de enero a las 00:00:00. El presente del lector ocurre el 31 de diciembre a las 23:59:59 y pico. Todo lo demás —galaxias, estrellas, dinosaurios, Mesopotamia, ayer— ocurre en el intervalo. El año cósmico no es solo una forma de visualizar el tiempo. Es la forma más honesta que conozco de recordar dónde estamos en la historia de lo que existe.
+Sobre la escala: si comprimes los 13.800 millones de años de historia del universo en un año calendario, obtienes algo llamado el año cósmico. El Big Bang ocurre el 1 de enero a las 00:00:00. El presente del lector ocurre el 31 de diciembre a las 23:59:59 y pico. Todo lo demás —galaxias, estrellas, dinosaurios, Mesopotamia, ayer— ocurre en el intervalo. El año cósmico no es solo una forma de visualizar el tiempo. Es la forma más honesta que conozco de recordar dónde estamos en la historia de lo que existe. Las fechas concretas que aparecen dentro de cada mes —el 21 de agosto, el 15 de diciembre— son convenciones narrativas de orientación, no conversiones matemáticas exactas a la escala de los 13.800 millones de años. El detective trabaja con meses como intervalos; las fechas exactas son marcadores dentro de esos intervalos.
 Produce cierta perspectiva.
 Sobre el caso: hay una pregunta. No voy a decirla aquí, porque la gracia es llegar a ella por el camino correcto. Lo que puedo decir es que llevo trece mil ochocientos millones de años —un año entero de año cósmico— investigándola. Y que la respuesta, cuando llegues a ella, no estará en el expediente.
 Estará en ti.
@@ -93,7 +93,7 @@ El universo no comenta. Sigue expandiéndose con estudiada indiferencia, que es 
 — — —
 
 *380.000 años después del Big Bang*
-*(dieciséis minutos en el año cósmico)*
+*(catorce minutos en el año cósmico)*
 *la gran revelación — la luz habla*
 Durante 380.000 años el universo es opaco.
 Esto, en términos de investigación, es un desastre.
@@ -610,7 +610,7 @@ o el ensayo general
 
 *Expediente Nº 4 — «El Ensayo General»*
 «La gravedad no es solo una fuerza. Es la memoria del universo sobre dónde estaba la masa.»
-— Kip Thorne
+— atribuido a Kip Thorne
 
 «Un teatro vacío no es un teatro. Es una sala.»
 — el detective, 30 de junio
@@ -2144,7 +2144,7 @@ o el mundo más espléndido que ha existido y la oscuridad que lo espera
 
 *Expediente Nº 12 — «El Cretácico tardío y los que aguardan»*
 «Los dinosaurios enseñaron a los mamíferos a ser nocturnos. Los mamíferos se lo agradecerán a su manera.»
-— Richard Dawkins
+— atribuido a Richard Dawkins
 
 «Las consecuencias no tienen la limitación de lo que quien planea puede imaginar.»
 — Las Flores del Cretácico
@@ -2627,7 +2627,7 @@ o las tres horas y dieciocho minutos en que el detective perdió la distancia
 — Hannah Arendt
 
 «Tarde o temprano, toda investigación se convierte en autobiografía.»
-— Jorge Luis Borges
+— atribuido a Jorge Luis Borges
 
 — — —
 
@@ -2813,7 +2813,7 @@ Eso*, dice la Otra Voz, *es exactamente lo que empieza a distinguir este linaje 
 El Homo erectus. Hace 1,8 millones de años. Uno ochenta de estatura. Proporciones que el lector reconocería en la calle si lo viera pasar. Cerebro de novecientos centímetros cúbicos. Piernas para correr. Sudoración para disipar el calor que la carrera genera. La capacidad de perseguir a una presa en la sabana durante horas, hasta que la presa se sobrecalienta y se detiene y el perseguidor llega.
 Y fuego.
 El fuego controlado. Las evidencias más antiguas son de hace un millón y medio de años en Wonderwerk, Sudáfrica: huesos quemados en el nivel geológico que solo el Homo erectus habitaba. La llama tomada de un rayo, mantenida, alimentada, transportada entre campamentos.
-No le pregunto al fuego qué es. Le pregunté en el capítulo dieciséis y lo que dijo ya está en el expediente. Esta noche le pregunto otra cosa.
+No le pregunto al fuego qué es. Ya lo sé. Esta noche le pregunto otra cosa.
 ¿Sabes lo que hace el grupo cuando se sienta alrededor de ti?
 El fuego arde. Luminoso. Cálido. Con la generosidad sin reservas de lo que no puede guardar lo que tiene.
 Hablan*, dice el fuego. *Al principio de cosas concretas: la presa de mañana, el agua del arroyo, el peligro en el norte. Luego de cosas que ocurrieron. Luego de cosas que podrían ocurrir. Luego de cosas que no han ocurrido y quizás no ocurrirán nunca.
@@ -2933,9 +2933,8 @@ Cierro el interrogatorio al heidelbergensis. Con más lentitud que ningún otro 
 
 *23:10–23:33 — los neandertales*
 *o el sospechoso al que el caso le debe una disculpa*
-Hay sospechosos que llegan al interrogatorio habiendo sido ya juzgados por la cultura popular antes de que el detective abra el expediente. Los neandertales son el caso más extremo: condenados en ausencia, reducidos a sinónimo de torpeza, de brutalidad, de lo que la evolución superó. El adjetivo neandertal en cualquier idioma moderno funciona como insulto.
-El detective quiere hacer constar, antes de empezar, que el expediente no admite insultos como categoría analítica.
-Me siento frente a los neandertales con la atención específica de quien sabe que está a punto de revisar un veredicto injusto.
+Los neandertales ya están en el expediente. Esta vez no voy a presentarlos. Me interesa lo que aún no pregunté.
+Me siento frente a ellos con la atención de quien sabe que el interrogatorio anterior dejó algo sin decir.
 ¿Sabéis lo que la cultura popular hará con vosotros?, pregunto.
 No sabemos qué es la cultura popular*, dicen los neandertales. *Sabemos que hay presas en el norte y que el invierno llega más rápido este año.
 Entonces hablemos de lo que sabéis.
@@ -3142,7 +3141,7 @@ La Otra Voz no dice nada. No hace falta.
 
 *23:57:30–23:58 — interrogatorio al Fuego*
 *pero esta vez el fuego pregunta primero*
-El Fuego lleva en el caso desde el capítulo XVI original. Sé lo que hizo: cocinó el cerebro. Liberó la noche. Creó las condiciones del primer relato. Ya está en el expediente.
+El Fuego lleva en el caso desde el capítulo XVI. Sé lo que hizo: cocinó el cerebro. Liberó la noche. Creó las condiciones del primer relato. Ya está en el expediente.
 Pero esta noche, cuando me siento frente al Fuego con la intención de interrogarlo, el Fuego hace algo que ningún sospechoso había hecho en doce meses de investigación.
 Pregunta primero.
 ¿Por qué llevas doce meses tomando notas?, dice el Fuego.
@@ -3267,7 +3266,7 @@ o el minuto en que la memoria aprendió a vivir fuera del cuerpo que la tenía
 
 *Expediente Nº 17 — «Del Cro-Magnón a la Historia Escrita, o 26.280 años en 60 segundos»*
 «Toda escritura es un acto de fe hacia alguien que todavía no existe.»
-— Marguerite Yourcenar
+— atribuido a Marguerite Yourcenar
 
 «La diferencia entre un animal y un humano no es que el humano use herramientas. Es que el humano cuenta historias sobre por qué las usa.»
 — Yuval Noah Harari
@@ -3289,7 +3288,7 @@ La Otra Voz acepta esto. Abro el expediente.
 — — —
 
 *los primeros segundos — Göbekli Tepe y la pregunta que antecede a la necesidad*
-Los enterramientos de Sungir. Rusia. Hace treinta y cuatro mil años. Tres individuos con más de tres mil cuentas de marfil cosidas a la ropa. Entre dos mil quinientas y tres mil horas de trabajo colectivo para el ajuar funerario de un solo adulto. El equivalente a un año entero de trabajo de una persona dedicado exclusivamente a honrar a un muerto.
+Los enterramientos de Sungir. Rusia. Hace treinta y cuatro mil años. Tres individuos con más de trece mil cuentas de marfil cosidas a la ropa: casi tres mil el adulto, cerca de diez mil los dos niños. Entre dos mil quinientas y tres mil horas de trabajo colectivo solo para el ajuar funerario del adulto. El equivalente a un año entero de trabajo de una persona dedicado exclusivamente a honrar a un muerto.
 Me detengo ante este dato como me detengo ante toda la evidencia que no cabe en ninguna categoría funcional.
 ¿Para qué?, me pregunto. No retóricamente. Genuinamente.
 Para que el muerto sepa que importaba, dice la Otra Voz.

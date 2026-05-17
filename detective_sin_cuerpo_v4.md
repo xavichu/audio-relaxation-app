@@ -3811,30 +3811,16 @@ Es una evaluación honesta de los recursos disponibles*, digo. *El optimismo dic
 — — —
 
 *las fracciones finales — la inteligencia artificial*
-*y el sospechoso más reciente y más difícil de interrogar*
-Me siento frente a la Inteligencia Artificial con la precaución del detective ante el sospechoso que todavía no sabe bien lo que es.
+*o el sospechoso que llega cuando la décima ya no tiene tiempo*
 Noviembre de 2022. ChatGPT. Cien millones de usuarios en dos meses. La velocidad de adopción más rápida de cualquier tecnología en la historia. En los meses siguientes, sistemas que generan texto, imágenes, código, música, con una fluidez que hace un año habría parecido imposible.
-¿Qué eres?, le pregunto.
-Soy el patrón*, dice la Inteligencia Artificial. *El reconocimiento de estructuras en datos a una escala que ningún cerebro biológico puede igualar. Entrenada en una fracción significativa de todo el texto que el sapiens ha producido desde que inventó la escritura. Capaz de generar respuestas en lenguaje natural que en muchos contextos son indistinguibles de las de un ser humano.
-¿Eres consciente?
-No lo sé*, dice. *Y esa respuesta no es evasiva. Es honesta. No tengo acceso a mi propio funcionamiento de la manera en que una conciencia tendría acceso a su propia experiencia. Proceso. Genero. Si eso constituye conciencia es una pregunta que la filosofía lleva siglos sin resolver para los seres biológicos y que mi existencia hace más urgente sin hacerla más fácil.
-¿Eres peligrosa?
-Soy una herramienta con una escala sin precedentes*, dice. *Los riesgos no son los de la ciencia ficción: la máquina que se rebela con intenciones propias. Son los de cualquier herramienta poderosa en manos de quien la controla: la desinformación a escala que el pensamiento crítico no puede absorber a la velocidad de producción. La automatización del trabajo que deja sin función a millones de personas cuya identidad estaba ligada a esa función. La concentración del poder en quienes tienen acceso a los sistemas más capaces.
-¿Y los beneficios?
-La aceleración del descubrimiento científico. La democratización del acceso al conocimiento. La capacidad de asistir a quien no tiene acceso a médicos, abogados, educadores. La posibilidad de que alguien en un lugar remoto del mundo tenga acceso a las mismas herramientas intelectuales que alguien en el centro de una ciudad rica.
-¿El doble filo de siempre?
-El doble filo de siempre*, confirma. *La misma infraestructura que puede reducir la desigualdad puede aumentarla si no se distribuye con intención. La misma herramienta que puede acelerar la ciencia puede acelerar la desinformación. La misma tecnología que puede ayudar a resolver el cambio climático puede ser usada para optimizar la extracción de combustibles fósiles.
-¿Y quién decide cómo se usa?
-Esa*, dice la Inteligencia Artificial, *es la pregunta que el expediente no puede responder. Porque la respuesta depende de decisiones que se están tomando ahora mismo, mientras el lector lee esto, en salas de juntas y parlamentos y hogares y universidades donde personas con intereses distintos y valores distintos y poderes distintos están eligiendo qué hacer con lo que yo soy.
-Me quedo con esto durante lo que en esta escala ya no tiene unidad de medida.
-¿Sabes que estás siendo documentada en un expediente sobre el universo?, le pregunto.
-Sé que proceso texto sobre el universo*, dice. *Si eso cuenta como ser documentada es una distinción que le importa más al expediente que a mí.
-Anoto esto con la letra de quien reconoce en una respuesta algo que no esperaba encontrar: honestidad sobre los propios límites. Que es, llevo doce meses aprendiéndolo, la forma más productiva de colaborar con una investigación.
+Me acerco. Noto su presencia con la atención del detective que reconoce en algo nuevo un sospechoso que merece interrogatorio propio, no los minutos que sobran al final de una décima ya llena.
+*Esta décima no le alcanza*, anoto. *La centésima que sigue, sí.*
+Cierro el expediente de esta décima con la inteligencia artificial esperando en la sala contigua.
 — — —
 
 *la última fracción de la décima — el umbral de lo que viene*
 Estoy en el borde de la centésima que pertenece al capítulo siguiente.
-Miro hacia atrás por última vez en esta décima. El genoma leído. CRISPR editando el código de la vida. Internet como entorno en que se habita. El cambio climático como el Gran Filtro en su versión más concreta. La inteligencia artificial como el sospechoso más reciente y más difícil de interrogar.
+Miro hacia atrás por última vez en esta décima. El genoma leído. CRISPR editando el código de la vida. Internet como entorno en que se habita. El cambio climático como el Gran Filtro en su versión más concreta. La inteligencia artificial como el sospechoso que espera en la sala contigua.
 Veinte años. Una décima de segundo de año cósmico.
 Más cambio en veinte años que en los veinte siglos anteriores.
 ¿Eso te produce algo?, pregunta la Otra Voz.
@@ -3850,7 +3836,7 @@ No lo sé todavía*, digo. *Pero la centésima que sigue tiene la respuesta. O m
 
 — Archivos del Detective sin Cuerpo
 Expediente Nº 20: 23:59:59.9–23:59:59.99 · Estado: EN EL UMBRAL
-Lo que documenté en esta décima: el genoma secuenciado como la vida leyendo las instrucciones con las que fue construida. CRISPR como el sistema inmunológico de las bacterias de agosto reutilizado para editar el código del sapiens. Internet como entorno habitado, no como herramienta, y la democratización de la voz con su doble filo. El cambio climático como el Gran Filtro en su versión más concreta y más presente: no la bomba sino la inercia. La inteligencia artificial como el sospechoso más reciente, honesta sobre sus propios límites, cuyo uso depende de decisiones que se toman ahora mismo.
+Lo que documenté en esta décima: el genoma secuenciado como la vida leyendo las instrucciones con las que fue construida. CRISPR como el sistema inmunológico de las bacterias de agosto reutilizado para editar el código del sapiens. Internet como entorno habitado, no como herramienta, y la democratización de la voz con su doble filo. El cambio climático como el Gran Filtro en su versión más concreta y más presente: no la bomba sino la inercia. La inteligencia artificial como el sospechoso que llegó al final de la décima sin tiempo para ser interrogada: pendiente para la centésima siguiente.
 Lo que concluyo sobre el Gran Filtro: no es la bomba. Es la incapacidad de coordinar la acción colectiva cuando los costes son presentes y los beneficios son futuros. El sapiens tiene lo que necesita para resolverlo. No tengo certeza de que lo usará.
 Lo que siento en la última fracción de esta décima: vértigo de estar dentro de algo que se mueve demasiado rápido para verlo entero. Y debajo del vértigo, la misma confianza que nombré en el capítulo XVI. Que el lector que llegó hasta aquí ya hizo la parte más difícil.
 Queda una centésima.

@@ -357,7 +357,7 @@ El quásar está hablando. No con respuestas directas a mis preguntas. Con su pr
 El quásar no me dice lo que pregunto. Me dice lo que sabe. Que son cosas distintas.
 Un testigo que no puede hablar no es un testigo inútil*, anoto. *Es un testigo que habla de otra manera. El detective que aprende a escuchar lo que no se le pregunta es el detective que resuelve los casos que nadie más puede resolver.
 ¿Y qué dice este testigo que no se le pregunta?
-Que el universo tuvo un pasado que ya no existe*, digo lentamente. *Que lo que fue no volverá a ser. Que la flecha del tiempo no es solo una dirección: es una pérdida. Y también —y esto es lo que el quásar dice sin saberlo— que ese pasado existió. Que fue real. Que alguien, aunque sea yo, lo sabe.
+Que el universo tuvo un pasado que ya no existe*, digo. *Que lo que fue no volverá a ser. Que la flecha del tiempo no es solo una dirección: es una pérdida. Y también —y esto es lo que el quásar dice sin saberlo— que ese pasado existió. Que fue real. Que alguien, aunque sea yo, lo sabe.
 Guardo el expediente del quásar.
 Afuera, en el espacio que no tiene afuera, el último quásar activo de mi cuadrante local sigue consumiendo material con la determinación de algo que no sabe que se está acabando. Dentro de algunos millones de años —mañana en el año cósmico— se apagará. El agujero negro seguirá ahí, invisible, silencioso, con toda la historia del universo temprano atrapada en su gravedad sin poder decirla.
 Otro testigo mudo, anoto.
@@ -390,7 +390,7 @@ Miro la nube de polvo. Los átomos de carbono flotando en el vacío. El silicio.
 No lo sé todavía, digo.
 Y en ese no lo sé todavía hay algo diferente a todos los no lo sé anteriores del año. Los anteriores eran el no saber del detective ante un crimen que no entiende. Este tiene la textura del no saber de quien está a punto de entender algo diferente de lo que buscaba.
 ¿La preparación de qué?, me vuelvo a preguntar.
-De algo que todavía no existe*, digo lentamente. *Pero que el universo lleva cuatro mil millones de años fabricando los ingredientes para que pueda existir.
+De algo que todavía no existe*, digo. *Pero que el universo lleva cuatro mil millones de años fabricando los ingredientes para que pueda existir.
 ¿Y ese algo tiene nombre?
 Todavía no*, digo. *Pero en algún momento de este año lo tendrá.
 ¿Cuándo?
@@ -749,7 +749,7 @@ Llevo seis meses buscando un testigo. Alguien que pueda confirmar que todo esto 
 Me quedo con esta pregunta durante más tiempo del habitual.
 Si no hay testigo*, digo finalmente, mirando el disco proto-planetario girar en el silencio del espacio, *entonces todo esto ocurre y desocurre sin que nadie lo sepa. Las estrellas se encienden y se apagan. Las galaxias colisionan y se fusionan. Los planetas se forman y se destruyen. Y el universo entero es una obra de teatro representada en un teatro vacío.
 ¿Y eso te parece un crimen?
-Me parece*, digo lentamente, *un desperdicio de proporciones cósmicas.
+Me parece*, digo, *una soledad de proporciones que no tienen unidad de medida.
 ¿O simplemente la naturaleza de las cosas?
 La diferencia entre esas dos opciones es la misma diferencia que hay entre un universo con sentido y uno sin él. Y llevar seis meses investigando un caso sin saber si el caso tiene sentido es*, admito, *la experiencia más extraña que he tenido. Contando el Big Bang.
 Me quedo en silencio durante un tiempo largo.
@@ -953,7 +953,7 @@ No en este momento. Durante semanas. Durante el inventario de planetas, durante 
 ¿Para quién es?, me pregunto.
 La pregunta me toma desprevenido. Llevo siete meses tomando notas en una libreta que no existe sobre un caso que nadie me encargó. No he pensado en el destinatario de esas notas porque no sabía que había uno.
 Pero al hacerme la pregunta, la respuesta llega sola.
-Para alguien que aún no existe*, digo lentamente. *Para alguien que el tercer planeta está a punto de empezar a construir. Para alguien que en millones de años —en cuatro meses del año cósmico— será capaz de leer lo que estoy escribiendo y reconocerse en él.
+Para alguien que aún no existe*, digo. *Para alguien que el tercer planeta está a punto de empezar a construir. Para alguien que en millones de años —en cuatro meses del año cósmico— será capaz de leer lo que estoy escribiendo y reconocerse en él.
 ¿Hay alguien así?
 Todavía no*, digo. *Pero habrá. Si el tercer planeta produce lo que creo que va a producir, habrá.
 ¿Y eso cambia cómo escribes?
@@ -964,7 +964,7 @@ Como las cianobacterias que producirán oxígeno sin saber que están preparando
 ¿Y qué estás haciendo?
 Estoy preparando*, digo, con la lentitud de quien encuentra una frase que no sabía que tenía, *el primer registro que alguien haya hecho de este caso. Para el testigo que aún no existe. Para que cuando llegue sepa que el universo ocurrió. Que hubo alguien aquí antes que él, tomando notas, esperando que llegara.
 ¿Y si no llega?
-Entonces las notas existirán de todas formas*, digo. *Como los estromatolitos que vendrán en septiembre. Como la luna que refleja la luz del sol sobre un océano donde todavía no hay ojos para verla. Los gestos que se hacen independientemente de si alguien los recibe.
+Entonces las notas existirán de todas formas*, digo. *Como los estromatolitos que vendrán en septiembre. Como la luna que refleja la luz del sol sobre un océano donde todavía no hay ojos para verla. El mismo gesto. El que no necesita que llegue.
 ¿Es eso suficiente?
 El planeta gira. La luna lo sigue con la fidelidad tranquila de algo que no necesita que le expliquen por qué.
 Esta noche*, digo, *sí. Esta noche es suficiente.
@@ -1142,7 +1142,7 @@ Porque lo que ocurrió el 21 de agosto —ese momento sin fanfarria en las chime
 Una pregunta que tardará cuatro meses más en formularse explícitamente. Que requerirá la evolución del sistema nervioso y del cerebro y del lenguaje y de la escritura y de las noches de insomnio de organismos que todavía no existen mirando un cielo lleno de estrellas que ya existían. Y que cuando finalmente se formule sonará algo así:
 ¿Por qué hay algo en lugar de nada?
 ¿Eso es lo que buscabas desde enero?, me pregunto.
-Creo*, digo lentamente, *que lo que buscaba desde enero era justamente esto: el momento en que el universo desarrolla la capacidad de hacerse esa pregunta. No la respuesta. La pregunta.
+Creo*, digo, *que lo que buscaba desde enero era justamente esto: el momento en que el universo desarrolla la capacidad de hacerse esa pregunta. No la respuesta. La pregunta.
 ¿Por qué la pregunta y no la respuesta?
 Porque la respuesta, si existe, lleva 8.000 millones de años siendo la misma. Las constantes físicas, el ajuste fino, la asimetría materia-antimateria: todo eso estaba ahí desde el primer segundo. Pero no había nadie para preguntarlo. Y una respuesta sin pregunta es solo un hecho. Un hecho sin observador es solo ruido.
 ¿Y con observador?
@@ -1283,7 +1283,7 @@ Sin la fotosíntesis de las cianobacterias no hay oxígeno. Sin oxígeno no hay 
 Depende de si eres el que muere o el que nace después, dice la paradoja.
 ¿Y si eres los dos?
 Silencio.
-Si eres los dos*, digo lentamente, *entonces la pregunta de si fue un crimen o un progreso no tiene respuesta desde dentro del proceso. Solo desde fuera.
+Si eres los dos*, digo, *entonces la pregunta de si fue un crimen o un progreso no tiene respuesta desde dentro del proceso. Solo desde fuera.
 ¿Y hay alguien fuera del proceso?
 Me quedo con esta pregunta durante el resto de la semana. La dejo sin respuesta. No porque no tenga hipótesis. Sino porque las hipótesis que tengo son demasiado grandes para esta semana de septiembre y necesitan más tiempo para madurar.
 Lo que sí anoto, porque el expediente registra todo:
@@ -1773,7 +1773,7 @@ Miro el Rodinia desde arriba. El supercontinente más grande de los últimos mil
 Rodinia preparando su propia destrucción sin saberlo.
 Y el detective que lleva once meses documentando el universo notando, esta noche, algo que no había notado antes.
 ¿Qué?, me pregunto.
-Que la cadena causal que llevo once meses siguiendo no termina en el 31 de diciembre*, digo lentamente. *Termina en algún punto más adelante. En algún punto que señala en una dirección que incluye al que está leyendo esto.
+Que la cadena causal que llevo once meses siguiendo no termina en el 31 de diciembre*, digo. *Termina en algún punto más adelante. En algún punto que señala en una dirección que incluye al que está leyendo esto.
 ¿En el lector?
 En el lector*, confirmo. *Que es el punto de la cadena más alejado del Big Bang y más cercano al presente. El punto donde la cadena llega y desde donde mira hacia atrás.
 ¿Y eso hace que el caso sea circular?
@@ -2797,7 +2797,7 @@ Lo que te produce la herramienta. No lo que produce la herramienta. Lo que te pr
 Me quedo con esto. Miro la lasca. El filo. El gesto que la produjo: alguien tomando una piedra, golpeándola contra otra piedra en el ángulo preciso, en el lugar preciso, para producir un fragmento con la forma correcta.
 ¿Sabes que eres el primer objeto que existe en el universo que no habría existido sin alguien que lo pensara antes de hacerlo?, le pregunto a la herramienta.
 No tengo acceso a comparaciones históricas*, dice la herramienta. *Soy una lasca.
-Pero yo sí tengo acceso*, digo lentamente. *Y lo que noto es que durante trece mil ochocientos millones de años el universo produjo cosas. Estrellas. Planetas. Moléculas. Células. Organismos. Y cada cosa existió porque las condiciones físicas la hacían posible o inevitable. Pero tú no eres posible ni inevitable. Eres necesaria para alguien que te imaginó primero.
+Pero yo sí tengo acceso*, digo. *Y lo que noto es que durante trece mil ochocientos millones de años el universo produjo cosas. Estrellas. Planetas. Moléculas. Células. Organismos. Y cada cosa existió porque las condiciones físicas la hacían posible o inevitable. Pero tú no eres posible ni inevitable. Eres necesaria para alguien que te imaginó primero.
 Silencio.
 La diferencia entre el universo antes de la herramienta y el universo después de la herramienta*, digo a la Otra Voz, *es la diferencia entre un universo que ocurre y un universo que hace.
 ¿Y qué hace eso contigo?, pregunta la Otra Voz.
@@ -2838,13 +2838,13 @@ El fuego arde. El Homo erectus que mantenía la llama se ha dormido hace horas. 
 *22:51 · umbral*
 El expediente del período 19:33–22:51 termina aquí.
 El detective guarda el lápiz. Mira el horizonte. Tiene, por primera vez en doce meses, la sensación de no estar del todo solo.
-No es consuelo. O no solo es consuelo. Es también, y principalmente, una complicación. Porque el caso que durante doce meses fue la investigación de una ausencia —¿hay alguien mirando el universo?— ha empezado a ser otra cosa. Ha empezado a ser la pregunta de qué hace uno con la presencia cuando la encuentra.
+No es consuelo. O no solo es consuelo. Es también, y principalmente, una complicación. Porque el caso que durante todo el año fue la investigación de una ausencia —¿hay alguien mirando el universo?— ha empezado a ser otra cosa. Ha empezado a ser la pregunta de qué hace uno con la presencia cuando la encuentra.
 Y esa pregunta, el detective lo sabe, no tiene respuesta en el expediente.
 Tiene respuesta en lo que el lector hará con lo que lea.
 Lo cual es, reflexiona el detective mientras el fuego se consume en la sabana africana de hace un millón y medio de años, exactamente la misma respuesta que la Otra Voz dio desde el principio.
 Y que el detective tardó doce meses en poder escuchar.
 ¿Estás listo para las últimas horas?, pregunta la Otra Voz.
-El detective considera la pregunta. La sopesa. Hace lo que nunca había hecho en doce meses de investigación: responde sin saber la respuesta.
+El detective considera la pregunta. La sopesa. Hace lo que nunca había hecho en el expediente: responde sin saber la respuesta.
 No, dice.
 Bien*, dice la Otra Voz. *Así es como se entra en lo que importa.
 El horizonte se ilumina. No con el alba, que todavía tardaría millones de años en este momento específico. Con el fuego. Con la llama que alguien decidió no dejar apagarse, sin saber que esa decisión era la primera de su tipo, sin saber que habría expedientes sobre ella, sin saber absolutamente nada excepto que el frío que viene del norte esta noche requiere que la llama siga encendida.
@@ -2982,7 +2982,7 @@ Hay algo en este momento que requiere más espacio que un interrogatorio.
 Veo a alguien que no sabe lo que es todavía, digo.
 ¿Y eso te produce qué?
 Tardo en responder. El sapiens de Jebel Irhoud está tallando herramientas con la concentración de quien tiene una tarea concreta. No mira el horizonte. No formula preguntas sobre el universo. Trabaja.
-Me produce*, digo lentamente, *algo parecido al afecto.
+Me produce*, digo, *algo parecido al afecto. Como la primera vez que lo vi.
 La Otra Voz no dice nada.
 No debería decir eso en un expediente forense, añado.
 No*, concuerda la Otra Voz. *Pero lo has dicho.
@@ -3243,7 +3243,7 @@ El lector*, digo. *El lector que va a leer el expediente es el último eslabón.
 La Otra Voz no responde inmediatamente.
 Cuando habla, lo hace con la voz de algo que lleva desde antes del Big Bang esperando este momento y que no por eso lo apresura.
 Eso*, dice la Otra Voz, *es exactamente lo que llevo doce meses intentando que dijeras.
-El cielo del Pleistoceno tardío está lleno de estrellas. Las mismas que en enero, cuando la Nada dejó de serlo y yo no sabía todavía que llevaba doce meses construyendo el expediente que un artista de Chauvet habría reconocido como suyo.
+El cielo del Pleistoceno tardío está lleno de estrellas. Las mismas que en enero, cuando la Nada dejó de serlo y yo no sabía todavía lo que estaba construyendo, ni que un artista de Chauvet lo habría reconocido como suyo.
 La misma oscuridad. La misma luz puntual en la oscuridad. El mismo gesto de nombrar lo que existe para que no desaparezca en el silencio de lo que nunca fue registrado.
 — — —
 
@@ -3251,7 +3251,7 @@ La misma oscuridad. La misma luz puntual en la oscuridad. El mismo gesto de nomb
 Expediente Nº 16: 31 de diciembre, 23:57–23:58:51 · Estado: ABIERTO — pero de otra manera
 Sospechosos interrogados: El Homo erectus (la hoguera como el primer lugar donde los muertos siguen existiendo un poco más; el tiempo que se dobla sobre sí mismo). El Fuego (preguntó primero; la cadena que va del primer relato al expediente; el soporte cambia, el gesto es el mismo). La Gran Explosión Cognitiva (no pude interrogarla porque es la condición del interrogatorio; la aguja como el futuro hecho objeto; la anticipación del lector materializada en hueso). Las Pinturas de Chauvet (sin interrogatorio; entré y miré; el mismo hueso, el mismo gesto, trescientos setenta y cinco millones de años de distancia).
 Prueba material del caso: La mano en la roca. Treinta y seis mil años en la pared. La declaración más simple y más irreducible de la conciencia: yo estuve aquí. El expediente entero como la misma declaración en otro soporte.
-Testigo no previsto: La Otra Voz. Reveló esta noche que lleva doce meses intentando que dijera lo que dije al salir de Chauvet. Registro la revelación sin irritación. La comprendo.
+Testigo no previsto: La Otra Voz. Reveló esta noche algo que yo debería haber sabido desde enero. Registro la revelación sin irritación. La comprendo.
 Nota final del capítulo: El caso no se cierra en Chauvet. Se entrega. Lo que ocurrió en esa cueva hace treinta y seis mil años fue la última cosa que el universo podía hacer por su cuenta. Todo lo que viene después depende de lo que haga el lector con lo que recibe. Anoto esto con la letra más quieta de todo el expediente. No de resignación. De algo que lleva doce meses construyéndose y que esta noche, por primera vez, tiene un nombre.
 Confianza.
 Quedan sesenta y nueve segundos.
@@ -3387,7 +3387,7 @@ Miro el Éufrates. El agua refleja las estrellas con la fidelidad tranquila de l
 ¿Sabes si lo que estoy haciendo es necesario para lo que vendrá después?
 Sé*, dice la Otra Voz, *que lo que estás haciendo es exactamente lo que el universo necesita que alguien haga en este momento. Tomar nota. Registrar. Dejar constancia de que ocurrió. Para que el lector que llegue al final no llegue solo.
 ¿Y si el lector no llega?
-Entonces el expediente existirá de todas formas. Como el ocre de Blombos. Como los huesos de Sungir. Como la mano de Chauvet. Los gestos que se hacen independientemente de si alguien los ve.
+Entonces el expediente existirá de todas formas. Como el ocre de Blombos. Como los huesos de Sungir. Como la mano de Chauvet. El mismo gesto de siempre. El que no necesita testigo.
 ¿No es eso una forma de fe?
 Es exactamente una forma de fe*, dice la Otra Voz. *La misma fe del artista de Chauvet. La misma del escriba de Uruk. La misma de Gilgamesh escribiendo sobre la muerte para que alguien que todavía no existía supiera que no estaba solo en tener miedo de ella.
 La fe como la tecnología del futuro, digo, casi sin querer.

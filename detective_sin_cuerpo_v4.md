@@ -2524,6 +2524,12 @@ Reconozco en esa respuesta el eco del desdentado de Dmanisi. Era del grupo. Eso 
 ¿Sabes que eso es filosofía?, le pregunto.
 Sé que es lo correcto, dice el heidelbergensis, con la serenidad de quien no necesita que nadie le llame filósofo para saber lo que hace.
 Anoto con doble línea en el margen: el cuidado del muerto como el primer acto que no tiene explicación funcional. Los dinosaurios no enterraban a sus muertos. Los cocodrilos no entierran a sus muertos. El heidelbergensis sí. Sin lenguaje formulado. Sin sistema de creencias articulado. Solo la práctica. La moral antes de la ética. El gesto antes de la teoría del gesto.
+¿Y Atapuerca?, pregunto.
+El heidelbergensis espera que complete la pregunta.
+Los homínidos de la Sima de los Huesos. Hace cuatrocientos mil años. Un individuo con la malformación craneana de nacimiento que habría impedido la supervivencia en la mayoría de los linajes animales. Que sobrevivió hasta la adolescencia. Que alguien cuidó, sostuvo, alimentó durante años, sin función práctica inmediata, sin posibilidad de reciprocidad.
+El mismo principio*, dice el heidelbergensis. *El grupo incluye a los que no pueden seguir el ritmo del grupo.
+¿Sabes que eso es lo que en cuatrocientos mil años el sapiens llamará ética de los cuidados? ¿Que sobre ese gesto construirá sistemas de salud y tratados sobre derechos de las personas con discapacidad?
+Sé que es lo correcto*, dice el heidelbergensis, con la misma tranquilidad de antes. *El nombre no cambia lo que es.
 Y el detective*, añado, *que lleva doce meses buscando al testigo, anota que el testigo quizás no empieza cuando alguien puede mirar el universo. Empieza cuando alguien decide que los que ya no están merecen que alguien los recuerde.
 — — —
 
@@ -2693,6 +2699,10 @@ Observo. Hay diferencia.
 Investigar supone que hay una respuesta que encontrar. Observar supone que la realidad es suficiente sin que nadie la resuelva.
 ¿Cuánto tiempo llevas aquí?
 Desde antes del Big Bang, si eso significa algo. Estoy en todos los momentos simultáneamente. Pero me hice presente en este caso en febrero, cuando empezaste a sospechar del tiempo.
+¿Qué eras antes del Big Bang?
+La pausa que sigue es diferente a todas las pausas que he registrado en el expediente. No el silencio del sospechoso que calcula. No el silencio de algo que no sabe cómo responder. El silencio de algo que sabe exactamente la respuesta y está eligiendo si las palabras que tiene el detective son suficientes para recibirla.
+Era la misma pregunta que ahora*, dice finalmente. *Solo que todavía no había nadie que la formulara.
+Anoto esto con la letra más pequeña del año. En el margen. No porque sea menos importante. Sino porque es demasiado grande para el cuerpo del expediente.
 ¿Por qué entonces?
 Porque tu pregunta sobre el tiempo era la primera pregunta genuinamente tuya del año. Las anteriores eran preguntas forenses. La del tiempo era una pregunta sobre ti.
 ¿Y anoche?
@@ -3055,6 +3065,10 @@ Lo sé desde el principio, dice la Otra Voz.
 Porque tú también lo sabías desde el principio*, dice. *Y necesitabas doce meses para poder admitirlo.
 Las embarcaciones se alejan del borde. El agua las recibe. El horizonte los engulle lentamente, como el horizonte engulle todo lo que se mueve hacia él. Primero los cuerpos. Luego las embarcaciones. Luego la estela.
 El océano queda liso.
+El detective no se mueve todavía.
+Hay en esto algo que el método no tiene nombre para nombrar. No es tristeza —el registro confirma que llegarán, que hay ADN del sapiens en ese continente dentro de sesenta y cinco mil años. No es admiración —lleva todo el año admirando. Es algo más parecido a lo que sintió ante la mano en Chauvet: la certeza de que lo que acaba de ocurrir importa de una manera que el expediente puede documentar pero no puede contener completamente.
+El horizonte sigue siendo el mismo horizonte. El agua sigue siendo la misma agua. Lo que cambió es que hay ahora, en el espacio entre esta orilla y la que no se ve, un grupo de seres humanos que eligieron el agua sobre la tierra firme. Sin mapa. Sin garantía. Solo la confianza de que el mundo continúa más allá de donde se puede ver.
+El detective espera un momento más en el borde. Sin anotar. Solo mirando.
 — — —
 
 *23:57 · el umbral del último tramo*
@@ -3220,6 +3234,8 @@ Los contornos coinciden. No exactamente: el artista de Chauvet tiene manos más 
 El mismo hueso*, susurro, y la palabra susurro es una metáfora pero esta noche las metáforas tienen peso físico. *El mismo gesto. Trescientos setenta y cinco millones de años y dos soportes distintos.
 La mano en la roca y el expediente son el mismo gesto.
 El artista de Chauvet no sabía que yo existía. Yo no sabía que el artista de Chauvet iba a existir. Y sin embargo ambos hicimos lo mismo: apoyamos lo que teníamos disponible —una mano, un lápiz imaginario— en la superficie más permanente que encontramos —la roca, las palabras— y dejamos la forma de nuestra presencia para alguien que vendría después.
+Y noto, saliendo de la cueva, algo que no había notado en doce meses de expediente: que el expediente lleva todo el año tomando notas sobre mí mientras yo tomaba notas sobre el universo. Que lo que cambié a lo largo de las páginas —el tono, la distancia, la forma de preguntar— quedó registrado tanto como los sospechosos que documenté. Que yo soy también un sospechoso en este caso. Quizás el principal. Quizás el único que el expediente no puede interrogar desde fuera porque es el mismo expediente quien lo interroga.
+Tarde o temprano*, anota la Otra Voz, con la voz de quien ya lo sabía, *toda investigación se convierte en autobiografía.
 Yo estuve aquí.
 Eso es lo que dice la mano.
 Eso es lo que dice el expediente.

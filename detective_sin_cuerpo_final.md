@@ -46,9 +46,6 @@ Al cerrar el expediente
 CAPÍTULO I: EL CASO DE LA NADA QUE DEJÓ DE SERLO
 
 *Memorias de un detective sin cuerpo en una ciudad sin ciudad*
-«Yo era todavía allí donde no había nada que fuese yo.»
-— Italo Calvino, *Cosmicomics
-
 «El universo no tenía ninguna razón para existir. Y sin embargo existe.»
 — Stephen Hawking
 
@@ -233,9 +230,6 @@ o el arte de interrogar a lo que no puede responder
 *Expediente Nº 2 — «El gran silencio del segundo trimestre»*
 «El tiempo es la forma que tiene el universo de evitar que todo ocurra a la vez.»
 — atribuido a John Wheeler
-
-«Un testigo que no puede hablar no es un testigo inútil. Es un testigo que habla de otra manera.»
-— el detective, última semana de abril
 
 — — —
 
@@ -423,9 +417,6 @@ o la conspiración de la química silenciosa
 «El carbono es el elemento más sociable del universo. Se une a casi todo. Y de esas uniones, eventualmente, salimos nosotros.»
 — Carl Sagan
 
-«La diferencia entre un accidente y un plan es, a veces, solo la escala a la que lo miras.»
-— el detective, tercera semana de mayo
-
 — — —
 
 1 de mayo · 4.600 millones de años después del Big Bang
@@ -612,9 +603,6 @@ o el ensayo general
 «La gravedad no es solo una fuerza. Es la memoria del universo sobre dónde estaba la masa.»
 — Kip Thorne
 
-«Un teatro vacío no es un teatro. Es una sala.»
-— el detective, 30 de junio
-
 — — —
 
 1 de junio · 5.500 millones de años después del Big Bang
@@ -799,9 +787,6 @@ o el mes en que el caos resultó ser el mejor arquitecto
 «El universo no tiene obligación de tener sentido para ti.»
 — Neil deGrasse Tyson
 
-«El accidente perfecto es el que produce exactamente lo que necesitabas.»
-— el detective, tercera semana de julio
-
 — — —
 
 1 de julio · 6.900 millones de años después del Big Bang
@@ -985,9 +970,6 @@ o el mes en que el universo abrió los ojos por primera vez
 *Expediente Nº 6 — «El Origen, o El Crimen que no era Crimen sino Milagro, o quizás las dos cosas»*
 «La vida es materia que se ha organizado hasta el punto de preguntarse qué es la materia.»
 — Carl Sagan
-
-«El gradiente es donde ocurren las cosas. No en el equilibrio. En el borde entre dos estados diferentes.»
-— el detective, primera semana de agosto
 
 — — —
 
@@ -1187,9 +1169,6 @@ o el mes en que la evolución demostró que no va a ningún lado y por eso llega
 *Expediente Nº 7 — «La paciencia como método, o mil millones de años de borrador»*
 «Nada en biología tiene sentido excepto a la luz de la evolución.»
 — Theodosius Dobzhansky
-
-«Preguntar no es necesario para sobrevivir. Es necesario para otra cosa.»
-— el detective, 30 de septiembre
 
 — — —
 
@@ -1396,9 +1375,6 @@ o el mes en que la vida aprendió a guardar sus secretos en una escalera de cara
 «Si alguien me preguntara cuál es el acontecimiento más importante del siglo XX, diría que fue el descubrimiento de la doble hélice del ADN.»
 — Francis Crick
 
-«La cianobacteria no sabe lo que hace. El sapiens sí puede saberlo. Esa diferencia es todo.»
-— el detective, 31 de octubre
-
 — — —
 
 1 de octubre · hace aproximadamente 3.480 millones de años
@@ -1584,9 +1560,6 @@ CAPÍTULO IX: NOVIEMBRE,
 o el mes en que la vida inventó la complejidad y el detective empezó a sospechar de sí mismo
 
 *Expediente Nº 9 — «Del Proterozoico temprano al Proterozoico tardío»*
-«La célula es la unidad básica de la vida, tan seguramente como el átomo es la unidad básica de la materia.»
-— Lewis Thomas
-
 «La simbiosis es la ley de la vida. La competencia es su excepción.»
 — Lynn Margulis
 
@@ -1801,9 +1774,6 @@ o los siete días en que la vida aprendió a verse a sí misma
 «El ojo que ve no puede verse a sí mismo sin un espejo.»
 — Antonio Machado
 
-«El problema define la solución. La pregunta define la respuesta.»
-— La Explosión Cámbrica
-
 — — —
 
 1 de diciembre · hace 720 millones de años
@@ -2001,9 +1971,6 @@ o los siete días en que los vertebrados conquistaron la tierra y casi la perdie
 «La extinción es la regla. La supervivencia es la excepción.»
 — Carl Sagan
 
-«La oscuridad no es la ausencia de luz. Es el lugar donde se desarrolla lo que la luz aún no ha visto.»
-— anónimo
-
 — — —
 
 8 de diciembre · hace aproximadamente 359 millones de años
@@ -2146,9 +2113,6 @@ o el mundo más espléndido que ha existido y la oscuridad que lo espera
 «Los dinosaurios enseñaron a los mamíferos a ser nocturnos. Los mamíferos se lo agradecerán a su manera.»
 — Richard Dawkins
 
-«Las consecuencias no tienen la limitación de lo que quien planea puede imaginar.»
-— Las Flores del Cretácico
-
 — — —
 
 15 de diciembre · hace aproximadamente 150 millones de años
@@ -2276,9 +2240,6 @@ o los siete días en que los mamíferos heredaron el mundo y el detective empez�
 *Expediente Nº 13 — «Del asteroide al Homo erectus, o la semana en que una fruta lo cambió todo»*
 «No somos el punto culminante de la evolución. Somos la rama más reciente de un árbol muy antiguo.»
 — Stephen Jay Gould
-
-«Después de cada extinción masiva, la vida no solo sobrevive: se reinventa.»
-— Lynn Margulis
 
 — — —
 
@@ -2479,9 +2440,6 @@ CAPÍTULO XIII BIS: EL 29 Y EL 30 DE DICIEMBRE,
 o los dos días en que el instrumento encontró su forma definitiva sin saberlo
 
 *Expediente Nº 13 bis — «Del heidelbergensis al primer sapiens, o la víspera de la víspera»*
-«La evolución no tiene dirección. Pero a veces parece que la tiene.»
-— Richard Dawkins
-
 «La conciencia es el universo mirándose a sí mismo. Y preguntándose qué es.»
 — Freeman Dyson
 
@@ -2623,9 +2581,6 @@ CAPÍTULO XIV: EL 31 DE DICIEMBRE, 19:33–22:51,
 o las tres horas y dieciocho minutos en que el detective perdió la distancia
 
 *Expediente Nº 14 — «Del Ardipithecus al Homo erectus, o por qué el caso dejó de ser el caso»*
-«El peligro de la inteligencia es que puede convencerte de que entiendes lo que no entiendes.»
-— Hannah Arendt
-
 «Tarde o temprano, toda investigación se convierte en autobiografía.»
 — Jorge Luis Borges
 
@@ -2936,15 +2891,12 @@ CAPÍTULO XV: EL 31 DE DICIEMBRE, 22:51–23:57,
 o la hora y seis minutos en que el instrumento encontró su forma definitiva y el detective encontró la suya
 
 *Expediente Nº 15 — «Del Homo heidelbergensis al sapiens en el océano, o lo que se construye sin saber que se construye»*
-«Lo más difícil de ver es aquello que tienes delante.»
-— Goethe
-
 «Una especie que puede imaginarse extinta es la única especie que puede evitar estarlo.»
 — Elizabeth Kolbert
 
 — — —
 
-22:51 · hace 700.000 años
+22:51 · hace 1,8 millones de años
 *apertura — con la Otra Voz todavía aquí*
 La Otra Voz no se fue cuando cerré el expediente anterior.
 Esto debería haberme sorprendido. En doce meses de investigación cada sospechoso, cada testigo, cada fenómeno interrogado occupaba su espacio en el expediente y luego regresaba a lo que fuera que los fenómenos hacen cuando no los interrogan. El Tiempo siguió fluyendo. La Materia Oscura siguió siendo opaca. Los dinosaurios siguieron dominando el Cretácico sin necesidad de mi presencia.
@@ -3164,9 +3116,6 @@ CAPÍTULO XVI: EL 31 DE DICIEMBRE, 23:57–23:58:51,
 o el minuto y cincuenta y un segundos en que alguien decidió dejar constancia
 
 *Expediente Nº 16 — «Del sapiens en el mar a la mano en la roca, o el gesto que el caso buscaba desde enero»*
-«El arte no reproduce lo visible. Hace visible.»
-— Paul Klee
-
 «Somos la única especie que cuenta historias sobre sí misma para saber quién es.»
 — Ursula K. Le Guin
 
@@ -3338,9 +3287,6 @@ o el minuto en que la memoria aprendió a vivir fuera del cuerpo que la tenía
 «Toda escritura es un acto de fe hacia alguien que todavía no existe.»
 — Marguerite Yourcenar
 
-«La diferencia entre un animal y un humano no es que el humano use herramientas. Es que el humano cuenta historias sobre por qué las usa.»
-— Yuval Noah Harari
-
 — — —
 
 23:58:51 · hace 39.180 años
@@ -3494,9 +3440,6 @@ o los ocho segundos en que aprendí que la inteligencia no garantiza nada
 *Expediente Nº 18 — «23:59:51–23:59:59, o 3.550 años desde el Bronce hasta Newton»*
 «La historia no se repite, pero rima.»
 — atribuido a Mark Twain
-
-«El conocimiento que no cambia el comportamiento es inútil.»
-— Nassim Nicholas Taleb
 
 — — —
 
@@ -3654,9 +3597,6 @@ o las nueve décimas de segundo en que aprendí que el mayor peligro del sapiens
 «Hemos aprendido a volar como los pájaros y a nadar como los peces, pero no hemos aprendido el sencillo arte de vivir juntos como hermanos.»
 — Martin Luther King
 
-«La especie más peligrosa que ha existido nunca es también la única que puede decidir no serlo.»
-— Carl Sagan
-
 — — —
 
 23:59:59.0 · hace 178 años
@@ -3797,11 +3737,8 @@ CAPÍTULO XX: EL 31 DE DICIEMBRE, 23:59:59.9–23:59:59.99,
 o la décima de segundo en que el expediente y el lector se encontraron
 
 *Expediente Nº 20 — «23:59:59.9–23:59:59.99, o veinte años en una décima»*
-«El universo no está obligado a tener sentido para ti.»
-— Neil deGrasse Tyson
-
 «Lo que sabemos es una gota. Lo que ignoramos es un océano. Pero la gota lo sabe.»
-— adaptación de Isaac Newton
+— Isaac Newton
 
 — — —
 
@@ -3933,9 +3870,6 @@ CAPÍTULO XXI: EL 31 DE DICIEMBRE, 23:59:59.99–23:59:59.999,
 o la centésima de segundo en que el expediente dejó de ser historia y se convirtió en espejo
 
 *Expediente Nº 21 — «23:59:59.99–23:59:59.999, o cuatro años en una centésima»*
-«El presente es el único tiempo que nos pertenece.»
-— Blaise Pascal
-
 «No podemos resolver los problemas con el mismo tipo de pensamiento que usamos cuando los creamos.»
 — Albert Einstein
 

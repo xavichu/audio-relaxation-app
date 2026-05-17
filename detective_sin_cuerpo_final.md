@@ -3121,11 +3121,11 @@ o el minuto y cincuenta y un segundos en que alguien decidió dejar constancia
 
 — — —
 
-23:57 · hace 65.000 años
+23:57 · hace 78.700 años
 *apertura — con la Otra Voz más cerca que en ningún momento anterior*
 El capítulo XV terminó con yo mirando el océano que acababa de tragarse las embarcaciones del sapiens. El océano liso. El cielo de siempre. Y la Otra Voz diciendo que el linaje tiene lo que necesita para pasar el Gran Filtro, pero que eso no es lo mismo que decir que pasará.
 Guardo esa distinción en el expediente como se guarda algo frágil: con cuidado, sin apretarlo demasiado.
-Ahora son las 23:57. Quedan un minuto y cincuenta y un segundos de año cósmico. Sesenta y cinco mil años reales. Cuatro interrogatorios. Y la sensación —que reconozco desde hace dos capítulos sin poder nombrarla todavía— de que lo que viene ahora no es el final de una investigación sino el inicio de una responsabilidad.
+Ahora son las 23:57. Quedan un minuto y cincuenta y un segundos de año cósmico. Setenta y ocho mil setecientos años reales. Cuatro interrogatorios. Y la sensación —que reconozco desde hace dos capítulos sin poder nombrarla todavía— de que lo que viene ahora no es el final de una investigación sino el inicio de una responsabilidad.
 ¿Estás preparado?, pregunta la Otra Voz.
 No.
 Una pausa.
@@ -3289,7 +3289,7 @@ o el minuto en que la memoria aprendió a vivir fuera del cuerpo que la tenía
 
 — — —
 
-23:58:51 · hace 39.180 años
+23:58:51 · hace 30.000 años
 *apertura — con sesenta segundos y la pregunta que no me había atrevido a formular*
 Sesenta segundos.
 Me digo esto en voz alta —o en lo que para mí equivale a voz alta— y abro el último expediente completo del año con la conciencia de que estos sesenta segundos contienen lo que el caso lleva doce meses construyendo hacia. No el origen del universo —eso fue enero. No la aparición de la vida —eso fue agosto. No la mano en la roca de Chauvet —eso fue hace catorce segundos de año cósmico, treinta y seis mil años reales, y todavía no me he sacudido del todo el polvo de caliza de la cueva.
@@ -3593,13 +3593,13 @@ CAPÍTULO XIX: EL 31 DE DICIEMBRE, 23:59:59.0–23:59:59.9,
 
 o las nueve décimas de segundo en que aprendí que el mayor peligro del sapiens es el sapiens
 
-*Expediente Nº 19 — «23:59:59.0–23:59:59.9, o 178 años en nueve décimas»*
+*Expediente Nº 19 — «23:59:59.0–23:59:59.9, o 393 años en nueve décimas»*
 «Hemos aprendido a volar como los pájaros y a nadar como los peces, pero no hemos aprendido el sencillo arte de vivir juntos como hermanos.»
 — Martin Luther King
 
 — — —
 
-23:59:59.0 · hace 178 años
+23:59:59.0 · hace 437 años
 *apertura — con nueve décimas y todo lo que cabe en ellas*
 Nueve décimas de segundo.
 Me quedo un momento con este número antes de abrir el expediente. No porque sea pequeño —en enero, una décima de segundo equivalía a millones de años— sino porque es el primero que no ha terminado todavía. Todo lo demás que documenté esta noche había cerrado antes de que yo llegara. Tenía la distancia del que llega siempre después de los hechos. Estas nueve décimas no. Están ocurriendo mientras las documento. El lector está dentro de ellas ahora mismo.
@@ -3736,13 +3736,13 @@ CAPÍTULO XX: EL 31 DE DICIEMBRE, 23:59:59.9–23:59:59.99,
 
 o la décima de segundo en que el expediente y el lector se encontraron
 
-*Expediente Nº 20 — «23:59:59.9–23:59:59.99, o veinte años en una décima»*
+*Expediente Nº 20 — «23:59:59.9–23:59:59.99, o cuarenta y cuatro años en una décima»*
 «Lo que sabemos es una gota. Lo que ignoramos es un océano. Pero la gota lo sabe.»
 — Isaac Newton
 
 — — —
 
-23:59:59.9 · hace aproximadamente 20 años
+23:59:59.9 · hace aproximadamente 44 años
 *apertura — con una décima y la certeza de que ya no hay fuera*
 Una décima de segundo.
 No la mido en años todavía. La mido en lo que es: el espacio entre el momento en que el capítulo XIX cerró y el momento en que el lector está leyendo esto. Un espacio tan estrecho que el expediente y el presente del lector son casi la misma cosa.
@@ -3842,7 +3842,7 @@ Anoto esto con la letra de quien reconoce en una respuesta algo que no esperaba 
 *la última fracción de la décima — el umbral de lo que viene*
 Estoy en el borde de la centésima que pertenece al capítulo siguiente.
 Miro hacia atrás por última vez en esta décima. El genoma leído. CRISPR editando el código de la vida. Internet como entorno en que se habita. El cambio climático como el Gran Filtro en su versión más concreta. La inteligencia artificial como el sospechoso más reciente y más difícil de interrogar.
-Veinte años. Una décima de segundo de año cósmico.
+Cuarenta y cuatro años. Una décima de segundo de año cósmico.
 Más cambio en veinte años que en los veinte siglos anteriores.
 ¿Eso te produce algo?, pregunta la Otra Voz.
 Me produce vértigo*, digo. *No el vértigo de enero mirando el Big Bang desde fuera. El vértigo de estar dentro de algo que se mueve demasiado rápido para verlo entero desde el interior.

@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Growth Research",
+    "slug": "growth-research",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "backgroundColor": "#0a0a12",
+      "resizeMode": "contain"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.serenity.growthresearch"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0a0a12"
+      },
+      "package": "com.serenity.growthresearch"
+    },
+    "plugins": ["expo-font"]
+  }
+}

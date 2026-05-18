@@ -1,7 +1,7 @@
 'use client'
 
 import Link from 'next/link'
-import { Moon } from 'lucide-react'
+import { Moon, TrendingUp } from 'lucide-react'
 
 export default function Navbar() {
   return (
@@ -21,6 +21,13 @@ export default function Navbar() {
           <a href="#pricing" className="text-sm text-white/55 hover:text-white/80 transition-colors">
             Pricing
           </a>
+          <Link
+            href="/investment-research"
+            className="flex items-center gap-1.5 text-sm text-emerald-400/80 hover:text-emerald-400 transition-colors"
+          >
+            <TrendingUp size={14} />
+            Research
+          </Link>
         </div>
 
         <div className="flex items-center gap-3">

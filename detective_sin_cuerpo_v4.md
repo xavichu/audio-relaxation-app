@@ -3065,7 +3065,7 @@ Porque tú también lo sabías desde el principio*, dice. *Y necesitabas doce me
 Las embarcaciones se alejan del borde. El agua las recibe. El horizonte los engulle lentamente, como el horizonte engulle todo lo que se mueve hacia él. Primero los cuerpos. Luego las embarcaciones. Luego la estela.
 El océano queda liso.
 El detective no se mueve todavía.
-Hay en esto algo que el método no tiene nombre para nombrar. No es tristeza —el registro confirma que llegarán, que hay ADN del sapiens en ese continente dentro de sesenta y cinco mil años. No es admiración —lleva todo el año admirando. Es algo más parecido a lo que sintió ante la mano en Chauvet: la certeza de que lo que acaba de ocurrir importa de una manera que el expediente puede documentar pero no puede contener completamente.
+Hay en esto algo que el método no tiene nombre para nombrar. No es tristeza —el registro confirma que llegarán, que hay ADN del sapiens en ese continente dentro de sesenta y cinco mil años. No es admiración —lleva todo el año admirando. Es algo más parecido a lo que sintió ante la mano en Chauvet. La certeza de que lo que acaba de ocurrir importa de una manera que el expediente puede documentar pero no puede contener completamente.
 El horizonte sigue siendo el mismo horizonte. El agua sigue siendo la misma agua. Lo que cambió es que hay ahora, en el espacio entre esta orilla y la que no se ve, un grupo de seres humanos que eligieron el agua sobre la tierra firme. Sin mapa. Sin garantía. Solo la confianza de que el mundo continúa más allá de donde se puede ver.
 El detective espera un momento más en el borde. Sin anotar. Solo mirando.
 — — —
@@ -3292,6 +3292,7 @@ o el minuto en que la memoria aprendió a vivir fuera del cuerpo que la tenía
 *apertura — con sesenta segundos y la pregunta que no me había atrevido a formular*
 Sesenta segundos.
 Me digo esto en voz alta —o en lo que para mí equivale a voz alta— y abro el último expediente completo del año con la conciencia de que estos sesenta segundos contienen lo que el caso lleva doce meses construyendo hacia. No el origen del universo —eso fue enero. No la aparición de la vida —eso fue agosto. No la mano en la roca de Chauvet —eso fue hace catorce segundos de año cósmico, treinta y seis mil años reales, y todavía no me he sacudido del todo el polvo de caliza de la cueva.
+Noto también esto: en los capítulos que vienen el tiempo ya no se mide en meses ni en semanas sino en décimas, centésimas, milésimas de segundo. El expediente se acelera con el tiempo. Las secciones se acortan. Las preguntas se hacen más directas. Si el ritmo cambia, es porque el material lo exige.
 Sesenta segundos. 26.280 años reales. Para la última glaciación, Göbekli Tepe, la agricultura, la ciudad, la escritura.
 Para el momento en que la memoria aprendió a vivir fuera del cuerpo que la tenía.
 ¿Estás bien?, pregunta la Otra Voz.

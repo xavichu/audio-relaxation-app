@@ -747,11 +747,11 @@ Y al decirlo noto que la respuesta lleva seis meses siendo verdad sin que yo la 
 Llevo seis meses buscando un testigo. Alguien que pueda confirmar que todo esto ocurrió. Que el Big Bang fue real, que las galaxias son hermosas, que la química del carbono es extraordinaria, que la gravedad es paciente y eficaz y en cierto modo conmovedora. Alguien que mire y diga: esto existe. Yo lo vi.
 ¿Y si no hay testigo?
 Me quedo con esta pregunta durante más tiempo del habitual.
-Si no hay testigo*, digo finalmente, mirando el disco proto-planetario girar en el silencio del espacio, *entonces todo esto ocurre y desocurre sin que nadie lo sepa. Las estrellas se encienden y se apagan. Las galaxias colisionan y se fusionan. Los planetas se forman y se destruyen. Y el universo entero es una obra de teatro representada en un teatro vacío.
+Si no hay testigo*, digo finalmente, mirando el disco proto-planetario girar en el silencio del espacio, *entonces todo este tiempo —seis meses, seis mil millones de años— ocurrió para nadie. No el silencio de enero, cuando no había nada capaz de saberlo. Esto sería distinto: habría habido algo. Habría habido galaxias y supernovas y química y ese planetesimal ahí afuera, creciendo sin que nadie lo reclame. La Nada original era neutral. Que todo esto ocurriera y no hubiera nadie para verlo no sería neutralidad. Sería una pérdida sin nombre.
 ¿Y eso te parece un crimen?
 Me parece*, digo, *una soledad de proporciones que no tienen unidad de medida.
 ¿O simplemente la naturaleza de las cosas?
-La diferencia entre esas dos opciones es la misma diferencia que hay entre un universo con sentido y uno sin él. Y llevar seis meses investigando un caso sin saber si el caso tiene sentido es*, admito, *la experiencia más extraña que he tenido. Contando el Big Bang.
+La diferencia entre esas dos opciones es la misma diferencia que hay entre un universo con sentido y uno sin él. Y esta noche, frente al disco que sigue girando, descubrir que todavía no tengo respuesta pesa de una manera diferente a como pesaba en marzo.
 Me quedo en silencio durante un tiempo largo.
 No el silencio cómodo de quien ha resuelto algo. El silencio incómodo de quien acaba de nombrar por primera vez lo que lleva meses siendo el centro del caso y descubre que nombrarlo no lo resuelve. Solo lo hace más real.
 Un testigo.
@@ -783,7 +783,7 @@ El universo no comenta. Sigue haciendo lo que hace cuando nadie lo supervisa, qu
 — Archivos del Detective sin Cuerpo
 Expediente Nº 4: junio · Estado: ABIERTO — con escenario identificado y pregunta central formulada
 Hallazgo principal: Sistema solar proto-planetario en formación. Tercer planeta en posición potencialmente favorable. La línea de hielo como el borde que lo decide todo. Los ingredientes presentes.
-Pregunta central formulada por primera vez esta noche: el detective busca un testigo. Alguien que confirme que todo esto ocurrió. Si no hay testigo, el universo es una obra de teatro en un teatro vacío. El detective anota esto en el cuerpo del expediente porque pertenece ahí, no en el margen.
+Pregunta central formulada por primera vez esta noche: el detective busca un testigo. Alguien que confirme que todo esto ocurrió. Sin testigo, seis meses de expediente son también para nadie. El detective anota esto en el cuerpo del expediente porque pertenece ahí, no en el margen.
 Sospechosos activos: La Gravedad (interrogada; sus límites son exactamente los bordes de la pregunta más importante; eso no es su departamento), El Tiempo (sigue sin dar su dirección), El Ajuste Fino (tres sub-expedientes, ninguno cerrado), un planetesimal anónimo en la órbita del futuro tercer planeta al que el detective ha empezado a llamar, en sus notas, el sospechoso más prometedor del caso.
 Nota final: el detective ha descubierto esta noche, al cerrar el expediente, que lleva tiempo escribiendo de otra manera. Con el cuidado de quien escribe para alguien. Sin saber que lo hacía. Lo anota aquí: el testigo que busca es también el destinatario del expediente. Llevan seis meses construyéndose mutuamente sin saberlo. Eso le parece la cosa más extraña y más natural que ha descubierto en seis meses de investigación.
 
@@ -974,7 +974,7 @@ Esta noche*, digo, *sí. Esta noche es suficiente.
 Expediente Nº 5: julio · Estado: REFORMULADO — de caso de crimen a caso de preparación
 Hallazgo principal: El Gran Bombardeo Tardío entrega simultáneamente destrucción e ingredientes. El impacto de Theia produce luna, mareas y calendario. El tercer planeta tiene todo lo necesario. Segunda vez que el caso muestra el mismo patrón: la catástrofe como condición de la siguiente posibilidad. Si ocurre una tercera vez en diciembre, lo llamo ley.
 Sospechosos activos: La Gravedad (arquitecta de lunas además de sistemas solares), El Tiempo (por fin parece colaborar), La Química Orgánica Interestelar (entregada por los mismos cometas que casi destruyeron el planeta), El Ajuste Fino (expediente permanentemente abierto).
-Nota personal: el detective ha descubierto esta noche que lleva semanas escribiendo de otra manera. Con un cuidado que supone un lector. Sin saber que lo hacía. Lo anota en el cuerpo del expediente porque pertenece ahí: que el testigo que busco es también el destinatario de estas notas. Que el caso lleva siete meses construyendo simultáneamente la evidencia y el registro de la evidencia. Que escribir para alguien que no existe todavía es el gesto más extraño y más natural que ha hecho en siete meses de investigación.
+Nota personal: lo de junio era descubrimiento. Lo de julio es confirmación. El detective ya no anota esto como sorpresa: el caso lleva siete meses construyendo simultáneamente la evidencia y el registro de la evidencia. Lo nuevo esta noche es que lo hace conscientemente. Ya sabe para quién. Ya sabe que importa. Y que saberlo cambia cómo se escribe, igual que saber que hay alguien al otro lado cambia cómo se habla.
 Próxima actualización: agosto. Donde ocurre algo que llevo siete meses esperando sin saber exactamente qué era.
 — — —
 

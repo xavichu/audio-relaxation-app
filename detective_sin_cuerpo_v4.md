@@ -1657,15 +1657,10 @@ Produzco ATP*, dice la mitocondria. *Es lo único que hago.
 No tengo criterio para juzgar la suficiencia.
 Cierro el interrogatorio. La mitocondria es el testigo más callado que he encontrado en once meses de caso, lo cual es decir mucho en una investigación donde la mayoría de los testigos son bacterias. Pero guarda en su propio ADN la prueba de su origen: su código genético circular, diferente del ADN del núcleo de la célula que la alberga. La cicatriz del accidente original, preservada durante dos mil millones de años sin que nadie la leyera.
 Hasta que alguien la leyó.
+Esa alguien tiene nombre. El expediente la debe.
 Una bacteria que no fue digerida*, anoto. *De ese accidente sale todo lo demás. Sin la mitocondria no hay metabolismo aeróbico eficiente en células complejas. Sin metabolismo aeróbico eficiente no hay energía suficiente para organismos grandes y activos. Sin organismos grandes y activos no hay sistema nervioso complejo. Sin sistema nervioso complejo no hay cerebro. Sin cerebro no hay conciencia. Sin conciencia no hay nadie leyendo esto.
 Todo depende de que una célula no digiriera una bacteria hace dos mil millones de años.
 Dejo esta frase en el expediente sin elaborarla más. Hay afirmaciones que necesitan espacio alrededor para que su peso llegue completamente. Esta es una de ellas.
-— — —
-
-*un interludio necesario — Lynn Margulis*
-*la única persona que aparece en el expediente antes del 31 de diciembre*
-Aquí el expediente hace una pausa.
-No porque el caso lo requiera. Sino porque hay alguien que merece ser nombrado en este momento específico, cuando la mitocondria acaba de ser presentada como el testigo más importante del año.
 Lynn Margulis. Bióloga. 1967. Un instante del año cósmico tan pequeño que no tiene escala propia, pero real.
 Propone formalmente la teoría endosimbiótica: que los orgánulos de las células eucariotas —la mitocondria, el cloroplasto— son bacterias capturadas en el pasado remoto. Que lo que hoy es parte de la célula fue una vez un organismo independiente que un accidente convirtió en colaborador permanente.
 Su hipótesis es rechazada por quince revistas científicas antes de encontrar una que la publique.
@@ -1783,6 +1778,10 @@ Miro hacia diciembre, que empieza mañana.
 Y noto que lo que siento esta noche no es la anticipación del detective que está cerca de resolver el caso. Es algo más parecido a lo que el Kimberella debió sentir —si el Kimberella pudiera sentir— moviéndose por primera vez en una dirección que no sabía que era una dirección.
 No lo nombro todavía.
 Los nombres llegan después de los hechos.
+Hay algo más que noto antes de cerrar el expediente de noviembre. Algo que tiene que ver con el tiempo.
+En once meses, cada mes del año cósmico equivalía entre ochocientos millones y mil cuatrocientos millones de años reales. Era un ritmo que el expediente había aprendido a seguir: un mes, un arco, un sospechoso principal. Ahora miro diciembre y el cálculo cambia. La primera semana de diciembre sola cubre 345 millones de años. La segunda semana, 170 millones. Las últimas horas del 31, la historia entera del sapiens.
+El tiempo se comprime. El universo, como quien acaba de entender que le queda poco y tiene mucho pendiente, empieza a acumular más en menos espacio.
+El detective anota esto en el margen: *diciembre trabaja distinto*.
 — — —
 
 — Archivos del Detective sin Cuerpo

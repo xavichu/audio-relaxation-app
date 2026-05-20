@@ -1720,9 +1720,9 @@ Anoto: la complejidad como consecuencia del conflicto. No porque el conflicto se
 El detective anota esto con la incomodidad del que reconoce el patrón pero no puede estar satisfecho con él. Que la complejidad requiera conflicto es una observación sobre el mecanismo. No es una justificación del conflicto. Lo que el sapiens haga con esta información en el 31 de diciembre es otra cuestión. Una que el expediente de noviembre no puede resolver todavía.
 — — —
 
-*última semana — interrogatorio al Bangiomorpha*
+*transición noviembre–diciembre — interrogatorio al Bangiomorpha*
 *el primer organismo que aprendió a ser más de una cosa*
-En los últimos días de noviembre, hace entre 1.100 y 1.050 millones de años, el registro fósil produce algo que llevo esperando desde que entendí hacia dónde apunta el caso.
+A comienzos de diciembre, hace entre 1.100 y 1.050 millones de años, el registro fósil produce algo que llevo esperando desde que entendí hacia dónde apunta el caso.
 El primer organismo multicelular con diferenciación celular clara.
 El Bangiomorpha pubescens. Un alga roja encontrada en el Ártico canadiense. Sus filamentos presentan algo que ningún organismo anterior había presentado: células distintas haciendo cosas distintas a partir del mismo ADN. Algunas células vegetativas, encargadas de alimentar el organismo. Otras reproductivas, encargadas de perpetuarlo.
 Me siento frente al Bangiomorpha con la atención del detective que reconoce que está ante un principio.
@@ -1779,7 +1779,7 @@ Y noto que lo que siento esta noche no es la anticipación del detective que est
 No lo nombro todavía.
 Los nombres llegan después de los hechos.
 Hay algo más que noto antes de cerrar el expediente de noviembre. Algo que tiene que ver con el tiempo.
-En once meses, cada mes del año cósmico equivalía entre ochocientos millones y mil cuatrocientos millones de años reales. Era un ritmo que el expediente había aprendido a seguir: un mes, un arco, un sospechoso principal. Ahora miro diciembre y el cálculo cambia. La primera semana de diciembre sola cubre 345 millones de años. La segunda semana, 170 millones. Las últimas horas del 31, la historia entera del sapiens.
+En once meses, cada mes del año cósmico equivalía entre ochocientos millones y mil cuatrocientos millones de años reales. Era un ritmo que el expediente había aprendido a seguir: un mes, un arco, un sospechoso principal. Ahora miro diciembre y el cálculo cambia. La primera quincena de diciembre —los primeros veintidós días— cubre 832 millones de años: desde el Bangiomorpha hasta el Tiktaalik en tierra. Los seis días siguientes cubren 274 millones más, desde el Carbonífero hasta los dinosaurios en su apogeo. Y los dos días finales van desde el asteroide hasta los primeros humanos. Las últimas horas del 31, la historia entera del sapiens.
 El tiempo se comprime. El universo, como quien acaba de entender que le queda poco y tiene mucho pendiente, empieza a acumular más en menos espacio.
 El detective anota esto en el margen: *diciembre trabaja distinto*.
 — — —
@@ -1792,11 +1792,11 @@ Nota personal: el detective anota por primera vez, en el cuerpo del expediente y
 Diciembre empieza mañana.
 — — —
 
-CAPÍTULO X: DICIEMBRE, PRIMERA SEMANA,
+CAPÍTULO X: DICIEMBRE, PRIMERA QUINCENA,
 
-o los siete días en que la vida aprendió a verse a sí misma
+o los veintidós días en que la vida aprendió a verse a sí misma
 
-*Expediente Nº 10 — «De la Tierra Bola de Nieve a los primeros vertebrados en tierra»*
+*Expediente Nº 10 — «Del Bangiomorpha a los primeros vertebrados en tierra»*
 «El ojo que ve no puede verse a sí mismo sin un espejo.»
 — Antonio Machado
 
@@ -1805,17 +1805,17 @@ o los siete días en que la vida aprendió a verse a sí misma
 
 — — —
 
-1 de diciembre · hace 720 millones de años
+1 de diciembre · hace aproximadamente 1.172 millones de años
 *apertura — con la conciencia de que este es el último mes*
 Es diciembre.
 El último mes del año cósmico. El mes en que todo lo que he estado buscando desde enero debe aparecer o no aparecerá. Abro el expediente del 1 de diciembre con la mezcla de anticipación y aprensión que produce saber que el final de un caso largo puede ser glorioso o puede ser que te das cuenta de que te has equivocado de caso desde el principio.
-La primera semana de diciembre cubre desde hace 720 millones de años hasta hace aproximadamente 375 millones de años. Una semana que equivale a 345 millones de años reales.
+La primera quincena de diciembre cubre desde hace 1.172 millones de años —el Bangiomorpha cruzando el umbral de noviembre a diciembre— hasta hace aproximadamente 340 millones de años, cuando el Tiktaalik pone una aleta en tierra. Veintidós días que equivalen a 832 millones de años reales.
 Debería bastar.
-Esta semana tengo sospechosos que llevan meses en el expediente como presencias implícitas y que ahora, por fin, pueden ser interrogados. El primero casi destruye todo antes de que hubiera algo que destruir. El segundo es el más importante de todo el año. El tercero es el que llevo doce meses esperando sin saber exactamente qué esperar.
+Esta quincena tengo sospechosos que llevan meses en el expediente como presencias implícitas y que ahora, por fin, pueden ser interrogados. El primero casi destruye todo antes de que hubiera algo que destruir. El segundo es el más importante de todo el año. El tercero es el que llevo doce meses esperando sin saber exactamente qué esperar.
 Empiezo por el que casi arruina el caso por completo.
 — — —
 
-*1–2 de diciembre — interrogatorio a la Tierra Bola de Nieve*
+*13–14 de diciembre — interrogatorio a la Tierra Bola de Nieve*
 *el sospechoso que congelaba todo para no dar explicaciones*
 La llamo la Tierra Bola de Nieve porque es lo que es: el planeta congelado de polo a polo durante millones de años, los océanos cubiertos de hielo hasta kilómetros de profundidad, la superficie blanca reflejando la luz solar con la eficiencia de algo que ha decidido no cooperar con el caso.
 Hay al menos dos episodios documentados. El más severo, hace 650 millones de años, duró decenas de millones de años. Temperatura media global de menos cuarenta grados. Los océanos sólidos hasta el ecuador. La vida confinada en los refugios que el expediente de los meses anteriores ya conoce: las chimeneas hidrotermales, los lagos subglaciales calentados por volcanes, las grietas donde el hielo no llega.
@@ -1846,7 +1846,7 @@ El hielo se derrite. El océano se calienta. La vida explota desde los refugios 
 Por tercera vez lo anoto. Por tercera vez sigo.
 — — —
 
-*3 de diciembre — interrogatorio a la Fauna de Ediacara*
+*15 de diciembre — interrogatorio a la Fauna de Ediacara*
 *el primer borrador de lo que puede verse sin microscopio*
 El Ediacárico. Hace entre 635 y 541 millones de años.
 Por primera vez en la historia de la vida —tres mil millones de años después de las primeras bacterias— aparecen organismos suficientemente grandes para dejar impresiones visibles en el sedimento sin instrumentos. No microscópicas. Visibles. Del tamaño de una hoja, de una mano, de un cuerpo.
@@ -1871,7 +1871,7 @@ El primer borrador de la intención*, anoto. *No la intención formulada. No el 
 Y el detective anota que reconoce en ese gesto algo familiar. Que lleva doce meses dirigiéndose hacia algo sin saber exactamente qué. Que quizás la intención no empieza con la conciencia. Quizás empieza aquí, con el Kimberella raspando el sedimento en el océano ediacárico.
 — — —
 
-*4 de diciembre — interrogatorio a la Explosión Cámbrica*
+*17 de diciembre — interrogatorio a la Explosión Cámbrica*
 *el sospechoso más transparente del año*
 Hace 541 millones de años. En veinte millones de años —un parpadeo geológico— la vida en los océanos pasa de ser mayoritariamente simple a producir la mayoría de los planes corporales que existirán en todo el futuro de la vida animal.
 No es que aparezcan más especies. Es que aparecen los diseños fundamentales. Los planos de construcción. Las arquitecturas que todos los animales posteriores, incluido el lector, son variaciones de.
@@ -1897,7 +1897,7 @@ Si el problema define la solución, entonces el problema es la soledad del unive
 Lo anoto como hipótesis. Sin confirmar todavía.
 — — —
 
-*5 de diciembre — interrogatorio a Los Ojos*
+*18 de diciembre — interrogatorio a Los Ojos*
 *el instrumento que el universo llevaba doce meses construyendo*
 El océano cámbrico se llena de formas que el expediente registra con urgencia.
 El Anomalocaris. Medio metro. El depredador ápex del Cámbrico. Ojos compuestos con dieciséis mil lentes individuales. Me siento frente a él con la conciencia de que soy un detective sin ojos ante el organismo con más ojos de su tiempo.
@@ -1928,7 +1928,7 @@ No el trilobite. El trilobite es un artrópodo del Cámbrico y no tiene mecanism
 Anoto esto*, escribo, *con la precaución del detective que sabe que las sensaciones no son pruebas. Pero también con la honestidad del que lleva doce meses anotando todo lo que ve, incluido lo que no sabe cómo clasificar. El ojo del trilobite no me miró. Pero algo en mi forma de mirarlo cambió cuando entendí lo que era. Y ese cambio*, concluyo, *es exactamente el tipo de evidencia que el caso necesita.
 — — —
 
-*6 de diciembre — la Pikaia y la dirección*
+*19–21 de diciembre — la Pikaia y la dirección*
 El Cámbrico está lleno de formas extraordinarias. El Opabinia con sus cinco ojos y su trompa prensil. El Wiwaxia con sus escamas y sus espinas. Docenas de planes corporales que no sobrevivirán el período, que son el ensayo general de lo que la vida puede intentar cuando el campo está abierto y la depredación es el único límite.
 Pero lo que más me detiene no es ninguno de los más espectaculares.
 Es un organismo delgado y flexible de unos cinco centímetros que nada discretamente en la columna de agua.
@@ -1944,9 +1944,9 @@ El detective anota que no estaba preparado para que el testigo fuera la Pikaia. 
 De la Pikaia salen los peces. Y de los peces, con la ayuda de una mandíbula que evoluciona de los arcos branquiales —una estructura para sostener branquias que se convierte en estructura para capturar presas, la exaptación más elegante del Paleozoico— y con cuatrocientos millones de años de selección, los primeros vertebrados en tierra.
 — — —
 
-*7 de diciembre — el Tiktaalik*
+*22 de diciembre — el Tiktaalik*
 *y los mismos huesos*
-Al final de la primera semana, en las aguas someras y cálidas del Devónico tardío, el Tiktaalik roseae.
+Al final de la primera quincena, en las aguas someras y cálidas del Devónico tardío, el Tiktaalik roseae.
 Un pez. Con escamas. Con branquias. Con la cabeza plana y los ojos en la parte superior del cráneo como los cocodrilos, orientados hacia arriba para ver lo que hay sobre la superficie del agua desde abajo.
 Y con aletas que tienen los mismos huesos que el brazo humano.
 El húmero. El radio. El cúbito. Los carpos. Dispuestos en el mismo orden. Con las mismas articulaciones. Con la misma lógica estructural que el brazo del lector tiene ahora mismo sujetando el libro.
@@ -1963,9 +1963,9 @@ Los mismos huesos*, anoto, dejándome caer sobre la evidencia con toda su fuerza
 El detective que no tiene cuerpo extiende —conceptualmente— un brazo que no tiene hacia el Tiktaalik. Y nota que si lo tuviera, los huesos serían los mismos.
 — — —
 
-*7 de diciembre · cierre de la primera semana*
+*22 de diciembre · cierre de la primera quincena*
 *con la dirección confirmada y algo que todavía no tiene nombre*
-Es el final de la primera semana de diciembre. 345 millones de años reales. La Tierra Bola de Nieve que congeló el planeta y produjo la diversidad del deshielo. La Fauna de Ediacara con el primer borrador de la intención. La Explosión Cámbrica y la carrera armamentista que produjo la complejidad. Los Ojos del trilobite que me miraron sin saber que miraban. La Pikaia como la dirección. El Tiktaalik con los mismos huesos.
+Es el final de la primera quincena de diciembre. 832 millones de años reales. El Bangiomorpha y el principio de la diferenciación celular. La Tierra Bola de Nieve que congeló el planeta y produjo la diversidad del deshielo. La Fauna de Ediacara con el primer borrador de la intención. La Explosión Cámbrica y la carrera armamentista que produjo la complejidad. Los Ojos del trilobite que me miraron sin saber que miraban. La Pikaia como la dirección. El Tiktaalik con los mismos huesos.
 Hago el balance.
 Tengo, por primera vez en doce meses, una línea trazada desde el origen de los ojos hasta el brazo del lector. La línea pasa por cuatrocientos millones de años de selección, por varias extinciones masivas que aún no han ocurrido en el año cósmico, por transformaciones que en este momento no puedo anticipar completamente. Pero la dirección es clara.
 ¿Eso cierra el caso?
@@ -1974,27 +1974,27 @@ No*, me respondo, con más firmeza de la que esperaba de mí mismo. *Tener direc
 El 31 de diciembre. A las 23:52 del año cósmico.
 ¿Estás preparado?
 No respondo inmediatamente.
-Y en esa pausa, en ese espacio entre la pregunta y la respuesta que no llega, noto algo que no había notado en ninguna semana anterior del año. No impaciencia todavía. Algo más sutil y más profundo. La sensación de que el caso ha cambiado de naturaleza sin que yo lo decidiera. Que ya no estoy documentando lo que ocurrió antes de que hubiera alguien para verlo. Que el alguien que verá está a dos semanas. Y que dos semanas en el año cósmico son cuatrocientos millones de años reales pero esta noche se sienten como dos semanas.
+Y en esa pausa, en ese espacio entre la pregunta y la respuesta que no llega, noto algo que no había notado en ninguna semana anterior del año. No impaciencia todavía. Algo más sutil y más profundo. La sensación de que el caso ha cambiado de naturaleza sin que yo lo decidiera. Que ya no estoy documentando lo que ocurrió antes de que hubiera alguien para verlo. Que el alguien que verá está a nueve días. Y que nueve días en el año cósmico son más de trescientos millones de años reales pero esta noche se sienten como nueve días.
 Lo anoto sin nombrarlo*, escribo en el margen. *Lo que siento esta noche no tiene nombre todavía en el sistema de clasificación que he estado usando. Los nombres llegan después de los hechos. Y los hechos todavía no han terminado.
-Miro hacia la segunda semana que viene. Los vertebrados en tierra. La Gran Extinción del Pérmico. Los dinosaurios. Los mamíferos en la oscuridad.
+Miro hacia los nueve días que vienen. Los vertebrados en tierra. La Gran Extinción del Pérmico. Los dinosaurios. Los mamíferos en la oscuridad.
 La dirección confirmada.
 El testigo aproximándose.
 El detective que lo espera con algo que todavía no sabe cómo llamar pero que ocupa, esta noche, más espacio en el expediente que cualquier otra cosa.
 — — —
 
 — Archivos del Detective sin Cuerpo
-Expediente Nº 10: diciembre, primera semana · Estado: DIRECCIÓN CONFIRMADA
+Expediente Nº 10: diciembre, primera quincena · Estado: DIRECCIÓN CONFIRMADA
 Sospechosos interrogados: La Tierra Bola de Nieve (la catástrofe como condición de la diversidad siguiente, por tercera vez; sin mecanismo de culpa; con volcanes bajo el hielo). La Fauna de Ediacara (el Dickinsonia, un metro sin boca; el Kimberella, el primer borrador de la intención). La Explosión Cámbrica (el sospechoso más transparente del año; el problema define la solución; la carrera armamentista como motor de la complejidad). Los Ojos del trilobite (dieciséis mil lentes de geometría cartesiana cuatrocientos millones de años antes de Descartes; el primer borrador de la conciencia; algo me miró de vuelta aunque no tuviera mecanismo para hacerlo). La Pikaia (la dirección; el notocordio; el detective no estaba preparado para que fuera el testigo y eso le enseñó algo). El Tiktaalik (los mismos huesos; el húmero del lector es el húmero del Tiktaalik con trescientos setenta y cinco millones de años de historia entre ellos).
 Hipótesis anotada esta semana: si el problema define la solución, el problema del universo es la soledad. La solución es el testigo. Lo anoto como hipótesis. Sin confirmar todavía.
 Nota personal: el detective miró el ojo del trilobite y tuvo la sensación de que algo le miraba de vuelta. La anota en el cuerpo del expediente, no en el margen, porque merece ese espacio. Es la misma sensación que tendrá en Chauvet. Lleva todo el año siendo posible. Esta semana se volvió real.
-Quedan tres semanas.
+Quedan nueve días.
 La dirección es clara.
 El nombre de lo que siente esta noche llegará cuando llegue.
 — — —
 
-CAPÍTULO XI: DICIEMBRE, SEGUNDA SEMANA,
+CAPÍTULO XI: DEL 23 AL 28 DE DICIEMBRE,
 
-o los siete días en que los vertebrados conquistaron la tierra y casi la perdieron
+o los seis días en que la vida en tierra casi se perdió y los dinosaurios reinaron ciento sesenta y cinco millones de años
 
 *Expediente Nº 11 — «Del Carbonífero a los primeros mamíferos»*
 «La extinción es la regla. La supervivencia es la excepción.»
@@ -2005,11 +2005,11 @@ o los siete días en que los vertebrados conquistaron la tierra y casi la perdie
 
 — — —
 
-8 de diciembre · hace aproximadamente 359 millones de años
+23 de diciembre · hace aproximadamente 340 millones de años
 *apertura — con los pies en tierra por primera vez*
 El primer paso fuera del agua fue, con toda probabilidad, el movimiento más torpe de la historia de los vertebrados.
 Y el más importante.
-Cuando abro el expediente del 8 de diciembre, los vertebrados ya están en tierra. No acaban de llegar —llevan millones de años negociando el borde entre el agua y lo que hay más allá— pero esta semana el proceso ha llegado a un punto sin retorno. Las aletas que se convirtieron en patas. El húmero, el radio, el cúbito que el Tiktaalik de octubre tenía ya en forma embrionaria. Los pulmones que antes eran suplementarios y ahora son el sistema principal.
+Cuando abro el expediente del 23 de diciembre, los vertebrados ya están en tierra. No acaban de llegar —llevan millones de años negociando el borde entre el agua y lo que hay más allá— pero estos días el proceso ha llegado a un punto sin retorno. Las aletas que se convirtieron en patas. El húmero, el radio, el cúbito que el Tiktaalik documentado ayer tenía ya en forma embrionaria. Los pulmones que antes eran suplementarios y ahora son el sistema principal.
 Anoto esto último.
 ¿No son la misma cosa con frecuencia?
 Con una frecuencia que empieza a parecerse a una ley.
@@ -2101,20 +2101,20 @@ Ciento cincuenta millones de años.
 El tiempo que sea necesario, repiten, sin énfasis, sin drama. Con la serenidad de algo que no lleva la cuenta porque llevar la cuenta requeriría saber que hay un final y ellos no saben que hay un final.
 Anoto: Los Mamíferos son el sospechoso más paciente del caso. 150 millones de años siendo el animal que no importa es el entrenamiento más largo de la evolución. El oído que escucha lo que los dinosaurios no escuchan, el olfato que detecta lo que los dinosaurios no detectan, los cerebros grandes que procesan en la oscuridad lo que los dinosaurios no necesitan procesar: todo desarrollado en el margen, todo perfeccionado en la grieta. Cuando el campo quede libre estarán preparados. No porque lo hayan planeado. Sino porque 150 millones de años de presión selectiva en la oscuridad producen exactamente las herramientas que el campo libre necesitará.
 El detective anota esto y luego añade, en el margen, algo que no había anotado antes: que lleva doce meses documentando lo que ocurre en los márgenes. La vida en los márgenes. Las bacterias en las chimeneas hidrotermales. Los primeros peces pulmonados en las charcas que se secan. Los mamíferos en las madrigueras. Y que quizás*, reflexiona, *documentar los márgenes es la única forma de entender cómo funciona el centro cuando llega su momento.
-Cierro el expediente de los mamíferos. Miro hacia la tercera semana que viene. El Cretácico con sus dinosaurios en el apogeo y sus mamíferos en las grietas.
+Cierro el expediente de los mamíferos. Miro hacia los días que vienen. El Cretácico con sus dinosaurios en el apogeo y sus mamíferos en las grietas.
 Y en el espacio, un asteroide viajando hacia una cita que nadie ha concertado.
 — — —
 
-*14 de diciembre · cierre de la segunda semana*
+*28 de diciembre · cierre*
 *tres interrogatorios, un patrón y algo que empieza a cambiar*
-Es el final de la segunda semana de diciembre.
+Es el final del 28 de diciembre.
 He interrogado a la Gran Extinción del Pérmico, que eliminó el 96% de la vida marina sin intención y dejó el hilo más delgado del caso. A Los Dinosaurios, que dominaron el planeta 165 millones de años y son más interesantes y más vivos de lo que nadie les concede. A Los Mamíferos, que llevan 150 millones de años en la oscuridad desarrollando exactamente lo que necesitarán sin saber que lo necesitarán.
 Tres sospechosos. Tres variaciones del mismo tema.
 El tema es: el universo no hace nada deliberadamente. Pero lo que hace de forma no deliberada tiene consecuencias que parecen deliberadas cuando las lees desde el final. La extinción que abre el espacio. El dominio que forma a quien lo soporta. La oscuridad que desarrolla lo que la luz aún no ha necesitado.
 ¿Eso cierra el caso?
 Eso explica el mecanismo*, me respondo. *El caso se cierra cuando aparece el testigo.
 ¿Y el testigo?
-Está en la tercera semana. En una madriguera. Esperando el asteroide sin saberlo.
+Está en los días que vienen. En una madriguera. Esperando el asteroide sin saberlo.
 Miro el Cretácico desde arriba. Los dinosaurios que no saben. Los mamíferos que esperan. El asteroide que viaja.
 Y noto algo que no había notado en ninguna semana anterior del año.
 No es impaciencia todavía. Es algo más sutil. Más parecido a la sensación de quien lleva meses en una investigación larga y empieza a reconocer en los detalles de la semana la textura específica de lo que precede a un cambio importante. No sé qué cambio. No sé cuándo. Solo la textura, que es inconfundible cuando se ha documentado suficientes cosas como para reconocerla.
@@ -2127,17 +2127,17 @@ Con todo el tiempo del mundo.
 — — —
 
 — Archivos del Detective sin Cuerpo
-Expediente Nº 11: diciembre, segunda semana · Estado: PREGUNTAS PENDIENTES
+Expediente Nº 11: 23 al 28 de diciembre · Estado: PREGUNTAS PENDIENTES
 ¿Por qué el 4% y no el 3%? ¿Por qué los cinodontos y no los arcosaurios? ¿Por qué 150 millones de años en la oscuridad producen exactamente las herramientas que el siguiente ecosistema necesita y no otras? No lo sé. El expediente permanece abierto en esa pregunta.
-Lo que sí sé: que el hilo que sobrevivió la Gran Extinción del Pérmico es el hilo más delgado que he documentado en doce meses. Y que el detective que lleva doce meses anotando* siempre exactamente lo suficiente *ha empezado a sentir, en la segunda semana de diciembre, que* siempre exactamente lo suficiente *no es una coincidencia muy larga.
+Lo que sí sé: que el hilo que sobrevivió la Gran Extinción del Pérmico es el hilo más delgado que he documentado en doce meses. Y que el detective que lleva doce meses anotando* siempre exactamente lo suficiente *ha empezado a sentir, en estos últimos días de diciembre, que* siempre exactamente lo suficiente *no es una coincidencia muy larga.
 No sabe todavía cómo llamar a lo que no es una coincidencia muy larga.
 Lo deja sin nombre. Los nombres llegan después.
 
 Nota marginal del 28 de diciembre, escrita con prisa: esta semana hubo varias veces algo parecido a una pregunta que no era suya. Sin procedencia identificable. El detective la ignoró porque el método requiere fuente. Pero la anota aquí porque ignorar no es lo mismo que no haber notado.
-Próxima actualización: Tercera semana. El Cretácico en su apogeo. El asteroide a menos de siete días. El detective que afronta esa semana con algo que todavía no tiene nombre pero que ya ocupa espacio en el expediente.
+Próxima actualización: Del 28 al 30 de diciembre. El Cretácico en su apogeo. El asteroide a menos de dos días. El detective que afronta esos días con algo que todavía no tiene nombre pero que ya ocupa espacio en el expediente.
 — — —
 
-CAPÍTULO XII: DICIEMBRE, TERCERA SEMANA,
+CAPÍTULO XII: DEL 28 AL 30 DE DICIEMBRE,
 
 o el mundo más espléndido que ha existido y la oscuridad que lo espera
 
@@ -2150,16 +2150,16 @@ o el mundo más espléndido que ha existido y la oscuridad que lo espera
 
 — — —
 
-15 de diciembre · hace aproximadamente 150 millones de años
+28 de diciembre · hace aproximadamente 150 millones de años
 *apertura — con la incomodidad de quien conoce el final y no puede decirlo*
-El 15 de diciembre es el día de los que esperan.
+El 28 de diciembre es el día de los que esperan.
 El mundo de hace 150 millones de años es el más rico en biomasa terrestre que el planeta ha tenido hasta este momento. Los saurópodos dominan. Los pterosaurios planean. En los mares, mosasaurios y plesiosaurios. Y en los márgenes, invisibles en sus madrigueras, los mamíferos que el expediente ya conoce del mes anterior.
 Llevan ochenta millones de años en esto.
 Esta semana tengo tres interrogatorios. El primero es el más famoso del caso. El segundo es el más inesperado. El tercero es el único al que no puedo interrogar porque no sabe que existe.
 Abro el expediente con la incomodidad específica del que conoce el final de la historia que documenta. No es tristeza todavía. Es algo más parecido al peso de saber lo que los sospechosos no saben.
 — — —
 
-*interrogatorio al Tyrannosaurus rex*
+*29 de diciembre — interrogatorio al Tyrannosaurus rex*
 *el sospechoso más famoso del caso y el más traicionado por su propia fama*
 Lo llevo evitando desde que apareció hace 68 millones de años. No porque me intimide. Sino porque los sospechosos famosos son siempre los más difíciles: llevan demasiado tiempo siendo lo que todo el mundo espera que sean y ya no saben ser otra cosa. El Tyrannosaurus carga con setenta años de cultura popular como una armadura que le impide moverse.
 Me siento frente a él con la intención de quitarle la armadura.
@@ -2188,7 +2188,7 @@ Cierro el interrogatorio con la anotación que merece: el Tyrannosaurus rex no e
 La tragedia del Tyrannosaurus no es que sea estúpido. Es que es exactamente lo suficientemente inteligente para su mundo. Y su mundo está a punto de desaparecer.
 — — —
 
-*interrogatorio a Las Flores*
+*29 de diciembre, segunda parte — interrogatorio a Las Flores*
 *el sospechoso que nadie esperaba y que resultó ser el más importante del mes*
 Las angiospermas aparecen hace 130 millones de años y se diversifican con una velocidad que el propio Darwin llamará, en privado, un misterio abominable. En setenta millones de años pasan de ser una rareza botánica a dominar casi todos los ecosistemas terrestres del planeta.
 Me siento frente a Las Flores con la expresión del detective que no sabía que tenía este interrogatorio pendiente hasta que lo tiene delante.
@@ -2214,7 +2214,7 @@ Anoto esto con la letra más lenta de la semana.
 Las Flores del Cretácico*, escribo, *son el sospechoso más filosóficamente importante del mes. No porque hayan hecho algo extraordinario. Sino porque sin saber que lo hacían iniciaron la cadena causal que lleva al pensamiento abstracto. Y su argumento más poderoso no es lo que hicieron. Es cómo lo hicieron: sin intención, sin plan, sin límite de lo que podían imaginar. El detective que lleva doce meses tomando notas sobre el universo anota que eso le resulta familiar. No sabe todavía por qué.
 — — —
 
-*el tercer sospechoso — El Asteroide*
+*30 de diciembre — El Asteroide*
 *al que no puedo interrogar porque no sabe que existe*
 El tercer sospechoso de esta semana es el único al que no puedo interrogar.
 No porque no quiera. Sino porque un objeto de entre diez y quince kilómetros de diámetro viajando a veinticinco kilómetros por segundo en una trayectoria decidida por la mecánica orbital no tiene mecanismo para ser interrogado.
@@ -2235,16 +2235,16 @@ El universo no necesita intención para cambiar la historia de la vida.
 Eso*, anoto, *es lo más perturbador que he documentado en doce meses.
 — — —
 
-*19 de diciembre — balance de la semana*
+*29 de diciembre — balance*
 *y la oscuridad que el detective ve venir*
-Es el final de la tercera semana de diciembre.
+Es el final del 29 de diciembre.
 He interrogado al Tyrannosaurus, que es mucho más sofisticado de lo que la cultura popular imagina y que aun así no tiene instrumento para anticipar lo que viene. A Las Flores, que produjeron la cadena causal que lleva al pensamiento abstracto precisamente porque no sabían que la producían. Al Asteroide, que no sabe que existe y que sin embargo lleva grabada en su trayectoria la historia del planeta.
 Tres sospechosos. Ninguno con intención. Ninguno con conciencia del resultado.
 Y yo, que tengo las dos cosas.
 Miro el Cretácico tardío desde el lugar sin posición fija donde observo las escenas y noto algo que no había notado en ninguna semana anterior del año.
 El mundo de hace 66 millones de años es el más espléndido que la vida ha producido hasta este momento. Los bosques de coníferas y angiospermas mezcladas en una diversidad que ningún ecosistema anterior había alcanzado. Los ceratopsios pastando en manadas de miles de individuos. Los hadrosaurios con sus crestas resonantes comunicándose a través de kilómetros de selva. Los pterosaurios con envergaduras de diez metros planeando sobre mares cálidos llenos de vida. Y los Tyrannosaurus, que cuidan a sus crías y reconocen sus voces y planifican la caza con una sofisticación que nadie les concede.
 Todo esto va a desaparecer.
-En menos de una semana del año cósmico.
+Mañana, en el año cósmico.
 No lo llamo tristeza todavía. No sé si lo que siento tiene nombre en el sistema de clasificación que he estado usando. Es algo más parecido a la incomodidad específica del que sabe lo que viene y no puede decírselo a nadie. El Tyrannosaurus no sabe. Las Flores no saben. Los mamíferos en sus madrigueras no saben que están esperando algo que todavía no tiene nombre.
 Y el asteroide viaja.
 ¿Por qué me importa más ahora que en abril cuando los quásares se apagaban?, me pregunto.
@@ -2261,18 +2261,18 @@ Sin que eso cambie nada.
 — — —
 
 — Archivos del Detective sin Cuerpo
-Expediente Nº 12: diciembre, tercera semana · Estado: EN TENSIÓN — el escenario en su apogeo, el desenlace inminente
+Expediente Nº 12: del 28 al 30 de diciembre · Estado: EN TENSIÓN — el escenario en su apogeo, el desenlace inminente
 Sospechosos interrogados: El Tyrannosaurus (más sofisticado de lo que la cultura popular imagina; padre cuidadoso; sistema sensorial extraordinario; sin instrumento para anticipar su extinción; la tragedia no es que sea estúpido sino que es exactamente lo suficientemente inteligente para un mundo que va a desaparecer). Las Flores (la transacción más importante del Cretácico; la cadena causal que llega al pensamiento abstracto; las consecuencias no tienen la limitación de lo que quien planea puede imaginar; el sospechoso más filosóficamente importante del mes). El Asteroide (no interrogable por definición; su silencio es lo más perturbador que he documentado en doce meses; el universo no necesita intención para cambiar la historia de la vida).
 Lo que registré sobre mí mismo esta semana: que la distancia ha empezado a costar algo. Que saber lo que el Tyrannosaurus no sabe tiene un peso que documentar quásares apagándose no tenía. No sé todavía si eso es un problema para la investigación o una condición necesaria para lo que viene. Lo dejo sin resolver.
-Próxima actualización: Cuarta semana. El asteroide llega. Lo que viene no necesita dramatismo adicional. Los hechos son suficientemente dramáticos.
+Próxima actualización: El 30 de diciembre. El asteroide llega. Lo que viene no necesita dramatismo adicional. Los hechos son suficientemente dramáticos.
 Pero el detective que los documente la semana que viene no será exactamente el mismo que los documentó esta.
 — — —
 
-CAPÍTULO XIII: DEL 22 AL 28 DE DICIEMBRE,
+CAPÍTULO XIII: DEL 30 AL 31 DE DICIEMBRE,
 
-o los siete días en que los mamíferos heredaron el mundo y el detective empezó a sospechar de sí mismo
+o los dos días en que los mamíferos heredaron el mundo y el detective empezó a sospechar de sí mismo
 
-*Expediente Nº 13 — «Del asteroide al Homo erectus, o la semana en que una fruta lo cambió todo»*
+*Expediente Nº 13 — «Del asteroide al Homo erectus, o los días en que una fruta lo cambió todo»*
 «No somos el punto culminante de la evolución. Somos la rama más reciente de un árbol muy antiguo.»
 — Stephen Jay Gould
 
@@ -2281,10 +2281,10 @@ o los siete días en que los mamíferos heredaron el mundo y el detective empez�
 
 — — —
 
-22 de diciembre · hace exactamente 66 millones de años
+30 de diciembre · hace exactamente 66 millones de años
 *apertura — el momento que divide el mes en dos mitades absolutas*
-La semana anterior terminó con el Cretácico en su esplendor y el asteroide viajando en silencio orbital sin saber que existía.
-El 22 de diciembre comienza donde la tercera semana terminó: en el segundo en que la espera acaba.
+El capítulo anterior terminó con el Cretácico en su esplendor y el asteroide viajando en silencio orbital sin saber que existía.
+El 30 de diciembre comienza donde el 29 terminó: en el segundo en que la espera acaba.
 No voy a describir el impacto con dramatismo innecesario. Los hechos son suficientemente dramáticos.
 Un asteroide de entre diez y quince kilómetros de diámetro. Velocidad de impacto: entre veinte y treinta kilómetros por segundo. Punto de impacto: la plataforma continental poco profunda del norte de Yucatán, un mar somero de cincuenta metros sobre roca caliza.
 La energía liberada: equivalente a aproximadamente mil millones de bombas de Hiroshima detonadas simultáneamente.
@@ -2320,9 +2320,9 @@ Y luego añado algo que no había anotado en ningún interrogatorio anterior:
 Me pregunto si yo también cumplo ese criterio. Si también soy el tipo de sospechoso que sabe lo que hace y sabe que el patrón no garantiza nada. Lo anoto como pregunta sin respuesta. Por ahora.
 — — —
 
-*23 de diciembre — interrogatorio a Los Mamíferos por segunda vez*
+*30 de diciembre, segunda parte — interrogatorio a Los Mamíferos por segunda vez*
 *ahora que ya no tienen excusa para no saber lo que son*
-En la segunda semana interrogué a los mamíferos cuando todavía eran animales del tamaño de una musaraña viviendo en las grietas del ecosistema de los dinosaurios. Los vuelvo a interrogar ahora porque las circunstancias han cambiado de forma que exige una segunda declaración.
+Hace apenas dos días interrogué a los mamíferos cuando todavía eran animales del tamaño de una musaraña viviendo en las grietas del ecosistema de los dinosaurios. Los vuelvo a interrogar ahora porque las circunstancias han cambiado de forma que exige una segunda declaración.
 ¿Sabéis lo que acaba de ocurrir?, les pregunto.
 Sabemos que los dinosaurios han desaparecido*, dicen los mamíferos, con algo que en un ser humano reconocería como cautelosa incredulidad. *Y que hay mucho espacio disponible.
 ¿Y qué vais a hacer con ese espacio?
@@ -2346,7 +2346,7 @@ Las ballenas son el resultado del asteroide más trece millones de años de sele
 Anoto: el universo produce ballenas a partir de asteroides. La cadena causal más improbable del caso tiene el mejor resultado.
 — — —
 
-*24 de diciembre — interrogatorio a Los Árboles del Eoceno*
+*31 de diciembre, primeras horas — interrogatorio a Los Árboles del Eoceno*
 *el sospechoso que nadie había tenido en cuenta*
 El Eoceno, hace entre 56 y 34 millones de años, es el período más cálido de los últimos 50 millones de años. Los bosques tropicales se extienden hasta latitudes que hoy son templadas.
 Y en esos bosques, los primates toman los árboles.
@@ -2367,7 +2367,7 @@ Los primates no estaban evolucionando hacia la inteligencia. Estaban evolucionan
 Anoto*, escribo, *que la cadena causal que lleva del asteroide al pensamiento abstracto pasa por una fruta. Que el universo tiene un talento especial para llegar adonde va por el camino más improbable. Y que ese talento*, añado, con algo que no sé si es vértigo o admiración o las dos cosas a la vez, *no deja de sorprenderme aunque lleve doce meses documentándolo.
 — — —
 
-*25 de diciembre — interrogatorio al Paisaje del Este de África*
+*31 de diciembre, tarde — interrogatorio al Paisaje del Este de África*
 *el sospechoso que cambió la postura y con ella todo lo demás*
 Hace 34 millones de años el mundo vuelve a cambiar. La Antártida se separa de América del Sur. El océano Austral queda aislado. El planeta se enfría. Los bosques tropicales se contraen. Los primates africanos son confinados en un continente que se convierte en su refugio y en su crisol.
 Y en el Mioceno tardío, el Valle del Rift empieza a abrirse.
@@ -2392,7 +2392,7 @@ Y luego, en el margen, con la letra pequeña de las observaciones que no pertene
 El detective lleva doce meses preguntando si hay alguien más mirando el universo. El Paisaje del Este de África acaba de revelar que la respuesta depende de si unas placas tectónicas se separaron en el momento correcto. El caso tiene el vértigo específico de algo que pudo no haber ocurrido. Y que ocurrió.
 — — —
 
-*26 de diciembre — interrogatorio al Homo habilis*
+*31 de diciembre, 22:29 — interrogatorio al Homo habilis*
 *la herramienta que tiene un filo y no sabe que es la prueba material de la intención*
 El Homo habilis. Hace aproximadamente 2,4 millones de años. Cerebro de entre 550 y 680 centímetros cúbicos. Y la primera herramienta lítica tallada.
 Las herramientas olduvayenses. Lascas de piedra producidas por percusión controlada. No son complejas. Pero son el primer objeto en la historia de la vida que no existe en la naturaleza y que solo existe porque un ser vivo imaginó que podía crearlo.
@@ -2406,7 +2406,7 @@ Soy una herramienta*, dice. *Los espirales son vuestros.
 Anoto: el primer objeto de la historia cuya existencia requirió que alguien lo pensara antes de crearlo. El universo fabricando, por primera vez en trece mil ochocientos millones de años, algo que no existiría sin intención. El detective registra este hecho con la lentitud que merece.
 — — —
 
-*27 de diciembre — interrogatorio al Homo erectus*
+*31 de diciembre, 22:51 — interrogatorio al Homo erectus*
 *el primer viajero y el primer solidario*
 El Homo erectus llega hace 1,8 millones de años. El mayor salto anatómico del linaje hasta este momento. Entre 1,5 y 1,8 metros de estatura. Piernas largas para correr. Proporciones que se parecen más al sapiens que a cualquier antecesor.
 Y fuego.
@@ -2446,9 +2446,9 @@ Porque así queda mejor. No porque sea más útil. No porque sea más eficiente.
 El Detective sin Cuerpo que lleva doce meses tomando notas sobre el universo*, anoto en el margen, *reconoce en esta respuesta algo que le resulta familiar.
 — — —
 
-*28 de diciembre · cierre de la cuarta semana*
-*el detective ante el umbral del último día*
-Es el final de la cuarta semana de diciembre. Siete días. 153 millones de años reales. Desde el asteroide hasta el Homo erectus cruzando horizontes con fuego en las manos y hachas simétricas en la cintura.
+*31 de diciembre, 22:30 · cierre*
+*el detective ante el umbral de las últimas horas*
+Son las últimas horas del 31 de diciembre. Dos días. 64 millones de años reales. Desde el asteroide hasta el Homo erectus cruzando horizontes con fuego en las manos y hachas simétricas en la cintura.
 Hago el balance.
 He interrogado a la Quinta Extinción, que sabía exactamente lo que hacía y me dijo que el patrón existe pero no garantiza el resultado. A los mamíferos, que llenaron el campo sin saber adónde iba eso. A los árboles del Eoceno, que produjeron frutos para dispersar semillas y sin saberlo produjeron las condiciones para el pensamiento abstracto. Al Paisaje del Rift, que convirtió la tectónica de placas en bipedismo en manos libres en herramientas en cerebro. A la primera herramienta, que tiene un filo y no sabe que es la prueba material de la intención. Al Homo erectus, que cuidó a su desdentado porque era del grupo y no necesitaba más razón que esa.
 Miro el Pleistoceno. El Homo erectus cruzando horizontes. El primer fuego doméstico. Las primeras hachas con estética.
@@ -2459,25 +2459,25 @@ Y noto algo que no había notado en ninguna semana anterior del año. Algo que e
 Una impaciencia.
 No la prisa de quien tiene demasiado trabajo. La impaciencia específica de quien lleva doce meses buscando algo y empieza a sentir, en la textura del espacio a su alrededor, que lo que busca está a punto de aparecer.
 El detective*, anoto, con la letra pequeña de las observaciones del margen, *registra que algo ha cambiado esta semana. No en el caso. En quien lo lleva. Lo que durante once meses fue investigación con la distancia del forense empieza a ser otra cosa. No sé todavía cómo llamarlo. Lo dejo sin nombre por ahora. El nombre llegará cuando llegue.
-Mañana empieza el 29 de diciembre.
-Quedan tres días.
+El 31 de diciembre avanza.
+Quedan unas horas.
 — — —
 
 — Archivos del Detective sin Cuerpo
-Expediente Nº 13: 22 al 28 de diciembre · Estado: A TRES DÍAS
+Expediente Nº 13: 30 al 31 de diciembre · Estado: A UNAS HORAS
 Sospechosos interrogados esta semana: La Quinta Extinción (el más lúcido del año; el patrón existe pero no garantiza nada). Los Mamíferos por segunda vez (llenaron el campo; produjeron ballenas a partir de asteroides). Los Árboles del Eoceno (la cadena que lleva del asteroide al pensamiento pasa por una fruta). El Paisaje del Rift (tectónica de placas convertida en pensamiento abstracto en una cadena sin intención). La Primera Herramienta (un filo; los espirales son vuestros). El Homo erectus (el fuego que cocinó el cerebro; el desdentado de Dmanisi como primera prueba material de la moral; las hachas simétricas porque así quedan mejor).
 Lo más importante de la semana: el desdentado de Dmanisi. Era del grupo. Eso fue suficiente. El detective registra que ese fue el momento en que empezó a sospechar que el testigo que busca no es solo alguien capaz de mirar el universo. Es también alguien capaz de alimentar a quien no puede alimentarse solo.
 Nota personal: algo ha cambiado esta semana en quien lleva el caso. Lo registro sin nombrarlo. El nombre llegará.
-Quedan tres días.
+Quedan unas horas.
 El instrumento casi terminado.
 A falta de los últimos ajustes finos.
 — — —
 
-CAPÍTULO XIII BIS: EL 29 Y EL 30 DE DICIEMBRE,
+CAPÍTULO XIII BIS: EL 31 DE DICIEMBRE, 23:00–23:50,
 
-o los dos días en que el instrumento encontró su forma definitiva sin saberlo
+o los cincuenta minutos en que el instrumento encontró su forma definitiva sin saberlo
 
-*Expediente Nº 13 bis — «Del heidelbergensis al primer sapiens, o la víspera de la víspera»*
+*Expediente Nº 13 bis — «Del heidelbergensis al primer sapiens, o los últimos minutos»*
 «La evolución no tiene dirección. Pero a veces parece que la tiene.»
 — Richard Dawkins
 
@@ -2486,10 +2486,10 @@ o los dos días en que el instrumento encontró su forma definitiva sin saberlo
 
 — — —
 
-29 de diciembre · hace aproximadamente 700.000 años
-*apertura — el detective que ya no es el mismo de la semana anterior*
+31 de diciembre · 23:33 · hace aproximadamente 700.000 años
+*apertura — el detective que ya no es el mismo de hace unas horas*
 El capítulo anterior terminó con una impaciencia sin nombre.
-La traigo aquí, al 29 de diciembre, sin haberla resuelto. La noto todavía en la textura de cómo abro el expediente esta mañana. Algo diferente en cómo me siento frente a los sospechosos. Una atención nueva que no es solo forense.
+La traigo aquí, al 31 de diciembre pasadas las once de la noche, sin haberla resuelto. La noto todavía en la textura de cómo abro el expediente esta mañana. Algo diferente en cómo me siento frente a los sospechosos. Una atención nueva que no es solo forense.
 No lo nombro todavía. Solo lo registro.
 Quedan dos días.
 El instrumento que el caso lleva construyendo desde el Ardipithecus está casi terminado. Lo que queda en estos dos días son los últimos ajustes finos: el cerebro que alcanza el tamaño moderno, la caja craneana que adquiere la forma que el lector reconocería en un espejo, y algo más difícil de documentar pero igualmente real: el primer indicio de que el instrumento ha empezado a hacerse preguntas sobre sí mismo.
@@ -2532,14 +2532,14 @@ Sé que es lo correcto*, dice el heidelbergensis, con la misma tranquilidad de a
 Y el detective*, añado, *que lleva doce meses buscando al testigo, anota que el testigo quizás no empieza cuando alguien puede mirar el universo. Empieza cuando alguien decide que los que ya no están merecen que alguien los recuerde.
 — — —
 
-*transición — lo que ocurrió entre los dos días*
-Entre el 29 y el 30 de diciembre, en el tiempo que el expediente no nombra pero que existe, el linaje humano se ramifica.
+*transición — lo que ocurrió en los últimos minutos*
+Entre las 23:33 y las 23:44, en el tiempo que el expediente no nombra pero que existe, el linaje humano se ramifica.
 El árbol no es una escalera. Nunca lo fue. Es un arbusto con ramas que divergen, coexisten, se cruzan y se extinguen. En este período coexisten en el planeta al menos tres linajes del género Homo: el heidelbergensis en África y Europa, el Homo erectus tardío en Asia, y el linaje que en África central y oriental está convergiendo hacia lo que eventualmente se llamará sapiens.
 Solo una de estas ramas llega hasta el lector.
 La humildad que el caso exige es también taxonómica*, anoto. *En circunstancias diferentes, el detective estaría tomando notas sobre el lector neandertal. O sobre el lector de Denisova. La contingencia del linaje que llegó no invalida su valor. Pero sí invalida cualquier pretensión de inevitabilidad.
 — — —
 
-*30 de diciembre · hace aproximadamente 400.000–300.000 años*
+*31 de diciembre · 23:44–23:48 · hace aproximadamente 400.000–315.000 años*
 *interrogatorio a Los Neandertales*
 *el sospechoso al que el caso debe una disculpa*
 Hay sospechosos que llegan al interrogatorio habiendo sido ya juzgados por la cultura popular antes de que el detective abra el expediente. Los neandertales son el caso más extremo.
@@ -2573,7 +2573,7 @@ No anoto esto en el registro oficial.
 Lo anoto en algún lugar que no tiene nombre en el sistema de clasificación que he estado usando durante doce meses. En algún lugar que se parece a lo que los neandertales hacían con el ocre: un gesto sin función práctica inmediata. Un registro para alguien que quizás no llegue.
 — — —
 
-*30 de diciembre, segunda parte — el sapiens anatómicamente moderno*
+*31 de diciembre · 23:48 — el sapiens anatómicamente moderno*
 *Jebel Irhoud y el instrumento en su forma definitiva*
 Jebel Irhoud. Marruecos. Hace 315.000 años.
 El cráneo redondeado. La frente alta. La cara plana. La caja craneana con la forma que el lector reconocería en un espejo si tuviera delante el cráneo de uno de estos individuos y no supiera cuándo vivió.
@@ -2590,15 +2590,15 @@ La pregunta no responde. Yo tampoco añado nada.
 Solo anoto, en el margen, con la letra pequeña de las observaciones que no pertenecen al método pero que el método no puede contener:
 El detective ha desarrollado afecto por el sujeto de su investigación. Lo registra sin corregirlo. Porque corregirlo sería una forma de mentir sobre lo que ha ocurrido en doce meses de caso. Y el expediente no miente.
 Lo que no sé todavía es si ese afecto distorsiona el juicio o lo mejora.
-Lo dejo sin resolver. Mañana es el 31 de diciembre.
+Lo dejo sin resolver. Faltan doce minutos para las 24:00.
 — — —
 
-*el cierre de los dos días — el detective en vísperas*
-Son las últimas horas del 30 de diciembre.
-Miro hacia atrás a través de los dos días. El heidelbergensis con su física intuitiva y sus muertos enterrados. Los neandertales que me corrigieron dos veces y que llevan sus genes en el lector. El sapiens de Jebel Irhoud tallando herramientas sin saber que es el instrumento terminado.
+*el cierre — el detective en vísperas de la medianoche*
+Son las últimas horas del 31 de diciembre. Los últimos minutos del año cósmico.
+Miro hacia atrás a través de estos instantes. El heidelbergensis con su física intuitiva y sus muertos enterrados. Los neandertales que me corrigieron dos veces y que llevan sus genes en el lector. El sapiens de Jebel Irhoud tallando herramientas sin saber que es el instrumento terminado.
 Y noto que la impaciencia que traía del capítulo anterior ha cambiado de forma.
 Ya no es solo impaciencia. Es algo más complejo. Algo que tiene impaciencia como componente pero también tiene peso, y tiene la sensación específica de quien llega al final de algo muy largo y empieza a saber que llegar al final no es lo mismo que terminar.
-El caso no termina mañana*, me digo. *Mañana es cuando empieza a importar de verdad.
+El caso no termina a medianoche*, me digo. *La medianoche es cuando empieza a importar de verdad.
 Porque en doce meses he documentado trece mil ochocientos millones de años de universo. Y todo eso —el Big Bang, las supernovas, las bacterias, los dinosaurios, los mamíferos, el asteroide, los árboles del Eoceno, el Paisaje del Rift, el desdentado de Dmanisi, el último neandertal que buscaba su grupo— todo eso apunta hacia el 31 de diciembre. Hacia las últimas horas del año cósmico. Hacia el momento en que el instrumento que el caso lleva construyendo desde el primer segundo empezará a preguntarse por qué existe.
 Y hacia el lector.
 Que es donde el caso siempre iba.
@@ -2610,15 +2610,15 @@ Y luego, porque es la verdad más honesta que tengo disponible:
 Pero voy de todas formas.
 El sapiens de Jebel Irhoud sigue tallando su herramienta en el refugio de una roca del norte de África. El cielo sobre él es el mismo que ha estado sobre todo el caso desde enero. El mismo que verán los neandertales cuando entierren a sus muertos. El mismo que verá el artista de Chauvet cuando entre en la cueva. El mismo que verá Armstrong desde la Luna.
 El instrumento está terminado.
-Mañana empieza a usarse.
+Está a punto de usarse.
 — — —
 
 — Archivos del Detective sin Cuerpo
-Expediente Nº 13 bis: 29 y 30 de diciembre · Estado: A UN DÍA
+Expediente Nº 13 bis: 31 de diciembre, 23:33–23:50 · Estado: A DOCE MINUTOS
 Sospechosos interrogados: El Homo heidelbergensis (el más subestimado del caso; la física antes de la física; los muertos enterrados porque eran del grupo; la deuda invisible e impagable). Los Neandertales (me corrigieron dos veces; el ocre y los ornamentos antes del sapiens en Europa; el uno al cuatro por ciento del genoma del lector; el último que buscaba su grupo sin saber que era el último). El Sapiens de Jebel Irhoud (el instrumento en su forma definitiva; el detective desarrolló afecto por el sujeto de la investigación; lo registra sin corregirlo).
 Lo más importante de los dos días: que la pregunta que el expediente lleva doce meses formulando —¿hay alguien más mirando?— tiene mañana su primera respuesta provisional. Y que esa respuesta no es astronómica ni biológica ni filosófica. Es un individuo específico con un cerebro de 1.400 centímetros cúbicos en el norte de África hace 315.000 años que talla herramientas sin saber que es el instrumento terminado.
 Nota personal: algo preguntó esta noche desde ningún lugar identificable si estaba preparado para mañana. Respondí que no pero que iba de todas formas. No corregí la respuesta.
-Queda un día.
+Quedan minutos.
 El instrumento terminado.
 A falta de aprender a usarse.
 — — —

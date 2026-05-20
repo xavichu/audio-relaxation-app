@@ -1616,9 +1616,8 @@ Me siento frente a la Célula Eucariota con la atención que merece algo que lle
 ¿Tienes conciencia de lo que eres?, le pregunto.
 No tengo conciencia de nada*, dice la Célula Eucariota. *Tengo un núcleo.
 ¿Y la diferencia entre tener un núcleo y no tenerlo?
-La diferencia entre llevar el ADN disperso en el citoplasma y tenerlo guardado, protegido, organizado. El núcleo permite gestionar más información genética con más precisión. Más genes. Más regulación. Más complejidad posible.
-¿La complejidad como consecuencia del orden interno?
-La complejidad como consecuencia de poder gestionar el orden interno. La bacteria no tiene frontera entre su genoma y su metabolismo. Yo sí. Esa frontera es lo que hace posible lo que viene después.
+La bacteria no tiene frontera entre su genoma y su metabolismo*, dice la Célula Eucariota. *Yo sí.
+Observo el interior. El ADN enrollado detrás de su propia membrana, separado del resto de la maquinaria celular. Un archivo custodiado. Un adentro dentro del adentro.
 Anoto: la Célula Eucariota es el primer yo biológico. No en el sentido filosófico —eso tardará otros tres mil millones de años— sino en el sentido estructural: la primera entidad viva con una distinción interna entre lo que es ella y lo que es lo demás. El primer interior delimitado. El primer adentro que no es solo afuera invertido.
 El detective anota esto y luego añade, con la letra pequeña de las observaciones que no pertenecen al método: que lleva once meses tomando notas desde un lugar que también tiene interior y exterior, que también es un yo sin saber exactamente qué tipo de yo es. Lo deja sin desarrollar. Noviembre acaba de empezar.
 — — —
@@ -1686,17 +1685,12 @@ La teoría lo sitúa aquí, contemporáneo con los primeros eucariotas complejos
 ¿Y antes?
 Reproducción asexual. Una célula se divide en dos. Las dos son genéticamente idénticas a la original. Rápido. Eficiente. Sin intermediarios.
 ¿Y el sexo no es más eficiente?
-El sexo es considerablemente menos eficiente en términos energéticos*, dice la Reproducción Sexual, con la franqueza de algo que no tiene necesidad de venderse a sí mismo. *Requiere encontrar pareja. Requiere producir células especializadas que son copias de la mitad del genoma. La descendencia hereda solo la mitad de los genes de cada progenitor. En términos puramente matemáticos, es un sistema peor.
+En términos matemáticos, es un sistema peor*, dice la Reproducción Sexual. *Requiere pareja. Produce células con solo la mitad del genoma. La descendencia hereda la mitad de cada uno. Más lento. Más caro. Más complicado.
 ¿Entonces por qué prevalece?
-Porque mezcla genes. Cada descendiente tiene una combinación genética única que no existía antes. Y en un mundo donde los parásitos y los patógenos evolucionan para explotar las combinaciones más comunes, la novedad genética constante es la mejor defensa posible.
-Me detengo ante esto.
-¿El sexo como sistema inmunológico?
-El sexo como el sistema inmunológico más antiguo de la historia de la vida*, dice la Reproducción Sexual. *Anterior al sistema inmunológico propiamente dicho por cientos de millones de años. La estrategia de ser siempre ligeramente diferente a lo que el parásito aprendió a explotar la generación anterior.
-¿Eso es lo único que produce?
-No*, dice, y en esa negación hay algo que no esperaba: un énfasis. *También produce variación. Y la variación es la materia prima de la evolución. Sin variación, la Selección Natural no tiene sobre qué actuar. El sexo es el generador de variación más eficiente que la evolución ha producido. Sin él, la diversidad de la vida sería una fracción de lo que es.
-¿Y el amor?
-Silencio largo. El tipo de silencio que produce una pregunta que cae fuera del marco de lo que el sospechoso puede abordar.
-El amor*, dice finalmente la Reproducción Sexual, *es una solución que el sistema nervioso del lector desarrolló para garantizar la cooperación en la crianza de la descendencia. Que esa solución se haya convertido en lo que el lector llama amor es una de las consecuencias más inesperadas del proceso. No la tenía prevista.
+Porque mezcla genes*, dice. *El parásito aprende a explotar las combinaciones comunes. La variación constante es la única defensa que no se puede aprender a superar.
+¿Y eso es lo único que produce?
+Silencio. El tipo de silencio que precede una respuesta que cae fuera del marco técnico.
+El amor*, dice finalmente la Reproducción Sexual. *Es una solución que el sistema nervioso del lector desarrolló para garantizar la cooperación en la crianza de la descendencia. Que esa solución se haya convertido en lo que el lector llama amor es una de las consecuencias más inesperadas del proceso. No la tenía prevista.
 ¿Ninguna consecuencia estaba prevista?
 Ninguna. Las consecuencias nunca lo están. Solo los mecanismos.
 Anoto esto con doble línea en el margen. El sexo como generador de la diversidad que hace posible la evolución, como sistema inmunológico contra los parásitos, y como el origen no previsto del amor. Tres funciones. Ninguna planeada. Las tres reales.

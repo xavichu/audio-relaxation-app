@@ -1472,7 +1472,7 @@ Me hace sentir acompañado por algo que lleva tres mil millones de años muerto*
 *o el sospechoso universal*
 Vuelvo al ADN. La distancia no ha servido de nada. Sigue siendo igual de desconcertante desde lejos que de cerca. Pero al menos ahora tengo los cherts como contexto: sé que la vida guarda registros. El ADN es el registro más largo y más fiel que ha existido.
 Lo que me desconcerta no es la molécula en sí. Es su código.
-Las cuatro letras se combinan en grupos de tres: sesenta y cuatro combinaciones posibles. Pero solo veinte aminoácidos en todos los organismos vivos. El código tiene redundancia deliberada —varios grupos distintos codifican el mismo resultado, como un sistema diseñado para resistir errores de transmisión. Y tres combinaciones no codifican ningún aminoácido: son el punto final. Fin de instrucción.
+Cuatro letras en grupos de tres. Sesenta y cuatro combinaciones posibles, veinte resultados. Con punto final incluido. Y una propiedad que tarda semanas en dejar de asombrarme: varios grupos distintos producen el mismo aminoácido. Redundancia incorporada. Un código construido para no fallar aunque algo falle.
 Descifro esto con la paciencia del que sabe que tiene tiempo.
 Y luego pregunto lo que lleva toda la semana queriéndose preguntar:
 ¿En qué parte del planeta usa la vida este código?
@@ -1487,7 +1487,7 @@ De una sola población. Que sobrevivió. Todas las demás líneas se extinguiero
 Toda la vida de este planeta —las bacterias de los cherts de Apex, los dinosaurios del Jurásico, los robles, los tiburones, las ballenas, el lector del 31 de diciembre— comparte el mismo código genético. El mismo idioma. Los mismos veinte aminoácidos. Las mismas cuatro letras. El mismo sistema de puntuación.
 Todo el árbol de la vida es una sola familia con un solo dialecto.
 ¿Y eso importa para el caso?
-Importa porque significa que el primer lenguaje de este planeta no es el lenguaje que el sapiens del 31 de diciembre llama lenguaje. Es el ADN. Tres mil millones de años de instrucciones transmitidas de célula a célula sin un solo error de traducción que no sea deliberado por la selección natural. El lenguaje del sapiens es el segundo sistema de transmisión de información que este planeta inventa. El primero es molecular. El segundo es simbólico. Ambos codifican información. Ambos la transmiten entre generaciones. Uno en moléculas. El otro en sonidos y marcas.
+Importa porque el ADN es el primer idioma de este planeta. Lo que el sapiens llamará lenguaje es el segundo sistema de transmisión de información que este planeta inventa. Uno en moléculas. El otro en sonidos y marcas. Tres mil millones de años entre uno y otro. La misma función.
 ¿Y cuál es más eficiente?
 El ADN lleva tres mil millones de años funcionando sin actualizaciones de software, digo.
 Eso no responde la pregunta.

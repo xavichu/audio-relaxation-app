@@ -1682,7 +1682,7 @@ El detector anota que eso le parece importante, aunque todavía no sabe exactame
 En la misma época en que la mitocondria comienza su nueva vida como orgánulo, el registro fósil muestra otra novedad que anoto con una mezcla de admiración y perplejidad.
 La reproducción sexual.
 ¿El sexo aparece en noviembre?
-Los primeros indicios claros en el registro fósil: sí.
+La teoría lo sitúa aquí, contemporáneo con los primeros eucariotas complejos. La lógica del cuándo es sólida: un organismo con núcleo, con mitocondria, con suficiente ADN para que la variación importe, es el tipo de organismo que puede beneficiarse del intercambio genético. La prueba fósil irrefutable llegará después, en diciembre, con el Bangiomorpha. Pero el mecanismo —la meiosis, la fusión de gametos, el intercambio de material genético entre individuos distintos— casi con certeza se origina aquí.
 ¿Y antes?
 Reproducción asexual. Una célula se divide en dos. Las dos son genéticamente idénticas a la original. Rápido. Eficiente. Sin intermediarios.
 ¿Y el sexo no es más eficiente?

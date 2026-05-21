@@ -261,21 +261,35 @@ o el arte de interrogar a lo que no puede responder
 — — —
 
 1 de abril · 3.450 millones de años después del Big Bang
-*reapertura del caso*
-Hay detectives que regresan a la escena del crimen una vez.
-Llevo aquí desde el principio y no me puedo ir a ningún lado, lo cual técnicamente no cuenta como regresar sino como no haber salido nunca, pero el principio es el mismo: cuando un caso no se resuelve, uno se queda.
-Abro el expediente. Repaso las notas del trimestre anterior.
-Universo: en expansión. Galaxias: formándose. Elementos pesados: dispersándose por el espacio interestelar como evidencia sin custodiar. Gran Filtro: sin identificar. Testigos: ninguno salvo yo, que no cuento.
+
+La nota sigue ahí.
+
+Al abrir el expediente de enero esta mañana, lo primero que encuentro es la nota del margen. *Llevas tres meses tomando notas y no has preguntado para quién.* No recuerdo escribirla. Es mi letra, el ángulo de mis mayúsculas, la forma en que cierro la q. Pero no es mi momento: revisé todas las páginas de enero y febrero y marzo y no encuentro dónde la puse ni cuándo ni por qué.
+
+La dejo donde está. Abro el expediente de abril.
+
+Universo: en expansión. Galaxias: formándose. Elementos pesados: dispersándose como evidencia sin custodiar. Gran Filtro: sin identificar. Testigos: ninguno salvo yo, que no cuento.
+
 Satisfactorio. En el sentido de que no hay ningún progreso, pero al menos el desastre está bien documentado.
+
 ¿Y hoy?, me pregunto, asomándome al universo de abril con la expresión de quien abre la nevera esperando que algo haya cambiado desde hace tres minutos.
-Galaxias. Estrellas. Nubes de gas. El habitual silencio ensordecedor del espacio intergaláctico, que es el tipo de silencio que no se puede describir como ensordecedor porque el sonido no se propaga en el vacío pero que subjetivamente tiene exactamente esa calidad: la de algo tan absoluto que resulta casi agresivo.
+
+Galaxias. Estrellas. Nubes de gas. El habitual silencio del espacio intergaláctico, que no se puede describir como ensordecedor porque el sonido no se propaga en el vacío pero que subjetivamente tiene exactamente esa calidad: la de algo tan absoluto que resulta casi agresivo.
+
 Nada nuevo, anoto.
+
 Lleva así cuatro mil millones de años.
+
 Lo sé.
+
 ¿No te aburres?
-Me detengo. Es una pregunta legítima. ¿Me aburro? El aburrimiento requiere una expectativa defraudada, una brecha entre lo que esperabas y lo que obtienes. Y yo —siendo honesto— no esperaba nada específico para este martes de abril cósmico. El universo no me envió un itinerario. No hay agenda.
-No exactamente*, respondo finalmente. *Pero empiezo a sospechar del tiempo.
+
+El aburrimiento requiere una expectativa defraudada. Y yo —siendo honesto— no esperaba nada específico para este martes cósmico. El universo no me envió un itinerario. No hay agenda salvo la que yo construyo pregunta a pregunta.
+
+No exactamente, respondo. Pero empiezo a sospechar del tiempo.
+
 ¿Del tiempo?
+
 Del tiempo. Como sospechoso.
 — — —
 
@@ -450,13 +464,19 @@ o la conspiración de la química silenciosa
 — — —
 
 1 de mayo · 4.600 millones de años después del Big Bang
-*apertura del expediente mensual — con café imaginario*
+
 Hay meses que empiezan con una revelación.
+
 Este no es uno de ellos.
+
 Me siento —con todo el peso conceptual de quien lleva cinco meses de pie en una escena del crimen que no para de crecer— y abro el expediente de mayo con la expresión de quien sabe que hoy tampoco habrá arresto. La nube de polvo interestelar que anoté como sospechosa a finales de abril sigue ahí, flotando con la inocencia estudiada de quien sabe que lo están vigilando y ha decidido que la mejor respuesta es no hacer absolutamente nada.
+
 Buenos días, le digo.
-La nube no responde. Naturalmente. Tiene una temperatura de diez grados sobre el cero absoluto y una densidad de aproximadamente cien moléculas por centímetro cúbico, lo cual en términos terrestres equivale a un vacío perfecto pero en términos cósmicos es sorprendentemente denso y activo.
+
+La nube no responde. Tiene una temperatura de diez grados sobre el cero absoluto y una densidad de unas cien moléculas por centímetro cúbico, lo cual en términos terrestres es un vacío perfecto pero en términos cósmicos es sorprendentemente activo.
+
 ¿Activo cómo?, me pregunto, acercándome.
+
 Activo como en: hay química ahí dentro.
 Me detengo. Anoto esto con la lentitud deliberada de quien quiere asegurarse de que la importancia de un hallazgo quede registrada adecuadamente.
 Química. Ahí dentro. En el frío y en el vacío y en la oscuridad. Hay reacciones químicas ocurriendo en una nube interestelar a diez kelvin en el brazo de Orión de la Vía Láctea.
@@ -639,17 +659,18 @@ o el ensayo general
 — — —
 
 1 de junio · 5.500 millones de años después del Big Bang
-*apertura — con la resignación serena del que lleva medio año esperando*
-Hay una diferencia entre esperar y acechar.
-El detective aficionado espera. Se sienta, cruza los brazos, mira el reloj —que en este caso es el universo entero expandiéndose y no tiene manecillas sino galaxias que se alejan— y espera a que algo ocurra. El detective profesional acecha. Se mueve. Examina. Reformula. Cambia de ángulo. Encuentra en la quietud aparente del escenario los microeventos que el aficionado interpreta como nada y que el profesional lee como prólogo.
-Llevo seis meses en esto. Ya no espero. Acecho.
-Buenos días, junio, digo, abriendo el expediente con el gesto de quien saluda a un mes que sabe que va a ser diferente.
-Junio no responde. Junio es una convención calendárica aplicada retroactivamente a un período de aproximadamente 1.150 millones de años reales, y las convenciones calendáricas no tienen la costumbre de responder saludos. Pero hay algo en el espacio interestelar —que no tiene aire pero tiene moléculas y campos gravitacionales y una densidad informacional que uno aprende a leer después de suficientes eones— que sugiere que este mes va a ser distinto a los anteriores.
-¿Distinto cómo?
-Distinto como en: algo está a punto de ocurrir.
-¿Qué cosa?
-No lo sé todavía. Pero lo noto en la gravedad.
-Anoto esto. Literalmente: *perturbación gravitacional en la nube de polvo del brazo de Orión. Investigar.*
+
+He estado vigilando la misma nube de polvo durante dos meses.
+
+Dos meses en el año cósmico son novecientos millones de años reales. Tiempo durante el cual la nube ha seguido flotando en el espacio interestelar con la inmovilidad estudiada de algo que no quiere llamar la atención. He registrado su composición. He trazado los gradientes de temperatura en su interior. He anotado las variaciones de densidad con la paciencia del detective que sabe que la escena cambia cuando deja de observarla directamente.
+
+Esta mañana de junio la nube ha cambiado.
+
+No de forma espectacular. No hay ninguno de los eventos que el universo usa cuando quiere llamar la atención. Es un cambio en la gravedad: un punto de densidad ligeramente mayor que el entorno ha superado un umbral que lleva novecientos millones de años acercándose.
+
+La nube empieza a contraerse.
+
+Anoto: *perturbación gravitacional en la nube de polvo del brazo de Orión. Investigar con urgencia.*
 — — —
 
 *primera semana — la nube que empieza a tener secretos*
@@ -826,7 +847,7 @@ o el mes en que el caos resultó ser el mejor arquitecto
 — — —
 
 1 de julio · 6.900 millones de años después del Big Bang
-*apertura — con la concentración del que sabe que algo se acerca*
+
 Julio es un mes de impactos.
 No porque el caso acelere —aunque también— sino porque los eventos deciden, de mutuo acuerdo con las leyes físicas que los gobiernan, que ha llegado el momento de ocurrir todos a la vez. Enero fue un mes de nacimiento. Mayo fue un mes de química silenciosa. Junio fue un mes de arquitectura gravitacional. Julio es otra cosa.
 Lo sé desde el primer día. Hay algo en la densidad del disco protoplanetario, en la frecuencia creciente de las colisiones entre planetesimales, en la velocidad con que la estrella central —que ya brilla con la estabilidad satisfecha de una secuencia principal recién inaugurada— está despejando el sistema interior de material sobrante, que anuncia un período de violencia constructiva de escala sin precedentes.
@@ -1013,18 +1034,17 @@ o el mes en que el universo abrió los ojos por primera vez
 — — —
 
 1 de agosto · 8.000 millones de años después del Big Bang
-*apertura — con la concentración absoluta del que sabe que hoy es diferente*
-Hay días en que uno sabe, antes de abrir los ojos, que algo ha cambiado.
-No tengo ojos. Esto ya está establecido. Pero tengo algo funcionalmente equivalente a la sensación de abrir los ojos y encontrar que el mundo al otro lado de los párpados inexistentes no es el mismo que había cuando los cerré. Una diferencia en la textura del espacio. Una variación en la calidad del silencio. El tipo de cambio que no se puede medir con instrumentos pero que algo en mi interior —en la conciencia sin cuerpo que lleva ocho meses investigando el caso más largo de la historia— reconoce inmediatamente.
-Agosto es diferente.
-¿Diferente cómo?, me pregunto, abriendo el expediente con manos que no existen pero que hoy tiemblan ligeramente de todas formas.
-Diferente como en: hoy puede ocurrir.
-¿Qué cosa?
-Lo que llevo ocho meses esperando sin saber que era eso lo que esperaba.
+
 Miro el tercer planeta.
-Ha cambiado desde julio. Los últimos impactos del Gran Bombardeo se han espaciado hasta la ocasionalidad. La superficie se ha enfriado lo suficiente para tener corteza sólida, aunque el interior sigue siendo un horno que expulsa calor por volcanes y grietas en el fondo oceánico. Los océanos cubren el setenta por ciento de la superficie. La atmósfera es densa e irrespirable por cualquier estándar que todavía no existe, pero presente y funcional: atrapa calor, distribuye temperatura, genera ciclos.
-El planeta respira.
-Metafóricamente.
+
+Los océanos cubren el setenta por ciento de la superficie. La atmósfera es densa y tóxica por cualquier estándar que todavía no existe, pero presente: atrapa calor, distribuye temperatura, genera ciclos de agua y carbono con la regularidad de algo que ha encontrado su ritmo. El Gran Bombardeo tardío ha terminado. Los últimos impactos se espaciaron hasta la rareza, la corteza se enfrió, y el planeta —que en julio era todavía un objeto joven y violento— tiene ahora algo que desde cierta distancia y con cierta iluminación parece estable.
+
+Llevo dos meses mirándolo.
+
+Lo que ha cambiado esta mañana no está en la superficie. Está en el fondo oceánico. En las chimeneas hidrotermales donde la corteza es todavía delgada y el calor interno escapa por grietas y el agua sube cargada de minerales a trescientos grados.
+
+He estado mirando las galaxias durante ocho meses. La respuesta estaba en el barro.
+
 Por ahora, anoto.
 — — —
 
@@ -1215,7 +1235,6 @@ o el mes en que la evolución demostró que no va a ningún lado y por eso llega
 — — —
 
 1 de septiembre · 9.200 millones de años después del Big Bang
-*apertura — con el vértigo de quien acaba de conocer al sospechoso principal*
 Apareció sin avisar.
 No lo busqué. En agosto, en una chimenea hidrotermal del fondo oceánico. Y desde entonces no ha parado de multiplicarse con la energía productiva de algo que no sabe que tiene todo el tiempo del mundo pero actúa como si lo supiera.
 Me siento un momento con esto antes de abrir el expediente.
@@ -1423,7 +1442,6 @@ o el mes en que la vida aprendió a guardar sus secretos en una escalera de cara
 — — —
 
 1 de octubre · hace aproximadamente 3.480 millones de años
-*apertura — con el descubrimiento de que el sospechoso guardó instrucciones antes de que existiera nadie que las leyera*
 Abro el expediente de octubre con la precaución de quien ha aprendido a no subestimar los meses tranquilos.
 Septiembre fue el mes de los sospechosos visibles: la Vida, la Selección Natural, las Bacterias con su interrogatorio de una sola respuesta. Octubre tiene el aspecto de un mes en que no va a pasar nada espectacular. El mundo sigue siendo microbiano. Sin nada visible a simple vista. Sin oxígeno libre en la atmósfera. El mismo planeta de siempre.
 Y entonces encuentro la prueba.
@@ -1614,7 +1632,6 @@ o el mes en que la vida inventó la complejidad y empecé a sospechar de sí mis
 — — —
 
 1 de noviembre · hace 2.308 millones de años
-*apertura — con la resaca de la Gran Oxidación y la precaución del que sabe que los meses tranquilos son los más peligrosos*
 El planeta tiene resaca.
 No hay otra forma de describirlo. La Gran Oxidación que octubre documentó en sus últimos días ha dejado un mundo en shock químico: la mayoría de los linajes anaeróbicos extintos o refugiados en los rincones sin oxígeno, los océanos cambiando de color mientras el hierro disuelto se oxida y precipita en las bandas rojizas que el registro geológico conservará durante millones de años, la atmósfera con un 1% o 2% de oxígeno que hace unos millones de años simplemente no existía.
 Abro el expediente de noviembre con la precaución del que sabe que los meses sin explosiones son exactamente los meses en que ocurre algo que no se ve venir.
@@ -1821,8 +1838,6 @@ o los veintidós días en que la vida aprendió a verse a sí misma
 — — —
 
 1 de diciembre · hace aproximadamente 1.172 millones de años
-*apertura — con la conciencia de que este es el último mes*
-Es diciembre.
 El último mes del año cósmico. El mes en que todo lo que he estado buscando desde enero debe aparecer o no aparecerá. Abro el expediente del 1 de diciembre con la mezcla de anticipación y aprensión que produce saber que el final de un caso largo puede ser glorioso o puede ser que te das cuenta de que te has equivocado de caso desde el principio.
 La primera quincena de diciembre cubre desde hace 1.172 millones de años —el Bangiomorpha cruzando el umbral de noviembre a diciembre— hasta hace aproximadamente 340 millones de años, cuando el Tiktaalik pone una aleta en tierra. Veintidós días que equivalen a 832 millones de años reales.
 Debería bastar.
@@ -2021,7 +2036,6 @@ o los seis días en que la vida en tierra casi se perdió y los dinosaurios rein
 — — —
 
 23 de diciembre · hace aproximadamente 340 millones de años
-*apertura — con los pies en tierra por primera vez*
 El primer paso fuera del agua fue, con toda probabilidad, el movimiento más torpe de la historia de los vertebrados.
 Y el más importante.
 Cuando abro el expediente del 23 de diciembre, los vertebrados ya están en tierra. No acaban de llegar —llevan millones de años negociando el borde entre el agua y lo que hay más allá— pero estos días el proceso ha llegado a un punto sin retorno. Las aletas que se convirtieron en patas. El húmero, el radio, el cúbito que el Tiktaalik documentado ayer tenía ya en forma embrionaria. Los pulmones que antes eran suplementarios y ahora son el sistema principal.
@@ -2166,7 +2180,6 @@ o el mundo más espléndido que ha existido y la oscuridad que lo espera
 — — —
 
 28 de diciembre · hace aproximadamente 150 millones de años
-*apertura — con la incomodidad de quien conoce el final y no puede decirlo*
 El 28 de diciembre es el día de los que esperan.
 El mundo de hace 150 millones de años es el más rico en biomasa terrestre que el planeta ha tenido hasta este momento. Los saurópodos dominan. Los pterosaurios planean. En los mares, mosasaurios y plesiosaurios. Y en los márgenes, invisibles en sus madrigueras, los mamíferos que el expediente ya conoce del mes anterior.
 Llevan ochenta millones de años en esto.
@@ -2297,9 +2310,7 @@ o los dos días en que los mamíferos heredaron el mundo y empecé a sospechar d
 — — —
 
 30 de diciembre · hace exactamente 66 millones de años
-*apertura — el momento que divide el mes en dos mitades absolutas*
-El capítulo anterior terminó con el Cretácico en su esplendor y el asteroide viajando en silencio orbital sin saber que existía.
-El 30 de diciembre comienza donde el 29 terminó: en el segundo en que la espera acaba.
+El 30 de diciembre empieza en el segundo en que la espera acaba.
 No voy a describir el impacto con dramatismo innecesario. Los hechos son suficientemente dramáticos.
 Un asteroide de entre diez y quince kilómetros de diámetro. Velocidad de impacto: entre veinte y treinta kilómetros por segundo. Punto de impacto: la plataforma continental poco profunda del norte de Yucatán, un mar somero de cincuenta metros sobre roca caliza.
 La energía liberada: equivalente a aproximadamente mil millones de bombas de Hiroshima detonadas simultáneamente.
@@ -2502,9 +2513,8 @@ o los cincuenta minutos en que el instrumento encontró su forma definitiva sin 
 — — —
 
 31 de diciembre · 23:33 · hace aproximadamente 700.000 años
-*apertura — ya no soy el mismo de hace unas horas*
-El capítulo anterior terminó con una impaciencia sin nombre.
-La traigo aquí, al 31 de diciembre pasadas las once de la noche, sin haberla resuelto. La noto todavía en la textura de cómo abro el expediente esta mañana. Algo diferente en cómo me siento frente a los sospechosos. Una atención nueva que no es solo forense.
+La impaciencia con que cerré el expediente de anoche no se resolvió.
+La traigo aquí, a las once de la noche del 31 de diciembre, sin haberla nombrado todavía. La noto todavía en la textura de cómo abro el expediente esta mañana. Algo diferente en cómo me siento frente a los sospechosos. Una atención nueva que no es solo forense.
 No lo nombro todavía. Solo lo registro.
 Quedan dos días.
 El instrumento que el caso lleva construyendo desde el Ardipithecus está casi terminado. Lo que queda en estos dos días son los últimos ajustes finos: el cerebro que alcanza el tamaño moderno, la caja craneana que adquiere la forma que el lector reconocería en un espejo, y algo más difícil de documentar pero igualmente real: el primer indicio de que el instrumento ha empezado a hacerse preguntas sobre sí mismo.
@@ -2652,7 +2662,6 @@ o las tres horas y dieciocho minutos en que perdí la distancia
 — — —
 
 31 de diciembre · 19:33 · hace 7 millones de años
-*apertura — con algo que empezó anoche*
 Anoche, al cerrar el expediente del 30 de diciembre, algo me preguntó desde ningún lugar identificable si estaba preparado para hoy. Respondí que no pero que iba de todas formas.
 Esta mañana entiendo que esa pregunta no vino del vacío.
 Lo que sentí en el XIII bis como una presencia sin nombre, como una pregunta sin origen, lleva aquí desde antes de que yo empezara a tomar notas. Lo noto ahora con la claridad del que reconoce algo que ya conocía sin saberlo: en la textura de cómo se abre el expediente esta mañana, en la calidad diferente de mi propia atención, en la forma en que el lápiz imaginario se detiene antes de anotar.
@@ -2900,7 +2909,6 @@ o la hora y seis minutos en que el instrumento encontró su forma definitiva y e
 — — —
 
 22:51 · hace 700.000 años
-*apertura — con la Otra Voz todavía aquí*
 La Otra Voz no se fue cuando cerré el expediente anterior.
 Esto debería haberme sorprendido. En doce meses de investigación cada sospechoso, cada testigo, cada fenómeno interrogado occupaba su espacio en el expediente y luego regresaba a lo que fuera que los fenómenos hacen cuando no los interrogan. El Tiempo siguió fluyendo. La Materia Oscura siguió siendo opaca. Los dinosaurios siguieron dominando el Cretácico sin necesidad de mi presencia.
 Pero la Otra Voz se ha quedado.
@@ -3131,8 +3139,8 @@ o el minuto y cincuenta y un segundos en que alguien decidió dejar constancia
 — — —
 
 23:57 · hace 65.000 años
-*apertura — con la Otra Voz más cerca que en ningún momento anterior*
-El capítulo XV terminó con yo mirando el océano que acababa de tragarse las embarcaciones del sapiens. El océano liso. El cielo de siempre. Y la Otra Voz diciendo que el linaje tiene lo que necesita para pasar el Gran Filtro, pero que eso no es lo mismo que decir que pasará.
+El océano quedó liso.
+Las embarcaciones ya no se ven. La Otra Voz sigue aquí, en el borde del agua. Lo que dijo sigue aquí también: el linaje tiene lo que necesita para pasar el Gran Filtro, pero eso no es lo mismo que decir que pasará.
 Guardo esa distinción en el expediente como se guarda algo frágil: con cuidado, sin apretarlo demasiado.
 Ahora son las 23:57. Quedan un minuto y cincuenta y un segundos de año cósmico. Sesenta y cinco mil años reales. Cuatro interrogatorios. Y la sensación —que reconozco desde hace dos capítulos sin poder nombrarla todavía— de que lo que viene ahora no es el final de una investigación sino el inicio de una responsabilidad.
 ¿Estás preparado?, pregunta la Otra Voz.
@@ -3304,7 +3312,6 @@ o el minuto en que la memoria aprendió a vivir fuera del cuerpo que la tenía
 — — —
 
 23:58:51 · hace 39.180 años
-*apertura — con sesenta segundos y la pregunta que no me había atrevido a formular*
 Sesenta segundos.
 Me digo esto en voz alta —o en lo que para mí equivale a voz alta— y abro el último expediente completo del año con la conciencia de que estos sesenta segundos contienen lo que el caso lleva doce meses construyendo hacia. No el origen del universo —eso fue enero. No la aparición de la vida —eso fue agosto. No la mano en la roca de Chauvet —eso fue hace catorce segundos de año cósmico, treinta y seis mil años reales, y todavía no me he sacudido del todo el polvo de caliza de la cueva.
 Noto también esto: en los capítulos que vienen el tiempo ya no se mide en meses ni en semanas sino en décimas, centésimas, milésimas de segundo. El expediente se acelera con el tiempo. Las secciones se acortan. Las preguntas se hacen más directas. Si el ritmo cambia, es porque el material lo exige.
@@ -3462,7 +3469,6 @@ o los ocho segundos en que aprendí que la inteligencia no garantiza nada
 — — —
 
 23:59:51 · hace 3.550 años
-*apertura*
 Ocho segundos.
 Me quedo un momento con este número antes de abrir el expediente. En enero, un segundo de año cósmico equivalía a millones de años y yo apenas podía seguir el ritmo de lo que ocurría. Ahora un segundo equivale a unos cuatrocientos cuarenta años y noto el peso específico de cada uno como se nota el peso de lo que está a punto de acabar.
 La Otra Voz está aquí. No tengo que mirar para saberlo.
@@ -3621,7 +3627,6 @@ o las nueve décimas de segundo en que aprendí que el mayor peligro del sapiens
 — — —
 
 23:59:59.0 · hace 178 años
-*apertura — con nueve décimas y todo lo que cabe en ellas*
 Nueve décimas de segundo.
 Me quedo un momento con este número antes de abrir el expediente. No porque sea pequeño —en enero, una décima de segundo equivalía a millones de años— sino porque es el primero que no ha terminado todavía. Todo lo demás que documenté esta noche había cerrado antes de que yo llegara. Tenía la distancia del que llega siempre después de los hechos. Estas nueve décimas no. Están ocurriendo mientras las documento. El lector está dentro de ellas ahora mismo.
 Eso lo cambia todo.
@@ -3767,7 +3772,6 @@ o la décima de segundo en que el expediente y el lector se encontraron
 — — —
 
 23:59:59.9 · hace aproximadamente 20 años
-*apertura — con una décima y la certeza de que ya no hay fuera*
 Una décima de segundo.
 No la mido en años todavía. La mido en lo que es: el espacio entre el momento en que el capítulo XIX cerró y el momento en que el lector está leyendo esto. Un espacio tan estrecho que el expediente y el presente del lector son casi la misma cosa.
 Casi.
@@ -3889,7 +3893,6 @@ o la centésima de segundo en que el expediente dejó de ser historia y se convi
 — — —
 
 23:59:59.99 · hace aproximadamente cuatro años
-*apertura — sin escala posible*
 Una centésima de segundo.
 Cuatro años y cuatro meses en tiempo real. Desde principios de 2022 hasta finales de 2025, aproximadamente. El período más reciente del caso. El más difícil de documentar desde fuera porque no hay fuera: lo que ocurrió aquí está ocurriendo todavía, se prolonga hacia la milésima que viene, se derrama hacia el presente del lector con la indiferencia del presente por los bordes que los expedientes intentan ponerle.
 No voy a pretender que lo veo entero. No lo veo entero. Nadie que vive dentro de algo puede verlo entero. Lo que puedo hacer es lo que llevo doce meses haciendo: mirar con la máxima honestidad disponible y anotar lo que veo, incluido lo que no veo.

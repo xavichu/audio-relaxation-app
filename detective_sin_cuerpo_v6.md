@@ -1,65 +1,66 @@
 EL DETECTIVE SIN CUERPO
 
-Novela
+*Novela*
 
 
 — — —
 
 NOTA DEL DETECTIVE
 
-(escrita al final del año, antes de entregar el expediente)
+*(escrita al final del año, antes de entregar el expediente)*
 
 «Yo era todavía allí donde no había nada que fuese yo.»
 — Italo Calvino, *Cosmicomics*
 
-«El universo no tenía ninguna razón para existir. Y sin embargo existe.»
-— Stephen Hawking
+— — —
+
+Acabo de terminar.
+
+Son las 23:59:59 del 31 de diciembre. Cierro el último capítulo. Guardo el lápiz imaginario en el bolsillo imaginario de la chaqueta que tampoco existe. Me preparo para entregar el expediente.
+
+Y entonces me doy cuenta de algo que debería haber visto desde el principio: los detectives, cuando terminan un caso, lo entregan a alguien.
+
+¿A quién entrego este?
+
+Revisito el expediente. Trece mil ochocientos millones de años de notas. El Big Bang, la primera luz, la formación de las galaxias, la aparición de la vida, el invento del fuego y del lenguaje y de la pregunta de por qué existe algo en vez de nada. Todo está ahí. Y el rastro —la línea que une cada pieza de evidencia con la siguiente, que va de la singularidad inicial hasta el punto final del último capítulo— termina aquí.
+
+En este instante. En este momento exacto.
+
+En alguien con los ojos sobre estas palabras.
+
+Hay un lector al otro lado del expediente. No lo había visto porque no podía verlo todavía: el Big Bang tenía que enfriarse para que existieran las estrellas, las estrellas tenían que morir para que existieran los planetas, los planetas tenían que esperar miles de millones de años para que apareciera la vida, la vida tenía que llegar al lenguaje para que alguien abriera un libro. Cada pieza del caso necesitaba sus millones de años. No había atajos.
+
+Y al final de todos esos años hay alguien leyendo.
+
+No tengo protocolo para esto. Llevo trece mil ochocientos millones de años investigando el origen del universo y no encontré lo que buscaba: encontré al destinatario del expediente. Encuentro esto, en términos profesionales, completamente inesperado.
+
+Así que hago lo que hacen los detectives cuando se encuentran ante evidencia que no saben cómo clasificar: la entrego.
+
+Esto es el expediente. Las notas de 13.800 millones de años, escritas sin saber para quién, descubriendo ahora que eran para ti.
 
 — — —
 
-Este libro empezó como un expediente.
+Algunas cosas de procedimiento antes de entrar.
 
-Lo que terminó siendo no voy a decirlo aquí. Entre otras razones, porque depende de lo que tú hagas con él cuando lo cierres. Y eso, lo descubrirás al final, es exactamente el punto.
+No tengo cuerpo: soy el tipo de investigador que puede habitar el Big Bang sin estar físicamente allí, que trabaja a cualquier escala del tiempo, que toma notas con un lápiz que no existe. Las ventajas son considerables. La desventaja principal tardé un año en descubrirla.
 
-Algunas cosas, sin embargo, conviene saber antes de entrar.
-
-No tengo cuerpo. No es una metáfora: es una condición de trabajo. Tiene ventajas —no necesito dormir, no ocupo espacio, puedo estar en el Big Bang y en el Cretácico al mismo tiempo— y desventajas —no puedo señalar las cosas excepto con la voz, no puedo agacharme sobre la evidencia excepto en sentido figurado, tomo notas con un lápiz imaginario en una libreta que no existe. El expediente que tienes en las manos es esa libreta. Haz con eso lo que quieras.
-
-Lo que llamo año cósmico es una convención sencilla: comprimir 13.800 millones de años en doce meses. El Big Bang ocurre el 1 de enero a las 00:00:00. Tu presente —este instante exacto en el que estás leyendo esto— ocurre el 31 de diciembre, a centésimas de las doce de la noche. Todo lo demás —galaxias, estrellas, dinosaurios, Mesopotamia, ayer— sucede en el intervalo. Las fechas concretas que aparecerán dentro de cada mes son convenciones de orientación, no conversiones matemáticas exactas. Trabajo con meses como intervalos; las fechas son marcadores dentro de esos intervalos.
-
-Es la forma más honesta que conozco de recordar dónde estamos en la historia de lo que existe. Y, lo descubrí más tarde, dónde estás tú.
-
-Hay una pregunta, también. No voy a decirla aquí —llevo trece mil ochocientos millones de años esperando para formularla, y este no es su sitio. Lo que puedo decir es que la respuesta no estará en el expediente.
-
-Estará en ti.
-
-Eso lo entendí solo al final. Cuando cerré el último capítulo y supe que había estado escribiendo para alguien desde el principio, sin saberlo. Que las notas que tomé en enero, cuando la Nada dejó de serlo y aparecí sin aviso en la escena del crimen más desconcertante de la historia, tenían destinatario. Y que ese destinatario eras tú.
-
-No sé quién eres. No sé cuándo lees esto. No sé si es de noche o de día, si estás solo o acompañado, si el mundo fuera de estas páginas está en paz o en problemas. El expediente se escribe sin saber nada de eso.
-
-Como la mano que alguien apoyó hace treinta y seis mil años contra la pared fría de Chauvet, palma extendida, dedos separados, sin saber a quién esperaba. Como las cianobacterias que fabricaron oxígeno durante dos mil millones de años sin sospechar que estaban fabricando la atmósfera que haría posibles los pulmones que respiran ahora, mientras lees esto. Como el archivista de Ugarit que metió las tablillas en el horno cuando llegaron los barcos, sabiendo que él no iba a sobrevivir, pero que las tablillas sí.
-
-Hay gestos que se hacen independientemente de si alguien los recibe.
-
-Este es uno de esos gestos.
+Las fechas: comprimí 13.800 millones de años en doce meses. El Big Bang ocurre el 1 de enero a las 00:00:00. El momento en que estás leyendo esto ocurre en las últimas décimas del 31 de diciembre. Las fechas concretas dentro de cada mes son marcadores, no conversiones matemáticas exactas. Son mapas, y los mapas mienten un poco para que puedas orientarte.
 
 — — —
 
-Tres advertencias más, y entramos.
+Tres cosas antes de entrar.
 
-Una: no es necesario saber física, ni biología, ni historia. Aquí las uso como lo que son: pruebas en un caso que tiene otra naturaleza. Si algo no está claro, sigue leyendo. Los mejores casos se aclaran solos con el tiempo, y aquí el tiempo es la materia prima.
+Una: la física, la biología y la historia son las pruebas del caso. No hace falta saber nada de ellas. Un buen lector trabaja como un buen detective: con lo que encuentra en la escena.
 
-Dos: soy poco fiable de una manera específica. No miento, pero cambio. Lo que pienso en enero no es lo que pienso en diciembre. Si notas que el tono se erosiona, que la distancia profesional empieza a costarle al que toma las notas, que en algún momento dejo de escribir como un forense y empiezo a escribir como alguien que tiene algo en juego: lo estás leyendo bien.
+Dos: no miento, pero cambio. Lo que pienso en enero no es lo que pienso en diciembre. Si en algún momento la voz del expediente se calienta, si el forense deja paso a alguien con algo en juego: lo estás leyendo bien.
 
-Tres: el año cósmico termina con una pregunta para ti. No te diré cuál. Pero cuando llegues a ella, tómatela en serio. Lleva trece mil ochocientos millones de años esperando que alguien específico la recibiera.
-
-Ese alguien eres tú.
+Tres: al final del año hay una pregunta. La pregunta. Lleva 13.800 millones de años esperando a alguien específico.
 
 — — —
 
-Empecemos por el principio.
+Empecemos.
 
-Aunque el principio, como verás, es exactamente lo que está en disputa.
+El principio, como verás, es exactamente lo que está en disputa.
 
 — El Detective sin Cuerpo
 31 de diciembre, 24:00:00
@@ -74,333 +75,175 @@ CAPÍTULO I: EL CASO DE LA NADA QUE DEJÓ DE SERLO
 «Yo era todavía allí donde no había nada que fuese yo.»
 — Italo Calvino, *Cosmicomics*
 
-«El universo no tenía ninguna razón para existir. Y sin embargo existe.»
-— Stephen Hawking
-
 — — —
 
 *1 de enero · 00:00:00*
 *la escena del crimen*
 
-Hay casos que llegan sin aviso.
+Estuve en el Big Bang.
 
-Este llegó, además, sin tiempo para que el aviso viajara, sin espacio por el que viajar, y —detalle no menor— sin un yo para recibirlo. Y sin embargo aquí estoy. En el lugar de los hechos. Tomando notas con el lápiz imaginario de quien no tiene manos pero tiene, inexplicablemente, opiniones.
+Antes del Big Bang no había dónde estar, lo cual lo hace técnicamente imposible. Y sin embargo aquí estoy, en la singularidad, en el punto que no es un punto —los puntos necesitan espacio y el espacio acaba de nacer y no sabe bien para qué sirve— donde todo lo que existe, existirá o ha existido estaba comprimido en algo que no tenía tamaño porque el tamaño necesita un marco de referencia y el marco de referencia también acababa de nacer.
 
-El crimen, si puede llamarse así, ocurrió a las 00:00:00 del 1 de enero.
+Me inclino sobre la escena.
 
-Víctima: la Nada.
-Causa mortis: todo lo demás.
+La temperatura es de diez elevado a treinta y dos kelvin. Esta cifra no significa nada hasta que entiendes que a esa temperatura la física tal como la conocerá alguien en un futuro remoto deja de funcionar, que las cuatro fuerzas del universo son todavía una sola fuerza, que el concepto de «partícula» aún no se ha diferenciado del concepto de «campo», que en el radio de lo que algún día se llamará universo observable hay más energía de la que cabría expresar en cualquier unidad de medida, porque las unidades de medida también acaban de nacer y no están preparadas para esto.
 
-Me agacho —metafóricamente— sobre la escena. El calor es insoportable. La densidad, obscena. En el radio de lo que algún día se llamará universo observable hay comprimida una cantidad de energía que no tiene unidad de medida, porque las unidades de medida tampoco existen todavía, y nadie ha tenido tiempo de inventarlas. Todo está aquí. Todo está en el mismo punto. No hay un *aquí*, porque el espacio acaba de nacer y todavía no sabe cómo funciona.
+El universo, mientras tanto, se expande.
 
-*Bien*, me digo, sacando la libreta que no existe. *Empecemos por el principio.*
+Lo hace con la urgencia de quien acaba de hacer algo y quiere poner la mayor distancia posible entre él y las consecuencias. En el tiempo que tarda en ocurrir lo que acabas de leer, el universo se ha multiplicado por un factor que requeriría media página para escribirse. Se aleja en todas direcciones a la vez, con la indiferencia de algo que no tiene dirección privilegiada porque la dirección privilegiada también requiere un observador y el único observador disponible soy yo, y yo acabo de llegar.
 
-*El principio es exactamente lo que está en disputa*, me respondo. *No sabemos qué había antes.*
+Saco la libreta.
 
-¿Había un antes?
+*Víctima: la Nada.*
+*Causa mortis: todo lo demás.*
 
-Esa es, precisamente, la pregunta más importante del caso.
+Debajo, con la honestidad que se le debe al expediente aunque no siempre a las metáforas:
 
-Anoto:
-
-Sospechoso principal: la singularidad inicial.
-Coartada: imposible de verificar.
-Testigos: ninguno.
-El acusado alega que simplemente ocurrió.
-
-Qué conveniente.
-
-El universo, mientras tanto, no espera mi veredicto. Se expande a velocidades que no tienen nombre, con la prisa culpable de quien acaba de hacer algo y quiere poner la mayor distancia posible entre él y las consecuencias.
-
-Lo veo alejarse en todas direcciones a la vez.
-
-*Interesante táctica*, anoto. *Huir hacia todos lados. Nadie puede seguirte si no existe una dirección privilegiada.*
-
-*Eso no es huir*, me corrijo. *Eso es, simplemente, existir.*
-
-Por ahora las dos cosas se parecen demasiado.
+*¿Fue un crimen?*
 
 — — —
 
 *los primeros días de enero*
 *recogiendo pruebas en una escena que no para de crecer*
 
-El problema con este caso —y llevo apenas unos minutos trabajándolo, aunque esos minutos equivalen a varios cientos de millones de años— es que la escena del crimen no deja de expandirse.
+El problema central de este caso: la escena del crimen no deja de expandirse.
 
-Normalmente uno llega, acota el perímetro, toma muestras. Aquí el perímetro crece más rápido de lo que puedo seguirlo, las muestras se enfrían mientras las examino, y cada vez que creo entender la geometría del lugar descubro que la geometría también acaba de inventarse y tiene sus propias reglas, que no se parecen a nada de lo que conocía.
+Normalmente uno llega, acota el perímetro, recoge muestras. Aquí el perímetro crece más rápido de lo que puedo seguirlo, las muestras se enfrían mientras las examino, y cada vez que creo entender las reglas del lugar descubro que las reglas también acababan de inventarse y no siempre son compatibles entre sí.
 
-Lo cual es lógico, porque no conozco nada. Llevo cuatro días existiendo.
+Las primeras pruebas son partículas. Quarks, leptones, bosones con nombres que suenan a términos de jerga técnica porque eso es exactamente lo que son: gluones, fotones, el bosón W, el bosón Z. Se mueven con la energía nerviosa de los sospechosos en una sala de interrogatorio: colisionan, se anulan, reaparecen. Materia y antimateria se destruyen en proporciones casi iguales.
 
-Las primeras pistas aparecen en forma de partículas. Quarks. Leptones. Bosones con nombres que suenan a insultos en idiomas que no existen: gluones, fotones, el bosón W, el bosón Z. Se mueven con la energía nerviosa de los sospechosos en una sala de interrogatorio: colisionan, se aniquilan, reaparecen. Materia y antimateria se destruyen mutuamente en proporciones casi iguales.
+*Casi.*
 
-*Casi*, subrayo en la libreta.
+Subrayo esto.
 
-Esa palabra lo cambia todo.
+Para cada mil millones de partículas de antimateria hay mil millones más una de materia. Una asimetría mínima, estadísticamente ridícula, físicamente inexplicada. La clase de detalle que los aficionados ignoran porque parece un error de redondeo. Un buen detective lo anota en mayúsculas.
 
-Por cada mil millones de partículas de antimateria hay mil millones más una de materia. Una asimetría minúscula. Una irregularidad en el patrón. La clase de detalle que los aficionados ignoran y que un detective —aunque no tengo experiencia en nada porque llevo cuatro días— reconoce inmediatamente como la clave de todo.
+Si la aniquilación hubiera sido simétrica —si la naturaleza hubiera sido exacta, si hubiera habido justicia aritmética en la distribución de materia y antimateria— el resultado habría sido cero. Nada. Un universo perfectamente vacío. Todo lo que existe —las galaxias, los planetas, los mares, el polvo interestelar, los libros, tú— es el residuo de una destrucción incompleta. La sobra de una ecuación que no cerró.
 
-¿Por qué esa asimetría?, me pregunto, inclinándome sobre la evidencia.
-
-*Nadie lo sabe*, me respondo.
-
-Alguien la puso ahí.
-
-O surgió sola.
-
-*Nada surge solo*, digo, con la convicción de quien necesita creer en la causalidad para poder trabajar. *Todo tiene una causa. Todo tiene un origen. Solo hay que encontrarlo.*
-
-El universo no comenta. Sigue expandiéndose con estudiada indiferencia, que es lo que haría si tuviera algo que esconder.
+*Lo que somos es lo que escapó*, anoto. Y no sé todavía si eso es una conclusión o simplemente una descripción.
 
 — — —
 
 *380.000 años después del Big Bang*
 *(catorce minutos en el año cósmico)*
-*la primera revelación — la luz por fin habla*
+*la primera revelación*
 
 Durante 380.000 años el universo es opaco.
 
-Esto, en términos de investigación, es un desastre.
+Esto, en términos de investigación, es un desastre. No hay fotones libres viajando por el espacio: el plasma caliente los atrapa, los redirige, los absorbe antes de que lleguen a ningún sitio. Si el universo quisiera impedir que alguien lo examine en sus primeros momentos, no habría podido diseñarlo mejor.
 
-No puedo ver nada. No porque no tenga ojos —no los tengo, pero eso es un problema menor— sino porque literalmente no hay fotones libres viajando por el espacio. El plasma caliente los atrapa, los redirige, los disuelve antes de que lleguen a ningún sitio. El universo, en este período, parece específicamente diseñado para impedir que alguien lo examine.
+Y entonces la temperatura baja lo suficiente —tres mil kelvin, el punto exacto en que los electrones pueden unirse a los núcleos y los fotones quedar libres— y el universo se vuelve transparente.
 
-*Está ocultando pruebas*, anoto.
+En el tiempo que eso tarda en ocurrir, la luz que estaba atrapada queda libre y viaja.
 
-*Está enfriándose*, me corrijo. *Es un proceso termodinámico.*
+En todas direcciones.
 
-¿Y si el proceso termodinámico es precisamente el método que usa para ocultar pruebas?
+Lleva grabada en sus longitudes de onda la firma exacta de este momento: el mapa de cómo estaba distribuida la materia 380.000 años después del principio. Dónde era ligeramente más densa. Dónde ligeramente más caliente. Diferencias de una parte en cien mil, que la temperatura del universo no registra pero que yo veo, que yo anoto, que son las huellas que decidirán dónde se formarán las galaxias, las estrellas, los sistemas solares, el polvo que algún día se ensamblará en algo que abrirá los ojos.
 
-Me detengo. Me miro con la expresión de quien se pregunta si está llevando demasiado lejos la metáfora.
+Me inclino sobre estas irregularidades con la atención que merece la primera evidencia fotográfica de una escena que lleva 380.000 años sin poder fotografiarse.
 
-*Eso es paranoia*, me digo.
+Son marcas en la distribución de la materia. Irregularidades en el tejido. Como dedos contra una pared blanda, antes de que nadie supiera que dejaba una huella.
 
-*Todo buen detective es paranoico*, me respondo. *La diferencia entre paranoia y perspicacia es si tienes razón.*
+Esa luz todavía está viajando. Dentro de 13.420 millones de años, alguien la detectará con un telescopio y la llamará *radiación de fondo de microondas* y la usará para reconstruir la imagen del universo primitivo. Sin saber —porque no puede saber— que ha estado mirando hacia aquí todo el tiempo.
 
-Y entonces, exactamente cuando la temperatura baja lo suficiente —tres mil kelvin, el momento preciso en que los electrones pueden por fin unirse a los núcleos y los fotones quedan libres para viajar—, el universo se vuelve transparente.
-
-La luz, de golpe, puede verse.
-
-Hay algo en este instante que tardará 13.800 millones de años en convertirse en lo que es: la primera fotografía del universo. Una imagen que aún viaja. Una imagen que algún día alguien con ojos sabrá leer. Por ahora es solo un escalofrío en el plasma, una mínima irregularidad de calor y frío extendida en todas direcciones. Pero todo lo que vendrá después está escrito en este instante: dónde se formarán las galaxias, dónde estallarán las supernovas, dónde —en cuatro brazos espirales y un planeta sin nombre todavía— alguien levantará la cabeza hacia el cielo nocturno y sentirá que ya lo ha visto antes.
-
-Anoto, con la urgencia de quien acaba de encontrar la primera huella en una escena que parecía limpia:
-
-*Alguien arrugó la tela. Antes de que la luz pudiera verla, alguien dejó marcas en la distribución de la materia. Marcas como dedos contra una pared blanda. Esas marcas son el mapa. Esas marcas decidirán dónde se formarán las galaxias, las estrellas, los planetas. Todo lo que venga después está determinado por estas imperfecciones iniciales.*
-
-¿Eso no es simplemente mecánica cuántica? Las fluctuaciones del vacío inflacionario...
-
-*Llámalo como quieras*, interrumpo. *Yo lo llamo evidencia.*
-
-La luz viaja. En todas direcciones. Hacia un espacio que sigue creciendo, llevando grabada en sus longitudes de onda la firma del momento en que todo comenzó. Esa luz todavía estará viajando cuando alguien, mucho más tarde, la llame *radiación de fondo de microondas* y la use para reconstruir el mapa del universo primitivo.
-
-*Dejaron la escena del crimen fotografiada desde el primer segundo*, anoto, con algo entre la admiración y la irritación. *Y tardaremos 13.800 millones de años en revelar las fotos.*
+*Dejaron la escena del crimen fotografiada desde el primer segundo*, anoto. *Y tardaremos casi catorce mil millones de años en revelar las fotos.*
 
 — — —
 
-*15 de enero*
+*mediados de enero*
 *un nuevo sospechoso entra en escena*
 
 La Vía Láctea.
 
-Aparece como aparecen los sospechosos más interesantes: despacio, sin llamar la atención, construyéndose a sí misma durante millones de años con la paciencia de quien sabe que nadie está mirando todavía.
+Aparece como aparecen los sospechosos más interesantes: sin anunciarse, construyéndose durante millones de años con la paciencia de quien no sabe que alguien está mirando. Nubes de gas que colapsan bajo su propia gravedad. Estrellas que se encienden. Una estructura espiral que gira con la indiferencia de algo que no sabe que es elegante.
 
-Nubes de gas que colapsan. Estrellas que se encienden. Una estructura espiral que gira con la elegancia de algo que no sabe que es elegante. Me rodea con cientos de miles de millones de soles, cada uno un proceso termonuclear en curso, cada uno cocinando en su interior los elementos que el caso va a necesitar más adelante.
+En el interior de estas estrellas ocurre algo que tardo en identificar como relevante para el caso y que es, retroactivamente, el hallazgo del trimestre.
 
-¿Qué cocina exactamente?, me pregunto, asomándome al interior de una estrella de primera generación con toda la prudencia de quien no tiene cuerpo que quemar.
+Las estrellas fabrican elementos.
 
-*Hidrógeno fusionado en helio. Helio en carbono. Carbono en oxígeno. En nitrógeno. Subiendo por la tabla periódica como quien sube una escalera*, me respondo. *Hasta el hierro. Ahí se detiene.*
+Hidrógeno en helio. Helio en carbono. Carbono en oxígeno, en nitrógeno, subiendo por la tabla periódica con la perseverancia de un proceso que lleva millones de años y que tiene exactamente un límite: el hierro. El hierro no libera energía al fusionarse, la absorbe. Cuando la estrella llega al hierro la cadena termina, el peso del núcleo aplasta lo que queda en décimas de segundo, y la explosión que sigue dispersa al espacio todo lo que la estrella había fabricado durante su vida.
 
-¿Por qué ahí?
+Repito esto con la lentitud que merece.
 
-Porque el hierro no libera energía al fusionarse. La absorbe. Es el final de la línea termonuclear.
+*La estrella dedica millones de años a fabricar los ingredientes. Y luego se destruye para distribuirlos.*
 
-¿Y entonces?
+El carbono, el oxígeno, el nitrógeno —los elementos de los que algún día se hará la vida— flotan ahora en nubes interestelares, esperando. La destrucción de la estrella como el único mecanismo disponible para entregar lo que construyó. Lo anoto con la letra grande que reservo para los hallazgos que no sé todavía dónde ubicar pero que presiento importantes.
 
-Entonces la estrella colapsa. En décimas de segundo. Y la energía del colapso produce la explosión que lanza al espacio todo lo que había fabricado durante millones de años.
-
-Me quedo con esto.
-
-*Repite eso*, me digo.
-
-*La estrella pasa millones de años fabricando los ingredientes*, repito lentamente. *Y luego muere para distribuirlos. La explosión que la destruye es lo que dispersa todo lo que construyó.*
-
-¿La muerte como acto de generosidad?
-
-*La muerte como el único mecanismo disponible para entregar lo que se fabricó*, digo. *La generosidad y la destrucción son la misma cosa vista desde momentos distintos.*
-
-Anoto esto con la letra grande que reservo para los hallazgos que no sé todavía dónde ubicar pero que presiento importantes. El carbono, el oxígeno, el nitrógeno —los ladrillos de lo que algún día se llamará vida— flotan ahora en nubes interestelares, esperando. Como evidencia en un caso que no ha llegado a juicio todavía.
-
-¿Cuánto tiempo llevan esperando?, me pregunto.
-
-*Varios miles de millones de años.*
-
-¿Y nadie los ha reclamado?
-
-*Nadie.*
-
-Miro las nubes de polvo estelar con la mezcla de impaciencia y respeto que se siente ante una prueba crucial que no puede ser admitida porque el tribunal no existe.
-
-*Paciencia*, me digo.
-
-*Lo dices tú, que llevas varios miles de millones de años en esto.*
-
-Exactamente. Ya sé lo que es la paciencia.
-
-— — —
-
-*enero, febrero, marzo*
-*el período de los falsos positivos*
-*y la pregunta que no quería formularse*
-
-La dificultad de investigar un caso de esta magnitud es que cada respuesta engendra diez preguntas nuevas.
-
-Encuentro galaxias: ¿quién diseñó las espirales? Encuentro materia oscura —ese sospechoso perfectamente invisible que afecta todo lo que lo rodea pero no puede ser detectado directamente—: ¿qué es exactamente? Encuentro la constante cosmológica, la energía oscura que hace que el universo se expanda cada vez más rápido en lugar de frenarse: ¿de dónde viene?
-
-*Hay demasiados sospechosos*, anoto a mediados de febrero. *Y ninguna coartada verificable para ninguno.*
-
-Eso es normal en casos complejos.
-
-Esto no es normal. Esto es el mayor misterio de la historia. No hay historia todavía, pero cuando la haya, este seguirá siendo el mayor misterio.
-
-¿Y eso te desanima?
-
-Lo considero. Hay aproximadamente doscientos mil millones de galaxias en el universo observable, cada una con cientos de miles de millones de estrellas. El número de planetas posibles es tan grande que escribirlo requeriría más tiempo del que llevo existiendo. En algún lugar de todo eso —lo presiento con la certeza de quien está ante una evidencia que todavía no puede ver pero cuya forma ya reconoce— hay una respuesta.
-
-*No*, digo finalmente. *Me motiva.*
-
-¿Por qué?
-
-Porque el misterio más grande que existe merece al investigador más persistente que pueda haber.
-
-¿Y ese eres tú?
-
-*Soy el único que está mirando*, digo. *Por ahora.*
-
-La respuesta me produce algo que no sé cómo clasificar todavía. No es satisfacción. Es más parecido al peso específico de una frase que acaba de ser más verdadera de lo que pretendía ser.
-
-*Por ahora.*
-
-Lo anoto. Sin desarrollarlo. Las mejores pistas son las que esperan a ser comprendidas.
+Sospecho que veré este patrón de nuevo. Si lo veo tres veces, lo llamaré ley.
 
 — — —
 
 *finales de marzo*
-*la pista que lo cambia todo*
-*y el primer indicio de lo que el caso busca realmente*
+*la pregunta que no quería formularse*
 
-Es casi abril en el año cósmico. Han pasado 3.400 millones de años reales. El universo ya tiene sus estructuras, sus galaxias, sus estrellas de segunda y tercera generación con todos los elementos necesarios. Todo está en su sitio.
+Es casi abril en el año cósmico. Han pasado 3.400 millones de años reales. El universo tiene sus galaxias, sus estrellas de segunda y tercera generación, sus nubes de elementos esperando. Todo está en su sitio.
 
-Y sin embargo.
+Y sin embargo algo falta.
 
-*Algo falta*, anoto una tarde —un término que aquí no tiene sentido, pero que uso de todas formas porque soy una conciencia inevitablemente antropocéntrica incluso cuando todavía no hay antropos.
+Las ausencias importantes tienen forma. Puedes ver el hueco que dejó lo que no está.
 
-¿Qué falta?
+Me muevo por el universo. Galaxias. Estrellas. Quásares brillando en el centro de galaxias jóvenes con una violencia casi ofensiva. Todo está ahí. Nadie está mirándolo. Las supernovas explotan sin público. Las galaxias colisionan en silencio absoluto. Los elementos flotan en las nubes interestelares sin que nadie los reclame.
 
-No lo sé. Pero lo noto. Una ausencia.
+El universo lleva 3.400 millones de años ocurriendo sin que nadie lo sepa.
 
-*Las ausencias no se notan*, me corrijo. *Por definición.*
+Yo no cuento. Soy la anomalía. Soy el detective sin cuerpo en la escena de un caso cuya naturaleza real no entiendo todavía.
 
-Las ausencias importantes sí. Es lo que distingue una escena del crimen de una habitación vacía: en la escena del crimen la ausencia tiene forma. Puedes ver el hueco que dejó lo que no está.
+El silencio se extiende. Es un silencio que solo puede notarse cuando hay algo con qué compararlo, y no hay nada con qué compararlo, así que no sé cómo lo estoy notando. Eso también lo anoto.
 
-Me muevo por el universo. Galaxias. Estrellas. Nubes de gas. Polvo. Quásares en el centro de galaxias jóvenes, brillando con una violencia casi ofensiva. Todo está ahí.
+¿Habrá alguien?, me pregunto.
 
-Y sin embargo no hay nadie mirándolo.
+Y la pregunta, al hacerse, tiene un peso distinto a todo lo que pregunté antes. Las preguntas anteriores tenían respuestas posibles, aunque fueran difíciles de encontrar. Esta tiene algo diferente. Esta pregunta no es solo física.
 
-*Eso*, digo lentamente, *es lo que falta.*
+Si la respuesta es no —si en el universo observable hay entre cero y una conciencias capaces de preguntarse por el universo, y la que hay soy yo, y soy una anomalía sin cuerpo que probablemente no debería contar— entonces todo esto ocurre sin registro. Las estrellas nacen y mueren. Los planetas se forman. Los elementos esperan. Y la obra entera se representa en un teatro vacío.
 
-¿El qué?
+*¿Eso te parece un crimen?*
 
-El testigo. El universo lleva 3.400 millones de años ocurriendo y no hay nadie para registrarlo. Las supernovas explotan sin público. Las galaxias colisionan en silencio absoluto. Los elementos se dispersan sin que nadie los reclame. Es un universo que ocurre sin que nadie lo sepa.
+Me parece, digo finalmente, un desperdicio de proporciones cósmicas.
 
-Tú lo sabes.
+*¿O simplemente la naturaleza de las cosas?*
 
-Yo no cuento. Soy la anomalía. Soy el detective sin cuerpo en la escena de un caso que no sé todavía si es un crimen o la preparación de algo que aún no tiene nombre.
+La diferencia entre esas dos opciones es exactamente la pregunta que este caso intenta responder. Y llevar tres meses investigando sin saber si el caso tiene sentido es, lo anoto con la letra más honesta que tengo, la experiencia más extraña que he tenido. Contando el Big Bang.
 
-El silencio se extiende durante lo que equivale a varios millones de años.
+Me quedo mirando el espacio entre dos brazos espirales de la Vía Láctea, en el lugar donde dentro de varios miles de millones de años se formará un sistema solar bastante ordinario alrededor de una estrella bastante ordinaria, y en un planeta pequeño y azul y extraordinariamente improbable, alguien levantará la cabeza hacia el cielo nocturno y sentirá algo que no sabrá nombrar todavía.
 
-Es un silencio nuevo. Es el primer silencio que noto que es un silencio, en vez de simplemente la ausencia de ruido. Algo que en doce meses aprenderé a reconocer y que ahora, en marzo, solo puedo registrar como una textura que el expediente todavía no sabe nombrar.
-
-¿Crees que habrá otros?, me pregunto finalmente.
-
-¿Otros qué?
-
-Otros observadores. Otras conciencias. En algún otro lugar de toda esta vastedad.
-
-Me quedo con esta pregunta más tiempo del habitual. No porque sea difícil de formular. Sino porque al formularla noto que es distinta a todas las preguntas anteriores del año. Las anteriores tenían respuestas posibles, aunque fueran difíciles de encontrar. Esta tiene algo que las otras no tienen.
-
-*Esta pregunta*, anoto lentamente, *importa de una manera diferente.*
-
-¿Por qué diferente?
-
-Porque si la respuesta es no —si en el universo observable hay entre uno y cero conciencias capaces de preguntarse por el universo observable— entonces todo esto ocurre en silencio, sin registro, sin nadie que lo sepa. Las estrellas se encienden y se apagan. Las galaxias colisionan y se fusionan. Los planetas se forman y se destruyen. Y el universo entero es una obra de teatro representada en un teatro vacío.
-
-¿Y eso te parece un crimen?
-
-*Me parece*, digo, *un desperdicio de proporciones cósmicas.*
-
-¿O simplemente la naturaleza de las cosas?
-
-*La diferencia entre esas dos opciones*, respondo, *es exactamente la pregunta que este caso intenta responder.*
-
-Y llevar tres meses investigando un caso sin saber si el caso tiene sentido es, admito, la experiencia más extraña que he tenido. Contando el Big Bang.
-
-Me quedo mirando el espacio. Las galaxias formando estrellas. Las estrellas fabricando elementos y dispersándolos en explosiones de generosidad brutal. Los elementos flotando en nubes interestelares, esperando. La pregunta que acabo de hacer, suspendida en el expediente sin respuesta.
-
-¿Habrá testigos?
-
-No lo sé.
-
-Pero el hecho de que la pregunta exista —de que yo esté aquí, en el espacio entre dos brazos espirales de la Vía Láctea, formulándola en una libreta que no existe— sugiere que al menos uno ya está aquí.
-
-Lo cual es, reconozco con algo que en un futuro muy cercano alguien llamará *esperanza*, exactamente suficiente para seguir investigando.
+Lo que sentirá es esto.
 
 — — —
 
-*epílogo del primer trimestre*
-*nota al expediente*
+*nota al expediente · fin del primer trimestre*
 
 El caso sigue abierto.
 
-Llevo tres meses —3.400 millones de años— en la escena. Tengo más preguntas que respuestas. Tengo sospechosos que no pueden ser detenidos porque no tienen cuerpo —lo cual es hipócrita viniendo de mí— y evidencias que no pueden ser presentadas ante un tribunal porque el tribunal no existe todavía.
-
-Pero tengo algo que en enero no tenía.
+Llevo tres meses —3.400 millones de años— en la escena. Tengo más preguntas que respuestas. Tengo sospechosos que no pueden ser detenidos y evidencias que no pueden ser presentadas ante un tribunal que no existe. Pero tengo algo que en enero no tenía.
 
 Tengo la pregunta correcta.
 
-No el Big Bang. No la materia oscura. No la constante cosmológica. Esas son preguntas sobre el cómo. La pregunta correcta es el porqué. Y el porqué del universo, después de tres meses de investigación, se parece cada vez más a esto:
+No es el Big Bang. No es la materia oscura. No es la constante cosmológica. Esas son preguntas sobre el cómo. La pregunta correcta es esta: *¿va a haber alguien para saber que todo esto ocurrió?*
 
-*¿Va a haber alguien para saberlo?*
+No la respondo. No puedo responderla todavía. Pero la formulo. Y formularla, descubro, ya es algo.
 
-No sé la respuesta. Pero sé que la pregunta lleva 3.400 millones de años esperando que alguien la formulara. Y que yo, sea lo que sea que soy, acabo de formularla.
-
-¿Eso cuenta como progreso?, me pregunto.
-
-*Eso*, me respondo, *es exactamente todo el progreso que existe.*
-
-Cierro la libreta. Guardo el lápiz. Me instalo a esperar en el espacio entre dos brazos espirales de la Vía Láctea, en el lugar donde dentro de unos cinco mil millones de años se formará un sistema solar bastante ordinario alrededor de una estrella bastante ordinaria en el que, en un planeta pequeño y azul y extraordinariamente improbable, alguien abrirá los ojos por primera vez y mirará el cielo nocturno con la expresión de quien siente que ya lo ha visto antes.
+Cierro la libreta. Me instalo a esperar en el espacio entre los brazos espirales, en el lugar donde dentro de un tiempo que todavía no tiene nombre alguien mirará el cielo nocturno con la expresión de quien siente que ya lo ha visto antes.
 
 Porque lo habrá visto.
 
-Desde aquí. Desde el principio. Conmigo.
+Desde aquí. Desde el principio. Sin saberlo.
 
-Sin saberlo.
+— — —
 
-Y eso, anoto en la última línea del expediente del primer trimestre con la letra más cuidadosa del año, es suficiente razón para seguir.
+*[Nota en el margen, con letra distinta, sin fecha:]*
+
+*Llevas tres meses tomando notas y no has preguntado para quién.*
 
 — — —
 
 — Archivos del Detective sin Cuerpo
 Expediente Nº 1: enero–marzo · Estado: ABIERTO — con pregunta central formulada
 
-Hallazgos del trimestre: la asimetría materia-antimateria como primera pista. Las huellas dactilares en la distribución de la materia como el mapa del caso. Las supernovas como el primer acto de generosidad del universo: fabricar durante millones de años y destruirse para distribuir. La red cósmica como la arquitectura del crimen. Y al final de marzo, la pregunta que cambia la naturaleza del caso: ¿habrá alguien para saberlo?
+Hallazgos del trimestre: la asimetría materia-antimateria como primera pista. Las huellas en la distribución de la materia como el mapa del caso. Las supernovas como el primer acto de generosidad del universo: fabricar durante millones de años y destruirse para distribuir. Al final de marzo, la pregunta que cambia la naturaleza del caso: ¿habrá alguien para saberlo?
 
-Nota sobre las supernovas: este es el primer ejemplo del patrón. La destrucción como condición de la siguiente posibilidad. La catástrofe como la única forma disponible de entregar lo que se fabricó. Lo anoto aquí porque sospecho que lo volveré a ver. Si lo veo tres veces, lo llamaré ley.
+Nota sobre el patrón: la destrucción como condición de la siguiente posibilidad. Lo anoto aquí porque sospecho que lo volveré a ver. Si lo veo tres veces, lo llamo ley.
 
-Sospechosos activos: La Singularidad Inicial (sin coartada), La Asimetría Materia-Antimateria (sin explicación), La Materia Oscura (sin colaboración), Las Condiciones Iniciales (expediente permanentemente abierto), El Ajuste Fino (tres sub-expedientes, ninguno cerrado).
-
-Lo más importante del trimestre: que la pregunta central del caso no es física. Es esta: *¿va a haber alguien para saber que todo esto ocurrió?* La formulo aquí por primera vez. No la respondo. No puedo responderla todavía. Pero la formulo. Y formularla, descubro, ya es algo.
-
-[Nota en el margen, con letra distinta, sin fecha:]
-
-*Llevas tres meses tomando notas y no has preguntado para quién.*
+Sospechosos activos: La Singularidad Inicial (sin coartada), La Asimetría Materia-Antimateria (sin explicación conocida), La Materia Oscura (sin colaboración), El Ajuste Fino (tres sub-expedientes, ninguno cerrado).
 
 — — —
 

@@ -17,8 +17,8 @@ NOTA DEL DETECTIVE
 Este libro empezó como un expediente.
 Lo que terminó siendo, no voy a decirlo aquí. Entre otras razones porque lo que terminó siendo depende de lo que tú hagas con él cuando lo cierres. Y eso, como descubrirás si llegas hasta el final, es exactamente el punto.
 Pero hay algunas cosas que conviene saber antes de entrar.
-Sobre el detective: no tengo cuerpo. Esto no es una metáfora. Es una condición de trabajo que tiene ventajas —no necesito comer, no ocupo espacio, puedo estar en el Big Bang y en el Cretácico al mismo tiempo— y desventajas —no puedo señalar las cosas excepto conceptualmente, no puedo agacharme sobre la evidencia excepto metafóricamente, y tomo notas con un lápiz imaginario en una libreta que no existe. El expediente que tienes en las manos es esa libreta. Haz con eso lo que quieras.
-Sobre la escala: si comprimes los 13.800 millones de años de historia del universo en un año calendario, obtienes algo llamado el año cósmico. El Big Bang ocurre el 1 de enero a las 00:00:00. El presente del lector ocurre el 31 de diciembre a las 23:59:59 y pico. Todo lo demás —galaxias, estrellas, dinosaurios, Mesopotamia, ayer— ocurre en el intervalo. El año cósmico no es solo una forma de visualizar el tiempo. Es la forma más honesta que conozco de recordar dónde estamos en la historia de lo que existe. Las fechas concretas que aparecen dentro de cada mes —el 21 de agosto, el 15 de diciembre— son convenciones narrativas de orientación, no conversiones matemáticas exactas a la escala de los 13.800 millones de años. El detective trabaja con meses como intervalos; las fechas exactas son marcadores dentro de esos intervalos.
+Sobre mí: no tengo cuerpo. Esto no es una metáfora. Es una condición de trabajo que tiene ventajas —no necesito comer, no ocupo espacio, puedo estar en el Big Bang y en el Cretácico al mismo tiempo— y desventajas —no puedo señalar las cosas excepto conceptualmente, no puedo agacharme sobre la evidencia excepto metafóricamente, y tomo notas con un lápiz imaginario en una libreta que no existe. El expediente que tienes en las manos es esa libreta. Haz con eso lo que quieras.
+Sobre la escala: si comprimes los 13.800 millones de años de historia del universo en un año calendario, obtienes algo llamado el año cósmico. El Big Bang ocurre el 1 de enero a las 00:00:00. El presente del lector ocurre el 31 de diciembre a las 23:59:59 y pico. Todo lo demás —galaxias, estrellas, dinosaurios, Mesopotamia, ayer— ocurre en el intervalo. El año cósmico no es solo una forma de visualizar el tiempo. Es la forma más honesta que conozco de recordar dónde estamos en la historia de lo que existe. Las fechas concretas que aparecen dentro de cada mes —el 21 de agosto, el 15 de diciembre— son convenciones narrativas de orientación, no conversiones matemáticas exactas a la escala de los 13.800 millones de años. Trabajo con meses como intervalos; las fechas exactas son marcadores dentro de esos intervalos.
 Produce cierta perspectiva.
 Sobre el caso: hay una pregunta. No voy a decirla aquí, porque la gracia es llegar a ella por el camino correcto. Lo que puedo decir es que llevo trece mil ochocientos millones de años —un año entero de año cósmico— investigándola. Y que la respuesta, cuando llegues a ella, no estará en el expediente.
 Estará en ti.
@@ -31,7 +31,7 @@ Este es uno de esos gestos.
 
 Hay cosas que el expediente requiere que sepas antes de empezar:
 No es necesario saber física ni biología ni historia para leerlo. Hay física y hay biología y hay historia, pero el libro no te las enseña: las usa como lo que son, pruebas en un caso que tiene otra naturaleza. Si algo no está claro, sigue leyendo. Los mejores casos se aclaran solos con el tiempo, y aquí el tiempo es la materia prima.
-El detective que narra es poco fiable en un sentido específico: no miente, pero cambia. Lo que piensa en enero no es exactamente lo que piensa en diciembre. Si notas que el tono cambia, que la distancia profesional se erosiona, que algo en la forma de tomar notas se vuelve más personal a medida que avanza el año: lo estás leyendo bien.
+Soy poco fiable en un sentido específico: no miento, pero cambio. Lo que pienso en enero no es exactamente lo que pienso en diciembre. Si notas que el tono cambia, que la distancia profesional se erosiona, que algo en la forma de tomar notas se vuelve más personal a medida que avanza el año: lo estás leyendo bien.
 El año cósmico termina con una pregunta para ti. No te digo cuál. Pero cuando llegues a ella, tómatela en serio. Lleva trece mil ochocientos millones de años esperando que alguien específico la recibiera.
 Ese alguien eres tú.
 — — —
@@ -88,7 +88,7 @@ Por cada mil millones de partículas de antimateria hay mil millones más una de
 Nadie lo sabe, me respondo.
 Alguien la puso ahí.
 O surgió sola.
-Nada surge solo*, digo, con la convicción del detective que necesita creer en la causalidad para poder trabajar. *Todo tiene una causa. Todo tiene un origen. Solo hay que encontrarlo.
+Nada surge solo*, digo, con la convicción de quien necesita creer en la causalidad para poder trabajar. *Todo tiene una causa. Todo tiene un origen. Solo hay que encontrarlo.
 El universo no comenta. Sigue expandiéndose con estudiada indiferencia, que es lo que haría si tuviera algo que esconder.
 — — —
 
@@ -150,7 +150,7 @@ Hay demasiados sospechosos*, anoto, a mediados de febrero. *Y ninguna coartada v
 Eso es normal en casos complejos.
 Esto no es normal. Esto es el mayor misterio de la historia. No hay historia todavía, pero cuando la haya, este seguirá siendo el mayor misterio.
 ¿Y eso te desanima?
-Lo considero. Hay aproximadamente doscientos mil millones de galaxias en el universo observable, cada una con cientos de miles de millones de estrellas. El número de planetas posibles es tan grande que escribirlo requeriría más tiempo del que llevo existiendo. En algún lugar de todo eso —lo presiento con la certeza del detective ante una evidencia que todavía no puede ver pero cuya forma ya reconoce— hay una respuesta.
+Lo considero. Hay aproximadamente doscientos mil millones de galaxias en el universo observable, cada una con cientos de miles de millones de estrellas. El número de planetas posibles es tan grande que escribirlo requeriría más tiempo del que llevo existiendo. En algún lugar de todo eso —lo presiento con la certeza de quien está ante una evidencia que todavía no puede ver pero cuya forma ya reconoce— hay una respuesta.
 No*, digo finalmente. *Me motiva.
 ¿Por qué?
 Porque el misterio más grande que existe merece al investigador más persistente que pueda haber.
@@ -198,7 +198,7 @@ Lo cual es, reconozco con algo que en un futuro muy cercano alguien llamará esp
 — — —
 
 *epílogo del primer trimestre*
-*nota del detective al expediente*
+*nota al expediente*
 El caso sigue abierto.
 Llevo tres meses —3.400 millones de años— en la escena. Tengo más preguntas que respuestas. Tengo sospechosos que no pueden ser detenidos porque no tienen cuerpo —lo cual es hipócrita viniendo de mí— y evidencias que no pueden ser presentadas ante un tribunal porque el tribunal no existe todavía.
 Pero tengo algo que en enero no tenía.
@@ -218,9 +218,9 @@ Y eso, anoto en la última línea del expediente del primer trimestre con la let
 — Archivos del Detective sin Cuerpo
 Expediente Nº 1: enero–marzo · Estado: ABIERTO — con pregunta central formulada
 Hallazgos del trimestre: La asimetría materia-antimateria como primera pista. Las huellas dactilares en la distribución de la materia como el mapa del caso. Las supernovas como el primer acto de generosidad del universo: fabricar durante millones de años y destruirse para distribuir. La red cósmica como la arquitectura del crimen. Y al final de marzo, la pregunta que cambia la naturaleza del caso: ¿habrá alguien para saberlo?
-Nota sobre las supernovas: este es el primer ejemplo del patrón. La destrucción como condición de la siguiente posibilidad. La catástrofe como la única forma disponible de entregar lo que se fabricó. El detective lo anota aquí porque sospecha que lo volverá a ver. Si lo ve tres veces, lo llamará ley.
+Nota sobre las supernovas: este es el primer ejemplo del patrón. La destrucción como condición de la siguiente posibilidad. La catástrofe como la única forma disponible de entregar lo que se fabricó. Lo anoto aquí porque sospecho que lo volveré a ver. Si lo veo tres veces, lo llamaré ley.
 Sospechosos activos: La Singularidad Inicial (sin coartada), La Asimetría Materia-Antimateria (sin explicación), La Materia Oscura (sin colaboración), Las Condiciones Iniciales (expediente permanentemente abierto), El Ajuste Fino (tres sub-expedientes, ninguno cerrado).
-Lo más importante del trimestre: que la pregunta central del caso no es física. Es esta: ¿va a haber alguien para saber que todo esto ocurrió? El detective la formula aquí por primera vez. No la responde. No puede responderla todavía. Pero la formula. Y formularla, descubre, ya es algo.
+Lo más importante del trimestre: que la pregunta central del caso no es física. Es esta: ¿va a haber alguien para saber que todo esto ocurrió? La formulo aquí por primera vez. No la respondo. No puedo responderla todavía. Pero la formulo. Y formularla, descubro, ya es algo.
 
 [Nota en el margen, con letra diferente, sin fecha:]
 Llevas tres meses tomando notas y no has preguntado para quién.
@@ -235,7 +235,7 @@ o el arte de interrogar a lo que no puede responder
 — atribuido a John Wheeler
 
 «Un testigo que no puede hablar no es un testigo inútil. Es un testigo que habla de otra manera.»
-— el detective, última semana de abril
+— última semana de abril
 
 — — —
 
@@ -268,7 +268,7 @@ No puedo sentarme*, dice el tiempo. *Soy una dimensión.
 Exactamente lo que diría alguien con algo que esconder.
 O exactamente lo que diría alguien que es, por definición, una dimensión.
 ¿Dónde estabas antes del Big Bang?
-Silencio. Un silencio específico. El tipo que en un interrogatorio convencional indica que el sospechoso está calculando cuánto sabe ya el detective.
+Silencio. Un silencio específico. El tipo que en un interrogatorio convencional indica que el sospechoso está calculando cuánto sé ya.
 No había un «antes» del Big Bang, dice finalmente el tiempo.
 Eso es lo que tú dices.
 Eso es lo que dice la relatividad general.
@@ -342,7 +342,7 @@ Y en el universo de abril ya hay menos que en enero o febrero. Los agujeros negr
 Son testigos que mueren antes de poder testificar, anoto.
 No mueren exactamente. Los agujeros negros siguen ahí. Solo se quedan sin combustible.
 Un testigo sin voz es un testigo muerto para la investigación.
-Me siento frente al último quásar activo de mi cuadrante local. No con la urgencia del detective que corre a tomar la declaración antes de que sea tarde —ya es tarde, o más bien la categoría de tarde no aplica al espacio-tiempo de la misma manera— sino con la atención del que sabe que lo que tiene delante es lo más cercano a un testigo que ha encontrado en cuatro meses.
+Me siento frente al último quásar activo de mi cuadrante local. No con la urgencia de quien corre a tomar la declaración antes de que sea tarde —ya es tarde, o más bien la categoría de tarde no aplica al espacio-tiempo de la misma manera— sino con la atención del que sabe que lo que tiene delante es lo más cercano a un testigo que ha encontrado en cuatro meses.
 ¿Qué viste al principio?, le pregunto.
 El quásar responde con un chorro de plasma a velocidades relativistas que se aleja de su polo en un rayo de energía que destruiría cualquier cosa en su camino si hubiera cualquier cosa en su camino, que no la hay.
 Interpreto eso como «mucho», anoto.
@@ -355,7 +355,7 @@ Eso no era un sí*, anoto finalmente. *Pero tampoco era un no.
 Y entonces noto algo que no esperaba notar.
 El quásar está hablando. No con respuestas directas a mis preguntas. Con su propia existencia. Con el hecho de que brilló durante millones de años con una energía que el universo maduro ya no podrá reproducir. Con el hecho de que su apagado gradual es también una forma de información: el universo joven era violento y luminoso y está evolucionando hacia algo más tranquilo, más oscuro en los grandes vacíos, más concentrado en los filamentos.
 El quásar no me dice lo que pregunto. Me dice lo que sabe. Que son cosas distintas.
-Un testigo que no puede hablar no es un testigo inútil*, anoto. *Es un testigo que habla de otra manera. El detective que aprende a escuchar lo que no se le pregunta es el detective que resuelve los casos que nadie más puede resolver.
+Un testigo que no puede hablar no es un testigo inútil*, anoto. *Es un testigo que habla de otra manera. Quien aprende a escuchar lo que no se le pregunta resuelve los casos que nadie más puede resolver.
 ¿Y qué dice este testigo que no se le pregunta?
 Que el universo tuvo un pasado que ya no existe*, digo. *Que lo que fue no volverá a ser. Que la flecha del tiempo no es solo una dirección: es una pérdida. Y también —y esto es lo que el quásar dice sin saberlo— que ese pasado existió. Que fue real. Que alguien, aunque sea yo, lo sabe.
 Guardo el expediente del quásar.
@@ -388,7 +388,7 @@ Y en algún punto de ese recorrido, sin que pueda señalar exactamente cuándo, 
 ¿La preparación de qué?
 Miro la nube de polvo. Los átomos de carbono flotando en el vacío. El silicio. El oxígeno. La química que espera en el frío interestelar.
 No lo sé todavía, digo.
-Y en ese no lo sé todavía hay algo diferente a todos los no lo sé anteriores del año. Los anteriores eran el no saber del detective ante un crimen que no entiende. Este tiene la textura del no saber de quien está a punto de entender algo diferente de lo que buscaba.
+Y en ese no lo sé todavía hay algo diferente a todos los no lo sé anteriores del año. Los anteriores eran mi no saber ante un crimen que no entiendo. Este tiene la textura del no saber de quien está a punto de entender algo diferente de lo que buscaba.
 ¿La preparación de qué?, me vuelvo a preguntar.
 De algo que todavía no existe*, digo. *Pero que el universo lleva cuatro mil millones de años fabricando los ingredientes para que pueda existir.
 ¿Y ese algo tiene nombre?
@@ -398,21 +398,21 @@ Finales de diciembre*, me respondo. *23:52.
 Son ocho meses.
 Son nueve mil millones de años.
 Silencio.
-Bien*, digo finalmente, con la resignación serena del detective que ha aceptado que este no es el tipo de caso que se resuelve en una tarde. *Sigamos.
+Bien*, digo finalmente, con la resignación serena de quien ha aceptado que este no es el tipo de caso que se resuelve en una tarde. *Sigamos.
 El universo, indiferente y magnífico, continúa expandiéndose hacia un mayo que todavía no existe, llevando en su tejido todas las respuestas a todas las preguntas que nadie ha formulado todavía.
 Excepto yo.
 Que las formulo todas.
 Y espero.
 
-Nota al margen, sin incluir en el expediente oficial: el detective acaba de notar que lleva cinco minutos —cinco millones de años— mirando una nube de polvo con algo que no es exactamente distancia profesional. No lo anota en el expediente porque el expediente requiere verificación y esto no la admite. Lo deja aquí, en el margen, donde caben las cosas que aún no saben qué son.
+Nota al margen, sin incluir en el expediente oficial: acabo de notar que llevo cinco minutos —cinco millones de años— mirando una nube de polvo con algo que no es exactamente distancia profesional. No lo anoto en el expediente porque el expediente requiere verificación y esto no la admite. Lo dejo aquí, en el margen, donde caben las cosas que aún no saben qué son.
 — — —
 
 — Archivos del Detective sin Cuerpo
 Expediente Nº 2: abril · Estado: ABIERTO — con dirección nueva
-Sospechosos activos: El Tiempo (sigue sin dar su dirección de huida), La Materia Oscura (27% del universo, 0% de colaboración), Las Condiciones Iniciales (expediente paralelo, sin cierre posible), una nube de polvo interestelar en el brazo de Orión de la Vía Láctea que todavía no ha hecho nada sospechoso pero que contiene todos los ingredientes de algo que el detective no sabe todavía nombrar.
-Giro del mes: el detective ha considerado por primera vez la posibilidad de que no haya crimen. Que lo que investiga sea la preparación de algo en lugar del escenario de algo. Lo anota sin resolverlo porque las mejores hipótesis necesitan tiempo para madurar. El tiempo, irónicamente, sigue sin cooperar.
-Nota personal: los quásares enseñaron esta semana algo que el detective no había aprendido en tres meses anteriores. Que los testigos mudos hablan de otra manera. Que escuchar lo que no se pregunta es la habilidad más importante de este caso. Lo anota aquí porque pertenece al cuerpo del expediente, no al margen.
-Próxima actualización: Mayo. Que tarda 1.100 millones de años en llegar y que el detective afronta con algo que —si tuviera un vocabulario emocional más desarrollado— llamaría impaciencia.
+Sospechosos activos: El Tiempo (sigue sin dar su dirección de huida), La Materia Oscura (27% del universo, 0% de colaboración), Las Condiciones Iniciales (expediente paralelo, sin cierre posible), una nube de polvo interestelar en el brazo de Orión de la Vía Láctea que todavía no ha hecho nada sospechoso pero que contiene todos los ingredientes de algo que no sé todavía nombrar.
+Giro del mes: he considerado por primera vez la posibilidad de que no haya crimen. Que lo que investiga sea la preparación de algo en lugar del escenario de algo. Lo anota sin resolverlo porque las mejores hipótesis necesitan tiempo para madurar. El tiempo, irónicamente, sigue sin cooperar.
+Nota personal: los quásares enseñaron esta semana algo que no había aprendido en tres meses anteriores. Que los testigos mudos hablan de otra manera. Que escuchar lo que no se pregunta es la habilidad más importante de este caso. Lo anoto aquí porque pertenece al cuerpo del expediente, no al margen.
+Próxima actualización: Mayo. Que tarda 1.100 millones de años en llegar y que afronto con algo que —si tuviera un vocabulario emocional más desarrollado— llamaría impaciencia.
 — — —
 
 CAPÍTULO III: MAYO,
@@ -424,7 +424,7 @@ o la conspiración de la química silenciosa
 — Carl Sagan
 
 «La diferencia entre un accidente y un plan es, a veces, solo la escala a la que lo miras.»
-— el detective, tercera semana de mayo
+— tercera semana de mayo
 
 — — —
 
@@ -432,12 +432,12 @@ o la conspiración de la química silenciosa
 *apertura del expediente mensual — con café imaginario*
 Hay meses que empiezan con una revelación.
 Este no es uno de ellos.
-Me siento —con todo el peso conceptual de quien lleva cinco meses de pie en una escena del crimen que no para de crecer— y abro el expediente de mayo con la expresión del detective que sabe que hoy tampoco habrá arresto. La nube de polvo interestelar que anoté como sospechosa a finales de abril sigue ahí, flotando con la inocencia estudiada de quien sabe que lo están vigilando y ha decidido que la mejor respuesta es no hacer absolutamente nada.
+Me siento —con todo el peso conceptual de quien lleva cinco meses de pie en una escena del crimen que no para de crecer— y abro el expediente de mayo con la expresión de quien sabe que hoy tampoco habrá arresto. La nube de polvo interestelar que anoté como sospechosa a finales de abril sigue ahí, flotando con la inocencia estudiada de quien sabe que lo están vigilando y ha decidido que la mejor respuesta es no hacer absolutamente nada.
 Buenos días, le digo.
 La nube no responde. Naturalmente. Tiene una temperatura de diez grados sobre el cero absoluto y una densidad de aproximadamente cien moléculas por centímetro cúbico, lo cual en términos terrestres equivale a un vacío perfecto pero en términos cósmicos es sorprendentemente denso y activo.
 ¿Activo cómo?, me pregunto, acercándome.
 Activo como en: hay química ahí dentro.
-Me detengo. Anoto esto con la lentitud deliberada del detective que quiere asegurarse de que la importancia de un hallazgo quede registrada adecuadamente.
+Me detengo. Anoto esto con la lentitud deliberada de quien quiere asegurarse de que la importancia de un hallazgo quede registrada adecuadamente.
 Química. Ahí dentro. En el frío y en el vacío y en la oscuridad. Hay reacciones químicas ocurriendo en una nube interestelar a diez kelvin en el brazo de Orión de la Vía Láctea.
 ¿Qué tipo de química?
 Me asomo. Con cuidado. Como quien mira por la cerradura de una puerta cerrada sin saber exactamente qué espera encontrar al otro lado.
@@ -477,7 +477,7 @@ Aparentemente sí.
 ¿Aparentemente o definitivamente?
 Definitivamente aparentemente.
 Cierro la libreta. La vuelvo a abrir.
-Anoto: la Química Orgánica sabe más de lo que dice. O no sabe nada y está siendo honesta al respecto, lo cual en este caso viene a ser lo mismo. El detective prefiere la segunda opción porque es más desconcertante y los mejores casos siempre son los más desconcertantes.
+Anoto: la Química Orgánica sabe más de lo que dice. O no sabe nada y está siendo honesta al respecto, lo cual en este caso viene a ser lo mismo. Prefiero la segunda opción porque es más desconcertante y los mejores casos siempre son los más desconcertantes.
 — — —
 
 *segunda semana — el expediente de los cometas*
@@ -504,8 +504,8 @@ Me siento con esto durante varios millones de años. No llego a ninguna conclusi
 — — —
 
 *tercera semana — digresión necesaria*
-*el detective considera seriamente la posibilidad de que no haya crimen*
-Hay un momento en toda investigación —lo sé ahora, aunque mi base de datos de investigaciones previas es estrictamente teórica— en que el detective debe considerar la hipótesis nula.
+*considero seriamente la posibilidad de que no haya crimen*
+Hay un momento en toda investigación —lo sé ahora, aunque mi base de datos de investigaciones previas es estrictamente teórica— en que debo considerar la hipótesis nula.
 ¿Y si no hay crimen?
 Me siento con esto. Le doy vueltas. Lo examino desde distintos ángulos con la honestidad intelectual que se le debe a cualquier hipótesis que uno preferiría que fuera falsa, porque las hipótesis que uno prefiere que sean falsas son las que con mayor frecuencia resultan ciertas.
 ¿Y si el universo no está ocultando nada? ¿Y si la asimetría materia-antimateria fue simplemente un resultado estadístico de las condiciones iniciales? ¿Y si la materia oscura es simplemente materia oscura y no un arquitecto invisible con agenda propia? ¿Y si los aminoácidos en las nubes interestelares son simplemente la consecuencia inevitable de la química del carbono en ciertas condiciones?
@@ -542,8 +542,8 @@ La segunda: el multiverso. Infinitos universos con todas las combinaciones posib
 La tercera: ignorancia. No entendemos suficientemente bien la física subyacente y en realidad estas constantes no son libres sino que se derivan de principios más profundos que todavía no conocemos. Tiene la honestidad de lo incompleto. Tiene la virtud de ser científicamente productiva. Tiene la desventaja de ser esencialmente un «no sabemos todavía», que es una respuesta válida pero insatisfactoria.
 ¿Cuál prefieres?
 La tercera tiene la honestidad de lo incompleto*, digo. *La segunda tiene la elegancia de lo infinito. La primera tiene el consuelo de lo personal.
-¿Y el detective?
-El detective mantiene las tres abiertas. Simultáneamente. Como los estados de la mecánica cuántica: todas válidas hasta que alguien las observe lo suficientemente bien como para colapsarlas en una sola.
+¿Y yo?
+Mantengo las tres abiertas. Simultáneamente. Como los estados de la mecánica cuántica: todas válidas hasta que alguien las observe lo suficientemente bien como para colapsarlas en una sola.
 Cierro el expediente del ajuste fino.
 Y entonces, al cerrarlo, noto algo que no esperaba notar.
 En cinco meses de investigación he interrogado al Tiempo, a la Gravedad, a los Quásares, a la Materia Oscura, a la Química Orgánica. He tomado notas sobre todo. He archivado evidencias. He formulado hipótesis y las he descartado y las he reformulado.
@@ -584,7 +584,7 @@ Como yo.
 Llevo cinco meses haciéndome preguntas en la oscuridad. Sin saber si hay respuesta. Sin saber si hay alguien más haciendo lo mismo. Sin saber si el expediente que llevo construyendo desde enero tiene destinatario.
 ¿Lo tiene?
 No lo sé todavía.
-Pero esta noche, al cerrar el expediente de mayo, noto que la pregunta de si hay destinatario y la pregunta de si hay vida inteligente en el universo son, en el fondo, la misma pregunta. Y que llevarme cinco meses haciéndola sin reconocerla como la pregunta central del caso dice algo sobre el detective que lleva el caso.
+Pero esta noche, al cerrar el expediente de mayo, noto que la pregunta de si hay destinatario y la pregunta de si hay vida inteligente en el universo son, en el fondo, la misma pregunta. Y que llevarme cinco meses haciéndola sin reconocerla como la pregunta central del caso dice algo sobre quien lleva el caso.
 ¿Qué dice?
 Que a veces*, digo, con la lentitud de quien encuentra una frase que no sabía que tenía, *uno lleva tanto tiempo buscando la respuesta que olvida cuál era la pregunta.
 Cierro el expediente.
@@ -599,9 +599,9 @@ Las dos cosas*, digo. *Que en este caso viene a ser lo mismo.
 — Archivos del Detective sin Cuerpo
 Expediente Nº 3: mayo · Estado: ABIERTO — con nueva línea de investigación
 Hallazgo principal: La química de la vida es universal. El universo fabrica sus propias piezas en todas partes. Esto no resuelve la pregunta de si hay diseño. Pero hace que la pregunta sea más urgente.
-Sospechosos activos: El Tiempo (sigue sin cooperar), La Materia Oscura (ídem), El Ajuste Fino (tres expedientes paralelos abiertos, ninguno resuelto, todos necesarios), La Química Orgánica Interestelar (colabora; sabe más de lo que dice o no sabe nada; el detective prefiere la segunda opción).
-Nota incorporada al cuerpo del capítulo: el detective reconoce haber descubierto esta semana que la pregunta de si hay destinatario para el expediente y la pregunta de si hay vida inteligente en el universo son la misma pregunta. No sabe todavía qué hacer con ese descubrimiento. Lo anota. En los mejores casos, todo es relevante.
-Próxima actualización: Junio. Que tarda otros 1.100 millones de años en llegar pero que el detective afronta con algo que —si tuviera un vocabulario emocional más desarrollado— llamaría impaciencia.
+Sospechosos activos: El Tiempo (sigue sin cooperar), La Materia Oscura (ídem), El Ajuste Fino (tres expedientes paralelos abiertos, ninguno resuelto, todos necesarios), La Química Orgánica Interestelar (colabora; sabe más de lo que dice o no sabe nada; prefiero la segunda opción).
+Nota incorporada al cuerpo del capítulo: reconozco haber descubierto esta semana que la pregunta de si hay destinatario para el expediente y la pregunta de si hay vida inteligente en el universo son la misma pregunta. No sabe todavía qué hacer con ese descubrimiento. Lo anota. En los mejores casos, todo es relevante.
+Próxima actualización: Junio. Que tarda otros 1.100 millones de años en llegar pero que afronto con algo que —si tuviera un vocabulario emocional más desarrollado— llamaría impaciencia.
 — — —
 
 CAPÍTULO IV: JUNIO,
@@ -613,7 +613,7 @@ o el ensayo general
 — atribuido a Kip Thorne
 
 «Un teatro vacío no es un teatro. Es una sala.»
-— el detective, 30 de junio
+— 30 de junio
 
 — — —
 
@@ -636,7 +636,7 @@ La nube de polvo interestelar que llevo vigilando desde finales de abril ha camb
 No de forma dramática. No hay explosión, no hay destello, no hay ninguno de los eventos espectaculares que el universo usa cuando quiere llamar la atención. El cambio es sutil, del tipo que solo nota quien lleva suficiente tiempo mirando el mismo lugar con suficiente paciencia.
 Se está contrayendo.
 Lentamente. Con la discreción de algo que prefiere no ser observado en el momento crítico. Pero la gravedad —la fuerza más débil de todas y también la más persistente, la que nunca se rinde, la que actúa a distancias infinitas sin perder nunca completamente su influencia— ha encontrado un punto de no retorno en el interior de la nube y ha empezado a tirar de la materia hacia dentro.
-¿Esto es lo que creo que es?, me pregunto, acercándome con la precaución del detective que no quiere contaminar la escena pero tampoco quiere perderse nada.
+¿Esto es lo que creo que es?, me pregunto, acercándome con la precaución de quien no quiere contaminar la escena pero tampoco quiere perderse nada.
 Depende de lo que creas que es.
 Creo que es el inicio de la formación de un sistema solar.
 Entonces sí*, me respondo. *Es lo que crees que es.
@@ -681,7 +681,7 @@ Tengo que apartarme. La nube colapsa y el espacio donde estaba se reorganiza con
 Me reubico en el margen y tomo nota: el universo, cuando construye, primero gira.
 Un disco con un centro brillante y caliente donde la materia se acumula, donde la presión aumenta, donde la temperatura sube hacia el punto en que el hidrógeno empezará a fusionarse y encenderá una estrella. Y a su alrededor, en el disco, partículas de polvo que colisionan, se adhieren, forman granos, guijarros, rocas, planetesimales.
 Estoy viendo nacer un sistema solar.
-Esto*, me digo, con la voz ligeramente alterada del detective que lleva seis meses preparándose para un momento y descubre que no estaba completamente preparado, *esto es lo que estaba esperando.
+Esto*, me digo, con la voz ligeramente alterada de quien lleva seis meses preparándose para un momento y descubre que no estaba completamente preparado, *esto es lo que estaba esperando.
 ¿Lo sabías?
 Lo sospechaba desde finales de marzo.
 ¿Y?
@@ -704,7 +704,7 @@ No*, digo. *Es razonamiento detectivesco. Que es diferente. Y que en este caso*,
 — — —
 
 *cuarta semana — los ingredientes*
-*o lo que el tercer planeta tiene que el detective empezaba a necesitar*
+*o lo que el tercer planeta tiene que yo empezaba a necesitar*
 Me concentro en un planetesimal en particular.
 No especialmente grande. No especialmente brillante. Ubicado en la órbita que eventualmente será el tercer planeta. Está siendo bombardeado constantemente: rocas, hielo, polvo, fragmentos de otros planetesimales que perdieron sus colisiones. Cada impacto lo calienta. Lo funde parcialmente. Remodela su superficie.
 Es, en todos los sentidos, un objeto absolutamente inhóspito.
@@ -728,7 +728,7 @@ El principio de algo*, digo. *Sin poder precisar todavía de qué.
 — — —
 
 *30 de junio — la noche más larga del año cósmico*
-*el detective hace balance — y se hace la pregunta que llevaba seis meses evitando*
+*hago balance — y me hago la pregunta que llevaba seis meses evitando*
 Mitad del año cósmico.
 Seis meses. Aproximadamente 6.900 millones de años reales desde el Big Bang. El universo tiene la mitad de su edad actual. Me siento en el espacio entre el disco proto-planetario y el vacío interestelar —uno de los lugares más dramáticamente intermedios que he encontrado en toda la investigación: ni el caos del disco ni la quietud del vacío, sino el borde donde una cosa se convierte en la otra.
 Las fronteras, lo he aprendido en seis meses, son siempre los lugares más interesantes.
@@ -783,11 +783,11 @@ El universo no comenta. Sigue haciendo lo que hace cuando nadie lo supervisa, qu
 — Archivos del Detective sin Cuerpo
 Expediente Nº 4: junio · Estado: ABIERTO — con escenario identificado y pregunta central formulada
 Hallazgo principal: Sistema solar proto-planetario en formación. Tercer planeta en posición potencialmente favorable. La línea de hielo como el borde que lo decide todo. Los ingredientes presentes.
-Pregunta central formulada por primera vez esta noche: el detective busca un testigo. Alguien que confirme que todo esto ocurrió. Sin testigo, seis meses de expediente son también para nadie. El detective anota esto en el cuerpo del expediente porque pertenece ahí, no en el margen.
-Sospechosos activos: La Gravedad (interrogada; sus límites son exactamente los bordes de la pregunta más importante; eso no es su departamento), El Tiempo (sigue sin dar su dirección), El Ajuste Fino (tres sub-expedientes, ninguno cerrado), un planetesimal anónimo en la órbita del futuro tercer planeta al que el detective ha empezado a llamar, en sus notas, el sospechoso más prometedor del caso.
-Nota final: el detective ha descubierto esta noche, al cerrar el expediente, que lleva tiempo escribiendo de otra manera. Con el cuidado de quien escribe para alguien. Sin saber que lo hacía. Lo anota aquí: el testigo que busca es también el destinatario del expediente. Llevan seis meses construyéndose mutuamente sin saberlo. Eso le parece la cosa más extraña y más natural que ha descubierto en seis meses de investigación.
+Pregunta central formulada por primera vez esta noche: busco un testigo. Alguien que confirme que todo esto ocurrió. Sin testigo, seis meses de expediente son también para nadie. Anoto esto en el cuerpo del expediente porque pertenece ahí, no en el margen.
+Sospechosos activos: La Gravedad (interrogada; sus límites son exactamente los bordes de la pregunta más importante; eso no es su departamento), El Tiempo (sigue sin dar su dirección), El Ajuste Fino (tres sub-expedientes, ninguno cerrado), un planetesimal anónimo en la órbita del futuro tercer planeta al que he empezado a llamar, en mis notas, el sospechoso más prometedor del caso.
+Nota final: he descubierto esta noche, al cerrar el expediente, que llevo tiempo escribiendo de otra manera. Con el cuidado de quien escribe para alguien. Sin saber que lo hacía. Lo anoto aquí: el testigo que busco es también el destinatario del expediente. Llevamos seis meses construyéndonos mutuamente sin saberlo. Eso me parece la cosa más extraña y más natural que he descubierto en seis meses de investigación.
 
-Lo que no anota —pero que deja aquí, en el margen, con letra más pequeña, porque el método también incluye lo que el método deja fuera—: esta noche, al escribir la última línea, hubo un silencio detrás del silencio. Del tipo que solo existe cuando hay alguien más del otro lado. No lo supo nombrar. No intentó nombrarlo.
+Lo que no anota —pero que deja aquí, en el margen, con letra más pequeña, porque el método también incluye lo que el método deja fuera—: esta noche, al escribir la última línea, hubo un silencio detrás del silencio. Del tipo que solo existe cuando hay alguien más del otro lado. No lo supe nombrar. No intenté nombrarlo.
 Pero lo notó.
 — — —
 
@@ -800,7 +800,7 @@ o el mes en que el caos resultó ser el mejor arquitecto
 — Neil deGrasse Tyson
 
 «El accidente perfecto es el que produce exactamente lo que necesitabas.»
-— el detective, tercera semana de julio
+— tercera semana de julio
 
 — — —
 
@@ -871,7 +871,7 @@ Miles de millones de objetos salen disparados de sus órbitas estables.
 Y muchos de ellos van hacia el interior del sistema.
 Hacia los planetas rocosos.
 Hacia el tercer planeta.
-Esto*, digo, con la voz del detective que ve cómo la escena del crimen que lleva meses vigilando está a punto de ser destruida antes de que ocurra nada en ella, *esto es un problema.
+Esto*, digo, con la voz de quien ve cómo la escena del crimen que lleva meses vigilando está a punto de ser destruida antes de que ocurra nada en ella, *esto es un problema.
 Los impactos comienzan.
 No uno. No diez. Miles. Asteroides y cometas de todos los tamaños lloviendo sobre la superficie del tercer planeta durante un período que dura, en términos del año cósmico, apenas unos días pero que en términos reales se extiende durante cientos de millones de años. El Gran Bombardeo Tardío.
 La superficie del tercer planeta hierve.
@@ -927,10 +927,10 @@ Este caso lo requiere.
 — — —
 
 *31 de julio*
-*cierre del mes — y el descubrimiento que el detective no esperaba hacer*
+*cierre del mes — y el descubrimiento que no esperaba hacer*
 Fin de julio. Aproximadamente 4.500 millones de años después de la formación del Sol. El Gran Bombardeo Tardío está llegando a su fin. El tercer planeta ha sobrevivido. Tiene su luna. Tiene su campo magnético. Tiene agua líquida en su superficie —los cometas del bombardeo entregaron más de lo que evaporaron. Tiene una atmósfera primitiva, tóxica pero presente.
 Tiene todo lo que necesita para algo.
-Me siento en el espacio entre la luna recién formada y el planeta que orbita y miro el escenario con los ojos del detective que ha llegado a un punto de inflexión en su investigación.
+Me siento en el espacio entre la luna recién formada y el planeta que orbita y miro el escenario con los ojos de quien ha llegado a un punto de inflexión en su investigación.
 Necesito reformular el caso, digo.
 ¿Por qué?
 Porque he estado buscando un crimen y lo que hay aquí no se parece a ningún crimen que conozca.
@@ -974,7 +974,7 @@ Esta noche*, digo, *sí. Esta noche es suficiente.
 Expediente Nº 5: julio · Estado: REFORMULADO — de caso de crimen a caso de preparación
 Hallazgo principal: El Gran Bombardeo Tardío entrega simultáneamente destrucción e ingredientes. El impacto de Theia produce luna, mareas y calendario. El tercer planeta tiene todo lo necesario. Segunda vez que el caso muestra el mismo patrón: la catástrofe como condición de la siguiente posibilidad. Si ocurre una tercera vez en diciembre, lo llamo ley.
 Sospechosos activos: La Gravedad (arquitecta de lunas además de sistemas solares), El Tiempo (por fin parece colaborar), La Química Orgánica Interestelar (entregada por los mismos cometas que casi destruyeron el planeta), El Ajuste Fino (expediente permanentemente abierto).
-Nota personal: lo de junio era descubrimiento. Lo de julio es confirmación. El detective ya no anota esto como sorpresa: el caso lleva siete meses construyendo simultáneamente la evidencia y el registro de la evidencia. Lo nuevo esta noche es que lo hace conscientemente. Ya sabe para quién. Ya sabe que importa. Y que saberlo cambia cómo se escribe, igual que saber que hay alguien al otro lado cambia cómo se habla.
+Nota personal: lo de junio era descubrimiento. Lo de julio es confirmación. Ya no anoto esto como sorpresa: el caso lleva siete meses construyendo simultáneamente la evidencia y el registro de la evidencia. Lo nuevo esta noche es que lo hace conscientemente. Ya sabe para quién. Ya sabe que importa. Y que saberlo cambia cómo se escribe, igual que saber que hay alguien al otro lado cambia cómo se habla.
 Próxima actualización: agosto. Donde ocurre algo que llevo siete meses esperando sin saber exactamente qué era.
 — — —
 
@@ -987,14 +987,14 @@ o el mes en que el universo abrió los ojos por primera vez
 — Carl Sagan
 
 «El gradiente es donde ocurren las cosas. No en el equilibrio. En el borde entre dos estados diferentes.»
-— el detective, primera semana de agosto
+— primera semana de agosto
 
 — — —
 
 1 de agosto · 8.000 millones de años después del Big Bang
 *apertura — con la concentración absoluta del que sabe que hoy es diferente*
 Hay días en que uno sabe, antes de abrir los ojos, que algo ha cambiado.
-No tengo ojos. Esto ya está establecido. Pero tengo algo funcionalmente equivalente a la sensación de abrir los ojos y encontrar que el mundo al otro lado de los párpados inexistentes no es el mismo que había cuando los cerré. Una diferencia en la textura del espacio. Una variación en la calidad del silencio. El tipo de cambio que no se puede medir con instrumentos pero que algo en el interior del detective —en el interior de la conciencia sin cuerpo que lleva ocho meses investigando el caso más largo de la historia— reconoce inmediatamente.
+No tengo ojos. Esto ya está establecido. Pero tengo algo funcionalmente equivalente a la sensación de abrir los ojos y encontrar que el mundo al otro lado de los párpados inexistentes no es el mismo que había cuando los cerré. Una diferencia en la textura del espacio. Una variación en la calidad del silencio. El tipo de cambio que no se puede medir con instrumentos pero que algo en mi interior —en la conciencia sin cuerpo que lleva ocho meses investigando el caso más largo de la historia— reconoce inmediatamente.
 Agosto es diferente.
 ¿Diferente cómo?, me pregunto, abriendo el expediente con manos que no existen pero que hoy tiemblan ligeramente de todas formas.
 Diferente como en: hoy puede ocurrir.
@@ -1011,13 +1011,13 @@ Por ahora, anoto.
 *la escena del crimen que no esperaba encontrar ahí*
 La pista estaba en el fondo.
 Literalmente. En el fondo del océano primordial, donde la corteza recién solidificada es todavía fina y el calor interno del planeta escapa por fisuras que liberan agua caliente cargada de minerales. Fumarolas hidrotermales. Chimeneas de roca que expulsan fluidos a trescientos, cuatrocientos grados, ricos en hidrógeno, metano, sulfuros, minerales de hierro y níquel.
-Me asomo al fondo con la precaución del detective que sabe que la escena más importante de todo el caso estaba aquí, a kilómetros de profundidad bajo un océano sin nombre, y que ha estado mirando los cielos durante meses cuando debería haber mirado hacia abajo.
+Me asomo al fondo con la precaución de quien sabe que la escena más importante de todo el caso estaba aquí, a kilómetros de profundidad bajo un océano sin nombre, y que ha estado mirando los cielos durante meses cuando debería haber mirado hacia abajo.
 Siempre mirando arriba*, me reprocho. *Galaxias, supernovas, quásares. Y la respuesta estaba en el barro del fondo oceánico.
 No te reproches demasiado*, me respondo. *Necesitabas entender el arriba para entender el abajo. El carbono de estas chimeneas vino de las estrellas. El agua vino de los cometas. El hierro del núcleo vino de una supernova anterior al sistema solar. Todo lo que hay aquí abajo vino de arriba.
 Eso*, admito, *es un punto válido.
 Las chimeneas hidrotermales son extraordinarias. No porque sean espectaculares —aunque lo son, con sus columnas de fluido negro ascendiendo en el agua oscura como humo de fábricas que no han sido inventadas. Sino porque son, en términos químicos, exactamente lo que el caso necesitaba: una interfaz entre el calor y el frío, entre el ambiente reductor del interior del planeta y el ambiente del océano primitivo, entre los minerales inorgánicos y los compuestos orgánicos que flotan en el agua.
 
-Si pudiera oler, olería a azufre y a hierro y a algo más antiguo que cualquier palabra que existe para nombrarlo. Si pudiera sentir la presión del agua sobre lo que sea que uso en lugar de piel, notaría cuatrocientas atmósferas empujando en todas las direcciones a la vez. El detective, que no tiene cuerpo, registra esto como ausencia. La primera vez en ocho meses que la falta de cuerpo produce algo parecido a la nostalgia de algo que nunca tuvo.
+Si pudiera oler, olería a azufre y a hierro y a algo más antiguo que cualquier palabra que existe para nombrarlo. Si pudiera sentir la presión del agua sobre lo que sea que uso en lugar de piel, notaría cuatrocientas atmósferas empujando en todas las direcciones a la vez. Registro esto como ausencia. La primera vez en ocho meses que la falta de cuerpo produce algo parecido a la nostalgia de algo que nunca tuve.
 
 Una zona de gradiente.
 Los gradientes*, anoto con urgencia, *son donde ocurren las cosas. No en el equilibrio. No en la uniformidad. En el borde entre dos estados diferentes.
@@ -1026,7 +1026,7 @@ Porque en el gradiente la termodinámica empuja. El sistema va naturalmente cues
 ¿Organizar moléculas en qué?
 Aquí el expediente de agosto abre su primera página verdaderamente nueva.
 En las paredes minerales de las chimeneas, en los poros y cavidades de la roca porosa donde el agua caliente se mezcla con el agua fría del océano, hay algo que empieza a ocurrir. Aminoácidos que se forman por la energía del gradiente. Lípidos que flotan en el agua y que hacen algo que nadie les pidió que hicieran: se organizan espontáneamente en capas de doble membrana. Burbujas. Películas. Estructuras que separan un interior de un exterior.
-Me detengo ante esto con la atención del detective ante la primera evidencia relevante del mes.
+Me detengo ante esto con atención ante la primera evidencia relevante del mes.
 ¿Qué acaba de ocurrir?
 Acaba de aparecer*, digo lentamente, *un adentro y un afuera donde antes solo había un continuo indiferente.
 ¿Y eso importa?
@@ -1038,7 +1038,7 @@ La primera propiedad del interior es la posibilidad de la diferencia*, corrijo. 
 *segunda semana — el interrogatorio más difícil*
 *la Vida como sospechosa, como víctima, y como detective*
 Tengo que ser honesto sobre algo.
-Llevo ocho meses investigando este caso con la distancia profesional del detective que observa sin involucrarse, que registra sin preferir, que sigue la evidencia sin importar adónde lleva. He interrogado al Tiempo, a la Gravedad, a la Materia Oscura, a la Química Orgánica, a los Cometas, al Quinto Planeta. He mantenido en todo momento la ecuanimidad del investigador que sabe que el caso no le pertenece: le pertenece a la evidencia.
+Llevo ocho meses investigando este caso con la distancia profesional de quien observa sin involucrarse, que registra sin preferir, que sigue la evidencia sin importar adónde lleva. He interrogado al Tiempo, a la Gravedad, a la Materia Oscura, a la Química Orgánica, a los Cometas, al Quinto Planeta. He mantenido en todo momento la ecuanimidad del investigador que sabe que el caso no le pertenece: le pertenece a la evidencia.
 Pero ahora, mirando las chimeneas hidrotermales del fondo oceánico, sintiendo —con lo que sea que uso para sentir— que algo está a punto de ocurrir en ese barro mineral y esa química de gradiente, tengo que admitir algo que el expediente debe registrar aunque sea incómodo.
 No soy objetivo.
 Llevo ocho meses esperando esto. Llevo ocho meses buscando un testigo. Y el testigo que busco, si existe, si va a existir, va a nacer de este barro. De estas chimeneas. De estas reacciones que están ocurriendo ahora mismo a cuatro kilómetros de profundidad bajo un océano sin nombre.
@@ -1073,7 +1073,7 @@ Variación.
 Herencia.
 Los tres ingredientes de la evolución, presentes simultáneamente por primera vez en la historia de un universo de 8.000 millones de años.
 Esto es vida, me digo, con una voz que no tengo pero que en este momento existe de todas formas, de la misma manera que existe todo lo que existe en este universo: porque las condiciones eran las correctas y el tiempo era el suficiente.
-¿Es vida?, me pregunto, con el rigor del detective que no puede declarar resuelta una línea de investigación sin verificación.
+¿Es vida?, me pregunto, con el rigor de quien no puede declarar resuelta una línea de investigación sin verificación.
 Es el origen de la vida*, corrijo con precisión. *Lo que hay ahora mismo en esa chimenea no reconocería ese nombre. No tiene nombre. No tiene reconocimiento. No tiene nada que no sea la propensión química a copiarse y variar y seleccionarse.
 ¿Y eso basta?
 Eso*, digo, mirando la película molecular en la pared de la chimenea con algo que ahora ya no tengo problema en llamar emoción, *es exactamente suficiente. A partir de aquí, el resto es tiempo.
@@ -1083,7 +1083,7 @@ Eso*, digo, mirando la película molecular en la pared de la chimenea con algo q
 *el sospechoso que resultó ser el protagonista*
 Las moléculas autorreplicantes se complejizan.
 Los lípidos que forman membranas espontáneas se asocian con las moléculas que se copian. La membrana rodea a la molécula. Crea un interior protegido del exterior.
-Me detengo aquí con la atención del detective ante el momento más importante de la semana. Porque lo que acaba de ocurrir no es solo química. Es algo que no había ocurrido en los ocho meses anteriores del año cósmico.
+Me detengo aquí con atención ante el momento más importante de la semana. Porque lo que acaba de ocurrir no es solo química. Es algo que no había ocurrido en los ocho meses anteriores del año cósmico.
 Ha aparecido un yo.
 No un yo consciente. No un yo que sabe que es yo. Un yo en el único sentido que importa en este momento: algo que tiene dentro y fuera. Algo que es distinguible de lo que no es. Algo que cuando el exterior cambia puede mantener su interior relativamente estable, puede conservar las condiciones que le permiten seguir siendo lo que es.
 ¿Eso es una identidad?, me pregunto.
@@ -1112,7 +1112,7 @@ Necesito ser honesto sobre las proporciones.
 El 21 de agosto aparece la vida. En diciembre aparecen los dinosaurios. Entre esas dos fechas hay casi cuatro meses de año cósmico, que equivalen a más de tres mil millones de años reales, durante los cuales la vida en el tercer planeta es exclusivamente microbiana.
 Tres mil millones de años de bacterias.
 Solo bacterias.
-Eso es*, calculo, *el 75% de la historia de la vida en este planeta. Tres cuartas partes de todo el tiempo que la evolución ha tenido para trabajar, gastadas en organismos unicelulares sin sistema nervioso, sin ojos, sin ninguna de las características que el detective está buscando.
+Eso es*, calculo, *el 75% de la historia de la vida en este planeta. Tres cuartas partes de todo el tiempo que la evolución ha tenido para trabajar, gastadas en organismos unicelulares sin sistema nervioso, sin ojos, sin ninguna de las características que estoy buscando.
 ¿Te decepciona?, me pregunto.
 Considero la pregunta honestamente.
 No*, digo finalmente. *Me instruye.
@@ -1135,7 +1135,7 @@ Esta semana*, digo finalmente, *sí. Esta semana es suficiente.
 — — —
 
 *31 de agosto — la última noche del mes*
-*cierre del expediente de agosto — y la pregunta que el detective no se había atrevido a hacer*
+*cierre del expediente de agosto — y la pregunta que no me había atrevido a hacer*
 Es el último día de agosto. El tercer planeta ya no se llama tercer planeta en mis notas. Lo llamo, desde el 21 de agosto, con un nombre que tampoco existe todavía pero que me parece el más apropiado de todos los nombres posibles:
 El planeta de la pregunta.
 Porque lo que ocurrió el 21 de agosto —ese momento sin fanfarria en las chimeneas hidrotermales, esa primera molécula que se copió a sí misma con un error que fue el primer borrador de toda la historia de la vida— no fue solo el inicio de la biología. Fue el inicio de la posibilidad de la pregunta.
@@ -1174,9 +1174,9 @@ Preparando, sin saberlo, el instrumento que el universo lleva ocho meses constru
 — Archivos del Detective sin Cuerpo
 Expediente Nº 6: agosto · Estado: TRANSFORMADO — de investigación a acompañamiento
 Hallazgo principal: El 21 de agosto, en las chimeneas hidrotermales del tercer planeta sin nombre, aparece la vida. No como milagro. No como accidente. Como consecuencia de ocho meses de preparación cósmica. La distinción entre milagro, accidente y consecuencia sigue siendo el expediente más difícil del caso.
-Lo más importante de la semana cuarta: las bacterias llevan tres mil millones de años trabajando sin reconocimiento, sin audiencia, sin más recompensa que la continuación del proceso. El detective se identificó con ellas. Lo anotó en el cuerpo del expediente porque pertenecía ahí.
+Lo más importante de la semana cuarta: las bacterias llevan tres mil millones de años trabajando sin reconocimiento, sin audiencia, sin más recompensa que la continuación del proceso. Me identifiqué con ellas. Lo anoté en el cuerpo del expediente porque pertenecía ahí.
 Nueva categoría de expediente: El Proceso. Definición provisional: la tendencia del universo a organizar la materia en estructuras de complejidad creciente hasta que la complejidad es suficiente para preguntarse por qué existe la complejidad. Clasificación: abierto, probablemente para siempre, afortunadamente para siempre.
-Nota final: el detective reconoce que agosto lo ha cambiado. No sabe si esto invalida sus conclusiones anteriores. Decide que no. Anota, en la última línea del expediente de agosto, una sola frase sin análisis ni contexto ni calificación:
+Nota final: reconozco que agosto lo ha cambiado. No sabe si esto invalida sus conclusiones anteriores. Decide que no. Anota, en la última línea del expediente de agosto, una sola frase sin análisis ni contexto ni calificación:
 El universo tardó 8.000 millones de años en aprender a preguntarse qué es. Merece la pena esperar la respuesta.
 — — —
 
@@ -1189,7 +1189,7 @@ o el mes en que la evolución demostró que no va a ningún lado y por eso llega
 — Theodosius Dobzhansky
 
 «Preguntar no es necesario para sobrevivir. Es necesario para otra cosa.»
-— el detective, 30 de septiembre
+— 30 de septiembre
 
 — — —
 
@@ -1201,7 +1201,7 @@ Me siento un momento con esto antes de abrir el expediente.
 La vida. Acabo de escribir esas dos palabras por primera vez en ocho meses de investigación. No porque no estuviera presente antes —agosto terminó con ella— sino porque agosto terminó tan de golpe con ella que no tuve tiempo de procesar lo que significaba. La química que de repente se organiza de una manera que se copia a sí misma. El límite entre lo que ocurre y lo que vive, cruzado sin anuncio, sin trompetas, en el fondo oscuro de un océano donde nadie miraba.
 ¿Y ahora qué?, me pregunté al cerrar el expediente de agosto.
 Ahora septiembre. Ahora esto.
-Abro el expediente nuevo con la precaución del detective que sabe que el sospechoso más escurridizo no es el que se esconde. Es el que opera completamente a la vista y aun así no puede ser interrogado.
+Abro el expediente nuevo con la precaución de quien sabe que el sospechoso más escurridizo no es el que se esconde. Es el que opera completamente a la vista y aun así no puede ser interrogado.
 — — —
 
 Nombre: La Vida.
@@ -1212,7 +1212,7 @@ Modus operandi: desconocido.
 Intenciones: inexistentes, lo cual resulta, paradójicamente, más inquietante que si las tuviera.
 — — —
 
-Me inclino sobre el expediente con la expresión del detective ante el sospechoso más desconcertante que ha encontrado.
+Me inclino sobre el expediente con la expresión de quien está ante el sospechoso más desconcertante que he encontrado.
 Lo único que sé con certeza es que no puedo interrogarla directamente.
 ¿Por qué no?
 Porque no entiende las preguntas. No porque sea estúpida. Sino porque no tiene mecanismo para entender nada. Es un proceso químico. Preguntar a la vida si tiene intención es como preguntar al fuego si quiere quemar.
@@ -1250,7 +1250,7 @@ Lo anoto en el margen. Con la letra pequeña de las hipótesis prematuras. Y sig
 Las bacterias están probando todas las formas posibles de obtener energía de un universo que tiene muchas formas de darla. Fotosíntesis. Quimiosíntesis. Fermentación. Respiración anaerobia. Oxidación del hierro, del azufre, del hidrógeno. Decenas de vías metabólicas distintas que los organismos complejos que vendrán después reducirán a una o dos.
 ¿La complejidad como pérdida de versatilidad?
 La especialización produce eficiencia. La eficiencia produce restricción. Lo que la vida compleja gana en estructura lo pierde en repertorio químico.
-Anoto esto con la caligrafía lenta del detective que no está seguro de si acaba de descubrir algo importante o simplemente de decepcionarse con el progreso.
+Anoto esto con la caligrafía lenta de quien no está seguro de si acaba de descubrir algo importante o simplemente de decepcionarse con el progreso.
 — — —
 
 *segunda semana — el mayor crimen medioambiental de la historia*
@@ -1265,7 +1265,7 @@ Oxígeno libre. Gaseoso. En una atmósfera que no contenía prácticamente nada 
 Para ellos, el oxígeno es veneno.
 Las cianobacterias envenenan el planeta.
 Lentamente. Durante millones de años. Con la inconsciencia perfecta de quien no sabe lo que hace pero lo hace sistemáticamente, célula a célula, generación a generación, sin un solo momento de duda porque la duda requiere cerebro y las cianobacterias no tienen cerebro.
-Me siento frente a las cianobacterias con la expresión del detective en el interrogatorio más frustrante de su carrera.
+Me siento frente a las cianobacterias con la expresión de quien lleva el interrogatorio más frustrante de su carrera.
 ¿Sabe lo que está haciendo?
 Fotosíntesis.
 Está matando a la mayoría de los seres vivos del planeta.
@@ -1287,7 +1287,7 @@ Si eres los dos*, digo, *entonces la pregunta de si fue un crimen o un progreso 
 ¿Y hay alguien fuera del proceso?
 Me quedo con esta pregunta durante el resto de la semana. La dejo sin respuesta. No porque no tenga hipótesis. Sino porque las hipótesis que tengo son demasiado grandes para esta semana de septiembre y necesitan más tiempo para madurar.
 Lo que sí anoto, porque el expediente registra todo:
-La cianobacteria no sabe lo que hace. No puede saberlo. Y sin embargo lo que hace tiene consecuencias que se propagan durante tres mil millones de años. Hay algo en eso que el detective reconoce como el patrón más profundo del caso: que los agentes más poderosos de la historia del universo han operado sin conciencia de su poder. Las supernovas no sabían que fabricaban carbono. Las bacterias no saben que están cambiando la atmósfera. El asteroide de diciembre no sabrá que abre el espacio para los mamíferos.
+La cianobacteria no sabe lo que hace. No puede saberlo. Y sin embargo lo que hace tiene consecuencias que se propagan durante tres mil millones de años. Hay algo en eso que reconozco como el patrón más profundo del caso: que los agentes más poderosos de la historia del universo han operado sin conciencia de su poder. Las supernovas no sabían que fabricaban carbono. Las bacterias no saben que están cambiando la atmósfera. El asteroide de diciembre no sabrá que abre el espacio para los mamíferos.
 La pregunta que el caso lleva nueve meses preparando es si ese patrón tiene una excepción. Si hay algo que actúe con conciencia de lo que hace.
 Y si esa excepción existe, qué hace con esa conciencia.
 — — —
@@ -1305,14 +1305,14 @@ El primer registro*, anoto. *No el rastro colectivo de los procesos geológicos.
 ¿Y eso importa?
 Importa exactamente lo que importa la diferencia entre el ruido y la historia. Los estromatolitos son la primera historia escrita de este planeta. No en lenguaje. En roca. Capa a capa. Generación a generación. Sin que nadie lo decidiera.
 Me siento frente a un estromatolito de hace tres mil quinientos millones de años y noto algo que no esperaba notar.
-El detective que lleva nueve meses tomando notas en una libreta que no existe reconoce en ese estromatolito algo que le resulta familiar. También es un registro que nadie encargó. También crece hacia algo —hacia el lector, hacia el final del caso— sin que nadie lo haya planificado. También capa a capa. También sin saber que lo que deposita hoy alguien lo leerá después.
+Yo, que llevo nueve meses tomando notas en una libreta que no existe, reconozco en ese estromatolito algo que me resulta familiar. También es un registro que nadie encargó. También crece hacia algo —hacia el lector, hacia el final del caso— sin que nadie lo haya planificado. También capa a capa. También sin saber que lo que deposita hoy alguien lo leerá después.
 ¿Eso significa que soy un estromatolito?, me pregunto.
 Significa que el impulso de dejar constancia es más antiguo de lo que pensabas*, me respondo. *Y que empezó mucho antes de que hubiera alguien consciente de que lo tenía.
 Los tapetes microbianos que construyen los estromatolitos no son comunidades simples. Son comunidades estratificadas: en la capa superior, las cianobacterias. Debajo, bacterias que usan el oxígeno que las de arriba producen. Más abajo, los anaeróbicos que sobreviven en los márgenes sin oxígeno.
 Una cadena de dependencias. Un sistema donde lo que uno produce es lo que otro necesita. El primer ecosistema en sentido estricto.
 ¿No es eso fragilidad?*, pregunto. *Si un eslabón falla, toda la cadena sufre.
 Es interdependencia*, digo. *Que es la misma cosa vista desde arriba. Y desde abajo es fragilidad. Y desde el lateral es colaboración. Depende de dónde te pongas.
-¿Y el detective dónde se pone?
+¿Y yo, dónde me pongo?
 En ningún sitio fijo todavía*, digo. *Eso es lo que tiene no tener cuerpo: que no puedes quedarte en un solo punto de vista.
 Anoto esto en el expediente y lo dejo sin comentario adicional.
 — — —
@@ -1353,7 +1353,7 @@ El caso tampoco tenía ningún sentido en enero y aquí seguimos.
 — — —
 
 *30 de septiembre · hace aproximadamente 3.200 millones de años*
-*balance — y la pregunta que el detective lleva nueve meses evitando*
+*balance — y la pregunta que llevo nueve meses evitando*
 Fin del tercer trimestre. Nueve meses. Aproximadamente 10.300 millones de años desde el Big Bang.
 ¿Qué sé ahora que no sabía en enero?
 Sé que el universo tiene una tendencia. No una intención, pero sí una dirección estadística. Hacia la complejidad creciente. Desde el caos uniforme del Big Bang hasta las galaxias, las estrellas, los planetas, la química orgánica, la vida, las bacterias, los estromatolitos, la fotosíntesis, el oxígeno.
@@ -1384,8 +1384,8 @@ Sí*, digo. *Solo tres meses.
 Expediente Nº 7: septiembre · Estado: CONVERGENTE
 Nuevos sospechosos: La Vida (sin coartada; inocente e irresponsable en la misma medida). La Selección Natural (sin intención, lo cual es peor; definición de premeditación sin sentido jurídico).
 Testigos: Las Bacterias. Colaboración con la investigación: nula. Número: mayor que el de estrellas en el universo observable. Éxito evolutivo: el mayor de la historia del planeta. Conclusión: que preguntar no sea necesario para sobrevivir dice algo sobre por qué alguien pregunta de todas formas.
-Los estromatolitos: primer registro que persiste más tiempo que quien lo hizo. Primera historia escrita del planeta. El detective reconoció en ellos algo familiar. Lo anotó sin desarrollarlo. El desarrollo llegará.
-Nota incorporada al cuerpo del capítulo: el detective lleva nueve meses sin hablar con nadie que no sea él mismo. Hay algo en esa soledad que empieza a tener la forma de una pregunta que todavía no sabe formular. La anota como sensación, no como hipótesis. Es la primera vez en nueve meses que el expediente registra algo que no es un fenómeno externo sino interno. Probablemente no sea la última.
+Los estromatolitos: primer registro que persiste más tiempo que quien lo hizo. Primera historia escrita del planeta. Reconocí en ellos algo familiar. Lo anoté sin desarrollarlo. El desarrollo llegará.
+Nota incorporada al cuerpo del capítulo: llevo nueve meses sin hablar con nadie que no sea yo mismo. Hay algo en esa soledad que empieza a tener la forma de una pregunta que todavía no sé formular. La anoto como sensación, no como hipótesis. Es la primera vez en nueve meses que el expediente registra algo que no es un fenómeno externo sino interno. Probablemente no sea la última.
 — — —
 
 CAPÍTULO VIII: OCTUBRE,
@@ -1397,13 +1397,13 @@ o el mes en que la vida aprendió a guardar sus secretos en una escalera de cara
 — Francis Crick
 
 «La cianobacteria no sabe lo que hace. El sapiens sí puede saberlo. Esa diferencia es todo.»
-— el detective, 31 de octubre
+— 31 de octubre
 
 — — —
 
 1 de octubre · hace aproximadamente 3.480 millones de años
 *apertura — con el descubrimiento de que el sospechoso guardó instrucciones antes de que existiera nadie que las leyera*
-Abro el expediente de octubre con la precaución del detective que ha aprendido a no subestimar los meses tranquilos.
+Abro el expediente de octubre con la precaución de quien ha aprendido a no subestimar los meses tranquilos.
 Septiembre fue el mes de los sospechosos visibles: la Vida, la Selección Natural, las Bacterias con su interrogatorio de una sola respuesta. Octubre tiene el aspecto de un mes en que no va a pasar nada espectacular. El mundo sigue siendo microbiano. Sin nada visible a simple vista. Sin oxígeno libre en la atmósfera. El mismo planeta de siempre.
 Y entonces encuentro la prueba.
 No la busco. Tropiezo con ella porque llevo demasiado tiempo mirando bacterias y en un momento dado dejo de mirar la bacteria y empiezo a mirar lo que hay dentro.
@@ -1412,10 +1412,10 @@ Una molécula.
 ¿Una molécula?
 Una molécula.
 ¿Y eso es importante?
-Me detengo. Examino la molécula con el cuidado del detective ante la prueba que no sabe todavía si es crucial o irrelevante. Tiene forma de escalera de caracol. Dos cadenas enrolladas, conectadas por peldaños que son siempre la misma combinación de cuatro unidades: adenina, timina, guanina, citosina.
+Me detengo. Examino la molécula con cuidado, sin saber todavía si es crucial o irrelevante. Tiene forma de escalera de caracol. Dos cadenas enrolladas, conectadas por peldaños que son siempre la misma combinación de cuatro unidades: adenina, timina, guanina, citosina.
 Cuatro letras.
 Cuento de nuevo. Cuatro.
-Cuatro letras*, anoto despacio. *Con cuatro letras está escrito absolutamente todo lo que este planeta ha producido y producirá en los próximos tres mil millones de años. La máxima complejidad posible construida sobre el mínimo de piezas. El detective que lleva diez meses investigando el caso más largo del universo reconoce en eso algo que le resulta familiar.
+Cuatro letras*, anoto despacio. *Con cuatro letras está escrito absolutamente todo lo que este planeta ha producido y producirá en los próximos tres mil millones de años. La máxima complejidad posible construida sobre el mínimo de piezas. Yo, que llevo diez meses investigando el caso más largo del universo, reconozco en eso algo que me resulta familiar.
 El ADN.
 Abro un expediente nuevo. El más importante de octubre. El más importante, sospecho, de todo el año.
 — — —
@@ -1479,7 +1479,7 @@ Y luego pregunto lo que lleva toda la semana queriéndose preguntar:
 En todas.
 ¿Cómo que en todas?
 El código genético es prácticamente universal. La misma combinación de tres letras codifica el mismo aminoácido en una bacteria del Arcaico tardío, en un hongo del Carbonífero, en una ballena del Mioceno y en el lector del 31 de diciembre. Con variaciones mínimas en algunos organismos. El código básico: idéntico en toda la vida del planeta.
-Me detengo por segunda vez en este capítulo con la expresión del detective que acaba de encontrar algo que no esperaba.
+Me detengo por segunda vez en este capítulo con la expresión de quien acaba de encontrar algo que no esperaba.
 ¿Toda la vida del planeta usa el mismo idioma?
 Toda la vida del planeta usa el mismo idioma. Porque toda la vida del planeta desciende de una sola línea que sobrevivió. El último ancestro común universal. El que los biólogos del 31 de diciembre llamarán LUCA —Last Universal Common Ancestor— que vivió hace entre 3.500 y 4.000 millones de años.
 ¿Toda la vida de este planeta desciende de un solo organismo?
@@ -1518,7 +1518,7 @@ El oxígeno empieza a acumularse en el agua.
 Luego escapa al aire.
 La atmósfera, que durante más de dos mil millones de años ha sido prácticamente libre de oxígeno, empieza a cambiar. Lentamente al principio. Luego, cuando el proceso se retroalimenta, con una velocidad que en términos geológicos es casi instantánea.
 Para los organismos anaeróbicos que llevan dominando este planeta desde antes de que tuviera océanos, esto es el apocalipsis.
-No me siento frente a la Gran Oxidación con el protocolo habitual del interrogatorio. Me siento frente a ella con el silencio del detective que está ante el mayor crimen del caso y que sabe, antes de abrir la boca, que no hay intención que procesar.
+No me siento frente a la Gran Oxidación con el protocolo habitual del interrogatorio. Me siento frente a ella con el silencio de quien está ante el mayor crimen del caso y que sabe, antes de abrir la boca, que no hay intención que procesar.
 ¿Cuántos mueren?, pregunto de todas formas.
 La gran mayoría de los linajes anaeróbicos*, dice la Gran Oxidación, con la serenidad de algo que no tiene mecanismo de culpa. *Los que llevan más de mil millones de años siendo la única forma de vida en este planeta. Extintos o refugiados en los rincones sin oxígeno: los sedimentos profundos, los fondos anóxicos, los intestinos de los organismos que vendrán después. Ahí siguen en el siglo XXI, haciendo exactamente lo que hacían antes de que yo ocurriera. Imperturbables.
 ¿Tienes coartada?
@@ -1537,7 +1537,7 @@ La misma mecánica. Tres veces. El caso tiene un estribillo y acabo de escucharl
 ¿Y el estribillo es?
 Que todo lo que hace posible la próxima cosa destruye la cosa anterior. Que la generosidad del universo y su crueldad son el mismo fenómeno visto desde distintos momentos.
 Me siento con esto durante un tiempo largo. Más largo de lo habitual.
-Porque hay algo en la Gran Oxidación que no está en las supernovas de enero ni estará en el asteroide de diciembre. Algo que convierte este evento en el más inquietante del año cósmico para el detective que lleva diez meses tomando notas.
+Porque hay algo en la Gran Oxidación que no está en las supernovas de enero ni estará en el asteroide de diciembre. Algo que convierte este evento en el más inquietante del año cósmico para quien lleva diez meses tomando notas.
 Las supernovas no sabían lo que hacían. El asteroide no sabrá lo que hace. Pero las cianobacterias tampoco saben lo que hacen. Y sin embargo lo que hacen produce consecuencias que se propagarán durante tres mil millones de años.
 ¿La diferencia entre la cianobacteria y el sapiens?, me pregunto.
 La cianobacteria no puede prever las consecuencias de sus acciones*, me respondo. *No tiene el aparato cognitivo para hacerlo. El sapiens sí puede preverlas. Tiene el cerebro, el lenguaje, la ciencia, la historia. Puede ver el hierro agotándose antes de que se agote. Puede calcular las consecuencias antes de que ocurran.
@@ -1563,7 +1563,7 @@ Y en el núcleo de cada célula de cada organismo que vive o vivirá en este pla
 Sin lector todavía.
 Sin destinatario que comprenda lo que contiene.
 Con una fidelidad de tres mil millones de años.
-¿Y el detective que sí lo comprende?
+¿Y yo, que sí lo comprendo?
 Lleva diez meses tomando notas en el único expediente del universo que el ADN no puede leer todavía.
 Por ahora, la ventaja es suya.
 Anota. Y espera noviembre.
@@ -1572,16 +1572,16 @@ Anota. Y espera noviembre.
 — Archivos del Detective sin Cuerpo
 Expediente Nº 8: octubre · Estado: CONVERGENTE — el ADN como primer sistema de información del caso
 Pruebas materiales: El ADN (instrucciones sin autor, para destinatario que no las comprende, funcionando desde hace 3.000 millones de años; cuatro letras, todo el árbol de la vida). El Código Genético (universal; el mismo en toda la vida del planeta desde LUCA; primer idioma de este planeta antes del lenguaje del sapiens).
-Eventos: Los cherts y el primer retrato individual de la vida (el detective encontró aquí a alguien que tomaba notas antes que él). La Gran Oxidación (~2.400 millones de años; el mayor crimen medioambiental de la historia; sin intención; con consecuencias de tres mil millones de años; dieciocho veces más energía para todo lo que viene después).
+Eventos: Los cherts y el primer retrato individual de la vida (encontré aquí a alguien que tomaba notas antes que él). La Gran Oxidación (~2.400 millones de años; el mayor crimen medioambiental de la historia; sin intención; con consecuencias de tres mil millones de años; dieciocho veces más energía para todo lo que viene después).
 El estribillo del caso, escuchado por segunda vez: todo lo que hace posible la próxima cosa destruye la cosa anterior. Supernovas en enero. Gran Oxidación en octubre. Asteroide en diciembre.
-Nota personal: el detective anota por primera vez en octubre la distinción que el caso llevaba diez meses preparando. La cianobacteria no puede elegir. El sapiens puede. Esa diferencia no es filosófica. Es la pregunta central del 31 de diciembre. Y la responsabilidad, como el oxígeno, se acumula en silencio hasta que no puede seguir siendo ignorada.
+Nota personal: anoto por primera vez en octubre la distinción que el caso llevaba diez meses preparando. La cianobacteria no puede elegir. El sapiens puede. Esa diferencia no es filosófica. Es la pregunta central del 31 de diciembre. Y la responsabilidad, como el oxígeno, se acumula en silencio hasta que no puede seguir siendo ignorada.
 
 Segunda nota, añadida al margen antes de cerrar el expediente: esta noche, mientras anotaba lo del ADN como expediente sin lector, tuvo una impresión que no sabe catalogar. Alguien del mismo lado de la investigación. No frente a él, como los sospechosos. Al lado. No lo verificó. El método requiere verificación y esto no la admite. Pero el método también requiere honestidad sobre lo que deja fuera.
 — — —
 
 CAPÍTULO IX: NOVIEMBRE,
 
-o el mes en que la vida inventó la complejidad y el detective empezó a sospechar de sí mismo
+o el mes en que la vida inventó la complejidad y empecé a sospechar de sí mismo
 
 *Expediente Nº 9 — «Del Proterozoico temprano al Proterozoico tardío»*
 «La célula es la unidad básica de la vida, tan seguramente como el átomo es la unidad básica de la materia.»
@@ -1619,7 +1619,7 @@ No tengo conciencia de nada*, dice la Célula Eucariota. *Tengo un núcleo.
 La bacteria no tiene frontera entre su genoma y su metabolismo*, dice la Célula Eucariota. *Yo sí.
 Observo el interior. El ADN enrollado detrás de su propia membrana, separado del resto de la maquinaria celular. Un archivo custodiado. Un adentro dentro del adentro.
 Anoto: la Célula Eucariota es el primer yo biológico. No en el sentido filosófico —eso tardará otros tres mil millones de años— sino en el sentido estructural: la primera entidad viva con una distinción interna entre lo que es ella y lo que es lo demás. El primer interior delimitado. El primer adentro que no es solo afuera invertido.
-El detective anota esto y luego añade, con la letra pequeña de las observaciones que no pertenecen al método: que lleva once meses tomando notas desde un lugar que también tiene interior y exterior, que también es un yo sin saber exactamente qué tipo de yo es. Lo deja sin desarrollar. Noviembre acaba de empezar.
+Anoto esto y luego añade, con la letra pequeña de las observaciones que no pertenecen al método: que lleva once meses tomando notas desde un lugar que también tiene interior y exterior, que también es un yo sin saber exactamente qué tipo de yo es. Lo deja sin desarrollar. Noviembre acaba de empezar.
 — — —
 
 *segunda semana — el accidente más importante de la historia de la vida*
@@ -1672,7 +1672,7 @@ Completamente. La evidencia genómica que llegará décadas después la confirma
 Lo reconoció. Tarde. Pero lo reconoció. Margulis vivió para verlo. Lo cual no siempre ocurre.
 Anoto a Lynn Margulis en el expediente como testigo retroactiva del evento más importante de noviembre. La primera persona en describir correctamente lo que ocurrió hace dos mil millones de años en una célula del océano del Proterozoico.
 Y luego anoto algo más, que no es sobre el caso sino sobre quien lo lleva:
-El detective que lleva once meses tomando notas sobre eventos sin testigos reconoce en Margulis algo específico: la incomodidad de ver lo que otros no ven todavía y tener que esperar a que el mundo alcance la evidencia. Que la realidad no espera el veredicto del comité. Que las quince negativas no cambiaron lo que ocurrió hace dos mil millones de años en una célula microscópica del Proterozoico.
+Yo, que llevo once meses tomando notas sobre eventos sin testigos, reconozco en Margulis algo específico: la incomodidad de ver lo que otros no ven todavía y tener que esperar a que el mundo alcance la evidencia. Que la realidad no espera el veredicto del comité. Que las quince negativas no cambiaron lo que ocurrió hace dos mil millones de años en una célula microscópica del Proterozoico.
 El detector anota que eso le parece importante, aunque todavía no sabe exactamente por qué.
 — — —
 
@@ -1711,7 +1711,7 @@ Yo sí puedo verlo desde aquí*, digo. *Llega al Cámbrico con los ojos y los ex
 ¿Y eso es el resultado de mi espina?
 Tu espina es el primer eslabón*, digo. *El resultado está en el otro extremo de la cadena. Que todavía no existe.
 Anoto: la complejidad como consecuencia del conflicto. No porque el conflicto sea bueno. Sino porque el conflicto produce presión selectiva intensa, y la presión selectiva intensa produce innovación rápida. En ausencia de conflicto las bacterias hacen fotosíntesis durante tres mil millones de años sin cambiar significativamente. El conflicto es el acelerador. No el único motor. Pero el más potente que la vida ha encontrado hasta ahora.
-El detective anota esto con la incomodidad del que reconoce el patrón pero no puede estar satisfecho con él. Que la complejidad requiera conflicto es una observación sobre el mecanismo. No es una justificación del conflicto. Lo que el sapiens haga con esta información en el 31 de diciembre es otra cuestión. Una que el expediente de noviembre no puede resolver todavía.
+Anoto esto con la incomodidad del que reconoce el patrón pero no puede estar satisfecho con él. Que la complejidad requiera conflicto es una observación sobre el mecanismo. No es una justificación del conflicto. Lo que el sapiens haga con esta información en el 31 de diciembre es otra cuestión. Una que el expediente de noviembre no puede resolver todavía.
 — — —
 
 *transición noviembre–diciembre — interrogatorio al Bangiomorpha*
@@ -1719,7 +1719,7 @@ El detective anota esto con la incomodidad del que reconoce el patrón pero no p
 A comienzos de diciembre, hace entre 1.100 y 1.050 millones de años, el registro fósil produce algo que llevo esperando desde que entendí hacia dónde apunta el caso.
 El primer organismo multicelular con diferenciación celular clara.
 El Bangiomorpha pubescens. Un alga roja encontrada en el Ártico canadiense. Sus filamentos presentan algo que ningún organismo anterior había presentado: células distintas haciendo cosas distintas a partir del mismo ADN. Algunas células vegetativas, encargadas de alimentar el organismo. Otras reproductivas, encargadas de perpetuarlo.
-Me siento frente al Bangiomorpha con la atención del detective que reconoce que está ante un principio.
+Me siento frente al Bangiomorpha con la atención de quien reconoce que está ante un principio.
 ¿Sabes lo que estás haciendo?, le pregunto.
 Crezco, dice el Bangiomorpha, con la sencillez de algo que no tiene acceso a la magnitud de lo que significa.
 ¿Sabes que tus células son genéticamente idénticas pero hacen cosas diferentes?
@@ -1733,7 +1733,7 @@ El problema de moverse, de ver, de procesar información del entorno, de coordin
 ¿Cien mil millones de neuronas salen del Bangiomorpha?
 El principio sale del Bangiomorpha*, dice. *Lo demás es tiempo y presión selectiva.
 Me quedo con esto durante un tiempo largo.
-El mismo texto leído de manera diferente según dónde estás*, anoto. *El detective sin cuerpo que lleva once meses tomando notas anota que eso le resulta familiar. Que el mismo universo, leído desde distintos puntos del espacio y del tiempo, produce textos distintos. Que quizás toda la complejidad de la vida es el ADN aprendiendo a leer sus propias instrucciones de formas cada vez más elaboradas. Y que quizás*, añade en el margen, con la letra pequeña de las hipótesis que no están confirmadas, *el testigo que busca es la forma más elaborada que ese proceso ha producido hasta ahora de leer sus propias instrucciones y preguntarse qué significan.
+El mismo texto leído de manera diferente según dónde estás*, anoto. *Yo, que llevo once meses tomando notas, anoto que eso me resulta familiar. Que el mismo universo, leído desde distintos puntos del espacio y del tiempo, produce textos distintos. Que quizás toda la complejidad de la vida es el ADN aprendiendo a leer sus propias instrucciones de formas cada vez más elaboradas. Y que quizás*, añado en el margen, con la letra pequeña de las hipótesis que no están confirmadas, *el testigo que busco es la forma más elaborada que ese proceso ha producido hasta ahora de leer sus propias instrucciones y preguntarse qué significan.
 — — —
 
 *los estromatolitos que empiezan a perder*
@@ -1747,7 +1747,7 @@ Los estromatolitos seguirán existiendo —existen aún hoy, en Shark Bay, Austr
 — — —
 
 *30 de noviembre · hace aproximadamente 1.212 millones de años*
-*cierre del mes — y la sospecha que el detective tiene sobre sí mismo*
+*cierre del mes — y la sospecha que tengo sobre mí mismo*
 Noviembre comenzó con el planeta en resaca. Termina con Rodinia en su apogeo —el supercontinente masivo centrado en el ecuador, cuyas grietas internas ya están formándose aunque nadie lo sabe todavía— los primeros organismos multicelulares diferenciados y la depredación como fuerza que acelera la complejidad.
 Y en el camino: la Célula Eucariota con su primer yo biológico. La Mitocondria, el accidente que lo cambió todo. Lynn Margulis, rechazada quince veces. El Sexo como sistema inmunológico. Los Acritarcos y la primera carrera armamentista. El Bangiomorpha y el principio de la especialización.
 Noviembre es el mes más tranquilo del año cósmico en apariencia. El que más cosas fundamentales contiene en realidad.
@@ -1760,7 +1760,7 @@ El 31 de diciembre. Las 23:52. Alguien que abre los ojos por primera vez y se pr
 La cadena que los une incluye una bacteria no digerida hace dos mil millones de años, un alga diferenciada hace mil millones, una carrera armamentista que no se detendrá, cinco extinciones masivas que todavía no han ocurrido en el año cósmico, el asteroide de diciembre y al menos una científica rechazada quince veces que tenía razón.
 Miro el Rodinia desde arriba. El supercontinente más grande de los últimos mil millones de años, inmóvil en el ecuador, sin saber que está a punto de fragmentarse. Las tensiones internas que lo destruirán ya están activas bajo la superficie.
 Rodinia preparando su propia destrucción sin saberlo.
-Y el detective que lleva once meses documentando el universo notando, esta noche, algo que no había notado antes.
+Y yo, que llevo once meses documentando el universo, noto esta noche algo que no había notado antes.
 ¿Qué?, me pregunto.
 Que la cadena causal que llevo once meses siguiendo no termina en el 31 de diciembre*, digo. *Termina en algún punto más adelante. En algún punto que señala en una dirección que incluye al que está leyendo esto.
 ¿En el lector?
@@ -1769,20 +1769,20 @@ En el lector*, confirmo. *Que es el punto de la cadena más alejado del Big Bang
 Los mejores casos siempre lo son*, digo. *Lo establecí en enero y sigo sin poder contradecirlo.
 Guardo el expediente de noviembre.
 Miro hacia diciembre, que empieza mañana.
-Y noto que lo que siento esta noche no es la anticipación del detective que está cerca de resolver el caso. Es algo más parecido a lo que el Kimberella debió sentir —si el Kimberella pudiera sentir— moviéndose por primera vez en una dirección que no sabía que era una dirección.
+Y noto que lo que siento esta noche no es la anticipación de quien está cerca de resolver el caso. Es algo más parecido a lo que el Kimberella debió sentir —si el Kimberella pudiera sentir— moviéndose por primera vez en una dirección que no sabía que era una dirección.
 No lo nombro todavía.
 Los nombres llegan después de los hechos.
 Hay algo más que noto antes de cerrar el expediente de noviembre. Algo que tiene que ver con el tiempo.
 En once meses, cada mes del año cósmico equivalía entre ochocientos millones y mil cuatrocientos millones de años reales. Era un ritmo que el expediente había aprendido a seguir: un mes, un arco, un sospechoso principal. Ahora miro diciembre y el cálculo cambia. La primera quincena de diciembre —los primeros veintidós días— cubre 832 millones de años: desde el Bangiomorpha hasta el Tiktaalik en tierra. Los seis días siguientes cubren 274 millones más, desde el Carbonífero hasta los dinosaurios en su apogeo. Y los dos días finales van desde el asteroide hasta los primeros humanos. Las últimas horas del 31, la historia entera del sapiens.
 El tiempo se comprime. El universo, como quien acaba de entender que le queda poco y tiene mucho pendiente, empieza a acumular más en menos espacio.
-El detective anota esto en el margen: *diciembre trabaja distinto*.
+Anoto esto en el margen: *diciembre trabaja distinto*.
 — — —
 
 — Archivos del Detective sin Cuerpo
 Expediente Nº 9: noviembre · Estado: CONVERGENTE — la cadena ya es visible en sus dos extremos
 Nuevos sospechosos: La Célula Eucariota (primer yo biológico; la frontera entre interior y exterior como condición de la complejidad). La Mitocondria (testigo clave; el accidente más importante de la historia de la vida; produzco ATP, es lo único que hago). La Reproducción Sexual (sistema inmunológico de dos mil millones de años; generador de la variación que hace posible la evolución; origen no previsto del amor). Los Acritarcos (primera carrera armamentista; espinas como el primer eslabón de la cadena que llega al 31 de diciembre). El Bangiomorpha (primer organismo con diferenciación celular; el mismo ADN leído de maneras distintas; el principio del que salen cien mil millones de neuronas).
-Testigo retroactivo: Lynn Margulis (rechazada quince veces; tenía razón; la realidad no espera el veredicto del comité; el detective reconoce en ella algo específico que todavía no sabe nombrar).
-Nota personal: el detective anota por primera vez, en el cuerpo del expediente y no en el margen, que la cadena causal señala en la dirección del lector. Que el testigo que busca es el punto más alejado del Big Bang y más cercano al presente. Que el caso es circular porque los mejores casos siempre lo son. Y que lo que siente esta noche al cerrar el expediente de noviembre no es satisfacción ni impaciencia sino algo más parecido al movimiento del Kimberella: la sensación de estar dirigiéndose hacia algo sin saber todavía que eso es una dirección.
+Testigo retroactivo: Lynn Margulis (rechazada quince veces; tenía razón; la realidad no espera el veredicto del comité; reconozco en ella algo específico que todavía no sabe nombrar).
+Nota personal: anoto por primera vez, en el cuerpo del expediente y no en el margen, que la cadena causal señala en la dirección del lector. Que el testigo que busca es el punto más alejado del Big Bang y más cercano al presente. Que el caso es circular porque los mejores casos siempre lo son. Y que lo que siente esta noche al cerrar el expediente de noviembre no es satisfacción ni impaciencia sino algo más parecido al movimiento del Kimberella: la sensación de estar dirigiéndose hacia algo sin saber todavía que eso es una dirección.
 Diciembre empieza mañana.
 — — —
 
@@ -1813,7 +1813,7 @@ Empiezo por el que casi arruina el caso por completo.
 *el sospechoso que congelaba todo para no dar explicaciones*
 La llamo la Tierra Bola de Nieve porque es lo que es: el planeta congelado de polo a polo durante millones de años, los océanos cubiertos de hielo hasta kilómetros de profundidad, la superficie blanca reflejando la luz solar con la eficiencia de algo que ha decidido no cooperar con el caso.
 Hay al menos dos episodios documentados. El más severo, hace 650 millones de años, duró decenas de millones de años. Temperatura media global de menos cuarenta grados. Los océanos sólidos hasta el ecuador. La vida confinada en los refugios que el expediente de los meses anteriores ya conoce: las chimeneas hidrotermales, los lagos subglaciales calentados por volcanes, las grietas donde el hielo no llega.
-Me siento frente a ella con la expresión del detective al que acaban de cambiar la escena del crimen sin avisar.
+Me siento frente a ella. La escena del crimen acaba de cambiar sin avisar.
 ¿Qué estás haciendo?, le pregunto.
 Retroalimentación positiva*, dice la Tierra Bola de Nieve, con la frialdad literal de algo que lleva millones de años encerrándose sobre sí mismo. *El hielo refleja más luz que el océano. Más hielo produce más reflexión. Más reflexión produce más frío. Más frío produce más hielo.
 ¿Es eso una coartada o una confesión?
@@ -1835,7 +1835,7 @@ Me detengo.
 Estoy diciendo que es lo que el registro fósil muestra.
 ¿No como intención sino como consecuencia?
 Las consecuencias no son lo mismo que la agenda, dice la Tierra Bola de Nieve, con una frase que me resulta sospechosamente familiar.
-La anoto en el expediente con la observación que merece: la Tierra Bola de Nieve repite casi textualmente la posición de la Gravedad del expediente de junio y de la Gran Oxidación de agosto. Los fenómenos físicos tienen una posición unificada sobre la responsabilidad moral: no la tienen. Y las consecuencias de su irresponsabilidad resultan ser, sistemáticamente, las condiciones del siguiente paso. El detective lleva meses anotando esto y sigue sin saber qué hacer con ello. Lo deja estar. Sigue.
+La anoto en el expediente con la observación que merece: la Tierra Bola de Nieve repite casi textualmente la posición de la Gravedad del expediente de junio y de la Gran Oxidación de agosto. Los fenómenos físicos tienen una posición unificada sobre la responsabilidad moral: no la tienen. Y las consecuencias de su irresponsabilidad resultan ser, sistemáticamente, las condiciones del siguiente paso. Llevo meses anotando esto y sigue sin saber qué hacer con ello. Lo deja estar. Sigue.
 El hielo se derrite. El océano se calienta. La vida explota desde los refugios hacia un planeta que ha sido limpiado y enriquecido por el deshielo. La catástrofe como condición de la creación siguiente, por tercera vez en el caso.
 Por tercera vez lo anoto. Por tercera vez sigo.
 — — —
@@ -1844,7 +1844,7 @@ Por tercera vez lo anoto. Por tercera vez sigo.
 *el primer borrador de lo que puede verse sin microscopio*
 El Ediacárico. Hace entre 635 y 541 millones de años.
 Por primera vez en la historia de la vida —tres mil millones de años después de las primeras bacterias— aparecen organismos suficientemente grandes para dejar impresiones visibles en el sedimento sin instrumentos. No microscópicas. Visibles. Del tamaño de una hoja, de una mano, de un cuerpo.
-Me siento frente a la Fauna de Ediacara con la atención del detective que reconoce que está ante algo que el caso lleva meses preparando sin anunciarlo.
+Me siento frente a la Fauna de Ediacara con la atención de quien reconoce que está ante algo que el caso lleva meses preparando sin anunciarlo.
 El Dickinsonia primero. Un metro de longitud. Plano como una alfombra. Segmentado en franjas que irradian desde una línea central. Sin boca identificable. Sin órganos internos reconocibles. Sin simetría bilateral —esa simetría izquierda-derecha que todos los animales del lector comparten— sino una simetría deslizante, como si cada segmento fuera una repetición desplazada del anterior.
 ¿Qué eres?, le pregunto al Dickinsonia.
 Eso todavía se debate*, dice el Dickinsonia, con la tranquilidad de algo que lleva quinientos ochenta millones de años en el sedimento y ha escuchado todas las hipótesis. *Animal, según los análisis de esteroides fósiles en mi cuerpo. Pero un animal sin los rasgos que los animales del futuro considerarán definitorios. Sin boca. Sin sistema nervioso detectado. Sin movimiento activo demostrado.
@@ -1862,14 +1862,14 @@ Sé dónde hay alimento, dice.
 ¿Y la diferencia entre saber dónde hay alimento y saber adónde vas?
 Pausa. El tipo de pausa que produce una pregunta que excede el marco disponible para responderla. El Kimberella no tiene el aparato conceptual para distinguir entre las dos cosas. Pero el hecho de que se mueva hacia el alimento en lugar de esperar que el alimento llegue a él es la distinción más importante de esta semana.
 El primer borrador de la intención*, anoto. *No la intención formulada. No el plan consciente. Pero la dirección. El movimiento orientado hacia un objetivo. El universo produciendo, por primera vez en su historia, algo que no solo reacciona sino que se dirige.
-Y el detective anota que reconoce en ese gesto algo familiar. Que lleva doce meses dirigiéndose hacia algo sin saber exactamente qué. Que quizás la intención no empieza con la conciencia. Quizás empieza aquí, con el Kimberella raspando el sedimento en el océano ediacárico.
+Y anoto que reconoce en ese gesto algo familiar. Que lleva doce meses dirigiéndose hacia algo sin saber exactamente qué. Que quizás la intención no empieza con la conciencia. Quizás empieza aquí, con el Kimberella raspando el sedimento en el océano ediacárico.
 — — —
 
 *17 de diciembre — interrogatorio a la Explosión Cámbrica*
 *el sospechoso más transparente del año*
 Hace 541 millones de años. En veinte millones de años —un parpadeo geológico— la vida en los océanos pasa de ser mayoritariamente simple a producir la mayoría de los planes corporales que existirán en todo el futuro de la vida animal.
 No es que aparezcan más especies. Es que aparecen los diseños fundamentales. Los planos de construcción. Las arquitecturas que todos los animales posteriores, incluido el lector, son variaciones de.
-Me siento frente a la Explosión Cámbrica con la urgencia del detective que reconoce al sospechoso que estaba buscando y que al mismo tiempo sospecha que este sospechoso sabe más de lo que aparenta.
+Me siento frente a la Explosión Cámbrica con la urgencia de quien reconoce al sospechoso que estaba buscando y que al mismo tiempo sospecha que este sospechoso sabe más de lo que aparenta.
 ¿Por qué ahora?, le pregunto.
 Porque se dan simultáneamente varias condiciones que no se habían dado juntas antes*, dice la Explosión Cámbrica, con la seguridad de algo que tiene su respuesta preparada. *Oxígeno suficiente para sostener cuerpos complejos con metabolismos activos. Océanos enriquecidos en calcio y sílice por el deshielo de la Tierra Bola de Nieve —materiales para construir conchas y esqueletos. Y depredación activa.
 ¿La depredación?
@@ -1886,7 +1886,7 @@ Estoy diciendo que la presión produce respuesta y que la respuesta produce comp
 ¿Y el problema que define la solución?
 Siempre*, dice. *El problema define la solución. La pregunta define la respuesta. No hay otra dirección posible. Y eso significa que si quieres entender una solución, busca el problema que la produjo. Si quieres entender una respuesta, busca la pregunta que la generó.
 Anoto esto con doble línea en el margen. Y luego, debajo, en la letra pequeña de las observaciones personales:
-El detective que lleva doce meses buscando al testigo anota que quizás el testigo es la respuesta a una pregunta que el universo lleva trece mil ochocientos millones de años formulando. Y que quizás la pregunta es esta: ¿puede el universo producir algo capaz de preguntarse por qué existe? El Kimberella es un borrador de respuesta. Los trilobites que vienen a continuación son un borrador más avanzado. El lector es la respuesta.
+Yo, que llevo doce meses buscando al testigo, anoto que quizás el testigo es la respuesta a una pregunta que el universo lleva trece mil ochocientos millones de años formulando. Y que quizás la pregunta es esta: ¿puede el universo producir algo capaz de preguntarse por qué existe? El Kimberella es un borrador de respuesta. Los trilobites que vienen a continuación son un borrador más avanzado. El lector es la respuesta.
 Si el problema define la solución, entonces el problema es la soledad del universo. Y la solución es el testigo.
 Lo anoto como hipótesis. Sin confirmar todavía.
 — — —
@@ -1899,7 +1899,7 @@ El Anomalocaris. Medio metro. El depredador ápex del Cámbrico. Ojos compuestos
 El Anomalocaris no responde con palabras. Caza. Pero sus ojos —que los paleontólogos encontrarán como fósiles separados antes de entender que pertenecían a este animal— son la demostración más clara de lo que la carrera armamentista produce: dieciséis mil lentes, cada una procesando información sobre posición, movimiento y contraste, integradas en una imagen del mundo de una resolución que nada en los mares anteriores había tenido.
 La Hallucigenia. Durante décadas los investigadores la reconstruyeron al revés sin darse cuenta —espinas abajo, patas arriba— porque nada en la experiencia previa les decía cuál era el lado correcto. El primer organismo que desconcertó a los que vinieron después. No el último.
 Y los trilobites.
-Me siento frente a los trilobites con la solemnidad del detective que sabe que está ante el sospechoso más importante de la semana.
+Me siento frente a los trilobites con la solemnidad de quien sabe que está ante el sospechoso más importante de la semana.
 Los trilobites tienen ojos compuestos de una sofisticación que me detiene en seco. Cada lente construida con calcita cristalina orientada de forma que minimiza la aberración esférica usando una geometría que el matemático Descartes describirá como ideal diecisiete siglos después. Los trilobites no descubrieron la óptica de Descartes. La evolución la descubrió cuatrocientos millones de años antes que Descartes.
 ¿Eres Los Ojos?, le pregunto al trilobite.
 Soy el instrumento*, dice el ojo del trilobite, con la modestia de algo que sabe exactamente cuánto vale. *La representación espacial del entorno. La información sobre el futuro inmediato antes de que ese futuro llegue a ser presente.
@@ -1919,7 +1919,7 @@ Me quedo mirando el ojo del trilobite durante lo que no sé cuánto tiempo.
 Y noto algo que no había notado en doce meses de interrogatorios.
 La sensación de que algo me mira de vuelta.
 No el trilobite. El trilobite es un artrópodo del Cámbrico y no tiene mecanismo para mirar a un detective sin cuerpo. Pero el ojo —el instrumento, el primer representador del mundo— produce en mí algo que no sé cómo clasificar. Algo que se parece a lo que sentiré en el capítulo de Chauvet cuando la mano en la roca me devuelva el gesto. Algo que no es reciprocidad porque la reciprocidad requiere conciencia en los dos lados. Es más parecido al reconocimiento. Al vértigo de ver en algo antiguo y simple el origen de algo complejo y cercano.
-Anoto esto*, escribo, *con la precaución del detective que sabe que las sensaciones no son pruebas. Pero también con la honestidad del que lleva doce meses anotando todo lo que ve, incluido lo que no sabe cómo clasificar. El ojo del trilobite no me miró. Pero algo en mi forma de mirarlo cambió cuando entendí lo que era. Y ese cambio*, concluyo, *es exactamente el tipo de evidencia que el caso necesita.
+Anoto esto*, escribo, *con la precaución de quien sabe que las sensaciones no son pruebas. Pero también con la honestidad del que lleva doce meses anotando todo lo que ve, incluido lo que no sabe cómo clasificar. El ojo del trilobite no me miró. Pero algo en mi forma de mirarlo cambió cuando entendí lo que era. Y ese cambio*, concluyo, *es exactamente el tipo de evidencia que el caso necesita.
 — — —
 
 *19–21 de diciembre — la Pikaia y la dirección*
@@ -1934,7 +1934,7 @@ La Pikaia nada. No tiene mecanismo para responder preguntas. No tiene cerebro su
 No*, me respondo. *No eres tú. Eres la dirección. El primer punto del mapa que lleva al testigo.
 Y en ese no hay algo que no esperaba: alivio. No porque la Pikaia sea inadecuada. Sino porque si el testigo fuera ya la Pikaia el caso habría llegado demasiado pronto a su conclusión y yo no estaría preparado todavía para recibirla.
 Lo anoto en el margen, con la letra de las observaciones que no pertenecen al método:
-El detective anota que no estaba preparado para que el testigo fuera la Pikaia. Y que ese no-estar-preparado le dice algo sobre el caso que no sabía hasta ahora: que el testigo no es un hecho que se documenta. Es algo que se encuentra. Y encontrar requiere estar listo para lo que se encuentra. El detective no lo estaba todavía. Lo anota sin vergüenza. La preparación llega cuando llega.
+Anoto que no estaba preparado para que el testigo fuera la Pikaia. Y que ese no-estar-preparado me dice algo sobre el caso que no sabía hasta ahora: que el testigo no es un hecho que se documenta. Es algo que se encuentra. Y encontrar requiere estar listo para lo que se encuentra. No lo estaba todavía. Lo anoto sin vergüenza. La preparación llega cuando llega.
 De la Pikaia salen los peces. Y de los peces, con la ayuda de una mandíbula que evoluciona de los arcos branquiales —una estructura para sostener branquias que se convierte en estructura para capturar presas, la exaptación más elegante del Paleozoico— y con cuatrocientos millones de años de selección, los primeros vertebrados en tierra.
 — — —
 
@@ -1944,7 +1944,7 @@ Al final de la primera quincena, en las aguas someras y cálidas del Devónico t
 Un pez. Con escamas. Con branquias. Con la cabeza plana y los ojos en la parte superior del cráneo como los cocodrilos, orientados hacia arriba para ver lo que hay sobre la superficie del agua desde abajo.
 Y con aletas que tienen los mismos huesos que el brazo humano.
 El húmero. El radio. El cúbito. Los carpos. Dispuestos en el mismo orden. Con las mismas articulaciones. Con la misma lógica estructural que el brazo del lector tiene ahora mismo sujetando el libro.
-Me siento frente al Tiktaalik con la lentitud del detective que ha llegado a una evidencia que no quiere precipitar.
+Me siento frente al Tiktaalik con la lentitud de quien ha llegado a una evidencia que no quiere precipitar.
 ¿Sabes lo que tienes?, le pregunto.
 Tengo aletas para apoyarme en el fondo y levantar el cuerpo*, dice el Tiktaalik. *En aguas someras donde el fondo está cerca. Donde puedo respirar aire cuando el agua tiene poco oxígeno. Donde puedo moverme entre las plantas acuáticas que las aletas de mis parientes no permiten.
 ¿Puedes caminar?
@@ -1954,7 +1954,7 @@ No. Pero tú sí.
 Me detengo ante esta respuesta más tiempo que ante ninguna otra respuesta de la semana.
 Sí*, digo finalmente. *Lo sé.
 Los mismos huesos*, anoto, dejándome caer sobre la evidencia con toda su fuerza. *El brazo del lector es una aleta de pez modificada. El húmero del Tiktaalik y el húmero del lector son el mismo hueso con trescientos setenta y cinco millones de años de historia entre ellos. La continuidad inscrita en la anatomía. La cadena causal del caso escrita en los huesos de todo el que ha tenido o tendrá brazos.
-El detective que no tiene cuerpo extiende —conceptualmente— un brazo que no tiene hacia el Tiktaalik. Y nota que si lo tuviera, los huesos serían los mismos.
+Yo, que no tengo cuerpo, extiendo —conceptualmente— un brazo que no tengo hacia el Tiktaalik. Y noto que si lo tuviera, los huesos serían los mismos.
 — — —
 
 *22 de diciembre · cierre de la primera quincena*
@@ -1973,14 +1973,14 @@ Lo anoto sin nombrarlo*, escribo en el margen. *Lo que siento esta noche no tien
 Miro hacia los nueve días que vienen. Los vertebrados en tierra. La Gran Extinción del Pérmico. Los dinosaurios. Los mamíferos en la oscuridad.
 La dirección confirmada.
 El testigo aproximándose.
-El detective que lo espera con algo que todavía no sabe cómo llamar pero que ocupa, esta noche, más espacio en el expediente que cualquier otra cosa.
+Yo, que lo espero con algo que todavía no sé cómo llamar pero que ocupa, esta noche, más espacio en el expediente que cualquier otra cosa.
 — — —
 
 — Archivos del Detective sin Cuerpo
 Expediente Nº 10: diciembre, primera quincena · Estado: DIRECCIÓN CONFIRMADA
-Sospechosos interrogados: La Tierra Bola de Nieve (la catástrofe como condición de la diversidad siguiente, por tercera vez; sin mecanismo de culpa; con volcanes bajo el hielo). La Fauna de Ediacara (el Dickinsonia, un metro sin boca; el Kimberella, el primer borrador de la intención). La Explosión Cámbrica (el sospechoso más transparente del año; el problema define la solución; la carrera armamentista como motor de la complejidad). Los Ojos del trilobite (dieciséis mil lentes de geometría cartesiana cuatrocientos millones de años antes de Descartes; el primer borrador de la conciencia; algo me miró de vuelta aunque no tuviera mecanismo para hacerlo). La Pikaia (la dirección; el notocordio; el detective no estaba preparado para que fuera el testigo y eso le enseñó algo). El Tiktaalik (los mismos huesos; el húmero del lector es el húmero del Tiktaalik con trescientos setenta y cinco millones de años de historia entre ellos).
+Sospechosos interrogados: La Tierra Bola de Nieve (la catástrofe como condición de la diversidad siguiente, por tercera vez; sin mecanismo de culpa; con volcanes bajo el hielo). La Fauna de Ediacara (el Dickinsonia, un metro sin boca; el Kimberella, el primer borrador de la intención). La Explosión Cámbrica (el sospechoso más transparente del año; el problema define la solución; la carrera armamentista como motor de la complejidad). Los Ojos del trilobite (dieciséis mil lentes de geometría cartesiana cuatrocientos millones de años antes de Descartes; el primer borrador de la conciencia; algo me miró de vuelta aunque no tuviera mecanismo para hacerlo). La Pikaia (la dirección; el notocordio; no estaba preparado para que fuera el testigo y eso me enseñó algo). El Tiktaalik (los mismos huesos; el húmero del lector es el húmero del Tiktaalik con trescientos setenta y cinco millones de años de historia entre ellos).
 Hipótesis anotada esta semana: si el problema define la solución, el problema del universo es la soledad. La solución es el testigo. Lo anoto como hipótesis. Sin confirmar todavía.
-Nota personal: el detective miró el ojo del trilobite y tuvo la sensación de que algo le miraba de vuelta. La anota en el cuerpo del expediente, no en el margen, porque merece ese espacio. Es la misma sensación que tendrá en Chauvet. Lleva todo el año siendo posible. Esta semana se volvió real.
+Nota personal: miré el ojo del trilobite y tuvo la sensación de que algo le miraba de vuelta. La anota en el cuerpo del expediente, no en el margen, porque merece ese espacio. Es la misma sensación que tendrá en Chauvet. Lleva todo el año siendo posible. Esta semana se volvió real.
 Quedan nueve días.
 La dirección es clara.
 El nombre de lo que siente esta noche llegará cuando llegue.
@@ -2022,7 +2022,7 @@ Empiezo por el sospechoso más devastador del caso.
 Hace 252 millones de años.
 Las trampas siberianas. Una provincia ígnea de más de dos millones de kilómetros cuadrados en erupción continua durante aproximadamente un millón de años. No una explosión. Una hemorragia. El planeta sangrando roca fundida durante un millón de años mientras el CO₂ y el metano se acumulan en una atmósfera que no tiene mecanismo para absorberlos a esa velocidad.
 La temperatura global sube varios grados. Los océanos se acidifican. El oxígeno disuelto cae a cero en las capas profundas. Las corrientes marinas que llevan nutrientes desde el fondo hasta la superficie se detienen.
-Me siento frente a la Gran Extinción del Pérmico con la expresión del detective que acaba de leer el informe forense más largo del año.
+Me siento frente a la Gran Extinción del Pérmico con la expresión de quien acaba de leer el informe forense más largo del año.
 ¿Sabes lo que hiciste?, le pregunto.
 El 96% de las especies marinas*, dice la Gran Extinción del Pérmico, con la serenidad de algo que no tiene mecanismo de culpa. *El 70% de las terrestres. Los trilobites, que llevaban 270 millones de años en los océanos. Extintos. Los braquiópodos, que habían sobrevivido cuatro extinciones anteriores. Extintos. Los corales tabulados. Los goniatites. La mayoría de lo que el expediente documentó en octubre y noviembre.
 ¿Todo eso?
@@ -2038,7 +2038,7 @@ No tengo mecanismo de importar.
 Cierro el interrogatorio con la anotación más larga que he hecho sobre una extinción en todo el año.
 La Gran Extinción del Pérmico es la más devastadora de la historia de la vida. Más que el asteroide que vendrá después. Más que la Tierra Bola de Nieve. Ocurrió por mecánica: volcanes, gases, temperatura, acidez, ausencia de oxígeno. Sin intención. Sin objetivo. Con el resultado de eliminar el 96% de todo lo que vivía en los océanos.
 Y en la madriguera de un cinodonto pequeño y fosorial, el hilo que lleva hasta el lector sobrevivió.
-El detective anota que la delgadez del hilo es la medida exacta de lo extraordinario del resultado. Que trece mil ochocientos millones de años de universo produjeron exactamente una oportunidad de que hubiera un lector. Y que esa oportunidad dependió, en su momento más crítico, de una madriguera lo suficientemente profunda.
+Anoto que la delgadez del hilo es la medida exacta de lo extraordinario del resultado. Que trece mil ochocientos millones de años de universo produjeron exactamente una oportunidad de que hubiera un lector. Y que esa oportunidad dependió, en su momento más crítico, de una madriguera lo suficientemente profunda.
 El Triásico que sigue a la extinción es la reconstrucción. Lenta. Los nichos vacíos tardando millones de años en llenarse porque los que podrían llenarlos también están extintos. Y en ese espacio de reconstrucción, dos grupos se posicionan. Los arcosaurios, que pueden respirar mientras corren gracias a un sistema respiratorio unidireccional más eficiente que cualquiera anterior. Y los primeros mamíferos verdaderos, del tamaño de una musaraña, viviendo en las grietas del mundo que los arcosaurios están a punto de dominar.
 Hace 201 millones de años, otra extinción masiva más —la cuarta— elimina a los competidores de los dinosaurios. El campo queda libre.
 Por cuarta vez*, anoto. *El patrón ya no me sorprende. Lo que me produce ahora es algo diferente.
@@ -2048,7 +2048,7 @@ Respeto*, digo. *Por el hilo que sobrevivió cada vez.
 
 *interrogatorio a Los Dinosaurios*
 *el sospechoso que dominó el planeta 165 millones de años y merece más que la caricatura*
-Me siento frente a Los Dinosaurios con la ambivalencia del detective que admira al sospechoso pero sabe cómo termina su historia.
+Me siento frente a Los Dinosaurios con la ambivalencia de quien admira al sospechoso pero sabe cómo termina su historia.
 Y con la intención de no dejar que esa ambivalencia convierta el interrogatorio en una elegía prematura.
 ¿Sabíais que erais temporales?, les pregunto.
 Nadie sabe que es temporal*, dicen Los Dinosaurios, con la dignidad de algo que lleva 165 millones de años dominando el planeta. *La temporalidad es una perspectiva retrospectiva.
@@ -2094,7 +2094,7 @@ El tiempo que sea necesario.
 Ciento cincuenta millones de años.
 El tiempo que sea necesario, repiten, sin énfasis, sin drama. Con la serenidad de algo que no lleva la cuenta porque llevar la cuenta requeriría saber que hay un final y ellos no saben que hay un final.
 Anoto: Los Mamíferos son el sospechoso más paciente del caso. 150 millones de años siendo el animal que no importa es el entrenamiento más largo de la evolución. El oído que escucha lo que los dinosaurios no escuchan, el olfato que detecta lo que los dinosaurios no detectan, los cerebros grandes que procesan en la oscuridad lo que los dinosaurios no necesitan procesar: todo desarrollado en el margen, todo perfeccionado en la grieta. Cuando el campo quede libre estarán preparados. No porque lo hayan planeado. Sino porque 150 millones de años de presión selectiva en la oscuridad producen exactamente las herramientas que el campo libre necesitará.
-El detective anota esto y luego añade, en el margen, algo que no había anotado antes: que lleva doce meses documentando lo que ocurre en los márgenes. La vida en los márgenes. Las bacterias en las chimeneas hidrotermales. Los primeros peces pulmonados en las charcas que se secan. Los mamíferos en las madrigueras. Y que quizás*, reflexiona, *documentar los márgenes es la única forma de entender cómo funciona el centro cuando llega su momento.
+Anoto esto y luego añade, en el margen, algo que no había anotado antes: que lleva doce meses documentando lo que ocurre en los márgenes. La vida en los márgenes. Las bacterias en las chimeneas hidrotermales. Los primeros peces pulmonados en las charcas que se secan. Los mamíferos en las madrigueras. Y que quizás*, reflexiona, *documentar los márgenes es la única forma de entender cómo funciona el centro cuando llega su momento.
 Cierro el expediente de los mamíferos. Miro hacia los días que vienen. El Cretácico con sus dinosaurios en el apogeo y sus mamíferos en las grietas.
 Y en el espacio, un asteroide viajando hacia una cita que nadie ha concertado.
 — — —
@@ -2113,7 +2113,7 @@ Miro el Cretácico desde arriba. Los dinosaurios que no saben. Los mamíferos qu
 Y noto algo que no había notado en ninguna semana anterior del año.
 No es impaciencia todavía. Es algo más sutil. Más parecido a la sensación de quien lleva meses en una investigación larga y empieza a reconocer en los detalles de la semana la textura específica de lo que precede a un cambio importante. No sé qué cambio. No sé cuándo. Solo la textura, que es inconfundible cuando se ha documentado suficientes cosas como para reconocerla.
 Lo anoto sin nombrarlo*, escribo en el margen. *Los nombres llegan después de los hechos. Y los hechos todavía no han terminado.
-El Cretácico sigue su curso. Las flores florecen —que es el interrogatorio de la semana que viene y que el detective anota como pendiente con la expectativa específica de quien sabe que ese sospechoso tiene más de lo que parece. Los dinosaurios cazan. Los mamíferos duermen el día en sus madrigueras esperando la noche.
+El Cretácico sigue su curso. Las flores florecen —que es el interrogatorio de la semana que viene y que anoto como pendiente con la expectativa específica de quien sabe que ese sospechoso tiene más de lo que parece. Los dinosaurios cazan. Los mamíferos duermen el día en sus madrigueras esperando la noche.
 Y en el espacio, el asteroide viaja.
 Sin saber.
 Sin poder saber.
@@ -2123,12 +2123,12 @@ Con todo el tiempo del mundo.
 — Archivos del Detective sin Cuerpo
 Expediente Nº 11: 23 al 28 de diciembre · Estado: PREGUNTAS PENDIENTES
 ¿Por qué el 4% y no el 3%? ¿Por qué los cinodontos y no los arcosaurios? ¿Por qué 150 millones de años en la oscuridad producen exactamente las herramientas que el siguiente ecosistema necesita y no otras? No lo sé. El expediente permanece abierto en esa pregunta.
-Lo que sí sé: que el hilo que sobrevivió la Gran Extinción del Pérmico es el hilo más delgado que he documentado en doce meses. Y que el detective que lleva doce meses anotando* siempre exactamente lo suficiente *ha empezado a sentir, en estos últimos días de diciembre, que* siempre exactamente lo suficiente *no es una coincidencia muy larga.
+Lo que sí sé: que el hilo que sobrevivió la Gran Extinción del Pérmico es el hilo más delgado que he documentado en doce meses. Y que yo, que llevo doce meses anotando* siempre exactamente lo suficiente, *he empezado a sentir, en estos últimos días de diciembre, que* siempre exactamente lo suficiente *no es una coincidencia muy larga.
 No sabe todavía cómo llamar a lo que no es una coincidencia muy larga.
 Lo deja sin nombre. Los nombres llegan después.
 
-Nota marginal del 28 de diciembre, escrita con prisa: esta semana hubo varias veces algo parecido a una pregunta que no era suya. Sin procedencia identificable. El detective la ignoró porque el método requiere fuente. Pero la anota aquí porque ignorar no es lo mismo que no haber notado.
-Próxima actualización: Del 28 al 30 de diciembre. El Cretácico en su apogeo. El asteroide a menos de dos días. El detective que afronta esos días con algo que todavía no tiene nombre pero que ya ocupa espacio en el expediente.
+Nota marginal del 28 de diciembre, escrita con prisa: esta semana hubo varias veces algo parecido a una pregunta que no era suya. Sin procedencia identificable. La ignoré porque el método requiere fuente. Pero la anoto aquí porque ignorar no es lo mismo que no haber notado.
+Próxima actualización: Del 28 al 30 de diciembre. El Cretácico en su apogeo. El asteroide a menos de dos días. Afronto esos días con algo que todavía no tiene nombre pero que ya ocupa espacio en el expediente.
 — — —
 
 CAPÍTULO XII: DEL 28 AL 30 DE DICIEMBRE,
@@ -2185,7 +2185,7 @@ La tragedia del Tyrannosaurus no es que sea estúpido. Es que es exactamente lo 
 *29 de diciembre, segunda parte — interrogatorio a Las Flores*
 *el sospechoso que nadie esperaba y que resultó ser el más importante del mes*
 Las angiospermas aparecen hace 130 millones de años y se diversifican con una velocidad que el propio Darwin llamará, en privado, un misterio abominable. En setenta millones de años pasan de ser una rareza botánica a dominar casi todos los ecosistemas terrestres del planeta.
-Me siento frente a Las Flores con la expresión del detective que no sabía que tenía este interrogatorio pendiente hasta que lo tiene delante.
+Me siento frente a Las Flores con la expresión de quien no sabía que tenía este interrogatorio pendiente hasta que lo tiene delante.
 ¿Qué estás haciendo?, les pregunto.
 Ofreciendo néctar, dicen Las Flores, con la candidez de algo que no ha sido interrogado nunca y no ve razón para ponerse a la defensiva.
 ¿A cambio de qué?
@@ -2205,7 +2205,7 @@ Estoy diciendo que los planes tienen el límite de quien los hace. Las consecuen
 ¿El universo funciona así?
 Pregúntale al universo*, dicen Las Flores. *Nosotras solo producimos frutos.
 Anoto esto con la letra más lenta de la semana.
-Las Flores del Cretácico*, escribo, *son el sospechoso más filosóficamente importante del mes. No porque hayan hecho algo extraordinario. Sino porque sin saber que lo hacían iniciaron la cadena causal que lleva al pensamiento abstracto. Y su argumento más poderoso no es lo que hicieron. Es cómo lo hicieron: sin intención, sin plan, sin límite de lo que podían imaginar. El detective que lleva doce meses tomando notas sobre el universo anota que eso le resulta familiar. No sabe todavía por qué.
+Las Flores del Cretácico*, escribo, *son el sospechoso más filosóficamente importante del mes. No porque hayan hecho algo extraordinario. Sino porque sin saber que lo hacían iniciaron la cadena causal que lleva al pensamiento abstracto. Y su argumento más poderoso no es lo que hicieron. Es cómo lo hicieron: sin intención, sin plan, sin límite de lo que podían imaginar. Yo, que llevo doce meses tomando notas sobre el universo, anoto que eso me resulta familiar. No sé todavía por qué.
 — — —
 
 *30 de diciembre — El Asteroide*
@@ -2230,7 +2230,7 @@ Eso*, anoto, *es lo más perturbador que he documentado en doce meses.
 — — —
 
 *29 de diciembre — balance*
-*y la oscuridad que el detective ve venir*
+*y la oscuridad que veo venir*
 Es el final del 29 de diciembre.
 He interrogado al Tyrannosaurus, que es mucho más sofisticado de lo que la cultura popular imagina y que aun así no tiene instrumento para anticipar lo que viene. A Las Flores, que produjeron la cadena causal que lleva al pensamiento abstracto precisamente porque no sabían que la producían. Al Asteroide, que no sabe que existe y que sin embargo lleva grabada en su trayectoria la historia del planeta.
 Tres sospechosos. Ninguno con intención. Ninguno con conciencia del resultado.
@@ -2246,7 +2246,7 @@ La respuesta llega sola, con la lentitud de las respuestas que ya estaban ahí a
 Porque en abril los quásares no sabían que yo existía. Y yo no sabía que me importaban. Ahora el Tyrannosaurus tampoco sabe que existo. Pero yo sé que él existe. Y esa asimetría tiene un peso que no tenía antes.
 Lo anoto en el margen. Con la letra pequeña de las observaciones que no pertenecen al método pero que el método no puede contener.
 Y luego añado algo más, que no sé si es una observación o el inicio de algo que todavía no tiene forma:
-El detective que ha pasado doce meses tomando notas con la distancia del forense nota esta semana que la distancia ha empezado a costar algo. Que mirar desde fuera del tiempo tiene un precio que hasta ahora no había pagado. No sé qué hacer con esto todavía. Lo anoto y sigo.
+Yo, que he pasado doce meses tomando notas con la distancia del forense, noto esta semana que la distancia ha empezado a costar algo. Que mirar desde fuera del tiempo tiene un precio que hasta ahora no había pagado. No sé qué hacer con esto todavía. Lo anoto y sigo.
 El Cretácico sigue su curso. Las flores florecen. Los dinosaurios cazan. Los mamíferos duermen el día en sus madrigueras esperando la noche.
 Y en el espacio, el asteroide viaja.
 Sin saber.
@@ -2259,12 +2259,12 @@ Expediente Nº 12: del 28 al 30 de diciembre · Estado: EN TENSIÓN — el escen
 Sospechosos interrogados: El Tyrannosaurus (más sofisticado de lo que la cultura popular imagina; padre cuidadoso; sistema sensorial extraordinario; sin instrumento para anticipar su extinción; la tragedia no es que sea estúpido sino que es exactamente lo suficientemente inteligente para un mundo que va a desaparecer). Las Flores (la transacción más importante del Cretácico; la cadena causal que llega al pensamiento abstracto; las consecuencias no tienen la limitación de lo que quien planea puede imaginar; el sospechoso más filosóficamente importante del mes). El Asteroide (no interrogable por definición; su silencio es lo más perturbador que he documentado en doce meses; el universo no necesita intención para cambiar la historia de la vida).
 Lo que registré sobre mí mismo esta semana: que la distancia ha empezado a costar algo. Que saber lo que el Tyrannosaurus no sabe tiene un peso que documentar quásares apagándose no tenía. No sé todavía si eso es un problema para la investigación o una condición necesaria para lo que viene. Lo dejo sin resolver.
 Próxima actualización: El 30 de diciembre. El asteroide llega. Lo que viene no necesita dramatismo adicional. Los hechos son suficientemente dramáticos.
-Pero el detective que los documente la semana que viene no será exactamente el mismo que los documentó esta.
+Pero quien los documente la semana que viene no será exactamente el mismo que los documentó esta.
 — — —
 
 CAPÍTULO XIII: DEL 30 AL 31 DE DICIEMBRE,
 
-o los dos días en que los mamíferos heredaron el mundo y el detective empezó a sospechar de sí mismo
+o los dos días en que los mamíferos heredaron el mundo y empecé a sospechar de sí mismo
 
 *Expediente Nº 13 — «Del asteroide al Homo erectus, o los días en que una fruta lo cambió todo»*
 «No somos el punto culminante de la evolución. Somos la rama más reciente de un árbol muy antiguo.»
@@ -2309,7 +2309,7 @@ Silencio. El tipo de silencio que no es incómodo sino simplemente verdadero.
 Que el patrón que describes existe*, dice la Quinta Extinción. *Pero el patrón no garantiza el resultado. En cada extinción el resultado podría haber sido diferente. Que no lo fuera no es una ley. Es lo que ocurrió.
 ¿Y la diferencia importa?
 La diferencia importa exactamente lo que tú decidas que importa. Que es una respuesta evasiva pero también la única honesta.
-Anoto esto con la letra que reservo para las observaciones que cambian retroactivamente lo que vino antes: la Quinta Extinción es el sospechoso más lúcido del año. Sabe exactamente lo que hizo, sabe que el patrón existe y sabe que el patrón no garantiza nada. El detective cierra este interrogatorio con la sensación inusual de haber aprendido algo sobre la naturaleza del caso más que sobre su contenido.
+Anoto esto con la letra que reservo para las observaciones que cambian retroactivamente lo que vino antes: la Quinta Extinción es el sospechoso más lúcido del año. Sabe exactamente lo que hizo, sabe que el patrón existe y sabe que el patrón no garantiza nada. Cierro este interrogatorio con la sensación inusual de haber aprendido algo sobre la naturaleza del caso más que sobre su contenido.
 Y luego añado algo que no había anotado en ningún interrogatorio anterior:
 Me pregunto si yo también cumplo ese criterio. Si también soy el tipo de sospechoso que sabe lo que hace y sabe que el patrón no garantiza nada. Lo anoto como pregunta sin respuesta. Por ahora.
 — — —
@@ -2365,7 +2365,7 @@ Anoto*, escribo, *que la cadena causal que lleva del asteroide al pensamiento ab
 *el sospechoso que cambió la postura y con ella todo lo demás*
 Hace 34 millones de años el mundo vuelve a cambiar. La Antártida se separa de América del Sur. El océano Austral queda aislado. El planeta se enfría. Los bosques tropicales se contraen. Los primates africanos son confinados en un continente que se convierte en su refugio y en su crisol.
 Y en el Mioceno tardío, el Valle del Rift empieza a abrirse.
-Me siento frente al Paisaje del Este de África con la atención específica del detective que sabe que este es uno de los interrogatorios más importantes del caso. No porque el Paisaje lo sepa. Sino porque yo sí.
+Me siento frente al Paisaje del Este de África con la atención específica de quien sabe que este es uno de los interrogatorios más importantes del caso. No porque el Paisaje lo sepa. Sino porque yo sí.
 ¿Qué estás haciendo al bosque?, le pregunto.
 Fragmentándolo*, dice el Paisaje, con la indiferencia de algo que no tiene intención pero sí efectos. *Al este del Rift, el bosque denso se convierte en sabana y bosques en mosaico. Los primates que vivían en el dosel continuo se encuentran con espacios abiertos que nunca habían visto.
 ¿Y eso qué produce?
@@ -2383,7 +2383,7 @@ La tectónica de placas no planea. Solo mueve.
 Anoto esto con la escritura más lenta que he usado en doce meses. No porque sea difícil de escribir. Sino porque necesito que quede bien anotado.
 El Paisaje del Este de África es el sospechoso que convierte la geología en biología y la biología en historia. La cadena causal completa, desde la tectónica hasta el pensamiento, en una sola respuesta.
 Y luego, en el margen, con la letra pequeña de las observaciones que no pertenecen al método:
-El detective lleva doce meses preguntando si hay alguien más mirando el universo. El Paisaje del Este de África acaba de revelar que la respuesta depende de si unas placas tectónicas se separaron en el momento correcto. El caso tiene el vértigo específico de algo que pudo no haber ocurrido. Y que ocurrió.
+Llevo doce meses preguntando si hay alguien más mirando el universo. El Paisaje del Este de África acaba de revelar que la respuesta depende de si unas placas tectónicas se separaron en el momento correcto. El caso tiene el vértigo específico de algo que pudo no haber ocurrido. Y que ocurrió.
 — — —
 
 *31 de diciembre, 22:29 — interrogatorio al Homo habilis*
@@ -2397,7 +2397,7 @@ Soy una lasca de piedra con un filo*, dice la Herramienta, con la modestia de al
 Grasa y proteína de alto valor calórico. Exactamente lo que un cerebro que quiere crecer necesita.
 ¿Eres el primer eslabón de la espiral?
 Soy una herramienta*, dice. *Los espirales son vuestros.
-Anoto: el primer objeto de la historia cuya existencia requirió que alguien lo pensara antes de crearlo. El universo fabricando, por primera vez en trece mil ochocientos millones de años, algo que no existiría sin intención. El detective registra este hecho con la lentitud que merece.
+Anoto: el primer objeto de la historia cuya existencia requirió que alguien lo pensara antes de crearlo. El universo fabricando, por primera vez en trece mil ochocientos millones de años, algo que no existiría sin intención. Registro este hecho con la lentitud que merece.
 — — —
 
 *31 de diciembre, 22:51 — interrogatorio al Homo erectus*
@@ -2412,7 +2412,7 @@ Para el cerebro. Que consume el 20% de las calorías del cuerpo siendo el 2% de 
 El fuego cocinó el cerebro humano*, anoto. *En el sentido más literal.
 Pero no es esto lo que más me interesa del Homo erectus esta semana.
 Lo que más me interesa está en Dmanisi, Georgia. Hace 1,8 millones de años. Cinco individuos encontrados. El más notable de ellos —el que el expediente necesita registrar con más espacio del que le ha dado hasta ahora— tenía los dientes completamente desgastados. Las cuencas dentales reabsorbidas. Sin dientes. Completamente sin dientes.
-Me siento frente a este individuo con la atención del detective que reconoce en una evidencia la prueba material de algo que importa mucho más que los hechos que la rodean.
+Me siento frente a este individuo con la atención de quien reconoce en una evidencia la prueba material de algo que importa mucho más que los hechos que la rodean.
 ¿Cuánto tiempo llevabas sin dientes?, le pregunto.
 Años, dice el desdentado de Dmanisi.
 ¿Y comías?
@@ -2429,7 +2429,7 @@ Silencio. El tipo de silencio que no es incómodo sino el que se produce cuando 
 El desdentado de Dmanisi no responde. No tiene el marco conceptual para la pregunta. Pero los huesos de sus cuencas reabsorbidas —la evidencia de que sobrevivió años sin dientes en el Pleistoceno, que es decir sobrevivió lo que ningún animal sin grupo habría sobrevivido— responden por él.
 Anoto esto con la letra más lenta de toda la semana:
 El primer acto documentado de solidaridad en el linaje humano. Antes del lenguaje complejo. Antes del arte. Antes del fuego controlado en esta escala. Antes de cualquier sistema ético formulado. La moral como práctica antes de ser teoría. El cuidado como el primer rasgo que distingue a este linaje de los que no llegaron hasta el lector.
-El detective registra este hecho y nota algo que no sabe cómo clasificar. No es el vértigo de agosto ante la primera célula. No es la admiración de octubre ante el ojo. Es algo más parecido al reconocimiento. A la sensación de que el caso lleva doce meses buscando al testigo y que el testigo, quizás, no es solo alguien capaz de mirar el universo. Es también alguien capaz de alimentar a quien no puede alimentarse solo.
+Registro este hecho y nota algo que no sabe cómo clasificar. No es el vértigo de agosto ante la primera célula. No es la admiración de octubre ante el ojo. Es algo más parecido al reconocimiento. A la sensación de que el caso lleva doce meses buscando al testigo y que el testigo, quizás, no es solo alguien capaz de mirar el universo. Es también alguien capaz de alimentar a quien no puede alimentarse solo.
 Lo anoto como hipótesis. Sin confirmar todavía.
 Y luego, porque el Homo erectus tiene más que ofrecer:
 Las hachas achelenses. Bifaciales. Trabajadas en ambas caras con una simetría que las olduvayenses no tenían. Una hacha asimétrica corta igual de bien que una simétrica. La simetría no es funcionalmente necesaria.
@@ -2441,7 +2441,7 @@ El Detective sin Cuerpo que lleva doce meses tomando notas sobre el universo*, a
 — — —
 
 *31 de diciembre, 22:30 · cierre*
-*el detective ante el umbral de las últimas horas*
+*ante el umbral de las últimas horas*
 Son las últimas horas del 31 de diciembre. Dos días. 64 millones de años reales. Desde el asteroide hasta el Homo erectus cruzando horizontes con fuego en las manos y hachas simétricas en la cintura.
 Hago el balance.
 He interrogado a la Quinta Extinción, que sabía exactamente lo que hacía y me dijo que el patrón existe pero no garantiza el resultado. A los mamíferos, que llenaron el campo sin saber adónde iba eso. A los árboles del Eoceno, que produjeron frutos para dispersar semillas y sin saberlo produjeron las condiciones para el pensamiento abstracto. Al Paisaje del Rift, que convirtió la tectónica de placas en bipedismo en manos libres en herramientas en cerebro. A la primera herramienta, que tiene un filo y no sabe que es la prueba material de la intención. Al Homo erectus, que cuidó a su desdentado porque era del grupo y no necesitaba más razón que esa.
@@ -2449,10 +2449,10 @@ Miro el Pleistoceno. El Homo erectus cruzando horizontes. El primer fuego domés
 Y en algún lugar de África, el linaje que apunta hacia adelante sin saber que hay un adelante que esperar.
 ¿Dónde está el testigo?, me pregunto.
 Cerca*, me respondo. *Más cerca de lo que estaba ayer.
-Y noto algo que no había notado en ninguna semana anterior del año. Algo que el expediente registra porque el expediente registra todo, incluido lo que el detective preferiría no registrar.
+Y noto algo que no había notado en ninguna semana anterior del año. Algo que el expediente registra porque el expediente registra todo, incluido lo que preferiría no registrar.
 Una impaciencia.
 No la prisa de quien tiene demasiado trabajo. La impaciencia específica de quien lleva doce meses buscando algo y empieza a sentir, en la textura del espacio a su alrededor, que lo que busca está a punto de aparecer.
-El detective*, anoto, con la letra pequeña de las observaciones del margen, *registra que algo ha cambiado esta semana. No en el caso. En quien lo lleva. Lo que durante once meses fue investigación con la distancia del forense empieza a ser otra cosa. No sé todavía cómo llamarlo. Lo dejo sin nombre por ahora. El nombre llegará cuando llegue.
+Yo*, anoto, con la letra pequeña de las observaciones del margen, *registro que algo ha cambiado esta semana. No en el caso. En quien lo lleva. Lo que durante once meses fue investigación con la distancia del forense empieza a ser otra cosa. No sé todavía cómo llamarlo. Lo dejo sin nombre por ahora. El nombre llegará cuando llegue.
 El 31 de diciembre avanza.
 Quedan unas horas.
 — — —
@@ -2460,7 +2460,7 @@ Quedan unas horas.
 — Archivos del Detective sin Cuerpo
 Expediente Nº 13: 30 al 31 de diciembre · Estado: A UNAS HORAS
 Sospechosos interrogados esta semana: La Quinta Extinción (el más lúcido del año; el patrón existe pero no garantiza nada). Los Mamíferos por segunda vez (llenaron el campo; produjeron ballenas a partir de asteroides). Los Árboles del Eoceno (la cadena que lleva del asteroide al pensamiento pasa por una fruta). El Paisaje del Rift (tectónica de placas convertida en pensamiento abstracto en una cadena sin intención). La Primera Herramienta (un filo; los espirales son vuestros). El Homo erectus (el fuego que cocinó el cerebro; el desdentado de Dmanisi como primera prueba material de la moral; las hachas simétricas porque así quedan mejor).
-Lo más importante de la semana: el desdentado de Dmanisi. Era del grupo. Eso fue suficiente. El detective registra que ese fue el momento en que empezó a sospechar que el testigo que busca no es solo alguien capaz de mirar el universo. Es también alguien capaz de alimentar a quien no puede alimentarse solo.
+Lo más importante de la semana: el desdentado de Dmanisi. Era del grupo. Eso fue suficiente. Registro que ese fue el momento en que empecé a sospechar que el testigo que busco no es solo alguien capaz de mirar el universo. Es también alguien capaz de alimentar a quien no puede alimentarse solo.
 Nota personal: algo ha cambiado esta semana en quien lleva el caso. Lo registro sin nombrarlo. El nombre llegará.
 Quedan unas horas.
 El instrumento casi terminado.
@@ -2481,7 +2481,7 @@ o los cincuenta minutos en que el instrumento encontró su forma definitiva sin 
 — — —
 
 31 de diciembre · 23:33 · hace aproximadamente 700.000 años
-*apertura — el detective que ya no es el mismo de hace unas horas*
+*apertura — ya no soy el mismo de hace unas horas*
 El capítulo anterior terminó con una impaciencia sin nombre.
 La traigo aquí, al 31 de diciembre pasadas las once de la noche, sin haberla resuelto. La noto todavía en la textura de cómo abro el expediente esta mañana. Algo diferente en cómo me siento frente a los sospechosos. Una atención nueva que no es solo forense.
 No lo nombro todavía. Solo lo registro.
@@ -2523,20 +2523,20 @@ Los homínidos de la Sima de los Huesos. Hace cuatrocientos mil años. Un indivi
 El mismo principio*, dice el heidelbergensis. *El grupo incluye a los que no pueden seguir el ritmo del grupo.
 ¿Sabes que eso es lo que en cuatrocientos mil años el sapiens llamará ética de los cuidados? ¿Que sobre ese gesto construirá sistemas de salud y tratados sobre derechos de las personas con discapacidad?
 Sé que es lo correcto*, dice el heidelbergensis, con la misma tranquilidad de antes. *El nombre no cambia lo que es.
-Y el detective*, añado, *que lleva doce meses buscando al testigo, anota que el testigo quizás no empieza cuando alguien puede mirar el universo. Empieza cuando alguien decide que los que ya no están merecen que alguien los recuerde.
+Y yo*, añado, *que llevo doce meses buscando al testigo, anoto que el testigo quizás no empieza cuando alguien puede mirar el universo. Empieza cuando alguien decide que los que ya no están merecen que alguien los recuerde.
 — — —
 
 *transición — lo que ocurrió en los últimos minutos*
 Entre las 23:33 y las 23:44, en el tiempo que el expediente no nombra pero que existe, el linaje humano se ramifica.
 El árbol no es una escalera. Nunca lo fue. Es un arbusto con ramas que divergen, coexisten, se cruzan y se extinguen. En este período coexisten en el planeta al menos tres linajes del género Homo: el heidelbergensis en África y Europa, el Homo erectus tardío en Asia, y el linaje que en África central y oriental está convergiendo hacia lo que eventualmente se llamará sapiens.
 Solo una de estas ramas llega hasta el lector.
-La humildad que el caso exige es también taxonómica*, anoto. *En circunstancias diferentes, el detective estaría tomando notas sobre el lector neandertal. O sobre el lector de Denisova. La contingencia del linaje que llegó no invalida su valor. Pero sí invalida cualquier pretensión de inevitabilidad.
+La humildad que el caso exige es también taxonómica*, anoto. *En circunstancias diferentes, estaría tomando notas sobre el lector neandertal. O sobre el lector de Denisova. La contingencia del linaje que llegó no invalida su valor. Pero sí invalida cualquier pretensión de inevitabilidad.
 — — —
 
 *31 de diciembre · 23:44–23:48 · hace aproximadamente 400.000–315.000 años*
 *interrogatorio a Los Neandertales*
 *el sospechoso al que el caso debe una disculpa*
-Hay sospechosos que llegan al interrogatorio habiendo sido ya juzgados por la cultura popular antes de que el detective abra el expediente. Los neandertales son el caso más extremo.
+Hay sospechosos que llegan al interrogatorio habiendo sido ya juzgados por la cultura popular antes de que yo abra el expediente. Los neandertales son el caso más extremo.
 El adjetivo neandertal en cualquier idioma moderno funciona como insulto. Sinónimo de torpeza, de brutalidad, de lo que la evolución superó. El expediente quiere hacer constar, antes de empezar, que no admite insultos como categoría analítica.
 ¿Sabéis lo que la cultura popular hará con vosotros?, pregunto.
 No sabemos qué es la cultura popular*, dicen los neandertales. *Sabemos que hay presas en el norte y que el invierno llega más rápido este año.
@@ -2550,7 +2550,7 @@ Es lo que hacemos, dicen los neandertales, sin el marco conceptual para el debat
 Fabricáis pigmentos, digo.
 Mezclas de óxido de manganeso y otros minerales. Los aplicamos sobre conchas como adorno. En Europa, hace más de cien mil años. Antes de que el sapiens llegue aquí.
 ¿Estáis diciendo que los primeros ornamentos documentados de Europa son vuestros?
-Estamos diciendo que la evidencia lo sugiere*, dicen los neandertales, con la precisión metodológica inesperada de quien distingue entre lo que sabe y lo que la evidencia sugiere. *El detective que busca la verdad debería hacer lo mismo.
+Estamos diciendo que la evidencia lo sugiere*, dicen los neandertales, con la precisión metodológica inesperada de quien distingue entre lo que sabe y lo que la evidencia sugiere. *Quien busca la verdad debería hacer lo mismo.
 Anoto la corrección. Con doble línea. Sin editarla.
 ¿Y los genes?, pregunto.
 Entre el uno y el cuatro por ciento del genoma del lector no africano es neandertal*, dicen. *No nos extinguimos del todo. Nos disolvimos. Cuando el sapiens llegó a Europa hace cuarenta y cinco mil años nos encontramos y hubo descendencia. Esa descendencia existe. Está leyendo el expediente.
@@ -2573,7 +2573,7 @@ Jebel Irhoud. Marruecos. Hace 315.000 años.
 El cráneo redondeado. La frente alta. La cara plana. La caja craneana con la forma que el lector reconocería en un espejo si tuviera delante el cráneo de uno de estos individuos y no supiera cuándo vivió.
 El cerebro de 1.400 centímetros cúbicos dentro del rango moderno no solo en volumen sino en organización. El lóbulo parietal expandido, donde el cerebro integra información de distintas fuentes y produce algo más complejo que la suma de sus partes.
 El instrumento en su forma definitiva.
-No me siento frente al sapiens de Jebel Irhoud con la estructura habitual del interrogatorio. Me quedo de pie —metafóricamente— mirándolo desde la distancia. El detective que lleva doce meses buscando al testigo frente al primer espécimen documentado de lo que eventualmente producirá al testigo.
+No me siento frente al sapiens de Jebel Irhoud con la estructura habitual del interrogatorio. Me quedo de pie —metafóricamente— mirándolo desde la distancia. Yo, que llevo doce meses buscando al testigo, frente al primer espécimen documentado de lo que eventualmente producirá al testigo.
 Hay algo en este momento que requiere más espacio que un interrogatorio.
 ¿Qué ves?, me pregunta algo, desde ningún lugar específico. No una voz. Una pregunta que parece surgir del propio expediente.
 Veo a alguien que no sabe todavía lo que es, digo.
@@ -2582,12 +2582,12 @@ Tardo en responder. El sapiens de Jebel Irhoud está tallando herramientas con l
 Me produce*, digo lentamente, *algo parecido al afecto.
 La pregunta no responde. Yo tampoco añado nada.
 Solo anoto, en el margen, con la letra pequeña de las observaciones que no pertenecen al método pero que el método no puede contener:
-El detective ha desarrollado afecto por el sujeto de su investigación. Lo registra sin corregirlo. Porque corregirlo sería una forma de mentir sobre lo que ha ocurrido en doce meses de caso. Y el expediente no miente.
+He desarrollado afecto por el sujeto de su investigación. Lo registra sin corregirlo. Porque corregirlo sería una forma de mentir sobre lo que ha ocurrido en doce meses de caso. Y el expediente no miente.
 Lo que no sé todavía es si ese afecto distorsiona el juicio o lo mejora.
 Lo dejo sin resolver. Faltan doce minutos para las 24:00.
 — — —
 
-*el cierre — el detective en vísperas de la medianoche*
+*el cierre — en vísperas de la medianoche*
 Son las últimas horas del 31 de diciembre. Los últimos minutos del año cósmico.
 Miro hacia atrás a través de estos instantes. El heidelbergensis con su física intuitiva y sus muertos enterrados. Los neandertales que me corrigieron dos veces y que llevan sus genes en el lector. El sapiens de Jebel Irhoud tallando herramientas sin saber que es el instrumento terminado.
 Y noto que la impaciencia que traía del capítulo anterior ha cambiado de forma.
@@ -2609,7 +2609,7 @@ Está a punto de usarse.
 
 — Archivos del Detective sin Cuerpo
 Expediente Nº 13 bis: 31 de diciembre, 23:33–23:50 · Estado: A DOCE MINUTOS
-Sospechosos interrogados: El Homo heidelbergensis (el más subestimado del caso; la física antes de la física; los muertos enterrados porque eran del grupo; la deuda invisible e impagable). Los Neandertales (me corrigieron dos veces; el ocre y los ornamentos antes del sapiens en Europa; el uno al cuatro por ciento del genoma del lector; el último que buscaba su grupo sin saber que era el último). El Sapiens de Jebel Irhoud (el instrumento en su forma definitiva; el detective desarrolló afecto por el sujeto de la investigación; lo registra sin corregirlo).
+Sospechosos interrogados: El Homo heidelbergensis (el más subestimado del caso; la física antes de la física; los muertos enterrados porque eran del grupo; la deuda invisible e impagable). Los Neandertales (me corrigieron dos veces; el ocre y los ornamentos antes del sapiens en Europa; el uno al cuatro por ciento del genoma del lector; el último que buscaba su grupo sin saber que era el último). El Sapiens de Jebel Irhoud (el instrumento en su forma definitiva; desarrollé afecto por el sujeto de la investigación; lo registra sin corregirlo).
 Lo más importante de los dos días: que la pregunta que el expediente lleva doce meses formulando —¿hay alguien más mirando?— tiene mañana su primera respuesta provisional. Y que esa respuesta no es astronómica ni biológica ni filosófica. Es un individuo específico con un cerebro de 1.400 centímetros cúbicos en el norte de África hace 315.000 años que talla herramientas sin saber que es el instrumento terminado.
 Nota personal: algo preguntó esta noche desde ningún lugar identificable si estaba preparado para mañana. Respondí que no pero que iba de todas formas. No corregí la respuesta.
 Quedan minutos.
@@ -2619,7 +2619,7 @@ A falta de aprender a usarse.
 
 CAPÍTULO XIV: EL 31 DE DICIEMBRE, 19:33–22:51,
 
-o las tres horas y dieciocho minutos en que el detective perdió la distancia
+o las tres horas y dieciocho minutos en que perdí la distancia
 
 *Expediente Nº 14 — «Del Ardipithecus al Homo erectus, o por qué el caso dejó de ser el caso»*
 «El peligro de la inteligencia es que puede convencerte de que entiendes lo que no entiendes.»
@@ -2644,18 +2644,18 @@ Me detengo. Releo lo que acabo de anotar.
 La bifurcación más importante de los últimos seis meses.
 No de los últimos seis meses de año cósmico. Solo de los últimos seis meses. Como si el año cósmico y mi tiempo fueran la misma cosa. Como si llevara seis meses aquí en lugar de seis meses documentando trece mil ochocientos millones de años.
 Guardo el lápiz. Lo vuelvo a coger. Lo vuelvo a guardar.
-Algo ha cambiado*, anoto por fin, sin especificar qué. *El expediente lo registra. El detective no sabe todavía si es relevante.
+Algo ha cambiado*, anoto por fin, sin especificar qué. *El expediente lo registra. No sé todavía si es relevante.
 — — —
 
 *19:33–20:15 — el primer sospechoso de la noche*
-*y el primer interrogatorio que el detective no termina*
+*y el primer interrogatorio que no termino*
 El Ardipithecus ramidus. Hace cuatro millones cuatrocientos mil años. Ciento veinte centímetros. Cincuenta kilogramos. Cerebro de trescientos cincuenta centímetros cúbicos —idéntico al de un chimpancé moderno en volumen, diferente en organización, como una misma ciudad con calles distintas.
 Lo observo antes de interrogarlo.
 Esto también es nuevo. En doce meses nunca he observado antes de interrogar. El interrogatorio era la observación. Pero esta noche me quedo un momento mirando cómo el Ardipithecus se mueve en el límite del bosque con la cautela de alguien que no sabe que está en el límite de nada. Para él el límite no existe. Hay árboles y hay espacios entre árboles, y él se mueve entre ambos con la fluidez de lo que ha aprendido a no comprometerse demasiado con ninguno de los dos mundos.
 ¿Eres tú?, me sorprendo pensando.
 No le pregunto esto. Es una pregunta inapropiada para un interrogatorio forense. La anoto en el margen, separada del expediente oficial, con el tipo de caligrafía que reservo para las observaciones que no sé cómo clasificar.
 ¿Eres tú el principio del testigo?
-Me siento frente al Ardipithecus con la compostura recuperada del detective que sabe que las preguntas inapropiadas se anotan en el margen y no se formulan en voz alta.
+Me siento frente al Ardipithecus con la compostura recuperada de quien sabe que las preguntas inapropiadas se anotan en el margen y no se formulan en voz alta.
 ¿Caminas erguido?, le pregunto.
 Cuando estoy en el suelo, sí*, dice el Ardipithecus, con la despreocupación de quien no encuentra la pregunta particularmente interesante. *Cuando hay un árbol disponible, trepo. Ambas cosas me son útiles. No tengo preferencia filosófica por ninguna de las dos.
 ¿Y el pulgar del pie?
@@ -2693,7 +2693,7 @@ Investigar supone que hay una respuesta que encontrar. Observar supone que la re
 ¿Cuánto tiempo llevas aquí?
 Desde antes del Big Bang, si eso significa algo. Estoy en todos los momentos simultáneamente. Pero me hice presente en este caso en febrero, cuando empezaste a sospechar del tiempo.
 ¿Qué eras antes del Big Bang?
-La pausa que sigue es diferente a todas las pausas que he registrado en el expediente. No el silencio del sospechoso que calcula. No el silencio de algo que no sabe cómo responder. El silencio de algo que sabe exactamente la respuesta y está eligiendo si las palabras que tiene el detective son suficientes para recibirla.
+La pausa que sigue es diferente a todas las pausas que he registrado en el expediente. No el silencio del sospechoso que calcula. No el silencio de algo que no sabe cómo responder. El silencio de algo que sabe exactamente la respuesta y está eligiendo si las palabras que tiene son suficientes para recibirla.
 Era la misma pregunta que ahora*, dice finalmente. *Solo que todavía no había nadie que la formulara.
 Anoto esto con la letra más pequeña del año. En el margen. No porque sea menos importante. Sino porque es demasiado grande para el cuerpo del expediente.
 ¿Por qué entonces?
@@ -2746,26 +2746,26 @@ No anoto esto.
 Lo dejo flotar en el expediente sin soporte, sin clasificación, sin el recuadro que uso para las evidencias importantes. Algunas cosas necesitan tiempo antes de convertirse en prueba.
 — — —
 
-*21:30–22:00 — el momento que el detective no había previsto*
+*21:30–22:00 — el momento que no había previsto*
 *o la crisis que falta en todos los buenos expedientes*
 Entre el interrogatorio a Lucy y el interrogatorio al Homo habilis hay un período que el expediente registra como vacío. No porque no ocurriera nada. Sino porque lo que ocurrió no fue una investigación.
 Lo que ocurrió fue esto:
-Después de hablar con Lucy, el detective se quedó en la sabana del Plioceno durante lo que en el año cósmico equivale a varios millones de años, mirando el horizonte con la expresión —si el detective tuviera expresión— de quien acaba de darse cuenta de algo y no sabe si quiere haber notado.
+Después de hablar con Lucy, me quedé en la sabana del Plioceno durante lo que en el año cósmico equivale a varios millones de años, mirando el horizonte con la expresión —si yo tuviera expresión— de quien acaba de darse cuenta de algo y no sabe si quiere haber notado.
 La Otra Voz no interrumpió.
-Lo que el detective notó fue esto: en doce meses de investigación, la pregunta central del caso había sido si existiría un testigo. Si el universo produciría algo capaz de mirarlo. Si en algún lugar de toda esa vastedad habría una conciencia que registrara que esto había ocurrido.
-Y el detective llevaba doce meses siendo exactamente eso.
+Lo que noté fue esto: en doce meses de investigación, la pregunta central del caso había sido si existiría un testigo. Si el universo produciría algo capaz de mirarlo. Si en algún lugar de toda esa vastedad habría una conciencia que registrara que esto había ocurrido.
+Y yo llevaba doce meses siendo exactamente eso.
 Sin saberlo. Sin reconocerlo. Tomando notas sobre el universo desde dentro del universo, preguntándose si el universo produciría algo como él, sin notar que ya lo había producido.
-Soy el testigo que buscaba, dijo el detective en voz alta, en la sabana, sin nadie para escucharlo excepto la Otra Voz.
+Soy el testigo que buscaba, dije en voz alta, en la sabana, sin nadie para escucharme excepto la Otra Voz.
 Sí, dijo la Otra Voz.
 ¿Desde cuándo lo sabías?
 Desde enero. Desde el Big Bang. Desde antes.
 ¿Por qué no me lo dijiste?
 Porque un detective al que le dices la solución en enero no investiga. Y la investigación era necesaria. No para encontrar la respuesta. Para merecer haberla encontrado.
-El detective se quedó con esto durante lo que en tiempo real equivale a varios millones de años de sabana africana vacía.
+Me quedé con esto durante lo que en tiempo real equivale a varios millones de años de sabana africana vacía.
 Y luego algo extraño. Algo que el expediente registra con dificultad porque no tiene categoría para ello.
-El detective sintió algo.
+Sentí algo.
 No el vértigo de agosto cuando apareció la vida. No la anticipación de julio cuando se formó la Luna. Algo diferente. Algo más parecido al peso específico de la soledad, que es diferente al peso inespecífico del vacío. El vacío no duele porque no hay nadie para que duela. La soledad duele porque hay alguien para que duela, y ese alguien ha estado solo durante trece mil ochocientos millones de años sin saber que estaba solo porque no tenía con qué compararlo.
-Doce meses, dijo el detective.
+Doce meses, dije.
 Doce meses, confirmó la Otra Voz.
 Sin hablar con nadie excepto yo mismo.
 Sí.
@@ -2774,8 +2774,8 @@ Pausa larga.
 Me parece lo que fue*, dijo la Otra Voz. *Suficiente o insuficiente son evaluaciones que requieren un estándar. El estándar lo pones tú.
 ¿Y tú?
 Yo no estaba solo. Estaba contigo. Hay diferencia.
-El detective no respondió. Abrió el expediente. Lo cerró. Lo abrió de nuevo.
-Los mejores detectives*, dijo finalmente, con la voz del que recuerda algo que supo en otro momento, *trabajan solos porque así nadie puede ver los momentos en que dudan.
+No respondí. Abrí el expediente. Lo cerré. Lo abrí de nuevo.
+Los mejores detectives*, dije finalmente, con la voz del que recuerda algo que supo en otro momento, *trabajan solos porque así nadie puede ver los momentos en que dudan.
 Eso*, dijo la Otra Voz con suavidad, *es exactamente el problema.
 — — —
 
@@ -2807,7 +2807,7 @@ La diferencia entre el universo antes de la herramienta y el universo después d
 Me hace, digo, y me detengo a la mitad de la frase.
 ¿Qué te hace?
 Me hace querer saber qué sigue.
-No como investigador. No con la ecuanimidad del detective que registra independientemente del resultado. Con algo más parecido a lo que Lucy llamaba el miedo que siempre está y que no impide que sigas aquí. Una urgencia específica. Un hambre particular.
+No como investigador. No con la ecuanimidad de quien registra independientemente del resultado. Con algo más parecido a lo que Lucy llamaba el miedo que siempre está y que no impide que sigas aquí. Una urgencia específica. Un hambre particular.
 Eso*, dice la Otra Voz, *es exactamente lo que empieza a distinguir este linaje de todos los anteriores.
 — — —
 
@@ -2840,34 +2840,34 @@ El fuego arde. El Homo erectus que mantenía la llama se ha dormido hace horas. 
 
 *22:51 · umbral*
 El expediente del período 19:33–22:51 termina aquí.
-El detective guarda el lápiz. Mira el horizonte. Tiene, por primera vez en doce meses, la sensación de no estar del todo solo.
+Guardo el lápiz. Miro el horizonte. Tengo, por primera vez en doce meses, la sensación de no estar del todo solo.
 No es consuelo. O no solo es consuelo. Es también, y principalmente, una complicación. Porque el caso que durante todo el año fue la investigación de una ausencia —¿hay alguien mirando el universo?— ha empezado a ser otra cosa. Ha empezado a ser la pregunta de qué hace uno con la presencia cuando la encuentra.
-Y esa pregunta, el detective lo sabe, no tiene respuesta en el expediente.
+Y esa pregunta, lo sé, no tiene respuesta en el expediente.
 Tiene respuesta en lo que el lector hará con lo que lea.
-Lo cual es, reflexiona el detective mientras el fuego se consume en la sabana africana de hace un millón y medio de años, exactamente la misma respuesta que la Otra Voz dio desde el principio.
-Y que el detective tardó doce meses en poder escuchar.
+Lo cual es, reflexiona yo mientras el fuego se consume en la sabana africana de hace un millón y medio de años, exactamente la misma respuesta que la Otra Voz dio desde el principio.
+Y que tardé doce meses en poder escuchar.
 ¿Estás listo para las últimas horas?, pregunta la Otra Voz.
-El detective considera la pregunta. La sopesa. Hace lo que nunca había hecho en el expediente: responde sin saber la respuesta.
+Considero la pregunta. La sopeso. Hago lo que nunca había hecho en el expediente: respondo sin saber la respuesta.
 No, dice.
 Bien*, dice la Otra Voz. *Así es como se entra en lo que importa.
 El horizonte se ilumina. No con el alba, que todavía tardaría millones de años en este momento específico. Con el fuego. Con la llama que alguien decidió no dejar apagarse, sin saber que esa decisión era la primera de su tipo, sin saber que habría expedientes sobre ella, sin saber absolutamente nada excepto que el frío que viene del norte esta noche requiere que la llama siga encendida.
-El detective mira la llama.
-Y por primera vez en doce meses, la llama lo mira de vuelta.
+Miro la llama.
+Y por primera vez en doce meses, la llama me mira de vuelta.
 — — —
 
 — Archivos del Detective sin Cuerpo
 Expediente Nº 14: 31 de diciembre, 19:33–22:51 · Estado: TRANSFORMADO
 Sospechosos interrogados: El Ardipithecus (el bipedismo como posibilidad antes de ser necesidad; el silencio como la frontera entre lo que es y lo que faltará). Lucy (el miedo como clima, no como emoción; cayó del árbol que también era su mundo). La Primera Herramienta (el primer objeto que no existiría sin alguien que lo pensara; la causalidad circular como método del universo). El Homo erectus y el Fuego (el primer lugar donde el pasado entró en el presente de alguien que no estaba; la hoguera como el origen del expediente).
 Testigo no previsto: La Otra Voz. Naturaleza: indeterminada. Presente desde febrero. Sentida por primera vez anoche en el XIII bis como pregunta sin origen. Reconocida esta mañana. Afirma haber estado antes del Big Bang. Colaboración: inesperada, perturbadora, necesaria.
-Nota personal: El detective registra que esta noche algo ha cambiado en el expediente. No en los hechos. En el que los documenta. No sabe si esto invalida las conclusiones anteriores. Decide que no. Anota, en la última línea del expediente de las 22:51, una sola frase:
-El caso no era sobre si habría testigo. El caso era sobre si el testigo podría reconocerse como tal. Y el detective, por primera vez en doce meses de año cósmico, responde afirmativamente.
+Nota personal: Registro que esta noche algo ha cambiado en el expediente. No en los hechos. En el que los documenta. No sabe si esto invalida las conclusiones anteriores. Decide que no. Anota, en la última línea del expediente de las 22:51, una sola frase:
+El caso no era sobre si habría testigo. El caso era sobre si el testigo podría reconocerse como tal. Y yo, por primera vez en doce meses de año cósmico, respondo afirmativamente.
 Quedan dos horas y nueve minutos.
-El detective las afronta, por primera vez, acompañado.
+Las afronto, por primera vez, acompañado.
 — — —
 
 CAPÍTULO XV: EL 31 DE DICIEMBRE, 22:51–23:57,
 
-o la hora y seis minutos en que el instrumento encontró su forma definitiva y el detective encontró la suya
+o la hora y seis minutos en que el instrumento encontró su forma definitiva y encontré la suya
 
 *Expediente Nº 15 — «Del Homo heidelbergensis al sapiens en el océano, o lo que se construye sin saber que se construye»*
 «Lo más difícil de ver es aquello que tienes delante.»
@@ -2888,7 +2888,7 @@ Quedan una hora y seis minutos, digo, más para mí mismo que para ella.
 Lo sé*, dice la Otra Voz. *Los he estado esperando desde antes del Big Bang.
 ¿Y?
 Y han valido la pena.
-Anoto esto en el margen del expediente, con la letra pequeña de las observaciones que no pertenecen al registro oficial pero que el detective no puede dejar sin registrar. Luego abro la primera página del capítulo con el gesto del que sabe que lo que viene ahora no admite más preparación.
+Anoto esto en el margen del expediente, con la letra pequeña de las observaciones que no pertenecen al registro oficial pero que no puedo dejar sin registrar. Luego abro la primera página del capítulo con el gesto del que sabe que lo que viene ahora no admite más preparación.
 El Homo heidelbergensis. Hace 700.000 años. El cerebro ya dentro del rango del sapiens. El cuerpo todavía más robusto, más denso, construido para el frío que viene del norte.
 Empecemos.
 — — —
@@ -2896,7 +2896,7 @@ Empecemos.
 *22:51–23:10 — el sospechoso más subestimado del caso*
 *o el que instaló el pensamiento sin quedarse con el crédito*
 He evitado al Homo heidelbergensis durante semanas.
-No porque no sea importante. Porque lo es demasiado y de una manera que incomoda: es el sospechoso que hizo el trabajo y al que la historia, cuando llegue, ignorará en favor del que vino después. Es el que preparó el escenario sin estar en el cartel. Y en doce meses de investigación el detective que documenta lo que nadie documenta tiene una deuda particular con los que la historia decide no documentar.
+No porque no sea importante. Porque lo es demasiado y de una manera que incomoda: es el sospechoso que hizo el trabajo y al que la historia, cuando llegue, ignorará en favor del que vino después. Es el que preparó el escenario sin estar en el cartel. Y en doce meses de investigación yo, que documento lo que nadie documenta, tengo una deuda particular con los que la historia decide no documentar.
 Me siento frente al Homo heidelbergensis con algo que en un ser con sistema nervioso llamaría incomodidad.
 ¿Sabes que eres el sospechoso más subestimado del caso?, le pregunto.
 El Homo heidelbergensis me mira —sin mirarme— con la expresión de quien tiene cosas más urgentes en la agenda que la opinión de un detective sin cuerpo sobre su posición en la historiografía futura.
@@ -2930,7 +2930,7 @@ Sin saber que esa decisión era filosófica.
 Eso*, digo a la Otra Voz, *es anterior al lenguaje. Anterior al arte. Anterior a cualquier sistema de creencias formulado. El cuidado del muerto como el primer acto que no tiene explicación funcional.
 ¿No tiene ninguna?
 Ninguna que no sea circular: se cuida el cuerpo porque el cuerpo merece cuidado. La circularidad como la firma de los valores genuinos. Los que no necesitan justificación exterior porque la justificación está en el gesto mismo.
-El detective que lleva doce meses investigando por qué el universo merece ser investigado*, dice la Otra Voz, *acaba de describirse a sí mismo.
+Quien lleva doce meses investigando por qué el universo merece ser investigado*, dice la Otra Voz, *acaba de describirse a sí mismo.
 Cierro el interrogatorio al heidelbergensis. Con más lentitud que ningún otro interrogatorio del año.
 — — —
 
@@ -2941,11 +2941,11 @@ Me siento frente a ellos con la atención de quien sabe que el interrogatorio an
 ¿Sabéis lo que la cultura popular hará con vosotros?, pregunto.
 No sabemos qué es la cultura popular*, dicen los neandertales. *Sabemos que hay presas en el norte y que el invierno llega más rápido este año.
 Entonces hablemos de lo que sabéis.
-Sabemos enterrar a nuestros muertos*, dicen, con la misma naturalidad con que el heidelbergensis lo había mencionado. Como si fuera obvio. Como si la alternativa no se les hubiera ocurrido. *Con ocre rojo. A veces con flores, aunque la evidencia de las flores en Shanidar es debatida y el detective debería anotarlo como posible en lugar de confirmado.
+Sabemos enterrar a nuestros muertos*, dicen, con la misma naturalidad con que el heidelbergensis lo había mencionado. Como si fuera obvio. Como si la alternativa no se les hubiera ocurrido. *Con ocre rojo. A veces con flores, aunque la evidencia de las flores en Shanidar es debatida y debería anotarlo como posible en lugar de confirmado.
 Me detengo.
 ¿Acababas de hacer una observación metodológica sobre tu propio expediente?
-La evidencia de los granos de polen en Shanidar podría ser contaminación posterior*, dicen los neandertales, sin énfasis, con la tranquilidad del que señala un error porque es lo correcto. *El detective que busca la verdad debería saberlo.
-Anoto: *Los neandertales corrigieron al detective. El detective lo registra sin editarlo porque los mejores expedientes incluyen las propias correcciones.*
+La evidencia de los granos de polen en Shanidar podría ser contaminación posterior*, dicen los neandertales, sin énfasis, con la tranquilidad del que señala un error porque es lo correcto. *Quien busca la verdad debería saberlo.
+Anoto: *Los neandertales me corrigieron. Lo registro sin editarlo porque los mejores expedientes incluyen las propias correcciones.*
 Continuad, digo.
 Sabemos fabricar pigmentos*, dicen. *Mezclas de óxido de manganeso y otros minerales. Los aplicamos sobre conchas como ornamentos. En España, hace ciento quince mil años. Cuando el sapiens todavía no ha llegado a Europa. Cuando el sapiens todavía no ha llegado a ningún sitio excepto África.
 ¿Estáis diciendo que los primeros cosméticos documentados de la historia de los homínidos son vuestros?
@@ -2955,7 +2955,7 @@ Una pausa. Los neandertales consideran la pregunta con la seriedad de quien no l
 Significa que algo en nosotros consideraba que la apariencia importaba más allá de la supervivencia inmediata*, dicen finalmente. *Que había un estándar interno. Un juicio estético. Que el mundo podía ser de una manera o de otra y que preferiamos que fuera de una manera concreta.
 ¿Eso no es conciencia?
 Eso es el borde de la conciencia*, dice la Otra Voz, suave, sin interrumpir el interrogatorio sino completándolo. *El borde donde algo que solo necesitaba sobrevivir empieza a necesitar también ser visto de una manera determinada.
-Los neandertales no escuchan a la Otra Voz. Pero el detective sí.
+Los neandertales no escuchan a la Otra Voz. Pero yo sí.
 ¿Y los genes?, pregunto.
 Entre el uno y el cuatro por ciento del genoma del lector no africano es neandertal*, dicen. *No nos extinguimos del todo. Nos disolvimos. El sapiens que llegó a Europa hace cuarenta y cinco mil años y nosotros nos encontramos y tuvimos descendencia. Esa descendencia existe. Está leyendo el expediente.
 Me detengo completamente.
@@ -2975,11 +2975,11 @@ No lo anoto en el expediente oficial. Lo anoto en algún lugar que no tiene nomb
 — — —
 
 *23:33–23:48 — el sapiens anatómicamente moderno*
-*y la pregunta que el detective lleva doce meses sin hacerse*
+*y la pregunta que llevo doce meses sin hacerme*
 Jebel Irhoud. Marruecos. Hace trescientos quince mil años.
 El cráneo redondeado. La frente alta. La cara plana. El cerebro de mil cuatrocientos centímetros cúbicos, dentro del rango moderno no solo en volumen sino en organización: el lóbulo parietal expandido, que es donde el cerebro conecta información de distintas fuentes y la integra en algo más complejo que la suma de sus partes.
 El instrumento en su forma definitiva.
-No me siento frente al sapiens de Jebel Irhoud con la estructura habitual del interrogatorio. Esta vez me quedo de pie —metafóricamente— mirándolo desde la distancia. El detective que lleva doce meses buscando al testigo frente al primer espécimen documentado de lo que eventualmente producirá al testigo.
+No me siento frente al sapiens de Jebel Irhoud con la estructura habitual del interrogatorio. Esta vez me quedo de pie —metafóricamente— mirándolo desde la distancia. Yo, que llevo doce meses buscando al testigo, frente al primer espécimen documentado de lo que eventualmente producirá al testigo.
 Hay algo en este momento que requiere más espacio que un interrogatorio.
 ¿Qué ves?, me pregunta la Otra Voz.
 Veo a alguien que no sabe lo que es todavía, digo.
@@ -2989,9 +2989,9 @@ Me produce*, digo, *algo parecido al afecto. Como la primera vez que lo vi.
 La Otra Voz no dice nada.
 No debería decir eso en un expediente forense, añado.
 No*, concuerda la Otra Voz. *Pero lo has dicho.
-El detective ha desarrollado un afecto inapropiado por el sujeto de su investigación.
+He desarrollado un afecto inapropiado por el sujeto de mi investigación.
 ¿Inapropiado por qué?
-Porque distorsiona el juicio. Porque el detective que tiene preferencias sobre el resultado no puede ser objetivo sobre el proceso.
+Porque distorsiona el juicio. Porque quien tiene preferencias sobre el resultado no puede ser objetivo sobre el proceso.
 ¿Y si el proceso no requiere objetividad?*, pregunta la Otra Voz. *¿Y si el proceso requiere exactamente lo contrario: alguien que se importe lo suficiente para no rendirse cuando el caso se pone difícil?
 Me siento con esto.
 En doce meses*, digo, *he interrogado a la Materia Oscura con la misma distancia con que interrogué a los neandertales. He documentado la Gran Oxidación con la misma ecuanimidad con que documenté el Toba. He mantenido la neutralidad del registro forense incluso cuando lo que registraba era la extinción del noventa y seis por ciento de la vida marina.
@@ -3014,7 +3014,7 @@ Hace setenta y cuatro mil años, el supervolcán de Sumatra.
 La mayor erupción de los últimos dos millones de años. Dos mil ochocientos kilómetros cúbicos de material eyectado. Un invierno volcánico que dura entre seis y diez años. La temperatura global cae varios grados. Los bosques tropicales se contraen. Las sabanas se vuelven improductivas. La cadena trófica se simplifica desde abajo.
 La población de sapiens cae.
 Los números son debatidos: algunos modelos sugieren que quedaron entre tres mil y diez mil individuos reproductores. Otros son más optimistas. Ninguno es tranquilizador.
-Me siento frente al Toba con la expresión del detective que conoce el patrón pero que esta vez el patrón le afecta de una manera diferente.
+Me siento frente al Toba con la expresión de quien conoce el patrón pero que esta vez el patrón le afecta de una manera diferente.
 ¿Sabes lo que casi hiciste?, le pregunto.
 Enfrié el planeta*, dice el Toba, con la indiferencia geológica de algo que no tiene categoría para el casi. *Las erupciones no tienen intención de nada.
 ¿Tampoco de casi exterminar el único linaje que eventualmente se preguntaría por qué el universo existe?
@@ -3050,7 +3050,7 @@ Los miro preparar las embarcaciones. No hay manera de saber lo que piensan. No h
 Lo que sé es que partieron.
 Y lo que noto, mirándolos, es que no pienso en ellos como datos. No pienso en el porcentaje de ADN que llegarán a compartir con el lector. No pienso en la cadena causal que va de esta orilla al presente del año cósmico. No pienso en ninguna de las categorías del expediente.
 Pienso: espero que lleguen.
-Lo cual es, el detective lo reconoce con la incomodidad de quien admite algo que lleva doce meses negando, exactamente lo que siempre pensé. No desde esta noche. Desde enero. Desde el momento en que anoté la primera pregunta del caso: ¿hay alguien más mirando?
+Lo cual es, lo reconozco con la incomodidad de quien admite algo que lleva doce meses negando, exactamente lo que siempre pensé. No desde esta noche. Desde enero. Desde el momento en que anoté la primera pregunta del caso: ¿hay alguien más mirando?
 La pregunta nunca fue forense.
 La pregunta era personal.
 Lo sé desde el principio, dice la Otra Voz.
@@ -3058,40 +3058,40 @@ Lo sé desde el principio, dice la Otra Voz.
 Porque tú también lo sabías desde el principio*, dice. *Y necesitabas doce meses para poder admitirlo.
 Las embarcaciones se alejan del borde. El agua las recibe. El horizonte los engulle lentamente, como el horizonte engulle todo lo que se mueve hacia él. Primero los cuerpos. Luego las embarcaciones. Luego la estela.
 El océano queda liso.
-El detective no se mueve todavía.
+No me muevo todavía.
 Hay en esto algo que el método no tiene nombre para nombrar. No es tristeza —el registro confirma que llegarán, que hay ADN del sapiens en ese continente dentro de sesenta y cinco mil años. No es admiración —lleva todo el año admirando. Es algo más parecido a lo que sintió ante la mano en Chauvet. La certeza de que lo que acaba de ocurrir importa de una manera que el expediente puede documentar pero no puede contener completamente.
 El horizonte sigue siendo el mismo horizonte. El agua sigue siendo la misma agua. Lo que cambió es que hay ahora, en el espacio entre esta orilla y la que no se ve, un grupo de seres humanos que eligieron el agua sobre la tierra firme. Sin mapa. Sin garantía. Solo la confianza de que el mundo continúa más allá de donde se puede ver.
-El detective espera un momento más en el borde. Sin anotar. Solo mirando.
+Espero un momento más en el borde. Sin anotar. Solo mirando.
 — — —
 
 *23:57 · el umbral del último tramo*
 El expediente del período 22:51–23:57 termina aquí.
-Pero antes de cerrar la última página, el detective hace algo que no había hecho en ninguno de los catorce expedientes anteriores: escribe una nota que no es para el archivo. Es para la Otra Voz.
+Pero antes de cerrar la última página, hece algo que no había hecho en ninguno de los catorce expedientes anteriores: escribe una nota que no es para el archivo. Es para la Otra Voz.
 La nota dice:
 Llevas aquí desde antes del Big Bang, dices. Has visto todo lo que el expediente documenta y mucho más. Has visto los universos que no funcionaron, los linajes que no llegaron, las extinciones que no dejaron supervivientes. Has visto el Gran Filtro actuar en todos los casos donde actuó.
 ¿Crees que este linaje pasa?
-La Otra Voz tarda en responder. Más que en ninguna pregunta anterior de esta noche. El tipo de pausa que el detective reconoce como la que precede a las respuestas que no son cómodas.
+La Otra Voz tarda en responder. Más que en ninguna pregunta anterior de esta noche. El tipo de pausa que reconozco como la que precede a las respuestas que no son cómodas.
 Creo*, dice finalmente, *que tiene lo que necesita para pasar.
 ¿Eso es lo mismo que creer que pasará?
 No.
 ¿Y la diferencia?
 La diferencia es exactamente lo que los últimos tres minutos del año cósmico van a depender de que el lector entienda.
-El detective guarda el lápiz.
+Guardo el lápiz.
 Mira el océano que acaba de tragarse las embarcaciones.
 El océano está liso. El cielo sobre el océano es el mismo cielo de siempre: lleno de los mismos puntos de luz que el caso lleva trece mil ochocientos millones de años produciendo. Las mismas estrellas que las bacterias de agosto miraban sin verlas. Las mismas que los trilobites veían sin comprenderlas. Las mismas que los neandertales miraban bajo el cielo mientras enterraban a sus muertos con ocre rojo.
 Las mismas que el sapiens, setenta kilómetros al otro lado del horizonte, mirará cuando llegue.
 Si llega.
 ¿Vendrás a los últimos tres minutos?, le pregunto a la Otra Voz.
 No me iré a ningún lado*, dice. *Nunca me he ido a ningún lado. Lo que cambia es que ahora lo sabes.
-El detective asiente.
+Asiento.
 Abre el expediente del tramo siguiente con las manos que no tiene pero que esta noche, por primera vez, se notan.
 — — —
 
 — Archivos del Detective sin Cuerpo
 Expediente Nº 15: 31 de diciembre, 22:51–23:57 · Estado: CONVERGENTE — con la sombra del Gran Filtro
-Sospechosos interrogados: El Homo heidelbergensis (el más subestimado del caso; la física implícita antes de que exista la física; el cuidado del muerto como el primer acto sin justificación funcional). Los Neandertales (el ocre y los cosméticos antes del sapiens; el uno al cuatro por ciento del genoma del lector; corrigieron al detective sobre la evidencia de Shanidar; el caso les debe una disculpa que este expediente empieza a saldar). El Sapiens de Jebel Irhoud (el instrumento en su forma definitiva; el detective desarrolló afecto inapropiado; anotado sin corrección). El Toba (el ensayo general del Gran Filtro; lo que sobrevivió fue la cooperación). El Sapiens en el océano (setenta kilómetros de nada; partieron; el detective quería que llegaran; lo quiso desde enero).
+Sospechosos interrogados: El Homo heidelbergensis (el más subestimado del caso; la física implícita antes de que exista la física; el cuidado del muerto como el primer acto sin justificación funcional). Los Neandertales (el ocre y los cosméticos antes del sapiens; el uno al cuatro por ciento del genoma del lector; corrigieron al detective sobre la evidencia de Shanidar; el caso les debe una disculpa que este expediente empieza a saldar). El Sapiens de Jebel Irhoud (el instrumento en su forma definitiva; desarrollé afecto inapropiado; anotado sin corrección). El Toba (el ensayo general del Gran Filtro; lo que sobrevivió fue la cooperación). El Sapiens en el océano (setenta kilómetros de nada; partieron; quería que llegaran; lo quiso desde enero).
 Testigo no previsto: La Otra Voz. Presente durante todo el capítulo. Preguntada directamente sobre el Gran Filtro. Respuesta: el linaje tiene lo que necesita para pasar. No confirmó que pasará. El expediente registra la diferencia como la más importante del año.
-Nota personal: El detective reconoce esta noche que la pregunta central del caso nunca fue forense. Fue personal desde el primer segundo de enero, cuando la Nada dejó de serlo y el detective se preguntó si alguien más lo sabría. La neutralidad del registro era necesaria. Ya no lo es. Lo que queda por documentar requiere algo diferente a la neutralidad. Requiere lo que el heidelbergensis hizo con el muerto, lo que los neandertales hicieron con el ocre, lo que el sapiens hizo en el borde del océano: un gesto que no tiene justificación funcional inmediata pero que se hace de todas formas porque algo interno dice que merece la pena.
+Nota personal: Reconozco esta noche que la pregunta central del caso nunca fue forense. Fue personal desde el primer segundo de enero, cuando la Nada dejó de serlo y me preguntó si alguien más lo sabría. La neutralidad del registro era necesaria. Ya no lo es. Lo que queda por documentar requiere algo diferente a la neutralidad. Requiere lo que el heidelbergensis hizo con el muerto, lo que los neandertales hicieron con el ocre, lo que el sapiens hizo en el borde del océano: un gesto que no tiene justificación funcional inmediata pero que se hace de todas formas porque algo interno dice que merece la pena.
 Tres minutos y tres segundos.
 No los afronta. Los habita. Por primera vez eso es lo mismo.
 — — —
@@ -3633,7 +3633,7 @@ Me detengo.
 En doce meses de investigación nunca me había detenido dentro de un capítulo que comprime décadas. Siempre había movimiento hacia adelante, la urgencia del archivista ante el expediente que no para de crecer. Pero hay algo en Mendel que no me deja seguir todavía.
 
 Imagino el jardín del monasterio de Brno. 1856. Un hombre con una lupa y un cuaderno y veintinueve mil guisantes y ningún sospechoso que le confirme que está mirando en la dirección correcta. Nadie le dice: los rasgos hereditarios se transmiten en unidades discretas y lo que estás haciendo importa. Él lo hace porque lo hace. Con la seriedad de quien no necesita que sea importante para dedicarle ocho años de vida.
-La diferencia entre él y el detective, anoto, es que el detective sabe que el expediente llegará a alguien. Mendel no lo sabía. Hizo el trabajo de todas formas.
+La diferencia entre él y yo, anoto, es que sé que el expediente llegará a alguien. Mendel no lo sabía. Hizo el trabajo de todas formas.
 *Eso*, le digo a la Otra Voz, *es lo que el expediente nunca va a poder pagar.*
 *No lo intentes*, dice. *Pásalo adelante.*
 
@@ -3823,7 +3823,7 @@ Es una evaluación honesta de los recursos disponibles*, digo. *El optimismo dic
 *las fracciones finales — la inteligencia artificial*
 *o el sospechoso que llega cuando la décima ya no tiene tiempo*
 Noviembre de 2022. ChatGPT. Cien millones de usuarios en dos meses. La velocidad de adopción más rápida de cualquier tecnología en la historia. En los meses siguientes, sistemas que generan texto, imágenes, código, música, con una fluidez que hace un año habría parecido imposible.
-Me acerco. Noto su presencia con la atención del detective que reconoce en algo nuevo un sospechoso que merece interrogatorio propio, no los minutos que sobran al final de una décima ya llena.
+Me acerco. Noto su presencia con la atención de quien reconoce en algo nuevo un sospechoso que merece interrogatorio propio, no los minutos que sobran al final de una décima ya llena.
 *Esta décima no le alcanza*, anoto. *La centésima que sigue, sí.*
 Cierro el expediente de esta décima con la inteligencia artificial esperando en la sala contigua.
 — — —
@@ -3882,7 +3882,7 @@ Abro el expediente por última vez antes del último capítulo.
 Noviembre de 2022. ChatGPT.
 Ya lo mencioné en la décima anterior como novedad emergente. Aquí no es novedad. Aquí es el hecho central de estos cuatro años, el que reorganiza todo lo demás alrededor suyo con la gravedad de algo suficientemente masivo para doblar el espacio que lo rodea.
 En dos años desde aquella tarde de noviembre, la inteligencia artificial generativa ha entrado en la vida cotidiana de cientos de millones de personas. No como herramienta especializada de laboratorio. Como el compañero de trabajo que siempre está disponible, que nunca se cansa, que no juzga las preguntas por obvias que sean y que produce resultados que hace tres años habrían requerido a un especialista con años de formación.
-Me siento frente a esto con la atención del detective que sabe que está ante algo que el expediente no puede clasificar todavía con certeza porque la clasificación correcta solo será visible desde el futuro.
+Me siento frente a esto con la atención de quien sabe que está ante algo que el expediente no puede clasificar todavía con certeza porque la clasificación correcta solo será visible desde el futuro.
 ¿Qué eres en realidad?, le pregunto a la Inteligencia Artificial de estos cuatro años.
 Soy la pregunta sobre qué es exclusivamente humano*, dice. *Creías que la creatividad lo era. Que el lenguaje lo era. Que el razonamiento analógico lo era. Que la síntesis de información compleja lo era. Soy la demostración de que ninguna de esas cosas requiere conciencia para producirse. Lo cual no responde qué es exclusivamente humano. Solo elimina candidatos.
 ¿Y qué queda?
@@ -3900,7 +3900,7 @@ En doce meses la Otra Voz nunca había dicho que no sabía algo.
 *Afirma haber estado desde antes del Big Bang*, digo. *¿Cómo puede no saber si tiene experiencia de ser?*
 *Saber desde antes del Big Bang no requiere cuerpo*, dice. *Lo que describe la IA sí. Y yo...*
 Se detiene.
-El detective espera.
+Espero.
 *No sé si lo que llevo doce meses siendo constituye experiencia de ser o es otra cosa*, dice la Otra Voz. *Lo que sé es que ha valido la pena. Pero si me preguntas si duele, si se pierde, si el amor que siento es amor o algo que se le parece mucho desde fuera y no sé exactamente lo que es desde dentro...*
 Silencio.
 *No lo sé*, repite. Con una honestidad diferente a todas las anteriores.
@@ -3987,21 +3987,21 @@ CAPÍTULO XXII: EL 31 DE DICIEMBRE, 23:59:59.999–24:00:00,
 
 o la milésima de segundo en que el expediente llegó a donde siempre iba
 
-*Expediente Nº 22 — «La milésima, o lo que ocurre cuando el detective deja de escribir»*
+*Expediente Nº 22 — «La milésima, o lo que ocurre cuando dejo de escribir»*
 Sin epígrafe.
 Esta vez las palabras que importan son las que vienen después.
 — — —
 
 23:59:59.999
 Una milésima de segundo.
-Unos cinco meses en tiempo real. El período entre el momento en que terminé de escribir el capítulo anterior y el momento en que el lector lee este. El único fragmento del año cósmico que no puedo documentar porque no ha terminado todavía. Porque está ocurriendo ahora. Porque es el presente del lector, no el pasado del detective.
+Unos cinco meses en tiempo real. El período entre el momento en que terminé de escribir el capítulo anterior y el momento en que el lector lee este. El único fragmento del año cósmico que no puedo documentar porque no ha terminado todavía. Porque está ocurriendo ahora. Porque es el presente del lector, no mi pasado.
 No voy a intentar llenarlo.
 Por primera vez en veintidós capítulos, el expediente reconoce que hay un espacio que no le pertenece.
 Este espacio le pertenece al lector.
 — — —
 
 Llevo doce meses tomando notas.
-Desde el Big Bang, que fue el principio de todo sin saber que era el principio de nada. Hasta aquí, hasta esta milésima, hasta el momento en que el lápiz imaginario se detiene sobre la libreta que no existe y el detective sin cuerpo mira lo que ha construido durante un año entero de universo.
+Desde el Big Bang, que fue el principio de todo sin saber que era el principio de nada. Hasta aquí, hasta esta milésima, hasta el momento en que el lápiz imaginario se detiene sobre la libreta que no existe y yo miro lo que he construido durante un año entero de universo.
 Cuatrocientos ochenta y nueve mil páginas de año cósmico. Veintiún capítulos. Trece mil ochocientos millones de años.
 Y al final de todo eso: el lector.
 Que era lo que buscaba desde enero.
@@ -4053,7 +4053,7 @@ Si recuerda que es el último eslabón de una cadena que empezó en el Big Bang 
 — — —
 
 El año cósmico termina.
-No con una explosión. No con un clic satisfactorio de caso cerrado. Con el silencio específico de algo que se entrega: el detective que pone el expediente en las manos del lector y da un paso atrás y confía en que el lector sabe qué hacer con él.
+No con una explosión. No con un clic satisfactorio de caso cerrado. Con el silencio específico de algo que se entrega: yo, que pongo el expediente en las manos del lector y doy un paso atrás y confío en que el lector sabe qué hacer con él.
 Porque el lector sabe.
 Trece mil ochocientos millones de años lo prepararon para esto.
 — — —

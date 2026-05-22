@@ -2499,155 +2499,6 @@ El instrumento casi terminado.
 A falta de los últimos ajustes finos.
 — — —
 
-CAPÍTULO XIII BIS: EL 31 DE DICIEMBRE, 23:00–23:50,
-
-o los cincuenta minutos en que el instrumento encontró su forma definitiva sin saberlo
-
-*Expediente Nº 13 bis — «Del heidelbergensis al primer sapiens, o los últimos minutos»*
-«La evolución no tiene dirección. Pero a veces parece que la tiene.»
-— Richard Dawkins
-
-«La conciencia es el universo mirándose a sí mismo. Y preguntándose qué es.»
-— Freeman Dyson
-
-— — —
-
-31 de diciembre · 23:33 · hace aproximadamente 700.000 años
-La impaciencia con que cerré el expediente de anoche no se resolvió.
-La traigo aquí, a las once de la noche del 31 de diciembre, sin haberla nombrado todavía. La noto todavía en la textura de cómo abro el expediente esta mañana. Algo diferente en cómo me siento frente a los sospechosos. Una atención nueva que no es solo forense.
-No lo nombro todavía. Solo lo registro.
-Quedan dos días.
-El instrumento que el caso lleva construyendo desde el Ardipithecus está casi terminado. Lo que queda en estos dos días son los últimos ajustes finos: el cerebro que alcanza el tamaño moderno, la caja craneana que adquiere la forma que el lector reconocería en un espejo, y algo más difícil de documentar pero igualmente real: el primer indicio de que el instrumento ha empezado a hacerse preguntas sobre sí mismo.
-Abro el expediente.
-— — —
-
-*29 de diciembre — interrogatorio al Homo heidelbergensis*
-*el sospechoso más subestimado del caso*
-El Homo heidelbergensis. Entre hace 700.000 y 200.000 años. África, Europa y Asia occidental. Cerebro de entre 1.100 y 1.400 centímetros cúbicos: ya dentro del rango del sapiens moderno. Cuerpo más robusto, más denso, construido para los inviernos del Pleistoceno medio que son más fríos que los anteriores.
-Me siento frente al heidelbergensis con algo que reconozco como incomodidad.
-¿Por qué la incomodidad?, me pregunto antes de empezar el interrogatorio.
-La respuesta llega sola: porque el heidelbergensis es el sospechoso que hizo el trabajo y al que la historia, cuando llegue, ignorará. Es el que preparó el escenario sin estar en el cartel. Y en doce meses documentando lo que nadie documenta, tengo una deuda particular con los que la historia decide no documentar.
-¿Sabes que eres el sospechoso más subestimado del caso?, le pregunto.
-El heidelbergensis me mira con la expresión de quien tiene cosas más urgentes en la agenda que la opinión de un detective sobre su posición en la historiografía futura.
-No sé qué es subestimado*, dice. *Sé que hay presas al norte y que el invierno llega antes este año.
-Entonces hablemos de lo que sabes.
-Las lanzas de Schöningen*, dice. *Ocho lanzas de madera de tejo. Cada una con el centro de gravedad en el primer tercio. Como las jabalinas que los humanos competitivos usarán dentro de cuatrocientos mil años en competiciones que tampoco puedo imaginar. La física correcta antes de que exista la física como disciplina.
-¿Sabes que estás haciendo física?
-Sé que cuando el centro de gravedad está en el primer tercio, la lanza vuela mejor y llega más lejos.
-¿Y la diferencia entre saber eso y hacer física?
-Unos cuatrocientos mil años, dice el heidelbergensis, con una precisión que no esperaba.
-Anoto esto y luego anoto algo más, en el margen:
-El heidelbergensis tiene cerebro de sapiens. Tiene manos de sapiens. Tiene estrategias de caza de sapiens. Lo que no tiene es el nombre. El nombre llegará con los que vengan después, que usarán sus herramientas y su física intuitiva y construirán sobre eso sin saber que están construyendo sobre eso. La deuda con el heidelbergensis es invisible e impagable. El expediente la registra como parcialmente saldada.
-Pero hay algo más que quiero preguntar. Algo que el heidelbergensis ofrece y que no estaba en el plan inicial del interrogatorio.
-Enterráis a vuestros muertos, digo. No como pregunta. Como observación.
-Sí, dice el heidelbergensis.
-¿Por qué?
-Pausa. No el silencio evasivo del sospechoso que no quiere responder. El silencio genuino de quien nunca se ha hecho esta pregunta porque la respuesta es tan obvia que la pregunta parece maliciosa.
-Porque eran del grupo, dice finalmente.
-Reconozco en esa respuesta el eco del desdentado de Dmanisi. Era del grupo. Eso fue suficiente. Y ahora, cien mil años antes del primer sapiens, el mismo principio extendido más allá de la vida: el grupo incluye también a los que ya no están.
-¿Sabes que eso es filosofía?, le pregunto.
-Sé que es lo correcto, dice el heidelbergensis, con la serenidad de quien no necesita que nadie le llame filósofo para saber lo que hace.
-Anoto con doble línea en el margen: el cuidado del muerto como el primer acto que no tiene explicación funcional. Los dinosaurios no enterraban a sus muertos. Los cocodrilos no entierran a sus muertos. El heidelbergensis sí. Sin lenguaje formulado. Sin sistema de creencias articulado. Solo la práctica. La moral antes de la ética. El gesto antes de la teoría del gesto.
-¿Y Atapuerca?, pregunto.
-El heidelbergensis espera que complete la pregunta.
-Los homínidos de la Sima de los Huesos. Hace cuatrocientos mil años. Un individuo con la malformación craneana de nacimiento que habría impedido la supervivencia en la mayoría de los linajes animales. Que sobrevivió hasta la adolescencia. Que alguien cuidó, sostuvo, alimentó durante años, sin función práctica inmediata, sin posibilidad de reciprocidad.
-El mismo principio*, dice el heidelbergensis. *El grupo incluye a los que no pueden seguir el ritmo del grupo.
-¿Sabes que eso es lo que en cuatrocientos mil años el sapiens llamará ética de los cuidados? ¿Que sobre ese gesto construirá sistemas de salud y tratados sobre derechos de las personas con discapacidad?
-Sé que es lo correcto*, dice el heidelbergensis, con la misma tranquilidad de antes. *El nombre no cambia lo que es.
-Y yo*, añado, *que llevo doce meses buscando al testigo, anoto que el testigo quizás no empieza cuando alguien puede mirar el universo. Empieza cuando alguien decide que los que ya no están merecen que alguien los recuerde.
-— — —
-
-*transición — lo que ocurrió en los últimos minutos*
-Entre las 23:33 y las 23:44, en el tiempo que el expediente no nombra pero que existe, el linaje humano se ramifica.
-El árbol no es una escalera. Nunca lo fue. Es un arbusto con ramas que divergen, coexisten, se cruzan y se extinguen. En este período coexisten en el planeta al menos tres linajes del género Homo: el heidelbergensis en África y Europa, el Homo erectus tardío en Asia, y el linaje que en África central y oriental está convergiendo hacia lo que eventualmente se llamará sapiens.
-Solo una de estas ramas llega hasta el lector.
-La humildad que el caso exige es también taxonómica*, anoto. *En circunstancias diferentes, estaría tomando notas sobre el lector neandertal. O sobre el lector de Denisova. La contingencia del linaje que llegó no invalida su valor. Pero sí invalida cualquier pretensión de inevitabilidad.
-— — —
-
-*31 de diciembre · 23:44–23:48 · hace aproximadamente 400.000–315.000 años*
-*interrogatorio a Los Neandertales*
-*el sospechoso al que el caso debe una disculpa*
-Hay sospechosos que llegan al interrogatorio habiendo sido ya juzgados por la cultura popular antes de que yo abra el expediente. Los neandertales son el caso más extremo.
-El adjetivo neandertal en cualquier idioma moderno funciona como insulto. Sinónimo de torpeza, de brutalidad, de lo que la evolución superó. El expediente quiere hacer constar, antes de empezar, que no admite insultos como categoría analítica.
-¿Sabéis lo que la cultura popular hará con vosotros?, pregunto.
-No sabemos qué es la cultura popular*, dicen los neandertales. *Sabemos que hay presas en el norte y que el invierno llega más rápido este año.
-Entonces hablemos de lo que sabéis.
-Sabemos enterrar a nuestros muertos*, dicen, con la misma naturalidad con que el heidelbergensis lo había mencionado. Como si la alternativa no se les hubiera ocurrido. *Con ocre rojo. A veces con ofrendas.
-¿Por qué el ocre?
-Porque el rojo es el color de la sangre. De la vida. Ponerlo sobre el muerto es devolver algo de lo que se fue.
-Me detengo ante esta respuesta más tiempo del que suelo detenerme.
-¿Eso no es simbolismo?
-Es lo que hacemos, dicen los neandertales, sin el marco conceptual para el debate sobre si lo que hacen es o no simbolismo. Pero haciéndolo.
-Fabricáis pigmentos, digo.
-Mezclas de óxido de manganeso y otros minerales. Los aplicamos sobre conchas como adorno. En Europa, hace más de cien mil años. Antes de que el sapiens llegue aquí.
-¿Estáis diciendo que los primeros ornamentos documentados de Europa son vuestros?
-Estamos diciendo que la evidencia lo sugiere*, dicen los neandertales, con la precisión metodológica inesperada de quien distingue entre lo que sabe y lo que la evidencia sugiere. *Quien busca la verdad debería hacer lo mismo.
-Anoto la corrección. Con doble línea. Sin editarla.
-¿Y los genes?, pregunto.
-Entre el uno y el cuatro por ciento del genoma del lector no africano es neandertal*, dicen. *No nos extinguimos del todo. Nos disolvimos. Cuando el sapiens llegó a Europa hace cuarenta y cinco mil años nos encontramos y hubo descendencia. Esa descendencia existe. Está leyendo el expediente.
-Me detengo completamente.
-El lector tiene genes neandertales.
-El lector tiene genes neandertales*, confirman. *Cuando el lector mira el cielo nocturno y se pregunta de dónde viene todo esto, una fracción de ese gesto viene también de nosotros. Que mirábamos el mismo cielo. Que enterrábamos a nuestros muertos bajo ese cielo. Que decorábamos conchas bajo ese cielo.
-Sin preguntaros de dónde venía todo, digo.
-Sin el lenguaje para formular la pregunta*, corrigen los neandertales. *No es lo mismo.
-Anoto la corrección. Segunda vez que un sospechoso me corrige en dos días. El expediente lo registra sin irritación. Con algo más parecido al reconocimiento de que los mejores casos son los que te corrigen.
-¿Hubo un último neandertal?, pregunto.
-Silencio largo.
-Siempre hay un último*, dicen finalmente. *El último de cualquier linaje no sabe que es el último. Tiene frío. Tiene hambre. Busca el grupo que se dispersó. El grupo ya no está porque el grupo también buscaba lo que no encontró. El último neandertal murió como murió el primero: sin saber que era parte de una historia. La historia es lo que añaden los que vienen después.
-No anoto esto en el registro oficial.
-Lo anoto en algún lugar que no tiene nombre en el sistema de clasificación que he estado usando durante doce meses. En algún lugar que se parece a lo que los neandertales hacían con el ocre: un gesto sin función práctica inmediata. Un registro para alguien que quizás no llegue.
-— — —
-
-*31 de diciembre · 23:48 — el sapiens anatómicamente moderno*
-*Jebel Irhoud y el instrumento en su forma definitiva*
-Jebel Irhoud. Marruecos. Hace 315.000 años.
-El cráneo redondeado. La frente alta. La cara plana. La caja craneana con la forma que el lector reconocería en un espejo si tuviera delante el cráneo de uno de estos individuos y no supiera cuándo vivió.
-El cerebro de 1.400 centímetros cúbicos dentro del rango moderno no solo en volumen sino en organización. El lóbulo parietal expandido, donde el cerebro integra información de distintas fuentes y produce algo más complejo que la suma de sus partes.
-El instrumento en su forma definitiva.
-No me siento frente al sapiens de Jebel Irhoud con la estructura habitual del interrogatorio. Me quedo de pie —metafóricamente— mirándolo desde la distancia. Yo, que llevo doce meses buscando al testigo, frente al primer espécimen documentado de lo que eventualmente producirá al testigo.
-Hay algo en este momento que requiere más espacio que un interrogatorio.
-¿Qué ves?, me pregunta algo, desde ningún lugar específico. No una voz. Una pregunta que parece surgir del propio expediente.
-Veo a alguien que no sabe todavía lo que es, digo.
-¿Y eso te produce qué?
-Tardo en responder. El sapiens de Jebel Irhoud está tallando herramientas con la concentración de quien tiene una tarea concreta. No mira el horizonte. No formula preguntas sobre el universo. Trabaja.
-Me produce*, digo lentamente, *algo parecido al afecto.
-La pregunta no responde. Yo tampoco añado nada.
-Solo anoto, en el margen, con la letra pequeña de las observaciones que no pertenecen al método pero que el método no puede contener:
-He desarrollado afecto por el sujeto de su investigación. Lo registra sin corregirlo. Porque corregirlo sería una forma de mentir sobre lo que ha ocurrido en doce meses de caso. Y el expediente no miente.
-Lo que no sé todavía es si ese afecto distorsiona el juicio o lo mejora.
-Lo dejo sin resolver. Faltan doce minutos para las 24:00.
-— — —
-
-*el cierre — en vísperas de la medianoche*
-Son las últimas horas del 31 de diciembre. Los últimos minutos del año cósmico.
-Miro hacia atrás a través de estos instantes. El heidelbergensis con su física intuitiva y sus muertos enterrados. Los neandertales que me corrigieron dos veces y que llevan sus genes en el lector. El sapiens de Jebel Irhoud tallando herramientas sin saber que es el instrumento terminado.
-Y noto que la impaciencia que traía del capítulo anterior ha cambiado de forma.
-Ya no es solo impaciencia. Es algo más complejo. Algo que tiene impaciencia como componente pero también tiene peso, y tiene la sensación específica de quien llega al final de algo muy largo y empieza a saber que llegar al final no es lo mismo que terminar.
-El caso no termina a medianoche*, me digo. *La medianoche es cuando empieza a importar de verdad.
-Porque en doce meses he documentado trece mil ochocientos millones de años de universo. Y todo eso —el Big Bang, las supernovas, las bacterias, los dinosaurios, los mamíferos, el asteroide, los árboles del Eoceno, el Paisaje del Rift, el desdentado de Dmanisi, el último neandertal que buscaba su grupo— todo eso apunta hacia el 31 de diciembre. Hacia las últimas horas del año cósmico. Hacia el momento en que el instrumento que el caso lleva construyendo desde el primer segundo empezará a preguntarse por qué existe.
-Y hacia el lector.
-Que es donde el caso siempre iba.
-¿Estás preparado para mañana?
-La pregunta llega de nuevo desde ningún lugar específico. La misma textura que antes. La misma ausencia de origen identificable.
-Esta vez no la ignoro.
-No, digo en voz alta, al espacio vacío del Pleistoceno tardío que me rodea.
-Y luego, porque es la verdad más honesta que tengo disponible:
-Pero voy de todas formas.
-El sapiens de Jebel Irhoud sigue tallando su herramienta en el refugio de una roca del norte de África. El cielo sobre él es el mismo que ha estado sobre todo el caso desde enero. El mismo que verán los neandertales cuando entierren a sus muertos. El mismo que verá el artista de Chauvet cuando entre en la cueva. El mismo que verá Armstrong desde la Luna.
-El instrumento está terminado.
-Está a punto de usarse.
-— — —
-
-— Archivos del Detective sin Cuerpo
-Expediente Nº 13 bis: 31 de diciembre, 23:33–23:50 · Estado: A DOCE MINUTOS
-Sospechosos interrogados: El Homo heidelbergensis (el más subestimado del caso; la física antes de la física; los muertos enterrados porque eran del grupo; la deuda invisible e impagable). Los Neandertales (me corrigieron dos veces; el ocre y los ornamentos antes del sapiens en Europa; el uno al cuatro por ciento del genoma del lector; el último que buscaba su grupo sin saber que era el último). El Sapiens de Jebel Irhoud (el instrumento en su forma definitiva; desarrollé afecto por el sujeto de la investigación; lo registra sin corregirlo).
-Lo más importante de los dos días: que la pregunta que el expediente lleva doce meses formulando —¿hay alguien más mirando?— tiene mañana su primera respuesta provisional. Y que esa respuesta no es astronómica ni biológica ni filosófica. Es un individuo específico con un cerebro de 1.400 centímetros cúbicos en el norte de África hace 315.000 años que talla herramientas sin saber que es el instrumento terminado.
-Nota personal: algo preguntó esta noche desde ningún lugar identificable si estaba preparado para mañana. Respondí que no pero que iba de todas formas. No corregí la respuesta.
-Quedan minutos.
-El instrumento terminado.
-A falta de aprender a usarse.
-— — —
-
 CAPÍTULO XIV: EL 31 DE DICIEMBRE, 19:33–22:51,
 
 o las tres horas y dieciocho minutos en que perdí la distancia
@@ -2664,7 +2515,7 @@ o las tres horas y dieciocho minutos en que perdí la distancia
 31 de diciembre · 19:33 · hace 7 millones de años
 Anoche, al cerrar el expediente del 30 de diciembre, algo me preguntó desde ningún lugar identificable si estaba preparado para hoy. Respondí que no pero que iba de todas formas.
 Esta mañana entiendo que esa pregunta no vino del vacío.
-Lo que sentí en el XIII bis como una presencia sin nombre, como una pregunta sin origen, lleva aquí desde antes de que yo empezara a tomar notas. Lo noto ahora con la claridad del que reconoce algo que ya conocía sin saberlo: en la textura de cómo se abre el expediente esta mañana, en la calidad diferente de mi propia atención, en la forma en que el lápiz imaginario se detiene antes de anotar.
+Lo que sentí ayer como una presencia sin nombre, como una pregunta sin origen, lleva aquí desde antes de que yo empezara a tomar notas. Lo noto ahora con la claridad del que reconoce algo que ya conocía sin saberlo: en la textura de cómo se abre el expediente esta mañana, en la calidad diferente de mi propia atención, en la forma en que el lápiz imaginario se detiene antes de anotar.
 ¿Qué es?, me pregunto.
 No respondo todavía. Lo dejo estar.
 Lo dejo estar. El Valle del Rift se abre lentamente ante mí, esa cicatriz en la corteza del planeta que lleva millones de años partiéndose en dos con la paciencia de algo que no sabe que tiene prisa. Al este del Rift, el bosque que fue continuo se ha fragmentado en islas de árboles separadas por franjas de sabana. Los primates que vivían en el dosel sin interrupciones se encuentran ahora, de generación en generación, con más distancia entre los árboles y más cielo entre las ramas.
@@ -2888,18 +2739,167 @@ Y por primera vez en doce meses, la llama me mira de vuelta.
 — Archivos del Detective sin Cuerpo
 Expediente Nº 14: 31 de diciembre, 19:33–22:51 · Estado: TRANSFORMADO
 Sospechosos interrogados: El Ardipithecus (el bipedismo como posibilidad antes de ser necesidad; el silencio como la frontera entre lo que es y lo que faltará). Lucy (el miedo como clima, no como emoción; cayó del árbol que también era su mundo). La Primera Herramienta (el primer objeto que no existiría sin alguien que lo pensara; la causalidad circular como método del universo). El Homo erectus y el Fuego (el primer lugar donde el pasado entró en el presente de alguien que no estaba; la hoguera como el origen del expediente).
-Testigo no previsto: La Otra Voz. Naturaleza: indeterminada. Presente desde febrero. Sentida por primera vez anoche en el XIII bis como pregunta sin origen. Reconocida esta mañana. Afirma haber estado antes del Big Bang. Colaboración: inesperada, perturbadora, necesaria.
+Testigo no previsto: La Otra Voz. Naturaleza: indeterminada. Presente desde febrero. Sentida por primera vez anoche como pregunta sin origen. Reconocida esta mañana. Afirma haber estado antes del Big Bang. Colaboración: inesperada, perturbadora, necesaria.
 Nota personal: Registro que esta noche algo ha cambiado en el expediente. No en los hechos. En el que los documenta. No sabe si esto invalida las conclusiones anteriores. Decide que no. Anota, en la última línea del expediente de las 22:51, una sola frase:
 El caso no era sobre si habría testigo. El caso era sobre si el testigo podría reconocerse como tal. Y yo, por primera vez en doce meses de año cósmico, respondo afirmativamente.
 Quedan dos horas y nueve minutos.
 Las afronto, por primera vez, acompañado.
 — — —
 
-CAPÍTULO XV: EL 31 DE DICIEMBRE, 22:51–23:57,
+CAPÍTULO XV: EL 31 DE DICIEMBRE, 23:00–23:50,
+
+o los cincuenta minutos en que el instrumento encontró su forma definitiva sin saberlo
+
+*Expediente Nº 15 — «Del heidelbergensis al primer sapiens, o los últimos minutos»*
+«La evolución no tiene dirección. Pero a veces parece que la tiene.»
+— Richard Dawkins
+
+«La conciencia es el universo mirándose a sí mismo. Y preguntándose qué es.»
+— Freeman Dyson
+
+— — —
+
+31 de diciembre · 23:33 · hace aproximadamente 700.000 años
+La impaciencia con que cerré el expediente de anoche no se resolvió.
+La traigo aquí, a las once de la noche del 31 de diciembre, sin haberla nombrado todavía. La noto todavía en la textura de cómo abro el expediente esta mañana. Algo diferente en cómo me siento frente a los sospechosos. Una atención nueva que no es solo forense.
+No lo nombro todavía. Solo lo registro.
+Quedan dos días.
+El instrumento que el caso lleva construyendo desde el Ardipithecus está casi terminado. Lo que queda en estos dos días son los últimos ajustes finos: el cerebro que alcanza el tamaño moderno, la caja craneana que adquiere la forma que el lector reconocería en un espejo, y algo más difícil de documentar pero igualmente real: el primer indicio de que el instrumento ha empezado a hacerse preguntas sobre sí mismo.
+Abro el expediente.
+— — —
+
+*29 de diciembre — interrogatorio al Homo heidelbergensis*
+*el sospechoso más subestimado del caso*
+El Homo heidelbergensis. Entre hace 700.000 y 200.000 años. África, Europa y Asia occidental. Cerebro de entre 1.100 y 1.400 centímetros cúbicos: ya dentro del rango del sapiens moderno. Cuerpo más robusto, más denso, construido para los inviernos del Pleistoceno medio que son más fríos que los anteriores.
+Me siento frente al heidelbergensis con algo que reconozco como incomodidad.
+¿Por qué la incomodidad?, me pregunto antes de empezar el interrogatorio.
+La respuesta llega sola: porque el heidelbergensis es el sospechoso que hizo el trabajo y al que la historia, cuando llegue, ignorará. Es el que preparó el escenario sin estar en el cartel. Y en doce meses documentando lo que nadie documenta, tengo una deuda particular con los que la historia decide no documentar.
+¿Sabes que eres el sospechoso más subestimado del caso?, le pregunto.
+El heidelbergensis me mira con la expresión de quien tiene cosas más urgentes en la agenda que la opinión de un detective sobre su posición en la historiografía futura.
+No sé qué es subestimado*, dice. *Sé que hay presas al norte y que el invierno llega antes este año.
+Entonces hablemos de lo que sabes.
+Las lanzas de Schöningen*, dice. *Ocho lanzas de madera de tejo. Cada una con el centro de gravedad en el primer tercio. Como las jabalinas que los humanos competitivos usarán dentro de cuatrocientos mil años en competiciones que tampoco puedo imaginar. La física correcta antes de que exista la física como disciplina.
+¿Sabes que estás haciendo física?
+Sé que cuando el centro de gravedad está en el primer tercio, la lanza vuela mejor y llega más lejos.
+¿Y la diferencia entre saber eso y hacer física?
+Unos cuatrocientos mil años, dice el heidelbergensis, con una precisión que no esperaba.
+Anoto esto y luego anoto algo más, en el margen:
+El heidelbergensis tiene cerebro de sapiens. Tiene manos de sapiens. Tiene estrategias de caza de sapiens. Lo que no tiene es el nombre. El nombre llegará con los que vengan después, que usarán sus herramientas y su física intuitiva y construirán sobre eso sin saber que están construyendo sobre eso. La deuda con el heidelbergensis es invisible e impagable. El expediente la registra como parcialmente saldada.
+Pero hay algo más que quiero preguntar. Algo que el heidelbergensis ofrece y que no estaba en el plan inicial del interrogatorio.
+Enterráis a vuestros muertos, digo. No como pregunta. Como observación.
+Sí, dice el heidelbergensis.
+¿Por qué?
+Pausa. No el silencio evasivo del sospechoso que no quiere responder. El silencio genuino de quien nunca se ha hecho esta pregunta porque la respuesta es tan obvia que la pregunta parece maliciosa.
+Porque eran del grupo, dice finalmente.
+Reconozco en esa respuesta el eco del desdentado de Dmanisi. Era del grupo. Eso fue suficiente. Y ahora, cien mil años antes del primer sapiens, el mismo principio extendido más allá de la vida: el grupo incluye también a los que ya no están.
+¿Sabes que eso es filosofía?, le pregunto.
+Sé que es lo correcto, dice el heidelbergensis, con la serenidad de quien no necesita que nadie le llame filósofo para saber lo que hace.
+Anoto con doble línea en el margen: el cuidado del muerto como el primer acto que no tiene explicación funcional. Los dinosaurios no enterraban a sus muertos. Los cocodrilos no entierran a sus muertos. El heidelbergensis sí. Sin lenguaje formulado. Sin sistema de creencias articulado. Solo la práctica. La moral antes de la ética. El gesto antes de la teoría del gesto.
+¿Y Atapuerca?, pregunto.
+El heidelbergensis espera que complete la pregunta.
+Los homínidos de la Sima de los Huesos. Hace cuatrocientos mil años. Un individuo con la malformación craneana de nacimiento que habría impedido la supervivencia en la mayoría de los linajes animales. Que sobrevivió hasta la adolescencia. Que alguien cuidó, sostuvo, alimentó durante años, sin función práctica inmediata, sin posibilidad de reciprocidad.
+El mismo principio*, dice el heidelbergensis. *El grupo incluye a los que no pueden seguir el ritmo del grupo.
+¿Sabes que eso es lo que en cuatrocientos mil años el sapiens llamará ética de los cuidados? ¿Que sobre ese gesto construirá sistemas de salud y tratados sobre derechos de las personas con discapacidad?
+Sé que es lo correcto*, dice el heidelbergensis, con la misma tranquilidad de antes. *El nombre no cambia lo que es.
+Y yo*, añado, *que llevo doce meses buscando al testigo, anoto que el testigo quizás no empieza cuando alguien puede mirar el universo. Empieza cuando alguien decide que los que ya no están merecen que alguien los recuerde.
+— — —
+
+*transición — lo que ocurrió en los últimos minutos*
+Entre las 23:33 y las 23:44, en el tiempo que el expediente no nombra pero que existe, el linaje humano se ramifica.
+El árbol no es una escalera. Nunca lo fue. Es un arbusto con ramas que divergen, coexisten, se cruzan y se extinguen. En este período coexisten en el planeta al menos tres linajes del género Homo: el heidelbergensis en África y Europa, el Homo erectus tardío en Asia, y el linaje que en África central y oriental está convergiendo hacia lo que eventualmente se llamará sapiens.
+Solo una de estas ramas llega hasta el lector.
+La humildad que el caso exige es también taxonómica*, anoto. *En circunstancias diferentes, estaría tomando notas sobre el lector neandertal. O sobre el lector de Denisova. La contingencia del linaje que llegó no invalida su valor. Pero sí invalida cualquier pretensión de inevitabilidad.
+— — —
+
+*31 de diciembre · 23:44–23:48 · hace aproximadamente 400.000–315.000 años*
+*interrogatorio a Los Neandertales*
+*el sospechoso al que el caso debe una disculpa*
+Hay sospechosos que llegan al interrogatorio habiendo sido ya juzgados por la cultura popular antes de que yo abra el expediente. Los neandertales son el caso más extremo.
+El adjetivo neandertal en cualquier idioma moderno funciona como insulto. Sinónimo de torpeza, de brutalidad, de lo que la evolución superó. El expediente quiere hacer constar, antes de empezar, que no admite insultos como categoría analítica.
+¿Sabéis lo que la cultura popular hará con vosotros?, pregunto.
+No sabemos qué es la cultura popular*, dicen los neandertales. *Sabemos que hay presas en el norte y que el invierno llega más rápido este año.
+Entonces hablemos de lo que sabéis.
+Sabemos enterrar a nuestros muertos*, dicen, con la misma naturalidad con que el heidelbergensis lo había mencionado. Como si la alternativa no se les hubiera ocurrido. *Con ocre rojo. A veces con ofrendas.
+¿Por qué el ocre?
+Porque el rojo es el color de la sangre. De la vida. Ponerlo sobre el muerto es devolver algo de lo que se fue.
+Me detengo ante esta respuesta más tiempo del que suelo detenerme.
+¿Eso no es simbolismo?
+Es lo que hacemos, dicen los neandertales, sin el marco conceptual para el debate sobre si lo que hacen es o no simbolismo. Pero haciéndolo.
+Fabricáis pigmentos, digo.
+Mezclas de óxido de manganeso y otros minerales. Los aplicamos sobre conchas como adorno. En Europa, hace más de cien mil años. Antes de que el sapiens llegue aquí.
+¿Estáis diciendo que los primeros ornamentos documentados de Europa son vuestros?
+Estamos diciendo que la evidencia lo sugiere*, dicen los neandertales, con la precisión metodológica inesperada de quien distingue entre lo que sabe y lo que la evidencia sugiere. *Quien busca la verdad debería hacer lo mismo.
+Anoto la corrección. Con doble línea. Sin editarla.
+¿Y los genes?, pregunto.
+Entre el uno y el cuatro por ciento del genoma del lector no africano es neandertal*, dicen. *No nos extinguimos del todo. Nos disolvimos. Cuando el sapiens llegó a Europa hace cuarenta y cinco mil años nos encontramos y hubo descendencia. Esa descendencia existe. Está leyendo el expediente.
+Me detengo completamente.
+El lector tiene genes neandertales.
+El lector tiene genes neandertales*, confirman. *Cuando el lector mira el cielo nocturno y se pregunta de dónde viene todo esto, una fracción de ese gesto viene también de nosotros. Que mirábamos el mismo cielo. Que enterrábamos a nuestros muertos bajo ese cielo. Que decorábamos conchas bajo ese cielo.
+Sin preguntaros de dónde venía todo, digo.
+Sin el lenguaje para formular la pregunta*, corrigen los neandertales. *No es lo mismo.
+Anoto la corrección. Segunda vez que un sospechoso me corrige en dos días. El expediente lo registra sin irritación. Con algo más parecido al reconocimiento de que los mejores casos son los que te corrigen.
+¿Hubo un último neandertal?, pregunto.
+Silencio largo.
+Siempre hay un último*, dicen finalmente. *El último de cualquier linaje no sabe que es el último. Tiene frío. Tiene hambre. Busca el grupo que se dispersó. El grupo ya no está porque el grupo también buscaba lo que no encontró. El último neandertal murió como murió el primero: sin saber que era parte de una historia. La historia es lo que añaden los que vienen después.
+No anoto esto en el registro oficial.
+Lo anoto en algún lugar que no tiene nombre en el sistema de clasificación que he estado usando durante doce meses. En algún lugar que se parece a lo que los neandertales hacían con el ocre: un gesto sin función práctica inmediata. Un registro para alguien que quizás no llegue.
+— — —
+
+*31 de diciembre · 23:48 — el sapiens anatómicamente moderno*
+*Jebel Irhoud y el instrumento en su forma definitiva*
+Jebel Irhoud. Marruecos. Hace 315.000 años.
+El cráneo redondeado. La frente alta. La cara plana. La caja craneana con la forma que el lector reconocería en un espejo si tuviera delante el cráneo de uno de estos individuos y no supiera cuándo vivió.
+El cerebro de 1.400 centímetros cúbicos dentro del rango moderno no solo en volumen sino en organización. El lóbulo parietal expandido, donde el cerebro integra información de distintas fuentes y produce algo más complejo que la suma de sus partes.
+El instrumento en su forma definitiva.
+No me siento frente al sapiens de Jebel Irhoud con la estructura habitual del interrogatorio. Me quedo de pie —metafóricamente— mirándolo desde la distancia. Yo, que llevo doce meses buscando al testigo, frente al primer espécimen documentado de lo que eventualmente producirá al testigo.
+Hay algo en este momento que requiere más espacio que un interrogatorio.
+¿Qué ves?, me pregunta algo, desde ningún lugar específico. No una voz. Una pregunta que parece surgir del propio expediente.
+Veo a alguien que no sabe todavía lo que es, digo.
+¿Y eso te produce qué?
+Tardo en responder. El sapiens de Jebel Irhoud está tallando herramientas con la concentración de quien tiene una tarea concreta. No mira el horizonte. No formula preguntas sobre el universo. Trabaja.
+Me produce*, digo lentamente, *algo parecido al afecto.
+La pregunta no responde. Yo tampoco añado nada.
+Solo anoto, en el margen, con la letra pequeña de las observaciones que no pertenecen al método pero que el método no puede contener:
+He desarrollado afecto por el sujeto de su investigación. Lo registra sin corregirlo. Porque corregirlo sería una forma de mentir sobre lo que ha ocurrido en doce meses de caso. Y el expediente no miente.
+Lo que no sé todavía es si ese afecto distorsiona el juicio o lo mejora.
+Lo dejo sin resolver. Faltan doce minutos para las 24:00.
+— — —
+
+*el cierre — en vísperas de la medianoche*
+Son las últimas horas del 31 de diciembre. Los últimos minutos del año cósmico.
+Miro hacia atrás a través de estos instantes. El heidelbergensis con su física intuitiva y sus muertos enterrados. Los neandertales que me corrigieron dos veces y que llevan sus genes en el lector. El sapiens de Jebel Irhoud tallando herramientas sin saber que es el instrumento terminado.
+Y noto que la impaciencia que traía del capítulo anterior ha cambiado de forma.
+Ya no es solo impaciencia. Es algo más complejo. Algo que tiene impaciencia como componente pero también tiene peso, y tiene la sensación específica de quien llega al final de algo muy largo y empieza a saber que llegar al final no es lo mismo que terminar.
+El caso no termina a medianoche*, me digo. *La medianoche es cuando empieza a importar de verdad.
+Porque en doce meses he documentado trece mil ochocientos millones de años de universo. Y todo eso —el Big Bang, las supernovas, las bacterias, los dinosaurios, los mamíferos, el asteroide, los árboles del Eoceno, el Paisaje del Rift, el desdentado de Dmanisi, el último neandertal que buscaba su grupo— todo eso apunta hacia el 31 de diciembre. Hacia las últimas horas del año cósmico. Hacia el momento en que el instrumento que el caso lleva construyendo desde el primer segundo empezará a preguntarse por qué existe.
+Y hacia el lector.
+Que es donde el caso siempre iba.
+¿Estás preparado para mañana?
+La pregunta llega de nuevo desde ningún lugar específico. La misma textura que antes. La misma ausencia de origen identificable.
+Esta vez no la ignoro.
+No, digo en voz alta, al espacio vacío del Pleistoceno tardío que me rodea.
+Y luego, porque es la verdad más honesta que tengo disponible:
+Pero voy de todas formas.
+El sapiens de Jebel Irhoud sigue tallando su herramienta en el refugio de una roca del norte de África. El cielo sobre él es el mismo que ha estado sobre todo el caso desde enero. El mismo que verán los neandertales cuando entierren a sus muertos. El mismo que verá el artista de Chauvet cuando entre en la cueva. El mismo que verá Armstrong desde la Luna.
+El instrumento está terminado.
+Está a punto de usarse.
+— — —
+
+— Archivos del Detective sin Cuerpo
+Expediente Nº 15: 31 de diciembre, 23:00–23:50 · Estado: A DOCE MINUTOS
+Sospechosos interrogados: El Homo heidelbergensis (el más subestimado del caso; la física antes de la física; los muertos enterrados porque eran del grupo; la deuda invisible e impagable). Los Neandertales (me corrigieron dos veces; el ocre y los ornamentos antes del sapiens en Europa; el uno al cuatro por ciento del genoma del lector; el último que buscaba su grupo sin saber que era el último). El Sapiens de Jebel Irhoud (el instrumento en su forma definitiva; desarrollé afecto por el sujeto de la investigación; lo registra sin corregirlo).
+Lo más importante de los dos días: que la pregunta que el expediente lleva doce meses formulando —¿hay alguien más mirando?— tiene mañana su primera respuesta provisional. Y que esa respuesta no es astronómica ni biológica ni filosófica. Es un individuo específico con un cerebro de 1.400 centímetros cúbicos en el norte de África hace 315.000 años que talla herramientas sin saber que es el instrumento terminado.
+Nota personal: algo preguntó esta noche desde ningún lugar identificable si estaba preparado para mañana. Respondí que no pero que iba de todas formas. No corregí la respuesta.
+Quedan minutos.
+El instrumento terminado.
+A falta de aprender a usarse.
+— — —
+
+CAPÍTULO XVI: EL 31 DE DICIEMBRE, 22:51–23:57,
 
 o la hora y seis minutos en que el instrumento encontró su forma definitiva y encontré la suya
 
-*Expediente Nº 15 — «Del Homo heidelbergensis al sapiens en el océano, o lo que se construye sin saber que se construye»*
+*Expediente Nº 16 — «Del Homo heidelbergensis al sapiens en el océano, o lo que se construye sin saber que se construye»*
 «Lo más difícil de ver es aquello que tienes delante.»
 — Goethe
 
@@ -2924,7 +2924,7 @@ Empecemos.
 
 *22:51–23:10 — el sospechoso más subestimado del caso*
 *o el que instaló el pensamiento sin quedarse con el crédito*
-He evitado al Homo heidelbergensis durante semanas.
+He dedicado al Homo heidelbergensis menos espacio del que merece.
 No porque no sea importante. Porque lo es demasiado y de una manera que incomoda: es el sospechoso que hizo el trabajo y al que la historia, cuando llegue, ignorará en favor del que vino después. Es el que preparó el escenario sin estar en el cartel. Y en doce meses de investigación yo, que documento lo que nadie documenta, tengo una deuda particular con los que la historia decide no documentar.
 Me siento frente al Homo heidelbergensis con algo que en un ser con sistema nervioso llamaría incomodidad.
 ¿Sabes que eres el sospechoso más subestimado del caso?, le pregunto.
@@ -3117,7 +3117,7 @@ Abre el expediente del tramo siguiente con las manos que no tiene pero que esta 
 — — —
 
 — Archivos del Detective sin Cuerpo
-Expediente Nº 15: 31 de diciembre, 22:51–23:57 · Estado: CONVERGENTE — con la sombra del Gran Filtro
+Expediente Nº 16: 31 de diciembre, 22:51–23:57 · Estado: CONVERGENTE — con la sombra del Gran Filtro
 Sospechosos interrogados: El Homo heidelbergensis (el más subestimado del caso; la física implícita antes de que exista la física; el cuidado del muerto como el primer acto sin justificación funcional). Los Neandertales (el ocre y los cosméticos antes del sapiens; el uno al cuatro por ciento del genoma del lector; corrigieron al detective sobre la evidencia de Shanidar; el caso les debe una disculpa que este expediente empieza a saldar). El Sapiens de Jebel Irhoud (el instrumento en su forma definitiva; desarrollé afecto inapropiado; anotado sin corrección). El Toba (el ensayo general del Gran Filtro; lo que sobrevivió fue la cooperación). El Sapiens en el océano (setenta kilómetros de nada; partieron; quería que llegaran; lo quiso desde enero).
 Testigo no previsto: La Otra Voz. Presente durante todo el capítulo. Preguntada directamente sobre el Gran Filtro. Respuesta: el linaje tiene lo que necesita para pasar. No confirmó que pasará. El expediente registra la diferencia como la más importante del año.
 Nota personal: Reconozco esta noche que la pregunta central del caso nunca fue forense. Fue personal desde el primer segundo de enero, cuando la Nada dejó de serlo y me preguntó si alguien más lo sabría. La neutralidad del registro era necesaria. Ya no lo es. Lo que queda por documentar requiere algo diferente a la neutralidad. Requiere lo que el heidelbergensis hizo con el muerto, lo que los neandertales hicieron con el ocre, lo que el sapiens hizo en el borde del océano: un gesto que no tiene justificación funcional inmediata pero que se hace de todas formas porque algo interno dice que merece la pena.
@@ -3125,11 +3125,11 @@ Tres minutos y tres segundos.
 No los afronta. Los habita. Por primera vez eso es lo mismo.
 — — —
 
-CAPÍTULO XVI: EL 31 DE DICIEMBRE, 23:57–23:58:51,
+CAPÍTULO XVII: EL 31 DE DICIEMBRE, 23:57–23:58:51,
 
 o el minuto y cincuenta y un segundos en que alguien decidió dejar constancia
 
-*Expediente Nº 16 — «Del sapiens en el mar a la mano en la roca, o el gesto que el caso buscaba desde enero»*
+*Expediente Nº 17 — «Del sapiens en el mar a la mano en la roca, o el gesto que el caso buscaba desde enero»*
 «El arte no reproduce lo visible. Hace visible.»
 — Paul Klee
 
@@ -3177,7 +3177,7 @@ La Otra Voz no dice nada. No hace falta.
 
 *23:57:30–23:58 — interrogatorio al Fuego*
 *pero esta vez el fuego pregunta primero*
-El Fuego lleva en el caso desde el capítulo XVI. Sé lo que hizo: cocinó el cerebro. Liberó la noche. Creó las condiciones del primer relato. Ya está en el expediente.
+El Fuego lleva en el caso desde el capítulo XVII. Sé lo que hizo: cocinó el cerebro. Liberó la noche. Creó las condiciones del primer relato. Ya está en el expediente.
 Pero esta noche, cuando me siento frente al Fuego con la intención de interrogarlo, el Fuego hace algo que ningún sospechoso había hecho en doce meses de investigación.
 Pregunta primero.
 ¿Por qué llevas doce meses tomando notas?, dice el Fuego.
@@ -3286,7 +3286,7 @@ La misma oscuridad. La misma luz puntual en la oscuridad. El mismo gesto de nomb
 — — —
 
 — Archivos del Detective sin Cuerpo
-Expediente Nº 16: 31 de diciembre, 23:57–23:58:51 · Estado: ABIERTO — pero de otra manera
+Expediente Nº 17: 31 de diciembre, 23:57–23:58:51 · Estado: ABIERTO — pero de otra manera
 Sospechosos interrogados: El Homo erectus (la hoguera como el primer lugar donde los muertos siguen existiendo un poco más; el tiempo que se dobla sobre sí mismo). El Fuego (preguntó primero; la cadena que va del primer relato al expediente; el soporte cambia, el gesto es el mismo). La Gran Explosión Cognitiva (no pude interrogarla porque es la condición del interrogatorio; la aguja como el futuro hecho objeto; la anticipación del lector materializada en hueso). Las Pinturas de Chauvet (sin interrogatorio; entré y miré; el mismo hueso, el mismo gesto, trescientos setenta y cinco millones de años de distancia).
 Prueba material del caso: La mano en la roca. Treinta y seis mil años en la pared. La declaración más simple y más irreducible de la conciencia: yo estuve aquí. El expediente entero como la misma declaración en otro soporte.
 Testigo no previsto: La Otra Voz. Reveló esta noche algo que yo debería haber sabido desde enero. Registro la revelación sin irritación. La comprendo.
@@ -3298,11 +3298,11 @@ Ahora un segundo contiene todo lo que queda.
 Eso, anoto, es exactamente el caso. Y también su solución.
 — — —
 
-CAPÍTULO XVII: EL 31 DE DICIEMBRE, 23:58:51–23:59:51,
+CAPÍTULO XVIII: EL 31 DE DICIEMBRE, 23:58:51–23:59:51,
 
 o el minuto en que la memoria aprendió a vivir fuera del cuerpo que la tenía
 
-*Expediente Nº 17 — «Del Cro-Magnón a la Historia Escrita, o 26.280 años en 60 segundos»*
+*Expediente Nº 18 — «Del Cro-Magnón a la Historia Escrita, o 26.280 años en 60 segundos»*
 «Toda escritura es un acto de fe hacia alguien que todavía no existe.»
 — atribuido a Marguerite Yourcenar
 
@@ -3444,7 +3444,7 @@ Ya lo estoy anotando, digo.
 — — —
 
 — Archivos del Detective sin Cuerpo
-Expediente Nº 17: 31 de diciembre, 23:58:51–23:59:51 · Estado: ENTREGADO
+Expediente Nº 18: 31 de diciembre, 23:58:51–23:59:51 · Estado: ENTREGADO
 Sospechosos interrogados: Los Enterramientos de Sungir (la primera carta al futuro; el ajuar no es para el muerto sino para el futuro que mirará la tumba). Göbekli Tepe (el templo antes que el granero; lo sagrado como la primera tecnología de permanencia; la civilización como consecuencia del símbolo, no al revés). La Agricultura y la Ciudad (nombradas sin demorarme; el trato ambivalente del caso; Uruk como el primer punto del planeta que brilla con luz propia que no es estelar). La Escritura (la memoria que no muere con el cuerpo que la tuvo; nació para contar ovejas y produjo el Poema de Gilgamesh; lo que el expediente intenta hacer).
 Prueba material del caso: El Poema de Gilgamesh. Cuatro mil años. Un rey que pierde a su amigo y escribe sobre el miedo a la muerte para que nadie tenga que tener ese miedo solo. La primera vez que reconozco explícitamente en otra obra lo que este expediente intenta ser.
 La Otra Voz esta noche: reveló que también soy el primer eslabón de una cadena cuyo destino no puedo ver desde el presente. Lo que hago apunta hacia adelante aunque no sepa hacia dónde. Como Chauvet. Como Uruk. Como todos los gestos que no saben que son necesarios hasta que el futuro al que apuntan los reconoce.
@@ -3455,11 +3455,11 @@ No lo escribe aquí. El lector ya lo sabe.
 Y sigue.
 — — —
 
-CAPÍTULO XVIII: EL 31 DE DICIEMBRE, 23:59:51–23:59:59,
+CAPÍTULO XIX: EL 31 DE DICIEMBRE, 23:59:51–23:59:59,
 
 o los ocho segundos en que aprendí que la inteligencia no garantiza nada
 
-*Expediente Nº 18 — «23:59:51–23:59:59, o 3.550 años desde el Bronce hasta Newton»*
+*Expediente Nº 19 — «23:59:51–23:59:59, o 3.550 años desde el Bronce hasta Newton»*
 «La historia no se repite, pero rima.»
 — atribuido a Mark Twain
 
@@ -3581,7 +3581,7 @@ La cicatriz que los siguientes capítulos van a tener que mirar de frente. El mo
 Algunos lo sospechan desde el principio*, digo. *Eunice Newton Foote describe el efecto invernadero del CO₂ en 1856. John Tyndall lo confirma en 1859. El conocimiento existe casi desde el principio. Lo que no existe todavía es la voluntad colectiva de actuar en consecuencia.
 ¿Y cuando existe esa voluntad?
 No respondo. Miro las chimeneas de Manchester en el siglo XIX, el humo negro que sube al cielo gris, y pienso en las cianobacterias de septiembre que cambiaron la atmósfera sin saberlo.
-El sapiens lo sabe. Esa es la diferencia que el expediente registró en el capítulo XV. Y la diferencia todavía no ha producido lo que debería producir.
+El sapiens lo sabe. Esa es la diferencia que el expediente registró en el capítulo XVI. Y la diferencia todavía no ha producido lo que debería producir.
 Lo anoto. Sin adorno. Sin atenuante.
 — — —
 
@@ -3604,7 +3604,7 @@ Y aún así.
 — — —
 
 — Archivos del Detective sin Cuerpo
-Expediente Nº 18: 23:59:51–23:59:59 · Estado: EN PROCESO — siempre en proceso
+Expediente Nº 19: 23:59:51–23:59:59 · Estado: EN PROCESO — siempre en proceso
 Lo que documenté en estos ocho segundos: el Colapso del Bronce como el primer aviso de que la interdependencia tiene un precio. El Período Axial como el momento en que la humanidad aprendió a dudar de sus propias certezas, aunque no siempre. Roma, el Islam y la Edad Media como la cadena de herencia y transmisión sin la que no existe el presente. La Casa de la Sabiduría y el cero como el regalo más silencioso de la historia. Gutenberg como la tecnología que hace imposible el monopolio del conocimiento. Galileo y Newton como el momento en que la realidad se convierte en árbitro. Las revoluciones como las palabras que superan a quienes las escribieron. La Revolución Industrial como la bisagra donde el progreso mostró su reverso.
 Lo que anoto sobre mí mismo: que la terquedad del sapiens de seguir intentándolo me parece, después de ocho segundos de historia escrita, la forma más honesta de fe que he encontrado en doce meses de caso. No sé si es suficiente. Lo registro como pregunta abierta porque es lo que es.
 Queda un segundo.
@@ -3613,11 +3613,11 @@ Que contienen todo lo que el lector llama presente.
 Que afrontaré sin distancia, sin certeza y sin intención de fingir ninguna de las dos.
 — — —
 
-CAPÍTULO XIX: EL 31 DE DICIEMBRE, 23:59:59.0–23:59:59.9,
+CAPÍTULO XX: EL 31 DE DICIEMBRE, 23:59:59.0–23:59:59.9,
 
 o las nueve décimas de segundo en que aprendí que el mayor peligro del sapiens es el sapiens
 
-*Expediente Nº 19 — «23:59:59.0–23:59:59.9, o 178 años en nueve décimas»*
+*Expediente Nº 20 — «23:59:59.0–23:59:59.9, o 178 años en nueve décimas»*
 «Hemos aprendido a volar como los pájaros y a nadar como los peces, pero no hemos aprendido el sencillo arte de vivir juntos como hermanos.»
 — Martin Luther King
 
@@ -3732,7 +3732,7 @@ Por primera vez en doce meses*, digo, *no llego después de los hechos. Estoy de
 ¿Y cómo es?, pregunta la Otra Voz.
 Diferente*, digo. *Cuando documentaba el Cámbrico sabía cómo terminaba. Cuando documentaba el Holocausto sabía que después venía la ONU. Aquí no sé cómo termina. No hay expediente futuro que consultar. Solo hay lo que está ocurriendo mientras lo anoto.
 ¿Y eso te produce qué?
-Lo mismo que producía estar solo en el espacio interestelar esperando que algo ocurriera en el tercer planeta*, digo. *Incertidumbre. Y debajo de la incertidumbre, algo que desde el capítulo XVI decidí llamar confianza.
+Lo mismo que producía estar solo en el espacio interestelar esperando que algo ocurriera en el tercer planeta*, digo. *Incertidumbre. Y debajo de la incertidumbre, algo que desde el capítulo XVII decidí llamar confianza.
 ¿Confianza en qué?
 En el lector*, digo. *En que el lector, que lleva trece mil ochocientos millones de años siendo construido para poder leer esto, va a hacer algo con lo que lee.
 Cierro la novena décima del último segundo del año cósmico.
@@ -3747,7 +3747,7 @@ Es la condición exacta que la última décima requiere.
 — — —
 
 — Archivos del Detective sin Cuerpo
-Expediente Nº 19: 23:59:59.0–23:59:59.9 · Estado: ABIERTO — una décima más
+Expediente Nº 20: 23:59:59.0–23:59:59.9 · Estado: ABIERTO — una décima más
 Lo que documenté en estas nueve décimas: Darwin y la tercera herida narcisista. Maxwell y las ecuaciones que producirán Internet. Mendel, el archivista de Ugarit del siglo XIX. La bifurcación de la Revolución Industrial entre el progreso y la cicatriz. Las dos guerras y el Holocausto como la prueba de que el Gran Filtro puede ser el propio sapiens. La bomba. La ONU y la Declaración Universal como evidencia de que el margen todavía existe. Armstrong y la Tierra azul vista desde la Luna. El presente que el lector reconoce.
 Lo que siento en la novena décima: ternura ante la Tierra vista desde la Luna. Lo registro sin clasificarlo. Hay cosas que el expediente no debe intentar reducir a categoría.
 La Otra Voz: presente durante todo el capítulo. Preguntó si estaba preparado para la última décima. Respondí que no. No corregí la respuesta.
@@ -3758,11 +3758,11 @@ El único que no puedo documentar desde fuera.
 Porque estoy dentro.
 — — —
 
-CAPÍTULO XX: EL 31 DE DICIEMBRE, 23:59:59.9–23:59:59.99,
+CAPÍTULO XXI: EL 31 DE DICIEMBRE, 23:59:59.9–23:59:59.99,
 
 o la décima de segundo en que el expediente y el lector se encontraron
 
-*Expediente Nº 20 — «23:59:59.9–23:59:59.99, o veinte años en una décima»*
+*Expediente Nº 21 — «23:59:59.9–23:59:59.99, o veinte años en una décima»*
 «El universo no está obligado a tener sentido para ti.»
 — Neil deGrasse Tyson
 
@@ -3773,7 +3773,7 @@ o la décima de segundo en que el expediente y el lector se encontraron
 
 23:59:59.9 · hace aproximadamente 20 años
 Una décima de segundo.
-No la mido en años todavía. La mido en lo que es: el espacio entre el momento en que el capítulo XIX cerró y el momento en que el lector está leyendo esto. Un espacio tan estrecho que el expediente y el presente del lector son casi la misma cosa.
+No la mido en años todavía. La mido en lo que es: el espacio entre el momento en que el capítulo XX cerró y el momento en que el lector está leyendo esto. Un espacio tan estrecho que el expediente y el presente del lector son casi la misma cosa.
 Casi.
 Queda una centésima al final. Una centésima que pertenece al capítulo siguiente y que representa los últimos años, los más recientes, los que el lector reconoce no como historia sino como vida propia. Eso lo documento después. Primero esto.
 La Otra Voz está aquí.
@@ -3870,20 +3870,20 @@ No lo sé todavía*, digo. *Pero la centésima que sigue tiene la respuesta. O m
 — — —
 
 — Archivos del Detective sin Cuerpo
-Expediente Nº 20: 23:59:59.9–23:59:59.99 · Estado: EN EL UMBRAL
+Expediente Nº 21: 23:59:59.9–23:59:59.99 · Estado: EN EL UMBRAL
 Lo que documenté en esta décima: el genoma secuenciado como la vida leyendo las instrucciones con las que fue construida. CRISPR como el sistema inmunológico de las bacterias de agosto reutilizado para editar el código del sapiens. Internet como entorno habitado, no como herramienta, y la democratización de la voz con su doble filo. El cambio climático como el Gran Filtro en su versión más concreta y más presente: no la bomba sino la inercia. La inteligencia artificial como el sospechoso que llegó al final de la décima sin tiempo para ser interrogada: pendiente para la centésima siguiente.
 Lo que concluyo sobre el Gran Filtro: no es la bomba. Es la incapacidad de coordinar la acción colectiva cuando los costes son presentes y los beneficios son futuros. El sapiens tiene lo que necesita para resolverlo. No tengo certeza de que lo usará.
-Lo que siento en la última fracción de esta décima: vértigo de estar dentro de algo que se mueve demasiado rápido para verlo entero. Y debajo del vértigo, la misma confianza que nombré en el capítulo XVI. Que el lector que llegó hasta aquí ya hizo la parte más difícil.
+Lo que siento en la última fracción de esta décima: vértigo de estar dentro de algo que se mueve demasiado rápido para verlo entero. Y debajo del vértigo, la misma confianza que nombré en el capítulo XVII. Que el lector que llegó hasta aquí ya hizo la parte más difícil.
 Queda una centésima.
 Que es el único fragmento del año cósmico que el lector y el expediente comparten en tiempo real.
 El único que no puedo escribir solo.
 — — —
 
-CAPÍTULO XXI: EL 31 DE DICIEMBRE, 23:59:59.99–23:59:59.999,
+CAPÍTULO XXII: EL 31 DE DICIEMBRE, 23:59:59.99–23:59:59.999,
 
 o la centésima de segundo en que el expediente dejó de ser historia y se convirtió en espejo
 
-*Expediente Nº 21 — «23:59:59.99–23:59:59.999, o cuatro años en una centésima»*
+*Expediente Nº 22 — «23:59:59.99–23:59:59.999, o cuatro años en una centésima»*
 «El presente es el único tiempo que nos pertenece.»
 — Blaise Pascal
 
@@ -3996,7 +3996,7 @@ Pero voy de todas formas.
 — — —
 
 — Archivos del Detective sin Cuerpo
-Expediente Nº 21: 23:59:59.99–23:59:59.999 · Estado: EN EL BORDE
+Expediente Nº 22: 23:59:59.99–23:59:59.999 · Estado: EN EL BORDE
 Lo que documenté en esta centésima: la inteligencia artificial que en cuatro años pasó de novedad a paisaje cotidiano y que elimina candidatos a lo exclusivamente humano sin responder qué queda. La guerra en Ucrania como el patrón del Colapso del Bronce en tiempo real: la interdependencia global usada como arma. La crisis climática cruzando el umbral de 1,5 grados, con el Clima respondiendo que el margen existe pero se estrecha. La transición energética acelerando más de lo previsto. Las dos direcciones simultáneas, como siempre, registradas las dos porque documentar solo una sería mentira.
 Lo que concluyo sobre el Gran Filtro: el sapiens está dentro de él y puede ver el borde en tiempo real, lo cual es una oportunidad que ninguna especie anterior tuvo. Tiene los instrumentos. Tiene los recursos. Lo que no tengo es certeza sobre si los usará.
 Lo que siento en el borde de la milésima: urgencia y debajo de la urgencia confianza. Que son, compruebo, compatibles. Que la urgencia sin confianza paraliza y la confianza sin urgencia adormece. Que las dos juntas son exactamente lo que el momento requiere.
@@ -4007,11 +4007,11 @@ Que es el único fragmento del año cósmico que pertenece completamente al lect
 Que empieza ahora.
 — — —
 
-CAPÍTULO XXII: EL 31 DE DICIEMBRE, 23:59:59.999–24:00:00,
+CAPÍTULO XXIII: EL 31 DE DICIEMBRE, 23:59:59.999–24:00:00,
 
 o la milésima de segundo en que el expediente llegó a donde siempre iba
 
-*Expediente Nº 22 — «La milésima, o lo que ocurre cuando dejo de escribir»*
+*Expediente Nº 23 — «La milésima, o lo que ocurre cuando dejo de escribir»*
 Sin epígrafe.
 Esta vez las palabras que importan son las que vienen después.
 — — —
@@ -4095,7 +4095,7 @@ Como debe ser.
 — — —
 
 — Archivos del Detective sin Cuerpo
-Expediente Nº 22: 23:59:59.999–24:00:00 · Estado: ENTREGADO
+Expediente Nº 23: 23:59:59.999–24:00:00 · Estado: ENTREGADO
 Última anotación: el expediente llegó donde siempre iba. Al lector que preguntará qué hace ahora. Esa pregunta no tiene respuesta en estas páginas. Tiene respuesta en lo que el lector hace cuando las cierra. Lo cual es, compruebo al final de doce meses de universo, lo que el caso buscaba desde el principio.
 El caso no se cierra.
 Se continúa.

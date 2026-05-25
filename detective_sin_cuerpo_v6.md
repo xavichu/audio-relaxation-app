@@ -2183,11 +2183,37 @@ o el mundo más espléndido que ha existido y la oscuridad que lo espera
 El 28 de diciembre es el día de los que esperan.
 El mundo de hace 150 millones de años es el más rico en biomasa terrestre que el planeta ha tenido hasta este momento. Los saurópodos dominan. Los pterosaurios planean. En los mares, mosasaurios y plesiosaurios. Y en los márgenes, invisibles en sus madrigueras, los mamíferos que el expediente ya conoce del mes anterior.
 Llevan ochenta millones de años en esto.
-Esta semana tengo tres interrogatorios. El primero es el más famoso del caso. El segundo es el más inesperado. El tercero es el único al que no puedo interrogar porque no sabe que existe.
+Esta semana tengo tres interrogatorios. El primero es el más inesperado. El segundo es el más famoso del caso. El tercero es el único al que no puedo interrogar porque no sabe que existe.
 Abro el expediente con la incomodidad específica del que conoce el final de la historia que documenta. No es tristeza todavía. Es algo más parecido al peso de saber lo que los sospechosos no saben.
 — — —
 
-*29 de diciembre — interrogatorio al Tyrannosaurus rex*
+*29 de diciembre — interrogatorio a Las Flores*
+*el sospechoso que nadie esperaba y que resultó ser el más importante del mes*
+Las angiospermas aparecen hace 130 millones de años y se diversifican con una velocidad que el propio Darwin llamará, en privado, un misterio abominable. En setenta millones de años pasan de ser una rareza botánica a dominar casi todos los ecosistemas terrestres del planeta.
+Me siento frente a Las Flores con la expresión de quien no sabía que tenía este interrogatorio pendiente hasta que lo tiene delante.
+¿Qué estás haciendo?, les pregunto.
+Ofreciendo néctar, dicen Las Flores, con la candidez de algo que no ha sido interrogado nunca y no ve razón para ponerse a la defensiva.
+¿A cambio de qué?
+A cambio de que los insectos transporten el polen. Una transacción. La primera economía del planeta, si se quiere. Un servicio a cambio de una recompensa. Llevamos veinte millones de años perfeccionando el modelo.
+¿Y los frutos?
+Los frutos son la versión terrestre de la misma transacción. Energía densa en azúcares y vitaminas ofrecida a los animales que dispersan las semillas.
+¿Sabes que esos frutos van a alimentar a los primates que van a desarrollar los cerebros que van a producir la conciencia?
+Sé que producimos frutos*, dicen Las Flores. *Lo demás es consecuencia.
+¿No os importa la consecuencia?
+Nos importan los polinizadores. Las consecuencias a cincuenta millones de años vista no forman parte de nuestro marco perceptivo habitual.
+¿Y si supierais las consecuencias?
+Pausa larga. El tipo de pausa que produce una pregunta que no tenía respuesta preparada. Y luego algo que no esperaba:
+Si supiéramos las consecuencias*, dicen Las Flores, *estaríamos limitadas por lo que podemos imaginar. Y lo que podemos imaginar es siempre menos que lo que puede ocurrir.
+Me quedo con esto durante más tiempo del que suelo quedarme con una respuesta.
+¿Estás diciendo que la ignorancia de las consecuencias es una ventaja?
+Estoy diciendo que los planes tienen el límite de quien los hace. Las consecuencias no tienen ese límite. Nosotras no planeamos producir la conciencia. Por eso pudimos producirla. Un plan que incluyera la conciencia como objetivo habría sido demasiado pequeño para el resultado.
+¿El universo funciona así?
+Pregúntale al universo*, dicen Las Flores. *Nosotras solo producimos frutos.
+Anoto esto con la letra más lenta de la semana.
+Las Flores del Cretácico*, escribo, *son el sospechoso más filosóficamente importante del mes. No porque hayan hecho algo extraordinario. Sino porque sin saber que lo hacían iniciaron la cadena causal que lleva al pensamiento abstracto. Y su argumento más poderoso no es lo que hicieron. Es cómo lo hicieron: sin intención, sin plan, sin límite de lo que podían imaginar. Yo, que llevo doce meses tomando notas sobre el universo, anoto que eso me resulta familiar. No sé todavía por qué.
+— — —
+
+*30 de diciembre, madrugada — interrogatorio al Tyrannosaurus rex*
 *el sospechoso más famoso del caso y el más traicionado por su propia fama*
 Lo llevo evitando desde que apareció hace 68 millones de años. No porque me intimide. Sino porque los sospechosos famosos son siempre los más difíciles: llevan demasiado tiempo siendo lo que todo el mundo espera que sean y ya no saben ser otra cosa. El Tyrannosaurus carga con setenta años de cultura popular como una armadura que le impide moverse.
 Me siento frente a él con la intención de quitarle la armadura.
@@ -2216,42 +2242,16 @@ Cierro el interrogatorio con la anotación que merece: el Tyrannosaurus rex no e
 La tragedia del Tyrannosaurus no es que sea estúpido. Es que es exactamente lo suficientemente inteligente para su mundo. Y su mundo está a punto de desaparecer.
 — — —
 
-*29 de diciembre, segunda parte — interrogatorio a Las Flores*
-*el sospechoso que nadie esperaba y que resultó ser el más importante del mes*
-Las angiospermas aparecen hace 130 millones de años y se diversifican con una velocidad que el propio Darwin llamará, en privado, un misterio abominable. En setenta millones de años pasan de ser una rareza botánica a dominar casi todos los ecosistemas terrestres del planeta.
-Me siento frente a Las Flores con la expresión de quien no sabía que tenía este interrogatorio pendiente hasta que lo tiene delante.
-¿Qué estás haciendo?, les pregunto.
-Ofreciendo néctar, dicen Las Flores, con la candidez de algo que no ha sido interrogado nunca y no ve razón para ponerse a la defensiva.
-¿A cambio de qué?
-A cambio de que los insectos transporten el polen. Una transacción. La primera economía del planeta, si se quiere. Un servicio a cambio de una recompensa. Llevamos veinte millones de años perfeccionando el modelo.
-¿Y los frutos?
-Los frutos son la versión terrestre de la misma transacción. Energía densa en azúcares y vitaminas ofrecida a los animales que dispersan las semillas.
-¿Sabes que esos frutos van a alimentar a los primates que van a desarrollar los cerebros que van a producir la conciencia?
-Sé que producimos frutos*, dicen Las Flores. *Lo demás es consecuencia.
-¿No os importa la consecuencia?
-Nos importan los polinizadores. Las consecuencias a cincuenta millones de años vista no forman parte de nuestro marco perceptivo habitual.
-¿Y si supierais las consecuencias?
-Pausa larga. El tipo de pausa que produce una pregunta que no tenía respuesta preparada. Y luego algo que no esperaba:
-Si supiéramos las consecuencias*, dicen Las Flores, *estaríamos limitadas por lo que podemos imaginar. Y lo que podemos imaginar es siempre menos que lo que puede ocurrir.
-Me quedo con esto durante más tiempo del que suelo quedarme con una respuesta.
-¿Estás diciendo que la ignorancia de las consecuencias es una ventaja?
-Estoy diciendo que los planes tienen el límite de quien los hace. Las consecuencias no tienen ese límite. Nosotras no planeamos producir la conciencia. Por eso pudimos producirla. Un plan que incluyera la conciencia como objetivo habría sido demasiado pequeño para el resultado.
-¿El universo funciona así?
-Pregúntale al universo*, dicen Las Flores. *Nosotras solo producimos frutos.
-Anoto esto con la letra más lenta de la semana.
-Las Flores del Cretácico*, escribo, *son el sospechoso más filosóficamente importante del mes. No porque hayan hecho algo extraordinario. Sino porque sin saber que lo hacían iniciaron la cadena causal que lleva al pensamiento abstracto. Y su argumento más poderoso no es lo que hicieron. Es cómo lo hicieron: sin intención, sin plan, sin límite de lo que podían imaginar. Yo, que llevo doce meses tomando notas sobre el universo, anoto que eso me resulta familiar. No sé todavía por qué.
-— — —
-
-*29 de diciembre — balance*
+*30 de diciembre — balance*
 *y la oscuridad que veo venir*
-Es el final del 29 de diciembre.
+Son las primeras horas del 30 de diciembre.
 He interrogado al Tyrannosaurus, que es mucho más sofisticado de lo que la cultura popular imagina y que aun así no tiene instrumento para anticipar lo que viene. A Las Flores, que produjeron la cadena causal que lleva al pensamiento abstracto precisamente porque no sabían que la producían. Al Asteroide, que no sabe que existe y que sin embargo lleva grabada en su trayectoria la historia del planeta.
 Tres sospechosos. Ninguno con intención. Ninguno con conciencia del resultado.
 Y yo, que tengo las dos cosas.
 Miro el Cretácico tardío desde el lugar sin posición fija donde observo las escenas y noto algo que no había notado en ninguna semana anterior del año.
 El mundo de hace 66 millones de años es el más espléndido que la vida ha producido hasta este momento. Los bosques de coníferas y angiospermas mezcladas en una diversidad que ningún ecosistema anterior había alcanzado. Los ceratopsios pastando en manadas de miles de individuos. Los hadrosaurios con sus crestas resonantes comunicándose a través de kilómetros de selva. Los pterosaurios con envergaduras de diez metros planeando sobre mares cálidos llenos de vida. Y los Tyrannosaurus, que cuidan a sus crías y reconocen sus voces y planifican la caza con una sofisticación que nadie les concede.
 Todo esto va a desaparecer.
-Mañana, en el año cósmico.
+Hoy.
 No lo llamo tristeza todavía. No sé si lo que siento tiene nombre en el sistema de clasificación que he estado usando. Es algo más parecido a la incomodidad específica del que sabe lo que viene y no puede decírselo a nadie. El Tyrannosaurus no sabe. Las Flores no saben. Los mamíferos en sus madrigueras no saben que están esperando algo que todavía no tiene nombre.
 Y el asteroide viaja.
 ¿Por qué me importa más ahora que en abril cuando los quásares se apagaban?, me pregunto.
@@ -2372,7 +2372,7 @@ Las ballenas son el resultado del asteroide más trece millones de años de sele
 Anoto: el universo produce ballenas a partir de asteroides. La cadena causal más improbable del caso tiene el mejor resultado.
 — — —
 
-*31 de diciembre, primeras horas — interrogatorio a Los Árboles del Eoceno*
+*30 de diciembre, tarde — interrogatorio a Los Árboles del Eoceno*
 *el sospechoso que nadie había tenido en cuenta*
 El Eoceno, hace entre 56 y 34 millones de años, es el período más cálido de los últimos 50 millones de años. Los bosques tropicales se extienden hasta latitudes que hoy son templadas.
 Y en esos bosques, los primates toman los árboles.
@@ -2763,12 +2763,12 @@ o los cincuenta minutos en que el instrumento encontró su forma definitiva sin 
 La impaciencia con que cerré el expediente de anoche no se resolvió.
 La traigo aquí, a las once de la noche del 31 de diciembre, sin haberla nombrado todavía. La noto todavía en la textura de cómo abro el expediente esta mañana. Algo diferente en cómo me siento frente a los sospechosos. Una atención nueva que no es solo forense.
 No lo nombro todavía. Solo lo registro.
-Quedan dos días.
-El instrumento que el caso lleva construyendo desde el Ardipithecus está casi terminado. Lo que queda en estos dos días son los últimos ajustes finos: el cerebro que alcanza el tamaño moderno, la caja craneana que adquiere la forma que el lector reconocería en un espejo, y algo más difícil de documentar pero igualmente real: el primer indicio de que el instrumento ha empezado a hacerse preguntas sobre sí mismo.
+Quedan menos de media hora.
+El instrumento que el caso lleva construyendo desde el Ardipithecus está casi terminado. Lo que queda en estos últimos minutos son los ajustes más importantes del caso: el cerebro que alcanza el tamaño moderno, la caja craneana que adquiere la forma que el lector reconocería en un espejo, y algo más difícil de documentar pero igualmente real: el primer indicio de que el instrumento ha empezado a hacerse preguntas sobre sí mismo.
 Abro el expediente.
 — — —
 
-*29 de diciembre — interrogatorio al Homo heidelbergensis*
+*31 de diciembre, 23:33 — interrogatorio al Homo heidelbergensis*
 *el sospechoso más subestimado del caso*
 El Homo heidelbergensis. Entre hace 700.000 y 200.000 años. África, Europa y Asia occidental. Cerebro de entre 1.100 y 1.400 centímetros cúbicos: ya dentro del rango del sapiens moderno. Cuerpo más robusto, más denso, construido para los inviernos del Pleistoceno medio que son más fríos que los anteriores.
 Me siento frente al heidelbergensis con algo que reconozco como incomodidad.

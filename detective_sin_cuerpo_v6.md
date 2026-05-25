@@ -2242,27 +2242,6 @@ Anoto esto con la letra más lenta de la semana.
 Las Flores del Cretácico*, escribo, *son el sospechoso más filosóficamente importante del mes. No porque hayan hecho algo extraordinario. Sino porque sin saber que lo hacían iniciaron la cadena causal que lleva al pensamiento abstracto. Y su argumento más poderoso no es lo que hicieron. Es cómo lo hicieron: sin intención, sin plan, sin límite de lo que podían imaginar. Yo, que llevo doce meses tomando notas sobre el universo, anoto que eso me resulta familiar. No sé todavía por qué.
 — — —
 
-*30 de diciembre — El Asteroide*
-*al que no puedo interrogar porque no sabe que existe*
-El tercer sospechoso de esta semana es el único al que no puedo interrogar.
-No porque no quiera. Sino porque un objeto de entre diez y quince kilómetros de diámetro viajando a veinticinco kilómetros por segundo en una trayectoria decidida por la mecánica orbital no tiene mecanismo para ser interrogado.
-Lo intento de todas formas. Porque en doce meses de caso he aprendido que los sospechosos que no responden dicen cosas con su silencio.
-¿Sabes lo que vas a hacer?, le pregunto al asteroide.
-El asteroide no responde. Viaja. A veinticinco kilómetros por segundo. Con la indiferencia perfecta de algo que no tiene indiferencia porque no tiene nada.
-¿Sabes que el resultado de lo que vas a hacer son los mamíferos heredando el planeta?
-Silencio orbital.
-Me quedo con ese silencio durante un tiempo que no mido. No porque espere que cambie. Sino porque necesito sentir su peso.
-Hay algo en el silencio del asteroide que es diferente a todos los silencios anteriores del caso. El silencio de la Materia Oscura era el silencio de algo que existe pero no interactúa. El silencio de los primeros tres minutos del universo era el silencio de algo que todavía no tenía forma. El silencio del asteroide es el silencio de algo que va a cambiarlo todo sin tener la más mínima relación con nada de lo que cambia.
-¿Sabes que sin ti no hay lector?, le pregunto.
-Silencio orbital más profundo, si cabe.
-¿Sabes que llevas grabado en tu trayectoria el futuro de la vida inteligente en este planeta?
-Nada.
-Cierro el interrogatorio con la anotación más breve de doce meses de expediente:
-El Asteroide es el sospechoso más coherente del caso. No tiene intención. No tiene conocimiento. No tiene nada excepto masa, velocidad y trayectoria. Y esas tres cosas, combinadas con la gravedad que calculó la órbita hace millones de años, van a producir el acontecimiento más importante de los próximos 66 millones de años sin que ninguna de las partes implicadas lo sepa.
-El universo no necesita intención para cambiar la historia de la vida.
-Eso*, anoto, *es lo más perturbador que he documentado en doce meses.
-— — —
-
 *29 de diciembre — balance*
 *y la oscuridad que veo venir*
 Es el final del 29 de diciembre.
@@ -2286,6 +2265,27 @@ Y en el espacio, el asteroide viaja.
 Sin saber.
 Sin poder saber.
 Sin que eso cambie nada.
+— — —
+
+*30 de diciembre — El Asteroide*
+*al que no puedo interrogar porque no sabe que existe*
+El tercer sospechoso de esta semana es el único al que no puedo interrogar.
+No porque no quiera. Sino porque un objeto de entre diez y quince kilómetros de diámetro viajando a veinticinco kilómetros por segundo en una trayectoria decidida por la mecánica orbital no tiene mecanismo para ser interrogado.
+Lo intento de todas formas. Porque en doce meses de caso he aprendido que los sospechosos que no responden dicen cosas con su silencio.
+¿Sabes lo que vas a hacer?, le pregunto al asteroide.
+El asteroide no responde. Viaja. A veinticinco kilómetros por segundo. Con la indiferencia perfecta de algo que no tiene indiferencia porque no tiene nada.
+¿Sabes que el resultado de lo que vas a hacer son los mamíferos heredando el planeta?
+Silencio orbital.
+Me quedo con ese silencio durante un tiempo que no mido. No porque espere que cambie. Sino porque necesito sentir su peso.
+Hay algo en el silencio del asteroide que es diferente a todos los silencios anteriores del caso. El silencio de la Materia Oscura era el silencio de algo que existe pero no interactúa. El silencio de los primeros tres minutos del universo era el silencio de algo que todavía no tenía forma. El silencio del asteroide es el silencio de algo que va a cambiarlo todo sin tener la más mínima relación con nada de lo que cambia.
+¿Sabes que sin ti no hay lector?, le pregunto.
+Silencio orbital más profundo, si cabe.
+¿Sabes que llevas grabado en tu trayectoria el futuro de la vida inteligente en este planeta?
+Nada.
+Cierro el interrogatorio con la anotación más breve de doce meses de expediente:
+El Asteroide es el sospechoso más coherente del caso. No tiene intención. No tiene conocimiento. No tiene nada excepto masa, velocidad y trayectoria. Y esas tres cosas, combinadas con la gravedad que calculó la órbita hace millones de años, van a producir el acontecimiento más importante de los próximos 66 millones de años sin que ninguna de las partes implicadas lo sepa.
+El universo no necesita intención para cambiar la historia de la vida.
+Eso*, anoto, *es lo más perturbador que he documentado en doce meses.
 — — —
 
 — Archivos del Detective sin Cuerpo

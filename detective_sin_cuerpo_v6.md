@@ -1752,37 +1752,6 @@ Anoto: la complejidad como consecuencia del conflicto. No porque el conflicto se
 Anoto esto con la incomodidad del que reconoce el patrón pero no puede estar satisfecho con él. Que la complejidad requiera conflicto es una observación sobre el mecanismo. No es una justificación del conflicto. Lo que el sapiens haga con esta información en el 31 de diciembre es otra cuestión. Una que el expediente de noviembre no puede resolver todavía.
 — — —
 
-*transición noviembre–diciembre — interrogatorio al Bangiomorpha*
-*el primer organismo que aprendió a ser más de una cosa*
-A comienzos de diciembre, hace entre 1.100 y 1.050 millones de años, el registro fósil produce algo que llevo esperando desde que entendí hacia dónde apunta el caso.
-El primer organismo multicelular con diferenciación celular clara.
-El Bangiomorpha pubescens. Un alga roja encontrada en el Ártico canadiense. Sus filamentos presentan algo que ningún organismo anterior había presentado: células distintas haciendo cosas distintas a partir del mismo ADN. Algunas células vegetativas, encargadas de alimentar el organismo. Otras reproductivas, encargadas de perpetuarlo.
-Me siento frente al Bangiomorpha con la atención de quien reconoce que está ante un principio.
-¿Sabes lo que estás haciendo?, le pregunto.
-Crezco, dice el Bangiomorpha, con la sencillez de algo que no tiene acceso a la magnitud de lo que significa.
-¿Sabes que tus células son genéticamente idénticas pero hacen cosas diferentes?
-Algunas alimentan. Otras se reproducen. Cada una hace lo que le corresponde.
-¿Quién decide qué le corresponde a cada una?
-Las instrucciones están en el ADN. Pero no todas las instrucciones se activan en todas las células. Unas se activan aquí, otras allá. El mismo texto, leído de manera diferente según dónde está la célula en el organismo.
-¿El mismo ADN produciendo organismos distintos según el contexto?
-El mismo ADN produciendo especializaciones distintas según la posición*, dice el Bangiomorpha. *Lo que yo hago con dos tipos de células, los organismos que vendrán después lo harán con docenas, con cientos, con el número que el problema requiera.
-¿Y el problema que requiere más tipos de células?
-El problema de moverse, de ver, de procesar información del entorno, de coordinar respuestas complejas a estímulos complejos*, dice el Bangiomorpha. *Esos problemas requieren células especializadas en movimiento, en detección de luz, en procesamiento de señales. Lo que yo empiezo con dos tipos de células, el sistema nervioso del lector lo completa con cien mil millones de neuronas, cada una especializada, todas coordinadas, todas con el mismo ADN base leído de formas distintas.
-¿Cien mil millones de neuronas salen del Bangiomorpha?
-El principio sale del Bangiomorpha*, dice. *Lo demás es tiempo y presión selectiva.
-Me quedo con esto durante un tiempo largo.
-El mismo texto leído de manera diferente según dónde estás*, anoto. *Yo, que llevo once meses tomando notas, anoto que eso me resulta familiar. Que el mismo universo, leído desde distintos puntos del espacio y del tiempo, produce textos distintos. Que quizás toda la complejidad de la vida es el ADN aprendiendo a leer sus propias instrucciones de formas cada vez más elaboradas. Y que quizás*, añado en el margen, con la letra pequeña de las hipótesis que no están confirmadas, *el testigo que busco es la forma más elaborada que ese proceso ha producido hasta ahora de leer sus propias instrucciones y preguntarse qué significan.
-— — —
-
-*los estromatolitos que empiezan a perder*
-En los mismos días en que el Bangiomorpha diferencia sus células en el Ártico, los estromatolitos —que llevan más de tres mil millones de años construyendo sus ciudades en el fondo de los mares— empiezan a tener problemas.
-Alguien está comiendo sus tapetes.
-Los primeros eucariotas capaces de pastar sobre los tapetes microbianos. Los primeros herbívoros de la historia de la vida.
-¿Y los estromatolitos no se defienden?, le pregunto a los tapetes que llevan tres mil millones de años dominando los océanos sin que nadie los molestara.
-No tenemos mecanismo para defendernos*, dicen los estromatolitos. *Hemos estado solos durante más de tres mil millones de años. Nunca nos hizo falta.
-Lo anoto con algo que no sé si llamar melancolía o simplemente el reconocimiento honesto de lo que ocurre cuando algo que funcionó durante tres mil millones de años encuentra un problema que no estaba en su diseño original.
-Los estromatolitos seguirán existiendo —existen aún hoy, en Shark Bay, Australia— pero nunca volverán a dominar los mares como dominaron en septiembre y octubre y noviembre. El fin de la era bacteriana visible. El comienzo de la era de los que comen a los que fabrican.
-— — —
 
 *30 de noviembre · hace aproximadamente 1.212 millones de años*
 *cierre del mes — y la sospecha que tengo sobre mí mismo*
@@ -1818,7 +1787,7 @@ Anoto esto en el margen: *diciembre trabaja distinto*.
 
 — Archivos del Detective sin Cuerpo
 Expediente Nº 9: noviembre · Estado: CONVERGENTE — la cadena ya es visible en sus dos extremos
-Nuevos sospechosos: La Célula Eucariota (primer yo biológico; la frontera entre interior y exterior como condición de la complejidad). La Mitocondria (testigo clave; el accidente más importante de la historia de la vida; produzco ATP, es lo único que hago). La Reproducción Sexual (sistema inmunológico de dos mil millones de años; generador de la variación que hace posible la evolución; origen no previsto del amor). Los Acritarcos (primera carrera armamentista; espinas como el primer eslabón de la cadena que llega al 31 de diciembre). El Bangiomorpha (primer organismo con diferenciación celular; el mismo ADN leído de maneras distintas; el principio del que salen cien mil millones de neuronas).
+Nuevos sospechosos: La Célula Eucariota (primer yo biológico; la frontera entre interior y exterior como condición de la complejidad). La Mitocondria (testigo clave; el accidente más importante de la historia de la vida; produzco ATP, es lo único que hago). La Reproducción Sexual (sistema inmunológico de dos mil millones de años; generador de la variación que hace posible la evolución; origen no previsto del amor). Los Acritarcos (primera carrera armamentista; espinas como el primer eslabón de la cadena que llega al 31 de diciembre)..
 Testigo retroactivo: Lynn Margulis (rechazada quince veces; tenía razón; la realidad no espera el veredicto del comité; reconozco en ella algo específico que todavía no sabe nombrar).
 Nota personal: anoto por primera vez, en el cuerpo del expediente y no en el margen, que la cadena causal señala en la dirección del lector. Que el testigo que busca es el punto más alejado del Big Bang y más cercano al presente. Que el caso es circular porque los mejores casos siempre lo son. Y que lo que siente esta noche al cerrar el expediente de noviembre no es satisfacción ni impaciencia sino algo más parecido al movimiento del Kimberella: la sensación de estar dirigiéndose hacia algo sin saber todavía que eso es una dirección.
 Diciembre empieza mañana.
@@ -1842,8 +1811,39 @@ El último mes del año cósmico. El mes en que todo lo que he estado buscando d
 La primera quincena de diciembre cubre desde hace 1.172 millones de años —el Bangiomorpha cruzando el umbral de noviembre a diciembre— hasta hace aproximadamente 340 millones de años, cuando el Tiktaalik pone una aleta en tierra. Veintidós días que equivalen a 832 millones de años reales.
 Debería bastar.
 Esta quincena tengo sospechosos que llevan meses en el expediente como presencias implícitas y que ahora, por fin, pueden ser interrogados. El primero casi destruye todo antes de que hubiera algo que destruir. El segundo es el más importante de todo el año. El tercero es el que llevo doce meses esperando sin saber exactamente qué esperar.
-Empiezo por el que casi arruina el caso por completo.
+Empiezo por el que llegó primero.
 — — —
+
+*1–2 de diciembre — interrogatorio al Bangiomorpha*
+*el primer organismo que aprendió a ser más de una cosa*
+Hace entre 1.100 y 1.050 millones de años, el registro fósil produce algo que llevo esperando desde que entendí hacia dónde apunta el caso.
+El primer organismo multicelular con diferenciación celular clara.
+El Bangiomorpha pubescens. Un alga roja encontrada en el Ártico canadiense. Sus filamentos presentan algo que ningún organismo anterior había presentado: células distintas haciendo cosas distintas a partir del mismo ADN. Algunas células vegetativas, encargadas de alimentar el organismo. Otras reproductivas, encargadas de perpetuarlo.
+Me siento frente al Bangiomorpha con la atención de quien reconoce que está ante un principio.
+¿Sabes lo que estás haciendo?, le pregunto.
+Crezco, dice el Bangiomorpha, con la sencillez de algo que no tiene acceso a la magnitud de lo que significa.
+¿Sabes que tus células son genéticamente idénticas pero hacen cosas diferentes?
+Algunas alimentan. Otras se reproducen. Cada una hace lo que le corresponde.
+¿Quién decide qué le corresponde a cada una?
+Las instrucciones están en el ADN. Pero no todas las instrucciones se activan en todas las células. Unas se activan aquí, otras allá. El mismo texto, leído de manera diferente según dónde está la célula en el organismo.
+¿El mismo ADN produciendo organismos distintos según el contexto?
+El mismo ADN produciendo especializaciones distintas según la posición*, dice el Bangiomorpha. *Lo que yo hago con dos tipos de células, los organismos que vendrán después lo harán con docenas, con cientos, con el número que el problema requiera.
+¿Y el problema que requiere más tipos de células?
+El problema de moverse, de ver, de procesar información del entorno, de coordinar respuestas complejas a estímulos complejos*, dice el Bangiomorpha. *Esos problemas requieren células especializadas en movimiento, en detección de luz, en procesamiento de señales. Lo que yo empiezo con dos tipos de células, el sistema nervioso del lector lo completa con cien mil millones de neuronas, cada una especializada, todas coordinadas, todas con el mismo ADN base leído de formas distintas.
+¿Cien mil millones de neuronas salen del Bangiomorpha?
+El principio sale del Bangiomorpha*, dice. *Lo demás es tiempo y presión selectiva.
+Me quedo con esto durante un tiempo largo.
+El mismo texto leído de manera diferente según dónde estás*, anoto. *Yo, que llevo once meses tomando notas, anoto que eso me resulta familiar. Que el mismo universo, leído desde distintos puntos del espacio y del tiempo, produce textos distintos. Que quizás toda la complejidad de la vida es el ADN aprendiendo a leer sus propias instrucciones de formas cada vez más elaboradas. Y que quizás*, añado en el margen, con la letra pequeña de las hipótesis que no están confirmadas, *el testigo que busco es la forma más elaborada que ese proceso ha producido hasta ahora de leer sus propias instrucciones y preguntarse qué significan.
+— — —
+
+*los estromatolitos que empiezan a perder*
+En los mismos días en que el Bangiomorpha diferencia sus células en el Ártico, los estromatolitos —que llevan más de tres mil millones de años construyendo sus ciudades en el fondo de los mares— empiezan a tener problemas.
+Alguien está comiendo sus tapetes.
+Los primeros eucariotas capaces de pastar sobre los tapetes microbianos. Los primeros herbívoros de la historia de la vida.
+¿Y los estromatolitos no se defienden?, le pregunto a los tapetes que llevan tres mil millones de años dominando los océanos sin que nadie los molestara.
+No tenemos mecanismo para defendernos*, dicen los estromatolitos. *Hemos estado solos durante más de tres mil millones de años. Nunca nos hizo falta.
+Lo anoto con algo que no sé si llamar melancolía o simplemente el reconocimiento honesto de lo que ocurre cuando algo que funcionó durante tres mil millones de años encuentra un problema que no estaba en su diseño original.
+Los estromatolitos seguirán existiendo —existen aún hoy, en Shark Bay, Australia— pero nunca volverán a dominar los mares como dominaron en septiembre y octubre y noviembre. El fin de la era bacteriana visible. El comienzo de la era de los que comen a los que fabrican.
 
 *13–14 de diciembre — interrogatorio a la Tierra Bola de Nieve*
 *el sospechoso que congelaba todo para no dar explicaciones*

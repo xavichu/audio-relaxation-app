@@ -1,5 +1,6 @@
 import { stripe } from '../../../lib/stripe'
 import { createClient } from '../../../lib/supabase-server'
+import { rateLimit } from '../../../lib/rate-limit'
 import { NextResponse } from 'next/server'
 
 export const dynamic = 'force-dynamic'
@@ -13,6 +14,15 @@ export async function POST() {
 
     if (!user) {
       return NextResponse.json({ error: 'Unauthorized' }, { status: 401 })
+    }
+
+    // 5 portal opens per user per 5 minutes
+    const rl = rateLimit(`portal:${user.id}`, 5, 5 * 60 * 1000)
+    if (!rl.allowed) {
+      return NextResponse.json(
+        { error: 'Too many requests. Please try again later.' },
+        { status: 429, headers: { 'Retry-After': String(Math.ceil((rl.resetAt - Date.now()) / 1000)) } },
+      )
     }
 
     const { data: profile } = await supabase

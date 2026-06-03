@@ -3,7 +3,7 @@
 import { useState } from 'react'
 import Link from 'next/link'
 import { useRouter } from 'next/navigation'
-import { Moon, ArrowLeft, CreditCard, Zap, LogOut, Shield } from 'lucide-react'
+import { Moon, ArrowLeft, CreditCard, Zap, LogOut, Shield, Trash2, X } from 'lucide-react'
 import { useAuth } from '../../components/AuthProvider'
 import { createClient } from '../../lib/supabase-client'
 
@@ -12,6 +12,10 @@ export default function AccountPage() {
   const router = useRouter()
   const [portalLoading, setPortalLoading] = useState(false)
   const [portalError, setPortalError] = useState('')
+  const [showDeleteModal, setShowDeleteModal] = useState(false)
+  const [deleteConfirm, setDeleteConfirm] = useState('')
+  const [deleteLoading, setDeleteLoading] = useState(false)
+  const [deleteError, setDeleteError] = useState('')
 
   const handleManageBilling = async () => {
     setPortalLoading(true)
@@ -36,6 +40,27 @@ export default function AccountPage() {
     await supabase.auth.signOut()
     router.push('/')
     router.refresh()
+  }
+
+  const handleDeleteAccount = async () => {
+    setDeleteLoading(true)
+    setDeleteError('')
+    try {
+      const res = await fetch('/api/account/delete', { method: 'DELETE' })
+      const data = (await res.json()) as { deleted?: boolean; error?: string }
+      if (!data.deleted) {
+        setDeleteError(data.error ?? 'Failed to delete account. Please try again.')
+        setDeleteLoading(false)
+        return
+      }
+      // Sign out locally and send to home page
+      const supabase = createClient()
+      await supabase.auth.signOut()
+      router.push('/?deleted=true')
+    } catch {
+      setDeleteError('Failed to delete account. Please try again.')
+      setDeleteLoading(false)
+    }
   }
 
   if (loading) {
@@ -151,7 +176,7 @@ export default function AccountPage() {
         </div>
 
         {/* Sign out */}
-        <div className="glass p-6">
+        <div className="glass p-6 mb-4">
           <h2 className="text-xs font-semibold text-white/50 uppercase tracking-widest mb-4">
             Session
           </h2>
@@ -163,7 +188,81 @@ export default function AccountPage() {
             Sign out of Serenity
           </button>
         </div>
+
+        {/* Delete account */}
+        <div className="glass p-6 border border-red-500/10">
+          <h2 className="text-xs font-semibold text-white/50 uppercase tracking-widest mb-4">
+            Danger Zone
+          </h2>
+          <p className="text-sm text-white/40 mb-4 leading-relaxed">
+            Permanently delete your account and all associated data. This cannot be undone.
+          </p>
+          <button
+            onClick={() => { setShowDeleteModal(true); setDeleteConfirm(''); setDeleteError('') }}
+            className="flex items-center gap-2.5 text-sm text-red-400/55 hover:text-red-300 transition-colors"
+          >
+            <Trash2 size={15} />
+            Delete my account
+          </button>
+        </div>
       </div>
+
+      {/* Delete confirmation modal */}
+      {showDeleteModal && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/70 backdrop-blur-sm">
+          <div className="glass w-full max-w-md p-6 rounded-2xl relative">
+            <button
+              onClick={() => setShowDeleteModal(false)}
+              className="absolute top-4 right-4 text-white/30 hover:text-white/60 transition-colors"
+            >
+              <X size={16} />
+            </button>
+
+            <div className="flex items-center gap-3 mb-4">
+              <div className="w-9 h-9 rounded-full bg-red-500/15 flex items-center justify-center shrink-0">
+                <Trash2 size={16} className="text-red-400" />
+              </div>
+              <h2 className="text-base font-bold text-white">Delete account</h2>
+            </div>
+
+            <p className="text-sm text-white/55 mb-1 leading-relaxed">
+              This will immediately and permanently delete your account and cancel any active
+              subscription. There is no undo.
+            </p>
+            <p className="text-sm text-white/55 mb-5 leading-relaxed">
+              Type <span className="font-mono text-red-300 font-semibold">DELETE</span> to confirm.
+            </p>
+
+            <input
+              type="text"
+              value={deleteConfirm}
+              onChange={(e) => setDeleteConfirm(e.target.value)}
+              placeholder="DELETE"
+              className="w-full px-4 py-2.5 rounded-xl bg-white/5 border border-white/10 text-white placeholder-white/20 text-sm outline-none focus:border-red-400/40 mb-4"
+            />
+
+            {deleteError && (
+              <p className="text-red-300 text-xs mb-3">{deleteError}</p>
+            )}
+
+            <div className="flex gap-3">
+              <button
+                onClick={() => setShowDeleteModal(false)}
+                className="flex-1 px-4 py-2.5 rounded-xl glass-sm text-sm text-white/60 hover:text-white hover:bg-white/10 transition-all"
+              >
+                Cancel
+              </button>
+              <button
+                onClick={handleDeleteAccount}
+                disabled={deleteConfirm !== 'DELETE' || deleteLoading}
+                className="flex-1 px-4 py-2.5 rounded-xl bg-red-600 hover:bg-red-500 text-white text-sm font-semibold transition-all disabled:opacity-40 disabled:cursor-not-allowed"
+              >
+                {deleteLoading ? 'Deleting…' : 'Delete account'}
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
     </div>
   )
 }

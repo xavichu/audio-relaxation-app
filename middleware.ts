@@ -28,11 +28,17 @@ export async function middleware(request: NextRequest) {
     data: { user },
   } = await supabase.auth.getUser()
 
-  if (!user && request.nextUrl.pathname.startsWith('/app')) {
-    return NextResponse.redirect(new URL('/login?next=/app', request.url))
+  const protectedPaths = ['/app', '/account']
+  const isProtected = protectedPaths.some(p => request.nextUrl.pathname.startsWith(p))
+
+  if (!user && isProtected) {
+    const next = request.nextUrl.pathname
+    return NextResponse.redirect(new URL(`/login?next=${encodeURIComponent(next)}`, request.url))
   }
 
   return supabaseResponse
 }
 
-export const config = { matcher: ['/app/:path*'] }
+export const config = {
+  matcher: ['/app/:path*', '/account/:path*'],
+}

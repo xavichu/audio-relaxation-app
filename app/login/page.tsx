@@ -1,13 +1,16 @@
 'use client'
 
-import { useState } from 'react'
+import { Suspense, useState } from 'react'
 import Link from 'next/link'
-import { useRouter } from 'next/navigation'
+import { useRouter, useSearchParams } from 'next/navigation'
 import { Moon } from 'lucide-react'
 import { createClient } from '../../lib/supabase-client'
 
-export default function LoginPage() {
+function LoginForm() {
   const router = useRouter()
+  const searchParams = useSearchParams()
+  const nextPath = searchParams.get('next') ?? '/app'
+
   const [email, setEmail] = useState('')
   const [password, setPassword] = useState('')
   const [error, setError] = useState('')
@@ -20,17 +23,14 @@ export default function LoginPage() {
 
     try {
       const supabase = createClient()
-      const { error: signInError } = await supabase.auth.signInWithPassword({
-        email,
-        password,
-      })
+      const { error: signInError } = await supabase.auth.signInWithPassword({ email, password })
 
       if (signInError) {
         setError(signInError.message)
         return
       }
 
-      router.push('/app')
+      router.push(nextPath)
       router.refresh()
     } catch {
       setError('An unexpected error occurred. Please try again.')
@@ -39,6 +39,75 @@ export default function LoginPage() {
     }
   }
 
+  return (
+    <div className="glass p-8">
+      <form onSubmit={handleSubmit} className="space-y-5">
+        <div>
+          <label htmlFor="email" className="block text-sm text-white/70 mb-1.5">
+            Email address
+          </label>
+          <input
+            id="email"
+            type="email"
+            value={email}
+            onChange={(e) => setEmail(e.target.value)}
+            required
+            autoComplete="email"
+            className="w-full px-4 py-3 rounded-xl bg-white/5 border border-white/10 text-white placeholder-white/25 focus:outline-none focus:border-violet-400/60 focus:bg-white/8 transition-all"
+            placeholder="you@example.com"
+          />
+        </div>
+
+        <div>
+          <div className="flex items-center justify-between mb-1.5">
+            <label htmlFor="password" className="block text-sm text-white/70">
+              Password
+            </label>
+            <Link
+              href="/forgot-password"
+              className="text-xs text-violet-400/70 hover:text-violet-300 transition-colors"
+            >
+              Forgot password?
+            </Link>
+          </div>
+          <input
+            id="password"
+            type="password"
+            value={password}
+            onChange={(e) => setPassword(e.target.value)}
+            required
+            autoComplete="current-password"
+            className="w-full px-4 py-3 rounded-xl bg-white/5 border border-white/10 text-white placeholder-white/25 focus:outline-none focus:border-violet-400/60 focus:bg-white/8 transition-all"
+            placeholder="••••••••"
+          />
+        </div>
+
+        {error && (
+          <div className="px-4 py-3 rounded-xl bg-red-500/10 border border-red-500/20 text-red-300 text-sm">
+            {error}
+          </div>
+        )}
+
+        <button
+          type="submit"
+          disabled={loading}
+          className="w-full py-3 rounded-xl bg-violet-600 hover:bg-violet-500 text-white font-semibold transition-all disabled:opacity-50 disabled:cursor-not-allowed"
+        >
+          {loading ? 'Signing in…' : 'Sign in'}
+        </button>
+      </form>
+
+      <p className="text-center text-white/40 text-sm mt-6">
+        Don&apos;t have an account?{' '}
+        <Link href="/signup" className="text-violet-400 hover:text-violet-300 transition-colors">
+          Sign up free
+        </Link>
+      </p>
+    </div>
+  )
+}
+
+export default function LoginPage() {
   return (
     <div className="min-h-screen flex items-center justify-center px-4">
       <div className="w-full max-w-md">
@@ -53,60 +122,9 @@ export default function LoginPage() {
           <p className="text-white/50">Sign in to your account to continue</p>
         </div>
 
-        <div className="glass p-8">
-          <form onSubmit={handleSubmit} className="space-y-5">
-            <div>
-              <label htmlFor="email" className="block text-sm text-white/70 mb-1.5">
-                Email address
-              </label>
-              <input
-                id="email"
-                type="email"
-                value={email}
-                onChange={(e) => setEmail(e.target.value)}
-                required
-                className="w-full px-4 py-3 rounded-xl bg-white/5 border border-white/10 text-white placeholder-white/25 focus:outline-none focus:border-violet-400/60 focus:bg-white/8 transition-all"
-                placeholder="you@example.com"
-              />
-            </div>
-
-            <div>
-              <label htmlFor="password" className="block text-sm text-white/70 mb-1.5">
-                Password
-              </label>
-              <input
-                id="password"
-                type="password"
-                value={password}
-                onChange={(e) => setPassword(e.target.value)}
-                required
-                className="w-full px-4 py-3 rounded-xl bg-white/5 border border-white/10 text-white placeholder-white/25 focus:outline-none focus:border-violet-400/60 focus:bg-white/8 transition-all"
-                placeholder="••••••••"
-              />
-            </div>
-
-            {error && (
-              <div className="px-4 py-3 rounded-xl bg-red-500/10 border border-red-500/20 text-red-300 text-sm">
-                {error}
-              </div>
-            )}
-
-            <button
-              type="submit"
-              disabled={loading}
-              className="w-full py-3 rounded-xl bg-violet-600 hover:bg-violet-500 text-white font-semibold transition-all disabled:opacity-50 disabled:cursor-not-allowed"
-            >
-              {loading ? 'Signing in...' : 'Sign in'}
-            </button>
-          </form>
-
-          <p className="text-center text-white/40 text-sm mt-6">
-            Don&apos;t have an account?{' '}
-            <Link href="/signup" className="text-violet-400 hover:text-violet-300 transition-colors">
-              Sign up free
-            </Link>
-          </p>
-        </div>
+        <Suspense fallback={<div className="glass p-8 h-64 animate-pulse" />}>
+          <LoginForm />
+        </Suspense>
       </div>
     </div>
   )

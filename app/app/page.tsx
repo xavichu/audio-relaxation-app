@@ -1,6 +1,8 @@
 'use client'
 
-import { useState, useCallback, useEffect } from 'react'
+import { Suspense, useState, useCallback, useEffect, useRef } from 'react'
+import { useSearchParams, useRouter } from 'next/navigation'
+import { CheckCircle } from 'lucide-react'
 import { useAuth } from '../../components/AuthProvider'
 import AppHeader from '../../components/app/AppHeader'
 import SoundGrid from '../../components/app/SoundGrid'
@@ -18,12 +20,41 @@ interface ActiveSoundDetail extends ActiveSound {
   sound: Sound
 }
 
+// Isolated to satisfy Next.js Suspense requirement for useSearchParams
+function UpgradedBanner({ onShow }: { onShow: () => void }) {
+  const searchParams = useSearchParams()
+  const router = useRouter()
+  const didRun = useRef(false)
+
+  useEffect(() => {
+    if (didRun.current) return
+    if (searchParams.get('upgraded') === 'true') {
+      didRun.current = true
+      onShow()
+      router.replace('/app', { scroll: false })
+    }
+  }, [searchParams, router, onShow])
+
+  return null
+}
+
 export default function AppPage() {
   const { user, isPro, loading } = useAuth()
   const [activeSounds, setActiveSounds] = useState<ActiveSound[]>([])
   const [masterVolume, setMasterVolume] = useState(0.85)
   const [showBreathing, setShowBreathing] = useState(false)
   const [showUpgradeModal, setShowUpgradeModal] = useState(false)
+  const [showUpgradedBanner, setShowUpgradedBanner] = useState(false)
+  const bannerTimer = useRef<number | null>(null)
+
+  const handleBannerShow = useCallback(() => {
+    setShowUpgradedBanner(true)
+    bannerTimer.current = window.setTimeout(() => setShowUpgradedBanner(false), 5000)
+  }, [])
+
+  useEffect(() => {
+    return () => { if (bannerTimer.current) clearTimeout(bannerTimer.current) }
+  }, [])
 
   const toggleSound = useCallback(
     async (soundId: string) => {
@@ -77,7 +108,7 @@ export default function AppPage() {
       <div className="min-h-screen flex items-center justify-center">
         <div className="text-center">
           <div className="w-12 h-12 rounded-full border-2 border-violet-500 border-t-transparent animate-spin mx-auto mb-4" />
-          <p className="text-white/40 text-sm">Loading...</p>
+          <p className="text-white/40 text-sm">Loading…</p>
         </div>
       </div>
     )
@@ -85,6 +116,17 @@ export default function AppPage() {
 
   return (
     <div className="min-h-screen pb-24">
+      <Suspense>
+        <UpgradedBanner onShow={handleBannerShow} />
+      </Suspense>
+
+      {showUpgradedBanner && (
+        <div className="fixed top-4 left-1/2 -translate-x-1/2 z-50 flex items-center gap-3 px-5 py-3 rounded-2xl bg-green-500/20 border border-green-400/30 backdrop-blur-md text-green-300 text-sm font-medium shadow-lg" style={{ animation: 'fadeInAnim 0.3s ease-out' }}>
+          <CheckCircle size={16} />
+          Welcome to Pro! All features are now unlocked.
+        </div>
+      )}
+
       <AppHeader
         masterVolume={masterVolume}
         onMasterVolumeChange={handleMasterVolume}

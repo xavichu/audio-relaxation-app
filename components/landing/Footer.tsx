@@ -2,6 +2,8 @@ import Link from 'next/link'
 import { Moon } from 'lucide-react'
 
 export default function Footer() {
+  const year = new Date().getFullYear()
+
   return (
     <footer className="section-dark border-t border-white/5 py-10 px-4">
       <div className="max-w-6xl mx-auto">
@@ -14,19 +16,28 @@ export default function Footer() {
           </Link>
 
           <div className="flex items-center gap-6">
-            <a href="#" className="text-xs text-white/35 hover:text-white/55 transition-colors">
+            <Link
+              href="/privacy"
+              className="text-xs text-white/35 hover:text-white/55 transition-colors"
+            >
               Privacy Policy
-            </a>
-            <a href="#" className="text-xs text-white/35 hover:text-white/55 transition-colors">
+            </Link>
+            <Link
+              href="/terms"
+              className="text-xs text-white/35 hover:text-white/55 transition-colors"
+            >
               Terms of Service
-            </a>
-            <a href="mailto:hello@serenity.app" className="text-xs text-white/35 hover:text-white/55 transition-colors">
+            </Link>
+            <a
+              href="mailto:hello@serenity.app"
+              className="text-xs text-white/35 hover:text-white/55 transition-colors"
+            >
               Contact
             </a>
           </div>
 
           <p className="text-xs text-white/25">
-            &copy; 2024 Serenity. All rights reserved.
+            &copy; {year} Serenity. All rights reserved.
           </p>
         </div>
       </div>

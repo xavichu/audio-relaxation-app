@@ -2,8 +2,11 @@
 
 import Link from 'next/link'
 import { Moon } from 'lucide-react'
+import { useAuth } from './AuthProvider'
 
 export default function Navbar() {
+  const { user, loading } = useAuth()
+
   return (
     <nav className="sticky top-0 z-50 glass rounded-none border-l-0 border-r-0 border-t-0 px-5 py-3.5">
       <div className="max-w-6xl mx-auto flex items-center justify-between">
@@ -23,20 +26,41 @@ export default function Navbar() {
           </a>
         </div>
 
-        <div className="flex items-center gap-3">
-          <Link
-            href="/login"
-            className="text-sm text-white/60 hover:text-white/80 transition-colors px-3 py-1.5"
-          >
-            Log in
-          </Link>
-          <Link
-            href="/signup"
-            className="px-4 py-2 rounded-full bg-violet-600 hover:bg-violet-500 text-white text-sm font-medium transition-all"
-          >
-            Start Free
-          </Link>
-        </div>
+        {!loading && (
+          <div className="flex items-center gap-3">
+            {user ? (
+              <>
+                <Link
+                  href="/account"
+                  className="text-sm text-white/60 hover:text-white/80 transition-colors px-3 py-1.5"
+                >
+                  Account
+                </Link>
+                <Link
+                  href="/app"
+                  className="px-4 py-2 rounded-full bg-violet-600 hover:bg-violet-500 text-white text-sm font-medium transition-all"
+                >
+                  Open App
+                </Link>
+              </>
+            ) : (
+              <>
+                <Link
+                  href="/login"
+                  className="text-sm text-white/60 hover:text-white/80 transition-colors px-3 py-1.5"
+                >
+                  Log in
+                </Link>
+                <Link
+                  href="/signup"
+                  className="px-4 py-2 rounded-full bg-violet-600 hover:bg-violet-500 text-white text-sm font-medium transition-all"
+                >
+                  Start Free
+                </Link>
+              </>
+            )}
+          </div>
+        )}
       </div>
     </nav>
   )

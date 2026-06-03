@@ -7,7 +7,7 @@ import { Check } from 'lucide-react'
 const freeFeatures = [
   '3 sounds (Rain, Ocean, White Noise)',
   'Basic sound mixing',
-  'No account needed',
+  'Free account, no credit card',
   'Browser-based, no download',
 ]
 

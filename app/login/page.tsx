@@ -12,10 +12,13 @@ function LoginForm() {
   // Restrict to internal paths to prevent open-redirect attacks
   const rawNext = searchParams.get('next') ?? ''
   const nextPath = rawNext.startsWith('/') && !rawNext.startsWith('//') ? rawNext : '/app'
+  const authError = searchParams.get('error')
 
   const [email, setEmail] = useState('')
   const [password, setPassword] = useState('')
-  const [error, setError] = useState('')
+  const [error, setError] = useState(
+    authError === 'auth_failed' ? 'The sign-in link has expired or is invalid. Please try again.' : '',
+  )
   const [loading, setLoading] = useState(false)
 
   const handleSubmit = async (e: React.FormEvent) => {

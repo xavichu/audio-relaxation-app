@@ -1,7 +1,7 @@
 'use client'
 
 import Link from 'next/link'
-import { Moon, Volume2, Wind, LogOut, Zap } from 'lucide-react'
+import { Moon, Volume2, Wind, LogOut, Zap, Settings } from 'lucide-react'
 import type { User } from '@supabase/supabase-js'
 import { createClient } from '../../lib/supabase-client'
 import { useRouter } from 'next/navigation'
@@ -86,10 +86,15 @@ export default function AppHeader({
           )}
 
           {user && (
-            <div className="flex items-center gap-2">
-              <span className="text-xs text-white/30 hidden md:block max-w-[120px] truncate">
-                {user.email}
-              </span>
+            <div className="flex items-center gap-1">
+              <Link
+                href="/account"
+                title="Account settings"
+                className="flex items-center gap-1.5 px-2 py-1.5 rounded-lg text-white/35 hover:text-white/60 hover:bg-white/5 transition-all"
+              >
+                <Settings size={14} />
+                <span className="text-xs hidden md:block max-w-[110px] truncate">{user.email}</span>
+              </Link>
               <button
                 onClick={handleSignOut}
                 title="Sign out"

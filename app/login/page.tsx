@@ -9,7 +9,9 @@ import { createClient } from '../../lib/supabase-client'
 function LoginForm() {
   const router = useRouter()
   const searchParams = useSearchParams()
-  const nextPath = searchParams.get('next') ?? '/app'
+  // Restrict to internal paths to prevent open-redirect attacks
+  const rawNext = searchParams.get('next') ?? ''
+  const nextPath = rawNext.startsWith('/') && !rawNext.startsWith('//') ? rawNext : '/app'
 
   const [email, setEmail] = useState('')
   const [password, setPassword] = useState('')

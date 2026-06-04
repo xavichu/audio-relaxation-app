@@ -1,6 +1,6 @@
 'use client'
 
-import { useRef, useState } from 'react'
+import { useRef, useState, useEffect } from 'react'
 import { Clock, X, Lock } from 'lucide-react'
 
 interface Props {
@@ -18,6 +18,13 @@ export default function Timer({ onTimerEnd, isPro, onUpgradeNeeded }: Props) {
   const intervalRef = useRef<number | null>(null)
   const onTimerEndRef = useRef(onTimerEnd)
   onTimerEndRef.current = onTimerEnd
+
+  // Clear the interval if the component is unmounted while a timer is running
+  useEffect(() => {
+    return () => {
+      if (intervalRef.current) window.clearInterval(intervalRef.current)
+    }
+  }, [])
 
   const handleOpen = () => {
     if (!isPro) {
